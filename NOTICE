@@ -12,7 +12,7 @@ logic and tests ported from it. The web app is based on Stoat Frontend
 AGPL-3.0. Zrzur is not affiliated with Stoat, stoat.chat or Revolt
 Platforms Ltd.
 
-License: GNU Affero General Public License v3.0 (see LICENSE).
+License: GNU Affero General Public License, version 3 only (AGPL-3.0-only); see LICENSE.
 
 "Zrzur", "زرزور" and the Zrzur logo are trademarks of the Zrzur project
 and are not covered by the source code license.
@@ -20,7 +20,18 @@ and are not covered by the source code license.
 Started from the Expo "default" template (create-expo-app, SDK 58),
 MIT License, © 650 Industries, Inc. (Expo): see LICENSE-expo-template.
 
+Parts that come from Stoat Frontend (AGPL-3.0) through the web app:
+the emoji shortcode table (src/ui/emoji/emojiMapping.json), some
+translation strings in src/i18n/locales, and small pieces of logic for
+server order, server folders and notification levels
+(src/ui/server/syncedLogic.ts, src/ui/server/railReorder.ts,
+src/ui/server/RailDrag.tsx, src/notifications/levels.ts,
+src/ui/settings/overrides.ts, src/app/(app)/bot/[id].tsx).
+
 Bundled assets:
+
+- Hugeicons icon shapes (src/ui/icons.generated.ts), MIT License,
+  © Hugeicons.
 
 - IBM Plex Sans and IBM Plex Sans Arabic (via @expo-google-fonts),
   © IBM Corp., SIL Open Font License 1.1.
