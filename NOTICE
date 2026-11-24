@@ -1,0 +1,29 @@
+Zrzur — phone app (Android and iOS)
+
+Copyright (C) 2026 Zrzur contributors
+
+Written for Zrzur. Not based on the Stoat/Revolt phone app.
+
+Parts are taken from the Zrzur web app (https://github.com/zrzur/web,
+AGPL-3.0): translation catalogs (same message ids), design data such as
+the design pack ids and labels, default avatars and sounds, and some
+logic and tests ported from it. The web app is based on Stoat Frontend
+(formerly Revolt), Copyright (C) 2025 Pawel Makles and contributors,
+AGPL-3.0. Zrzur is not affiliated with Stoat, stoat.chat or Revolt
+Platforms Ltd.
+
+License: GNU Affero General Public License v3.0 (see LICENSE).
+
+"Zrzur", "زرزور" and the Zrzur logo are trademarks of the Zrzur project
+and are not covered by the source code license.
+
+Started from the Expo "default" template (create-expo-app, SDK 58),
+MIT License, © 650 Industries, Inc. (Expo): see LICENSE-expo-template.
+
+Bundled assets:
+
+- IBM Plex Sans and IBM Plex Sans Arabic (via @expo-google-fonts),
+  © IBM Corp., SIL Open Font License 1.1.
+- The Zrzur logo (version B, assets/logo/) is the project's own artwork.
+
+Every npm dependency keeps its own license; `npx license-checker` lists them.

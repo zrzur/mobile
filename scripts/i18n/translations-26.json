@@ -1,0 +1,5 @@
+{
+  "Missed call from <0/>": { "ar": "مكالمة فائتة من <0/>", "de": "Verpasster Anruf von <0/>", "es": "Llamada perdida de <0/>", "fr": "Appel manqué de <0/>", "ru": "Пропущенный звонок от <0/>", "zh-Hans": "来自 <0/> 的未接来电" },
+  "Nobody answered your call": { "ar": "لم يُجب أحد على مكالمتك", "de": "Niemand hat deinen Anruf angenommen", "es": "Nadie respondió a tu llamada", "fr": "Personne n'a répondu à ton appel", "ru": "Никто не ответил на ваш звонок", "zh-Hans": "没有人接听你的通话" },
+  "<0/> started a call that lasted ": { "zh-Hans": "<0/> 发起了一次通话，时长 " }
+}

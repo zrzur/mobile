@@ -1,0 +1,1146 @@
+{
+ "Payment": {
+  "ar": "الدفع",
+  "de": "Zahlung",
+  "es": "Pago",
+  "fr": "Paiement",
+  "ru": "Оплата",
+  "zh-Hans": "支付"
+ },
+ "Payment methods and invoices": {
+  "ar": "طرق الدفع والفواتير",
+  "de": "Zahlungsmethoden und Rechnungen",
+  "es": "Métodos de pago y facturas",
+  "fr": "Moyens de paiement et factures",
+  "ru": "Способы оплаты и счета",
+  "zh-Hans": "支付方式和发票"
+ },
+ "Payments and Feather": {
+  "ar": "المدفوعات والريشة",
+  "de": "Zahlungen und Feather",
+  "es": "Pagos y Feather",
+  "fr": "Paiements et Feather",
+  "ru": "Платежи и Feather",
+  "zh-Hans": "支付与 Feather"
+ },
+ "People": {
+  "ar": "الأشخاص",
+  "de": "Personen",
+  "es": "Personas",
+  "fr": "Personnes",
+  "ru": "Люди",
+  "zh-Hans": "人员"
+ },
+ "Perk": {
+  "ar": "ميزة",
+  "de": "Vorteil",
+  "es": "Ventaja",
+  "fr": "Avantage",
+  "ru": "Бонус",
+  "zh-Hans": "权益"
+ },
+ "Permissions come from the category. Changing one here stops following it.": {
+  "ar": "الأذونات تأتي من الفئة. تغيير أحدها هنا يوقف اتباعه للفئة.",
+  "de": "Die Berechtigungen kommen von der Kategorie. Wenn du hier eine änderst, folgt sie der Kategorie nicht mehr.",
+  "es": "Los permisos vienen de la categoría. Si cambias uno aquí, deja de seguirla.",
+  "fr": "Les permissions viennent de la catégorie. En modifier une ici la détache de la catégorie.",
+  "ru": "Права берутся из категории. Если изменить одно здесь, оно перестанет следовать категории.",
+  "zh-Hans": "权限继承自分类。在此更改某项后,它将不再跟随分类。"
+ },
+ "Personal greeting": {
+  "ar": "تحية شخصية",
+  "de": "Persönliche Begrüßung",
+  "es": "Saludo personal",
+  "fr": "Message d'accueil personnel",
+  "ru": "Личное приветствие",
+  "zh-Hans": "个人问候语"
+ },
+ "Petals": {
+  "ar": "بتلات",
+  "de": "Blütenblätter",
+  "es": "Pétalos",
+  "fr": "Pétales",
+  "ru": "Лепестки",
+  "zh-Hans": "花瓣"
+ },
+ "Pick a colour": {
+  "ar": "اختر لونًا",
+  "de": "Wähle eine Farbe",
+  "es": "Elige un color",
+  "fr": "Choisis une couleur",
+  "ru": "Выбери цвет",
+  "zh-Hans": "选择颜色"
+ },
+ "Pick a font and colour for your display name.": {
+  "ar": "اختر خطًا ولونًا لاسم العرض الخاص بك.",
+  "de": "Wähle eine Schrift und Farbe für deinen Anzeigenamen.",
+  "es": "Elige una fuente y un color para tu nombre visible.",
+  "fr": "Choisis une police et une couleur pour ton nom affiché.",
+  "ru": "Выбери шрифт и цвет для своего отображаемого имени.",
+  "zh-Hans": "为你的显示名称选择字体和颜色。"
+ },
+ "Pick a look, then fine-tune accent, layout and fonts below.": {
+  "ar": "اختر مظهرًا، ثم اضبط اللون المميز والتخطيط والخطوط أدناه.",
+  "de": "Wähle einen Look und passe darunter Akzent, Layout und Schriften an.",
+  "es": "Elige un estilo y ajusta abajo el acento, el diseño y las fuentes.",
+  "fr": "Choisis un style, puis ajuste l'accent, la mise en page et les polices ci-dessous.",
+  "ru": "Выбери стиль, затем настрой акцент, макет и шрифты ниже.",
+  "zh-Hans": "先选择外观,再在下方微调强调色、布局和字体。"
+ },
+ "Pick up to nine. None picked: the busiest channels are shown.": {
+  "ar": "اختر حتى تسع قنوات. إن لم تختر أي قناة، تُعرض القنوات الأكثر نشاطًا.",
+  "de": "Wähle bis zu neun. Ohne Auswahl werden die aktivsten Kanäle angezeigt.",
+  "es": "Elige hasta nueve. Si no eliges ninguno, se muestran los canales más activos.",
+  "fr": "Choisis-en jusqu'à neuf. Sans choix, les salons les plus actifs sont affichés.",
+  "ru": "Выбери до девяти. Если ничего не выбрано, показываются самые активные каналы.",
+  "zh-Hans": "最多选择九个。未选择时,将显示最活跃的频道。"
+ },
+ "Pinned at the top of the channel list, with a \"Read the rules\" button in the Lobby.": {
+  "ar": "مثبتة أعلى قائمة القنوات، مع زر «اقرأ القواعد» في اللوبي.",
+  "de": "Oben in der Kanalliste angeheftet, mit einer Schaltfläche „Regeln lesen“ in der Lobby.",
+  "es": "Fijado en la parte superior de la lista de canales, con un botón «Leer las reglas» en el vestíbulo.",
+  "fr": "Épinglé en haut de la liste des salons, avec un bouton « Lire les règles » dans le hall.",
+  "ru": "Закреплён вверху списка каналов, с кнопкой «Прочитать правила» в лобби.",
+  "zh-Hans": "固定在频道列表顶部,并在大厅中显示“阅读规则”按钮。"
+ },
+ "Pisces": {
+  "ar": "الحوت",
+  "de": "Fische",
+  "es": "Piscis",
+  "fr": "Poissons",
+  "ru": "Рыбы",
+  "zh-Hans": "双鱼座"
+ },
+ "Pixel": {
+  "ar": "بكسل",
+  "de": "Pixel",
+  "es": "Píxel",
+  "fr": "Pixel",
+  "ru": "Пиксель",
+  "zh-Hans": "像素"
+ },
+ "Plays once when someone opens your profile, for up to 4 seconds.": {
+  "ar": "تُعرض مرة واحدة عندما يفتح أحد ملفك الشخصي، لمدة تصل إلى 4 ثوانٍ.",
+  "de": "Wird einmal abgespielt, wenn jemand dein Profil öffnet, bis zu 4 Sekunden lang.",
+  "es": "Se reproduce una vez cuando alguien abre tu perfil, hasta 4 segundos.",
+  "fr": "Se joue une fois quand quelqu'un ouvre ton profil, jusqu'à 4 secondes.",
+  "ru": "Воспроизводится один раз, когда кто-то открывает твой профиль, до 4 секунд.",
+  "zh-Hans": "有人打开你的个人资料时播放一次,最长 4 秒。"
+ },
+ "Press again to remove": {
+  "ar": "اضغط مرة أخرى للإزالة",
+  "de": "Zum Entfernen erneut tippen",
+  "es": "Pulsa de nuevo para quitar",
+  "fr": "Appuie à nouveau pour retirer",
+  "ru": "Нажми ещё раз, чтобы убрать",
+  "zh-Hans": "再次点按以移除"
+ },
+ "Privacy violation": {
+  "ar": "انتهاك الخصوصية",
+  "de": "Verletzung der Privatsphäre",
+  "es": "Violación de la privacidad",
+  "fr": "Atteinte à la vie privée",
+  "ru": "Нарушение конфиденциальности",
+  "zh-Hans": "侵犯隐私"
+ },
+ "Profile banner": {
+  "ar": "لافتة الملف الشخصي",
+  "de": "Profilbanner",
+  "es": "Banner del perfil",
+  "fr": "Bannière de profil",
+  "ru": "Баннер профиля",
+  "zh-Hans": "个人资料横幅"
+ },
+ "Profile effect": {
+  "ar": "تأثير الملف الشخصي",
+  "de": "Profileffekt",
+  "es": "Efecto del perfil",
+  "fr": "Effet de profil",
+  "ru": "Эффект профиля",
+  "zh-Hans": "个人资料特效"
+ },
+ "Profile preview": {
+  "ar": "معاينة الملف الشخصي",
+  "de": "Profilvorschau",
+  "es": "Vista previa del perfil",
+  "fr": "Aperçu du profil",
+  "ru": "Предпросмотр профиля",
+  "zh-Hans": "个人资料预览"
+ },
+ "Profile sections": {
+  "ar": "أقسام الملف الشخصي",
+  "de": "Profilbereiche",
+  "es": "Secciones del perfil",
+  "fr": "Sections du profil",
+  "ru": "Разделы профиля",
+  "zh-Hans": "个人资料板块"
+ },
+ "Profile theme": {
+  "ar": "سمة الملف الشخصي",
+  "de": "Profildesign",
+  "es": "Tema del perfil",
+  "fr": "Thème du profil",
+  "ru": "Тема профиля",
+  "zh-Hans": "个人资料主题"
+ },
+ "Programs": {
+  "ar": "البرامج",
+  "de": "Programme",
+  "es": "Programas",
+  "fr": "Programmes",
+  "ru": "Программы",
+  "zh-Hans": "计划"
+ },
+ "Progress": {
+  "ar": "التقدم",
+  "de": "Fortschritt",
+  "es": "Progreso",
+  "fr": "Progression",
+  "ru": "Прогресс",
+  "zh-Hans": "进度"
+ },
+ "Publish a design to get the Creator badge.": {
+  "ar": "انشر تصميمًا لتحصل على شارة المصمم.",
+  "de": "Veröffentliche ein Design, um das Designer-Abzeichen zu erhalten.",
+  "es": "Publica un diseño para obtener la insignia de Creador.",
+  "fr": "Publie un design pour obtenir le badge Créateur.",
+  "ru": "Опубликуй дизайн, чтобы получить значок «Создатель».",
+  "zh-Hans": "发布一个设计即可获得创作者徽章。"
+ },
+ "Publish designs as a Creator; the Zrzur team picks Super Creators by hand.": {
+  "ar": "انشر التصاميم بصفتك مصممًا؛ ويختار فريق زرزور المصممين المتميزين يدويًا.",
+  "de": "Veröffentliche Designs als Designer; das Zrzur-Team wählt Super-Designer von Hand aus.",
+  "es": "Publica diseños como Creador; el equipo de Zrzur elige a mano a los Súper creadores.",
+  "fr": "Publie des designs en tant que Créateur ; l'équipe Zrzur choisit les Super créateurs à la main.",
+  "ru": "Публикуй дизайны как Создатель; команда Zrzur вручную выбирает Супер-создателей.",
+  "zh-Hans": "以创作者身份发布设计;Zrzur 团队会人工挑选超级创作者。"
+ },
+ "Purchases aren't open yet. You can look around, but nothing can be bought or charged right now.": {
+  "ar": "المشتريات غير متاحة بعد. يمكنك التصفح، لكن لا يمكن شراء أي شيء أو خصم أي مبلغ الآن.",
+  "de": "Käufe sind noch nicht geöffnet. Du kannst dich umsehen, aber es kann gerade nichts gekauft oder abgebucht werden.",
+  "es": "Las compras aún no están abiertas. Puedes echar un vistazo, pero ahora no se puede comprar ni cobrar nada.",
+  "fr": "Les achats ne sont pas encore ouverts. Tu peux regarder, mais rien ne peut être acheté ni facturé pour le moment.",
+  "ru": "Покупки пока недоступны. Можешь осмотреться, но сейчас ничего нельзя купить или списать.",
+  "zh-Hans": "购买尚未开放。你可以随便看看,但目前无法购买,也不会扣费。"
+ },
+ "Pure black and white with a bright accent, larger text, clear focus rings and underlined links, for low vision and bright screens.": {
+  "ar": "أبيض وأسود نقيان مع لون مميز ساطع ونص أكبر وحلقات تركيز واضحة وروابط بخط سفلي، لضعف البصر والشاشات الساطعة.",
+  "de": "Reines Schwarz und Weiß mit leuchtendem Akzent, größerem Text, klaren Fokusrahmen und unterstrichenen Links, für Sehschwäche und helle Bildschirme.",
+  "es": "Blanco y negro puros con un acento brillante, texto más grande, anillos de enfoque claros y enlaces subrayados, para baja visión y pantallas brillantes.",
+  "fr": "Noir et blanc purs avec un accent vif, texte plus grand, cercles de focus nets et liens soulignés, pour la basse vision et les écrans lumineux.",
+  "ru": "Чисто чёрный и белый с ярким акцентом, крупный текст, чёткие рамки фокуса и подчёркнутые ссылки, для слабого зрения и яркого света.",
+  "zh-Hans": "纯黑白配明亮强调色,文字更大,焦点环清晰,链接带下划线,适合低视力和强光屏幕。"
+ },
+ "Question": {
+  "ar": "سؤال",
+  "de": "Frage",
+  "es": "Pregunta",
+  "fr": "Question",
+  "ru": "Вопрос",
+  "zh-Hans": "问题"
+ },
+ "Questions": {
+  "ar": "الأسئلة",
+  "de": "Fragen",
+  "es": "Preguntas",
+  "fr": "Questions",
+  "ru": "Вопросы",
+  "zh-Hans": "问题"
+ },
+ "Questions and answers": {
+  "ar": "الأسئلة والأجوبة",
+  "de": "Fragen und Antworten",
+  "es": "Preguntas y respuestas",
+  "fr": "Questions et réponses",
+  "ru": "Вопросы и ответы",
+  "zh-Hans": "问答"
+ },
+ "Rain": {
+  "ar": "مطر",
+  "de": "Regen",
+  "es": "Lluvia",
+  "fr": "Pluie",
+  "ru": "Дождь",
+  "zh-Hans": "雨"
+ },
+ "Rain on glass": {
+  "ar": "مطر على الزجاج",
+  "de": "Regen auf Glas",
+  "es": "Lluvia sobre cristal",
+  "fr": "Pluie sur la vitre",
+  "ru": "Дождь на стекле",
+  "zh-Hans": "玻璃上的雨"
+ },
+ "Rare": {
+  "ar": "نادر",
+  "de": "Selten",
+  "es": "Raro",
+  "fr": "Rare",
+  "ru": "Редкий",
+  "zh-Hans": "稀有"
+ },
+ "Raspberry": {
+  "ar": "توت العليق",
+  "de": "Himbeere",
+  "es": "Frambuesa",
+  "fr": "Framboise",
+  "ru": "Малина",
+  "zh-Hans": "覆盆子"
+ },
+ "Ready": {
+  "ar": "جاهز",
+  "de": "Bereit",
+  "es": "Listo",
+  "fr": "Prêt",
+  "ru": "Готово",
+  "zh-Hans": "就绪"
+ },
+ "Received": {
+  "ar": "مستلمة",
+  "de": "Erhalten",
+  "es": "Recibido",
+  "fr": "Reçu",
+  "ru": "Получено",
+  "zh-Hans": "已收到"
+ },
+ "Recovery codes": {
+  "ar": "رموز الاسترداد",
+  "de": "Wiederherstellungscodes",
+  "es": "Códigos de recuperación",
+  "fr": "Codes de récupération",
+  "ru": "Коды восстановления",
+  "zh-Hans": "恢复代码"
+ },
+ "Reduce": {
+  "ar": "تقليل",
+  "de": "Reduzieren",
+  "es": "Reducir",
+  "fr": "Réduire",
+  "ru": "Уменьшить",
+  "zh-Hans": "减少"
+ },
+ "Reduce motion": {
+  "ar": "تقليل الحركة",
+  "de": "Bewegung reduzieren",
+  "es": "Reducir movimiento",
+  "fr": "Réduire les animations",
+  "ru": "Уменьшить анимацию",
+  "zh-Hans": "减少动态效果"
+ },
+ "Remove answer": {
+  "ar": "إزالة الإجابة",
+  "de": "Antwort entfernen",
+  "es": "Quitar respuesta",
+  "fr": "Retirer la réponse",
+  "ru": "Убрать ответ",
+  "zh-Hans": "移除回答"
+ },
+ "Remove avatar": {
+  "ar": "إزالة الصورة الرمزية",
+  "de": "Avatar entfernen",
+  "es": "Quitar avatar",
+  "fr": "Retirer l'avatar",
+  "ru": "Убрать аватар",
+  "zh-Hans": "移除头像"
+ },
+ "Remove banner": {
+  "ar": "إزالة اللافتة",
+  "de": "Banner entfernen",
+  "es": "Quitar banner",
+  "fr": "Retirer la bannière",
+  "ru": "Убрать баннер",
+  "zh-Hans": "移除横幅"
+ },
+ "Remove button": {
+  "ar": "إزالة الزر",
+  "de": "Schaltfläche entfernen",
+  "es": "Quitar botón",
+  "fr": "Retirer le bouton",
+  "ru": "Убрать кнопку",
+  "zh-Hans": "移除按钮"
+ },
+ "Remove channel icon": {
+  "ar": "إزالة أيقونة القناة",
+  "de": "Kanalsymbol entfernen",
+  "es": "Quitar icono del canal",
+  "fr": "Retirer l'icône du salon",
+  "ru": "Убрать значок канала",
+  "zh-Hans": "移除频道图标"
+ },
+ "Remove from Discover": {
+  "ar": "إزالة من «اكتشف»",
+  "de": "Aus Entdecken entfernen",
+  "es": "Quitar de Descubrir",
+  "fr": "Retirer de Découvrir",
+  "ru": "Убрать из «Обзора»",
+  "zh-Hans": "从“发现”中移除"
+ },
+ "Remove question": {
+  "ar": "إزالة السؤال",
+  "de": "Frage entfernen",
+  "es": "Quitar pregunta",
+  "fr": "Retirer la question",
+  "ru": "Убрать вопрос",
+  "zh-Hans": "移除问题"
+ },
+ "Remove tag {tag}": {
+  "ar": "إزالة الوسم {tag}",
+  "de": "Tag {tag} entfernen",
+  "es": "Quitar la etiqueta {tag}",
+  "fr": "Retirer le tag {tag}",
+  "ru": "Убрать тег {tag}",
+  "zh-Hans": "移除标签 {tag}"
+ },
+ "Remove: {0}": {
+  "ar": "إزالة: {0}",
+  "de": "Entfernen: {0}",
+  "es": "Quitar: {0}",
+  "fr": "Retirer : {0}",
+  "ru": "Убрать: {0}",
+  "zh-Hans": "移除:{0}"
+ },
+ "Removed": {
+  "ar": "تمت الإزالة",
+  "de": "Entfernt",
+  "es": "Quitado",
+  "fr": "Retiré",
+  "ru": "Убрано",
+  "zh-Hans": "已移除"
+ },
+ "Removed from Discover": {
+  "ar": "أُزيل من «اكتشف»",
+  "de": "Aus Entdecken entfernt",
+  "es": "Quitado de Descubrir",
+  "fr": "Retiré de Découvrir",
+  "ru": "Убрано из «Обзора»",
+  "zh-Hans": "已从“发现”中移除"
+ },
+ "Rename session": {
+  "ar": "إعادة تسمية الجلسة",
+  "de": "Sitzung umbenennen",
+  "es": "Renombrar sesión",
+  "fr": "Renommer la session",
+  "ru": "Переименовать сессию",
+  "zh-Hans": "重命名会话"
+ },
+ "Reopen": {
+  "ar": "إعادة فتح",
+  "de": "Wieder öffnen",
+  "es": "Reabrir",
+  "fr": "Rouvrir",
+  "ru": "Открыть снова",
+  "zh-Hans": "重新打开"
+ },
+ "Replaces your current codes": {
+  "ar": "يستبدل رموزك الحالية",
+  "de": "Ersetzt deine aktuellen Codes",
+  "es": "Reemplaza tus códigos actuales",
+  "fr": "Remplace tes codes actuels",
+  "ru": "Заменяет твои текущие коды",
+  "zh-Hans": "将替换你当前的代码"
+ },
+ "Report a bug": {
+  "ar": "الإبلاغ عن خطأ",
+  "de": "Fehler melden",
+  "es": "Informar de un error",
+  "fr": "Signaler un bug",
+  "ru": "Сообщить об ошибке",
+  "zh-Hans": "报告错误"
+ },
+ "Report a bug in Feedback. You get it when a reviewer confirms your report, not for sending it.": {
+  "ar": "أبلغ عن خطأ في الملاحظات. تحصل عليها عندما يؤكد مراجع بلاغك، وليس بمجرد إرساله.",
+  "de": "Melde einen Fehler im Feedback. Du bekommst es, wenn ein Prüfer deine Meldung bestätigt, nicht fürs Absenden.",
+  "es": "Informa de un error en Comentarios. Lo obtienes cuando un revisor confirma tu informe, no por enviarlo.",
+  "fr": "Signale un bug dans Commentaires. Tu l'obtiens quand un relecteur confirme ton signalement, pas pour l'avoir envoyé.",
+  "ru": "Сообщи об ошибке в разделе «Отзывы». Награда выдаётся, когда проверяющий подтвердит отчёт, а не за отправку.",
+  "zh-Hans": "在“反馈”中报告错误。审核员确认你的报告后才会获得,仅提交不算。"
+ },
+ "Reported a security issue responsibly.": {
+  "ar": "أبلغ عن مشكلة أمنية بمسؤولية.",
+  "de": "Hat ein Sicherheitsproblem verantwortungsvoll gemeldet.",
+  "es": "Informó de un problema de seguridad de forma responsable.",
+  "fr": "A signalé un problème de sécurité de façon responsable.",
+  "ru": "Ответственно сообщил о проблеме безопасности.",
+  "zh-Hans": "以负责任的方式报告了安全问题。"
+ },
+ "Reports & standing": {
+  "ar": "البلاغات والسجل",
+  "de": "Meldungen und Status",
+  "es": "Informes y estado",
+  "fr": "Signalements et statut",
+  "ru": "Жалобы и статус",
+  "zh-Hans": "举报与状态"
+ },
+ "Reports you sent to Zrzur Trust & Safety. The people you report never see your name.": {
+  "ar": "البلاغات التي أرسلتها إلى فريق الثقة والسلامة في زرزور. الأشخاص الذين تبلغ عنهم لا يرون اسمك أبدًا.",
+  "de": "Meldungen, die du an Zrzur Trust & Safety geschickt hast. Die gemeldeten Personen sehen nie deinen Namen.",
+  "es": "Informes que enviaste a Confianza y Seguridad de Zrzur. Las personas que denuncias nunca ven tu nombre.",
+  "fr": "Signalements envoyés à Zrzur Trust & Safety. Les personnes signalées ne voient jamais ton nom.",
+  "ru": "Жалобы, отправленные в Zrzur Trust & Safety. Те, на кого ты жалуешься, никогда не видят твоё имя.",
+  "zh-Hans": "你发送给 Zrzur 信任与安全团队的举报。被举报的人永远看不到你的名字。"
+ },
+ "Request a copy": {
+  "ar": "طلب نسخة",
+  "de": "Kopie anfordern",
+  "es": "Solicitar una copia",
+  "fr": "Demander une copie",
+  "ru": "Запросить копию",
+  "zh-Hans": "申请副本"
+ },
+ "Requests from Zrzur": {
+  "ar": "طلبات من زرزور",
+  "de": "Anfragen von Zrzur",
+  "es": "Solicitudes de Zrzur",
+  "fr": "Demandes de Zrzur",
+  "ru": "Запросы от Zrzur",
+  "zh-Hans": "来自 Zrzur 的请求"
+ },
+ "Responsible Disclosure": {
+  "ar": "الإفصاح المسؤول",
+  "de": "Verantwortungsvolle Offenlegung",
+  "es": "Divulgación responsable",
+  "fr": "Divulgation responsable",
+  "ru": "Ответственное раскрытие",
+  "zh-Hans": "负责任披露"
+ },
+ "Reveal": {
+  "ar": "إظهار",
+  "de": "Anzeigen",
+  "es": "Mostrar",
+  "fr": "Afficher",
+  "ru": "Показать",
+  "zh-Hans": "显示"
+ },
+ "Reveal email address": {
+  "ar": "إظهار البريد الإلكتروني",
+  "de": "E-Mail-Adresse anzeigen",
+  "es": "Mostrar correo electrónico",
+  "fr": "Afficher l'adresse e-mail",
+  "ru": "Показать адрес эл. почты",
+  "zh-Hans": "显示邮箱地址"
+ },
+ "Reversed": {
+  "ar": "تم التراجع",
+  "de": "Rückgängig gemacht",
+  "es": "Revertido",
+  "fr": "Annulé",
+  "ru": "Отменено",
+  "zh-Hans": "已撤销"
+ },
+ "Reviewer's answer:": {
+  "ar": "رد المراجع:",
+  "de": "Antwort des Prüfers:",
+  "es": "Respuesta del revisor:",
+  "fr": "Réponse du relecteur :",
+  "ru": "Ответ проверяющего:",
+  "zh-Hans": "审核员的回复:"
+ },
+ "Revoke access": {
+  "ar": "إلغاء الوصول",
+  "de": "Zugriff widerrufen",
+  "es": "Revocar acceso",
+  "fr": "Révoquer l'accès",
+  "ru": "Отозвать доступ",
+  "zh-Hans": "撤销访问权限"
+ },
+ "Revoked": {
+  "ar": "أُلغي",
+  "de": "Widerrufen",
+  "es": "Revocado",
+  "fr": "Révoqué",
+  "ru": "Отозвано",
+  "zh-Hans": "已撤销"
+ },
+ "Rings": {
+  "ar": "حلقات",
+  "de": "Ringe",
+  "es": "Anillos",
+  "fr": "Anneaux",
+  "ru": "Кольца",
+  "zh-Hans": "圆环"
+ },
+ "Ripples": {
+  "ar": "تموجات",
+  "de": "Wellen",
+  "es": "Ondas",
+  "fr": "Ondulations",
+  "ru": "Рябь",
+  "zh-Hans": "涟漪"
+ },
+ "Rising hearts": {
+  "ar": "قلوب صاعدة",
+  "de": "Aufsteigende Herzen",
+  "es": "Corazones ascendentes",
+  "fr": "Cœurs qui montent",
+  "ru": "Поднимающиеся сердца",
+  "zh-Hans": "升起的爱心"
+ },
+ "Role it gives": {
+  "ar": "الدور الذي يمنحه",
+  "de": "Vergebene Rolle",
+  "es": "Rol que otorga",
+  "fr": "Rôle attribué",
+  "ru": "Выдаваемая роль",
+  "zh-Hans": "授予的角色"
+ },
+ "Role overrides": {
+  "ar": "تجاوزات الأدوار",
+  "de": "Rollenüberschreibungen",
+  "es": "Anulaciones de rol",
+  "fr": "Exceptions de rôle",
+  "ru": "Переопределения ролей",
+  "zh-Hans": "角色覆盖设置"
+ },
+ "Role unavailable": {
+  "ar": "الدور غير متاح",
+  "de": "Rolle nicht verfügbar",
+  "es": "Rol no disponible",
+  "fr": "Rôle indisponible",
+  "ru": "Роль недоступна",
+  "zh-Hans": "角色不可用"
+ },
+ "Roles by interest": {
+  "ar": "أدوار حسب الاهتمام",
+  "de": "Rollen nach Interessen",
+  "es": "Roles por intereses",
+  "fr": "Rôles par centres d'intérêt",
+  "ru": "Роли по интересам",
+  "zh-Hans": "按兴趣分配的角色"
+ },
+ "Roles, mutual servers and the message box keep their place.": {
+  "ar": "الأدوار والسيرفرات المشتركة ومربع الرسائل تبقى في مكانها.",
+  "de": "Rollen, gemeinsame Server und das Nachrichtenfeld bleiben an ihrem Platz.",
+  "es": "Los roles, los servidores en común y el cuadro de mensaje mantienen su lugar.",
+  "fr": "Les rôles, les serveurs en commun et la zone de message restent à leur place.",
+  "ru": "Роли, общие серверы и поле сообщения остаются на своих местах.",
+  "zh-Hans": "角色、共同服务器和消息框保持原位。"
+ },
+ "Room between cards and inside them.": {
+  "ar": "مساحة بين البطاقات وداخلها.",
+  "de": "Abstand zwischen und in den Karten.",
+  "es": "Espacio entre las tarjetas y dentro de ellas.",
+  "fr": "Espace entre les cartes et à l'intérieur.",
+  "ru": "Отступы между карточками и внутри них.",
+  "zh-Hans": "卡片之间和卡片内部的间距。"
+ },
+ "Rounded": {
+  "ar": "مستدير",
+  "de": "Abgerundet",
+  "es": "Redondeado",
+  "fr": "Arrondi",
+  "ru": "Скруглённый",
+  "zh-Hans": "圆角"
+ },
+ "Rules channel": {
+  "ar": "قناة القواعد",
+  "de": "Regelkanal",
+  "es": "Canal de reglas",
+  "fr": "Salon des règles",
+  "ru": "Канал правил",
+  "zh-Hans": "规则频道"
+ },
+ "Run by the Zrzur team.": {
+  "ar": "يديره فريق زرزور.",
+  "de": "Vom Zrzur-Team betrieben.",
+  "es": "Gestionado por el equipo de Zrzur.",
+  "fr": "Géré par l'équipe Zrzur.",
+  "ru": "Ведётся командой Zrzur.",
+  "zh-Hans": "由 Zrzur 团队运营。"
+ },
+ "Safety and reports": {
+  "ar": "الأمان والبلاغات",
+  "de": "Sicherheit und Meldungen",
+  "es": "Seguridad e informes",
+  "fr": "Sécurité et signalements",
+  "ru": "Безопасность и жалобы",
+  "zh-Hans": "安全与举报"
+ },
+ "Sagittarius": {
+  "ar": "القوس",
+  "de": "Schütze",
+  "es": "Sagitario",
+  "fr": "Sagittaire",
+  "ru": "Стрелец",
+  "zh-Hans": "射手座"
+ },
+ "Saha Champion": {
+  "ar": "بطل الساحة",
+  "de": "Saha-Champion",
+  "es": "Campeón de Saha",
+  "fr": "Champion de Saha",
+  "ru": "Чемпион Saha",
+  "zh-Hans": "Saha 冠军"
+ },
+ "Save and open lobby": {
+  "ar": "حفظ وفتح اللوبي",
+  "de": "Speichern und Lobby öffnen",
+  "es": "Guardar y abrir el vestíbulo",
+  "fr": "Enregistrer et ouvrir le hall",
+  "ru": "Сохранить и открыть лобби",
+  "zh-Hans": "保存并打开大厅"
+ },
+ "Save username": {
+  "ar": "حفظ اسم المستخدم",
+  "de": "Benutzernamen speichern",
+  "es": "Guardar nombre de usuario",
+  "fr": "Enregistrer le nom d'utilisateur",
+  "ru": "Сохранить имя пользователя",
+  "zh-Hans": "保存用户名"
+ },
+ "Saved": {
+  "ar": "تم الحفظ",
+  "de": "Gespeichert",
+  "es": "Guardado",
+  "fr": "Enregistré",
+  "ru": "Сохранено",
+  "zh-Hans": "已保存"
+ },
+ "Say hi": {
+  "ar": "قل مرحبًا",
+  "de": "Sag Hallo",
+  "es": "Saluda",
+  "fr": "Dis bonjour",
+  "ru": "Поздороваться",
+  "zh-Hans": "打个招呼"
+ },
+ "Scam or fraud": {
+  "ar": "احتيال",
+  "de": "Betrug",
+  "es": "Estafa o fraude",
+  "fr": "Arnaque ou fraude",
+  "ru": "Мошенничество",
+  "zh-Hans": "诈骗或欺诈"
+ },
+ "Science": {
+  "ar": "العلوم",
+  "de": "Wissenschaft",
+  "es": "Ciencia",
+  "fr": "Science",
+  "ru": "Наука",
+  "zh-Hans": "科学"
+ },
+ "Scopes": {
+  "ar": "النطاقات",
+  "de": "Bereiche",
+  "es": "Ámbitos",
+  "fr": "Portées",
+  "ru": "Области доступа",
+  "zh-Hans": "权限范围"
+ },
+ "Scorpio": {
+  "ar": "العقرب",
+  "de": "Skorpion",
+  "es": "Escorpio",
+  "fr": "Scorpion",
+  "ru": "Скорпион",
+  "zh-Hans": "天蝎座"
+ },
+ "Scotland": {
+  "ar": "اسكتلندا",
+  "de": "Schottland",
+  "es": "Escocia",
+  "fr": "Écosse",
+  "ru": "Шотландия",
+  "zh-Hans": "苏格兰"
+ },
+ "Screen share": {
+  "ar": "مشاركة الشاشة",
+  "de": "Bildschirmfreigabe",
+  "es": "Compartir pantalla",
+  "fr": "Partage d'écran",
+  "ru": "Демонстрация экрана",
+  "zh-Hans": "屏幕共享"
+ },
+ "Script": {
+  "ar": "خط مخطوط",
+  "de": "Schreibschrift",
+  "es": "Cursiva",
+  "fr": "Script",
+  "ru": "Рукописный",
+  "zh-Hans": "手写体"
+ },
+ "Search decorations": {
+  "ar": "ابحث في الزخارف",
+  "de": "Dekorationen durchsuchen",
+  "es": "Buscar decoraciones",
+  "fr": "Rechercher des décorations",
+  "ru": "Поиск украшений",
+  "zh-Hans": "搜索装饰"
+ },
+ "Search effects": {
+  "ar": "ابحث في التأثيرات",
+  "de": "Effekte durchsuchen",
+  "es": "Buscar efectos",
+  "fr": "Rechercher des effets",
+  "ru": "Поиск эффектов",
+  "zh-Hans": "搜索特效"
+ },
+ "Search languages": {
+  "ar": "ابحث في اللغات",
+  "de": "Sprachen durchsuchen",
+  "es": "Buscar idiomas",
+  "fr": "Rechercher des langues",
+  "ru": "Поиск языков",
+  "zh-Hans": "搜索语言"
+ },
+ "Search members": {
+  "ar": "ابحث في الأعضاء",
+  "de": "Mitglieder durchsuchen",
+  "es": "Buscar miembros",
+  "fr": "Rechercher des membres",
+  "ru": "Поиск участников",
+  "zh-Hans": "搜索成员"
+ },
+ "Search nameplates": {
+  "ar": "ابحث في لوحات الأسماء",
+  "de": "Namensschilder durchsuchen",
+  "es": "Buscar placas de nombre",
+  "fr": "Rechercher des plaques de nom",
+  "ru": "Поиск табличек имён",
+  "zh-Hans": "搜索名牌"
+ },
+ "Searching…": {
+  "ar": "جارٍ البحث…",
+  "de": "Suche läuft …",
+  "es": "Buscando…",
+  "fr": "Recherche…",
+  "ru": "Поиск…",
+  "zh-Hans": "正在搜索…"
+ },
+ "Second colour": {
+  "ar": "اللون الثاني",
+  "de": "Zweite Farbe",
+  "es": "Segundo color",
+  "fr": "Deuxième couleur",
+  "ru": "Второй цвет",
+  "zh-Hans": "第二种颜色"
+ },
+ "Sections": {
+  "ar": "الأقسام",
+  "de": "Bereiche",
+  "es": "Secciones",
+  "fr": "Sections",
+  "ru": "Разделы",
+  "zh-Hans": "板块"
+ },
+ "Security": {
+  "ar": "الأمان",
+  "de": "Sicherheit",
+  "es": "Seguridad",
+  "fr": "Sécurité",
+  "ru": "Безопасность",
+  "zh-Hans": "安全"
+ },
+ "Security issue (private)": {
+  "ar": "مشكلة أمنية (خاصة)",
+  "de": "Sicherheitsproblem (privat)",
+  "es": "Problema de seguridad (privado)",
+  "fr": "Problème de sécurité (privé)",
+  "ru": "Проблема безопасности (приватно)",
+  "zh-Hans": "安全问题(私密)"
+ },
+ "See Feather": {
+  "ar": "شاهد الريشة",
+  "de": "Feather ansehen",
+  "es": "Ver Feather",
+  "fr": "Voir Feather",
+  "ru": "Смотреть Feather",
+  "zh-Hans": "查看 Feather"
+ },
+ "See levels": {
+  "ar": "عرض المستويات",
+  "de": "Stufen ansehen",
+  "es": "Ver niveles",
+  "fr": "Voir les niveaux",
+  "ru": "Смотреть уровни",
+  "zh-Hans": "查看等级"
+ },
+ "See the names and icons of your servers": {
+  "ar": "رؤية أسماء وأيقونات سيرفراتك",
+  "de": "Namen und Symbole deiner Server sehen",
+  "es": "Ver los nombres e iconos de tus servidores",
+  "fr": "Voir les noms et les icônes de tes serveurs",
+  "ru": "Видеть названия и значки твоих серверов",
+  "zh-Hans": "查看你的服务器的名称和图标"
+ },
+ "See where you're signed in and sign out devices.": {
+  "ar": "اطلع على الأجهزة المسجّل دخولك منها وسجّل الخروج منها.",
+  "de": "Sieh, wo du angemeldet bist, und melde Geräte ab.",
+  "es": "Mira dónde has iniciado sesión y cierra sesión en dispositivos.",
+  "fr": "Vois où tu es connecté et déconnecte des appareils.",
+  "ru": "Смотри, где ты вошёл в аккаунт, и выходи на устройствах.",
+  "zh-Hans": "查看你的登录位置,并让设备退出登录。"
+ },
+ "Selected": {
+  "ar": "محدد",
+  "de": "Ausgewählt",
+  "es": "Seleccionado",
+  "fr": "Sélectionné",
+  "ru": "Выбрано",
+  "zh-Hans": "已选择"
+ },
+ "Self-harm or suicide": {
+  "ar": "إيذاء النفس أو الانتحار",
+  "de": "Selbstverletzung oder Suizid",
+  "es": "Autolesiones o suicidio",
+  "fr": "Automutilation ou suicide",
+  "ru": "Самоповреждение или суицид",
+  "zh-Hans": "自残或自杀"
+ },
+ "Send": {
+  "ar": "إرسال",
+  "de": "Senden",
+  "es": "Enviar",
+  "fr": "Envoyer",
+  "ru": "Отправить",
+  "zh-Hans": "发送"
+ },
+ "Send a bug or a private security report to the Zrzur team and follow its status. Verified reports earn Bug Hunter.": {
+  "ar": "أرسل بلاغ خطأ أو بلاغًا أمنيًا خاصًا إلى فريق زرزور وتابع حالته. البلاغات المؤكدة تمنحك شارة صائد الأخطاء.",
+  "de": "Schicke dem Zrzur-Team einen Fehler oder eine private Sicherheitsmeldung und verfolge den Status. Bestätigte Meldungen bringen Fehlerjäger.",
+  "es": "Envía un error o un informe de seguridad privado al equipo de Zrzur y sigue su estado. Los informes verificados dan la insignia Cazador de errores.",
+  "fr": "Envoie un bug ou un signalement de sécurité privé à l'équipe Zrzur et suis son statut. Les signalements vérifiés donnent le badge Chasseur de bugs.",
+  "ru": "Отправь команде Zrzur сообщение об ошибке или приватный отчёт о безопасности и следи за статусом. Подтверждённые отчёты дают значок «Охотник за багами».",
+  "zh-Hans": "向 Zrzur 团队发送错误或私密安全报告并跟踪状态。经核实的报告可获得漏洞猎人徽章。"
+ },
+ "Send appeal": {
+  "ar": "إرسال الطعن",
+  "de": "Einspruch senden",
+  "es": "Enviar apelación",
+  "fr": "Envoyer l'appel",
+  "ru": "Отправить апелляцию",
+  "zh-Hans": "提交申诉"
+ },
+ "Send feedback": {
+  "ar": "إرسال ملاحظات",
+  "de": "Feedback senden",
+  "es": "Enviar comentarios",
+  "fr": "Envoyer un commentaire",
+  "ru": "Отправить отзыв",
+  "zh-Hans": "发送反馈"
+ },
+ "Send reply": {
+  "ar": "إرسال الرد",
+  "de": "Antwort senden",
+  "es": "Enviar respuesta",
+  "fr": "Envoyer la réponse",
+  "ru": "Отправить ответ",
+  "zh-Hans": "发送回复"
+ },
+ "Send report": {
+  "ar": "إرسال البلاغ",
+  "de": "Meldung senden",
+  "es": "Enviar informe",
+  "fr": "Envoyer le signalement",
+  "ru": "Отправить жалобу",
+  "zh-Hans": "发送举报"
+ },
+ "Send test": {
+  "ar": "إرسال اختبار",
+  "de": "Test senden",
+  "es": "Enviar prueba",
+  "fr": "Envoyer un test",
+  "ru": "Отправить тест",
+  "zh-Hans": "发送测试"
+ },
+ "Serif": {
+  "ar": "بخط ذي زوائد",
+  "de": "Serif",
+  "es": "Serif",
+  "fr": "Serif",
+  "ru": "С засечками",
+  "zh-Hans": "衬线体"
+ },
+ "Server only. Empty fields use your main profile.": {
+  "ar": "للسيرفر فقط. الحقول الفارغة تستخدم ملفك الشخصي الرئيسي.",
+  "de": "Nur für den Server. Leere Felder verwenden dein Hauptprofil.",
+  "es": "Solo para el servidor. Los campos vacíos usan tu perfil principal.",
+  "fr": "Uniquement pour le serveur. Les champs vides utilisent ton profil principal.",
+  "ru": "Только для сервера. Пустые поля берутся из основного профиля.",
+  "zh-Hans": "仅限此服务器。留空的字段将使用你的主个人资料。"
+ },
+ "Server owner": {
+  "ar": "مالك السيرفر",
+  "de": "Servereigentümer",
+  "es": "Propietario del servidor",
+  "fr": "Propriétaire du serveur",
+  "ru": "Владелец сервера",
+  "zh-Hans": "服务器所有者"
+ },
+ "Server profiles": {
+  "ar": "ملفات السيرفرات الشخصية",
+  "de": "Serverprofile",
+  "es": "Perfiles de servidor",
+  "fr": "Profils de serveur",
+  "ru": "Профили серверов",
+  "zh-Hans": "服务器个人资料"
+ },
+ "Server profiles appear here once you join one.": {
+  "ar": "تظهر ملفات السيرفرات الشخصية هنا بعد انضمامك إلى سيرفر.",
+  "de": "Serverprofile erscheinen hier, sobald du einem Server beitrittst.",
+  "es": "Los perfiles de servidor aparecen aquí cuando te unes a uno.",
+  "fr": "Les profils de serveur apparaissent ici dès que tu en rejoins un.",
+  "ru": "Профили серверов появятся здесь, когда ты присоединишься к серверу.",
+  "zh-Hans": "加入服务器后,服务器个人资料会显示在这里。"
+ },
+ "Set up": {
+  "ar": "إعداد",
+  "de": "Einrichten",
+  "es": "Configurar",
+  "fr": "Configurer",
+  "ru": "Настроить",
+  "zh-Hans": "设置"
+ },
+ "Sexual or exploitative content": {
+  "ar": "محتوى جنسي أو استغلالي",
+  "de": "Sexuelle oder ausbeuterische Inhalte",
+  "es": "Contenido sexual o de explotación",
+  "fr": "Contenu sexuel ou d'exploitation",
+  "ru": "Сексуальный или эксплуатирующий контент",
+  "zh-Hans": "色情或剥削性内容"
+ },
+ "Sharing personal information": {
+  "ar": "مشاركة معلومات شخصية",
+  "de": "Weitergabe persönlicher Informationen",
+  "es": "Compartir información personal",
+  "fr": "Partage d'informations personnelles",
+  "ru": "Разглашение личной информации",
+  "zh-Hans": "泄露个人信息"
+ },
+ "Shield": {
+  "ar": "درع",
+  "de": "Schild",
+  "es": "Escudo",
+  "fr": "Bouclier",
+  "ru": "Щит",
+  "zh-Hans": "盾牌"
+ },
+ "Show Feather badge": {
+  "ar": "إظهار شارة الريشة",
+  "de": "Feather-Abzeichen anzeigen",
+  "es": "Mostrar la insignia de Feather",
+  "fr": "Afficher le badge Feather",
+  "ru": "Показывать значок Feather",
+  "zh-Hans": "显示 Feather 徽章"
+ },
+ "Shown in the lobby": {
+  "ar": "يظهر في اللوبي",
+  "de": "In der Lobby angezeigt",
+  "es": "Se muestra en el vestíbulo",
+  "fr": "Affiché dans le hall",
+  "ru": "Показывается в лобби",
+  "zh-Hans": "显示在大厅中"
+ },
+ "Shown instead of your username. Leave empty to use your username.": {
+  "ar": "يظهر بدلًا من اسم المستخدم. اتركه فارغًا لاستخدام اسم المستخدم.",
+  "de": "Wird statt deines Benutzernamens angezeigt. Leer lassen, um deinen Benutzernamen zu verwenden.",
+  "es": "Se muestra en lugar de tu nombre de usuario. Déjalo vacío para usar tu nombre de usuario.",
+  "fr": "Affiché à la place de ton nom d'utilisateur. Laisse vide pour utiliser ton nom d'utilisateur.",
+  "ru": "Показывается вместо имени пользователя. Оставь пустым, чтобы использовать имя пользователя.",
+  "zh-Hans": "显示在用户名的位置。留空则使用你的用户名。"
+ },
+ "Shown while your Feather subscription is active. You can hide it.": {
+  "ar": "يظهر ما دام اشتراك الريشة نشطًا. يمكنك إخفاؤه.",
+  "de": "Wird angezeigt, solange dein Feather-Abo aktiv ist. Du kannst es ausblenden.",
+  "es": "Se muestra mientras tu suscripción a Feather está activa. Puedes ocultarla.",
+  "fr": "Affiché tant que ton abonnement Feather est actif. Tu peux le masquer.",
+  "ru": "Показывается, пока активна подписка Feather. Ты можешь его скрыть.",
+  "zh-Hans": "Feather 订阅有效期间显示。你可以将其隐藏。"
+ },
+ "Sign in with a one-time code from your phone.": {
+  "ar": "سجّل الدخول برمز لمرة واحدة من هاتفك.",
+  "de": "Melde dich mit einem Einmalcode von deinem Handy an.",
+  "es": "Inicia sesión con un código de un solo uso desde tu teléfono.",
+  "fr": "Connecte-toi avec un code à usage unique depuis ton téléphone.",
+  "ru": "Войди с одноразовым кодом с твоего телефона.",
+  "zh-Hans": "使用手机上的一次性验证码登录。"
+ },
+ "Single column": {
+  "ar": "عمود واحد",
+  "de": "Eine Spalte",
+  "es": "Una columna",
+  "fr": "Une colonne",
+  "ru": "Один столбец",
+  "zh-Hans": "单列"
+ },
+ "Sites you allowed": {
+  "ar": "المواقع التي سمحت بها",
+  "de": "Websites, die du erlaubt hast",
+  "es": "Sitios que permitiste",
+  "fr": "Sites que tu as autorisés",
+  "ru": "Разрешённые тобой сайты",
+  "zh-Hans": "你允许的网站"
+ },
+ "Sizes": {
+  "ar": "الأحجام",
+  "de": "Größen",
+  "es": "Tamaños",
+  "fr": "Tailles",
+  "ru": "Размеры",
+  "zh-Hans": "大小"
+ },
+ "Slab": {
+  "ar": "سميك",
+  "de": "Slab",
+  "es": "Slab",
+  "fr": "Slab",
+  "ru": "Брусковый",
+  "zh-Hans": "粗衬线体"
+ },
+ "Slide all the way left for no limit. Lowering the limit does not disconnect anyone.": {
+  "ar": "اسحب إلى أقصى اليسار لإلغاء الحد. خفض الحد لا يفصل أي أحد.",
+  "de": "Ganz nach links schieben für kein Limit. Ein niedrigeres Limit trennt niemanden.",
+  "es": "Desliza todo a la izquierda para quitar el límite. Bajar el límite no desconecta a nadie.",
+  "fr": "Glisse tout à gauche pour supprimer la limite. Baisser la limite ne déconnecte personne.",
+  "ru": "Сдвинь до упора влево, чтобы убрать лимит. Снижение лимита никого не отключает.",
+  "zh-Hans": "滑到最左侧表示不限制。降低上限不会让任何人断开连接。"
+ },
+ "Snow": {
+  "ar": "ثلج",
+  "de": "Schnee",
+  "es": "Nieve",
+  "fr": "Neige",
+  "ru": "Снег",
+  "zh-Hans": "雪"
+ },
+ "Soft": {
+  "ar": "ناعم",
+  "de": "Weich",
+  "es": "Suave",
+  "fr": "Doux",
+  "ru": "Мягкий",
+  "zh-Hans": "柔和"
+ },
+ "Solid": {
+  "ar": "صلب",
+  "de": "Einfarbig",
+  "es": "Sólido",
+  "fr": "Plein",
+  "ru": "Сплошной",
+  "zh-Hans": "纯色"
+ },
+ "Solid colour": {
+  "ar": "لون موحد",
+  "de": "Einfarbig",
+  "es": "Color sólido",
+  "fr": "Couleur unie",
+  "ru": "Сплошной цвет",
+  "zh-Hans": "纯色"
+ },
+ "Something else": {
+  "ar": "شيء آخر",
+  "de": "Etwas anderes",
+  "es": "Otra cosa",
+  "fr": "Autre chose",
+  "ru": "Что-то другое",
+  "zh-Hans": "其他"
+ },
+ "Something isn't working": {
+  "ar": "شيء لا يعمل",
+  "de": "Etwas funktioniert nicht",
+  "es": "Algo no funciona",
+  "fr": "Quelque chose ne marche pas",
+  "ru": "Что-то не работает",
+  "zh-Hans": "某些功能无法使用"
+ }
+}

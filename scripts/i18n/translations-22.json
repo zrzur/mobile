@@ -1,0 +1,1162 @@
+{
+ "Suppress @everyone and @here": {
+  "ar": "كتم @everyone و @here",
+  "de": "@everyone und @here unterdrücken",
+  "es": "Silenciar @everyone y @here",
+  "fr": "Ignorer @everyone et @here",
+  "ru": "Подавлять @everyone и @here",
+  "zh-Hans": "屏蔽 @everyone 和 @here"
+ },
+ "Suppress role mentions": {
+  "ar": "كتم إشارات الأدوار",
+  "de": "Rollenerwähnungen unterdrücken",
+  "es": "Silenciar menciones de roles",
+  "fr": "Ignorer les mentions de rôles",
+  "ru": "Подавлять упоминания ролей",
+  "zh-Hans": "屏蔽身份组提及"
+ },
+ "The end must be after the start.": {
+  "ar": "يجب أن تكون النهاية بعد البداية.",
+  "de": "Das Ende muss nach dem Start liegen.",
+  "es": "El final debe ser posterior al inicio.",
+  "fr": "La fin doit être après le début.",
+  "ru": "Окончание должно быть позже начала.",
+  "zh-Hans": "结束时间必须晚于开始时间。"
+ },
+ "The events could not be loaded.": {
+  "ar": "تعذّر تحميل الفعاليات.",
+  "de": "Die Events konnten nicht geladen werden.",
+  "es": "No se pudieron cargar los eventos.",
+  "fr": "Impossible de charger les événements.",
+  "ru": "Не удалось загрузить события.",
+  "zh-Hans": "无法加载活动。"
+ },
+ "The microphone could not be started.": {
+  "ar": "تعذّر تشغيل الميكروفون.",
+  "de": "Das Mikrofon konnte nicht gestartet werden.",
+  "es": "No se pudo iniciar el micrófono.",
+  "fr": "Impossible de démarrer le micro.",
+  "ru": "Не удалось включить микрофон.",
+  "zh-Hans": "无法启动麦克风。"
+ },
+ "The names were removed 12 months after the event. The numbers stay.": {
+  "ar": "أُزيلت الأسماء بعد 12 شهرًا من الفعالية. تبقى الأعداد.",
+  "de": "Die Namen wurden 12 Monate nach dem Event entfernt. Die Zahlen bleiben.",
+  "es": "Los nombres se eliminaron 12 meses después del evento. Los números se conservan.",
+  "fr": "Les noms ont été supprimés 12 mois après l'événement. Les chiffres restent.",
+  "ru": "Имена удалены через 12 месяцев после события. Числа остаются.",
+  "zh-Hans": "活动结束 12 个月后名单已删除,数字会保留。"
+ },
+ "The organisers choose when they come.": {
+  "ar": "ينضم المنظمون وقتما يشاؤون.",
+  "de": "Die Organisatoren entscheiden, wann sie kommen.",
+  "es": "Los organizadores deciden cuándo vienen.",
+  "fr": "Les organisateurs choisissent quand ils viennent.",
+  "ru": "Организаторы сами решают, когда прийти.",
+  "zh-Hans": "组织者自行决定何时到场。"
+ },
+ "The poll “{0}” ended in a tie: {1}.": {
+  "ar": "انتهى التصويت “{0}” بالتعادل: {1}.",
+  "de": "Die Umfrage „{0}“ endete unentschieden: {1}.",
+  "es": "La encuesta “{0}” terminó en empate: {1}.",
+  "fr": "Le sondage « {0} » s'est terminé sur une égalité : {1}.",
+  "ru": "Опрос «{0}» закончился ничьей: {1}.",
+  "zh-Hans": "投票“{0}”以平局结束:{1}。"
+ },
+ "The poll “{0}” ended with no votes.": {
+  "ar": "انتهى التصويت “{0}” دون أي أصوات.",
+  "de": "Die Umfrage „{0}“ endete ohne Stimmen.",
+  "es": "La encuesta “{0}” terminó sin votos.",
+  "fr": "Le sondage « {0} » s'est terminé sans aucun vote.",
+  "ru": "Опрос «{0}» закончился без голосов.",
+  "zh-Hans": "投票“{0}”结束,没有人投票。"
+ },
+ "The poll “{0}” ended: “{1}” won with {2} of {3}.": {
+  "ar": "انتهى التصويت “{0}”: فاز “{1}” بـ {2} من {3}.",
+  "de": "Die Umfrage „{0}“ ist beendet: „{1}“ gewann mit {2} von {3}.",
+  "es": "La encuesta “{0}” terminó: “{1}” ganó con {2} de {3}.",
+  "fr": "Le sondage « {0} » est terminé : « {1} » l'emporte avec {2} sur {3}.",
+  "ru": "Опрос «{0}» завершён: «{1}» победил с {2} из {3}.",
+  "zh-Hans": "投票“{0}”已结束:“{1}”以 {2}/{3} 获胜。"
+ },
+ "The previews under this message will be removed for everyone. The link stays in the message.": {
+  "ar": "ستُزال المعاينات أسفل هذه الرسالة للجميع. يبقى الرابط في الرسالة.",
+  "de": "Die Vorschauen unter dieser Nachricht werden für alle entfernt. Der Link bleibt in der Nachricht.",
+  "es": "Las vistas previas de este mensaje se eliminarán para todos. El enlace permanece en el mensaje.",
+  "fr": "Les aperçus sous ce message seront supprimés pour tout le monde. Le lien reste dans le message.",
+  "ru": "Превью под этим сообщением будут удалены для всех. Ссылка в сообщении останется.",
+  "zh-Hans": "此消息下方的预览将对所有人移除,链接仍保留在消息中。"
+ },
+ "The roles you choose, and the organisers.": {
+  "ar": "الأدوار التي تختارها، والمنظمون.",
+  "de": "Die Rollen, die du auswählst, und die Organisatoren.",
+  "es": "Los roles que elijas y los organizadores.",
+  "fr": "Les rôles que tu choisis, et les organisateurs.",
+  "ru": "Выбранные тобой роли и организаторы.",
+  "zh-Hans": "你选择的身份组和组织者。"
+ },
+ "The seat becomes yours by itself when one is free.": {
+  "ar": "يصبح المقعد لك تلقائيًا عندما يتوفر مقعد.",
+  "de": "Der Platz wird automatisch deiner, sobald einer frei ist.",
+  "es": "El asiento pasa a ser tuyo automáticamente cuando haya uno libre.",
+  "fr": "La place devient la tienne automatiquement dès qu'une se libère.",
+  "ru": "Место достанется тебе автоматически, когда освободится.",
+  "zh-Hans": "一有空位,座位会自动归你。"
+ },
+ "The seat limit is a number from 1 to {MAX_SEATS}.": {
+  "ar": "حدّ المقاعد رقم من 1 إلى {MAX_SEATS}.",
+  "de": "Die Platzgrenze ist eine Zahl von 1 bis {MAX_SEATS}.",
+  "es": "El límite de plazas es un número de 1 a {MAX_SEATS}.",
+  "fr": "La limite de places est un nombre de 1 à {MAX_SEATS}.",
+  "ru": "Лимит мест — число от 1 до {MAX_SEATS}.",
+  "zh-Hans": "名额上限为 1 到 {MAX_SEATS} 之间的数字。"
+ },
+ "The sounds could not load. Close them and open them again.": {
+  "ar": "تعذّر تحميل الأصوات. أغلقها ثم افتحها من جديد.",
+  "de": "Die Sounds konnten nicht geladen werden. Schließe sie und öffne sie erneut.",
+  "es": "No se pudieron cargar los sonidos. Ciérralos y ábrelos de nuevo.",
+  "fr": "Impossible de charger les sons. Ferme-les et rouvre-les.",
+  "ru": "Не удалось загрузить звуки. Закрой их и открой снова.",
+  "zh-Hans": "无法加载音效。请关闭后重新打开。"
+ },
+ "The start time has passed. Choose a later time.": {
+  "ar": "انقضى وقت البدء. اختر وقتًا لاحقًا.",
+  "de": "Die Startzeit ist vorbei. Wähle eine spätere Zeit.",
+  "es": "La hora de inicio ya pasó. Elige una hora posterior.",
+  "fr": "L'heure de début est passée. Choisis une heure plus tardive.",
+  "ru": "Время начала прошло. Выбери более позднее.",
+  "zh-Hans": "开始时间已过,请选择更晚的时间。"
+ },
+ "This channel": {
+  "ar": "هذه القناة",
+  "de": "Dieser Kanal",
+  "es": "Este canal",
+  "fr": "Ce salon",
+  "ru": "Этот канал",
+  "zh-Hans": "此频道"
+ },
+ "This event has no waiting list.": {
+  "ar": "ليست لهذه الفعالية قائمة انتظار.",
+  "de": "Dieses Event hat keine Warteliste.",
+  "es": "Este evento no tiene lista de espera.",
+  "fr": "Cet événement n'a pas de liste d'attente.",
+  "ru": "У этого события нет списка ожидания.",
+  "zh-Hans": "此活动没有候补名单。"
+ },
+ "This event is not there any more, or you can't see where it takes place.": {
+  "ar": "هذه الفعالية لم تعد موجودة، أو لا يمكنك رؤية مكان إقامتها.",
+  "de": "Dieses Event gibt es nicht mehr, oder du kannst nicht sehen, wo es stattfindet.",
+  "es": "Este evento ya no existe, o no puedes ver dónde se celebra.",
+  "fr": "Cet événement n'existe plus, ou tu ne peux pas voir où il a lieu.",
+  "ru": "Этого события больше нет, или ты не видишь, где оно проходит.",
+  "zh-Hans": "此活动已不存在,或你看不到举办地点。"
+ },
+ "This event is over": {
+  "ar": "انتهت هذه الفعالية",
+  "de": "Dieses Event ist vorbei",
+  "es": "Este evento ha terminado",
+  "fr": "Cet événement est terminé",
+  "ru": "Это событие закончилось",
+  "zh-Hans": "此活动已结束"
+ },
+ "This list couldn't be loaded": {
+  "ar": "تعذّر تحميل هذه القائمة",
+  "de": "Diese Liste konnte nicht geladen werden",
+  "es": "No se pudo cargar esta lista",
+  "fr": "Impossible de charger cette liste",
+  "ru": "Не удалось загрузить этот список",
+  "zh-Hans": "无法加载此列表"
+ },
+ "This morning": {
+  "ar": "هذا الصباح",
+  "de": "Heute Morgen",
+  "es": "Esta mañana",
+  "fr": "Ce matin",
+  "ru": "Сегодня утром",
+  "zh-Hans": "今天早上"
+ },
+ "This profile could not be opened. The account may no longer exist.": {
+  "ar": "تعذّر فتح هذا الملف الشخصي. ربما لم يعد الحساب موجودًا.",
+  "de": "Dieses Profil konnte nicht geöffnet werden. Das Konto existiert möglicherweise nicht mehr.",
+  "es": "No se pudo abrir este perfil. Puede que la cuenta ya no exista.",
+  "fr": "Impossible d'ouvrir ce profil. Le compte n'existe peut-être plus.",
+  "ru": "Не удалось открыть этот профиль. Возможно, аккаунта больше нет.",
+  "zh-Hans": "无法打开此个人资料,该账号可能已不存在。"
+ },
+ "This room is yours while you are in it. It is removed when everyone has left.": {
+  "ar": "هذه الغرفة لك ما دمت فيها. تُحذف عندما يغادرها الجميع.",
+  "de": "Dieser Raum gehört dir, solange du drin bist. Er wird entfernt, wenn alle gegangen sind.",
+  "es": "Esta sala es tuya mientras estés en ella. Se elimina cuando todos se han ido.",
+  "fr": "Ce salon est à toi tant que tu y es. Il est supprimé quand tout le monde est parti.",
+  "ru": "Эта комната твоя, пока ты в ней. Она удаляется, когда все ушли.",
+  "zh-Hans": "你在房间里时它归你所有,所有人离开后会被删除。"
+ },
+ "This server has no text channel you can see.": {
+  "ar": "لا توجد في هذا السيرفر قناة نصية يمكنك رؤيتها.",
+  "de": "Dieser Server hat keinen Textkanal, den du sehen kannst.",
+  "es": "Este servidor no tiene ningún canal de texto que puedas ver.",
+  "fr": "Ce serveur n'a aucun salon textuel que tu peux voir.",
+  "ru": "На этом сервере нет текстового канала, который ты видишь.",
+  "zh-Hans": "此服务器没有你能看到的文字频道。"
+ },
+ "This server has no voice channel you can see.": {
+  "ar": "لا توجد في هذا السيرفر قناة صوتية يمكنك رؤيتها.",
+  "de": "Dieser Server hat keinen Sprachkanal, den du sehen kannst.",
+  "es": "Este servidor no tiene ningún canal de voz que puedas ver.",
+  "fr": "Ce serveur n'a aucun salon vocal que tu peux voir.",
+  "ru": "На этом сервере нет голосового канала, который ты видишь.",
+  "zh-Hans": "此服务器没有你能看到的语音频道。"
+ },
+ "This server isn't available.": {
+  "ar": "هذا السيرفر غير متاح.",
+  "de": "Dieser Server ist nicht verfügbar.",
+  "es": "Este servidor no está disponible.",
+  "fr": "Ce serveur n'est pas disponible.",
+  "ru": "Этот сервер недоступен.",
+  "zh-Hans": "此服务器不可用。"
+ },
+ "This Steam account is private.": {
+  "ar": "حساب Steam هذا خاص.",
+  "de": "Dieses Steam-Konto ist privat.",
+  "es": "Esta cuenta de Steam es privada.",
+  "fr": "Ce compte Steam est privé.",
+  "ru": "Этот аккаунт Steam закрыт.",
+  "zh-Hans": "此 Steam 账号为私密。"
+ },
+ "Threads that were archived show here.": {
+  "ar": "تظهر هنا الخيوط التي تمت أرشفتها.",
+  "de": "Archivierte Threads werden hier angezeigt.",
+  "es": "Los hilos archivados aparecen aquí.",
+  "fr": "Les fils archivés s'affichent ici.",
+  "ru": "Здесь отображаются заархивированные ветки.",
+  "zh-Hans": "已归档的子区会显示在这里。"
+ },
+ "Time": {
+  "ar": "الوقت",
+  "de": "Zeit",
+  "es": "Hora",
+  "fr": "Heure",
+  "ru": "Время",
+  "zh-Hans": "时间"
+ },
+ "Tip: hold any emoji to add it to your favorites.": {
+  "ar": "نصيحة: اضغط مطولًا على أي إيموجي لإضافته إلى المفضلة.",
+  "de": "Tipp: Halte ein Emoji gedrückt, um es zu deinen Favoriten hinzuzufügen.",
+  "es": "Consejo: mantén pulsado cualquier emoji para añadirlo a favoritos.",
+  "fr": "Astuce : maintiens un emoji appuyé pour l'ajouter à tes favoris.",
+  "ru": "Совет: удерживай любой эмодзи, чтобы добавить его в избранное.",
+  "zh-Hans": "提示:长按任意表情即可加入收藏。"
+ },
+ "Tomorrow morning": {
+  "ar": "صباح الغد",
+  "de": "Morgen früh",
+  "es": "Mañana por la mañana",
+  "fr": "Demain matin",
+  "ru": "Завтра утром",
+  "zh-Hans": "明天早上"
+ },
+ "Tonight": {
+  "ar": "الليلة",
+  "de": "Heute Abend",
+  "es": "Esta noche",
+  "fr": "Ce soir",
+  "ru": "Сегодня вечером",
+  "zh-Hans": "今晚"
+ },
+ "Too many searches. Wait a moment, then try again.": {
+  "ar": "عمليات بحث كثيرة جدًا. انتظر قليلًا ثم حاول مجددًا.",
+  "de": "Zu viele Suchanfragen. Warte einen Moment und versuche es erneut.",
+  "es": "Demasiadas búsquedas. Espera un momento e inténtalo de nuevo.",
+  "fr": "Trop de recherches. Attends un instant, puis réessaie.",
+  "ru": "Слишком много поисковых запросов. Подожди немного и попробуй снова.",
+  "zh-Hans": "搜索过于频繁,请稍等片刻后重试。"
+ },
+ "Topic": {
+  "ar": "الموضوع",
+  "de": "Thema",
+  "es": "Tema",
+  "fr": "Sujet",
+  "ru": "Тема",
+  "zh-Hans": "主题"
+ },
+ "Tournament": {
+  "ar": "بطولة",
+  "de": "Turnier",
+  "es": "Torneo",
+  "fr": "Tournoi",
+  "ru": "Турнир",
+  "zh-Hans": "锦标赛"
+ },
+ "Type words, or choose filters with the button beside the field.": {
+  "ar": "اكتب كلمات، أو اختر عوامل التصفية بالزر المجاور للحقل.",
+  "de": "Gib Wörter ein oder wähle Filter mit der Schaltfläche neben dem Feld.",
+  "es": "Escribe palabras o elige filtros con el botón junto al campo.",
+  "fr": "Saisis des mots ou choisis des filtres avec le bouton à côté du champ.",
+  "ru": "Введи слова или выбери фильтры кнопкой рядом с полем.",
+  "zh-Hans": "输入关键词,或用输入框旁的按钮选择筛选条件。"
+ },
+ "Up to {BULK_DELETE_MAX} messages at a time.": {
+  "ar": "حتى {BULK_DELETE_MAX} رسالة في المرة الواحدة.",
+  "de": "Bis zu {BULK_DELETE_MAX} Nachrichten auf einmal.",
+  "es": "Hasta {BULK_DELETE_MAX} mensajes a la vez.",
+  "fr": "Jusqu'à {BULK_DELETE_MAX} messages à la fois.",
+  "ru": "До {BULK_DELETE_MAX} сообщений за раз.",
+  "zh-Hans": "一次最多 {BULK_DELETE_MAX} 条消息。"
+ },
+ "Up to 10 from: filters are used, so \"{value}\" was left out.": {
+  "ar": "يُستخدم حتى 10 من عوامل التصفية from:، لذلك تم تجاهل \"{value}\".",
+  "de": "Es werden bis zu 10 from:-Filter verwendet, daher wurde „{value}“ weggelassen.",
+  "es": "Se usan hasta 10 filtros from:, así que se omitió «{value}».",
+  "fr": "Jusqu'à 10 filtres from: sont utilisés, donc « {value} » a été ignoré.",
+  "ru": "Используется до 10 фильтров from:, поэтому «{value}» пропущен.",
+  "zh-Hans": "最多使用 10 个 from: 筛选条件,因此“{value}”已被忽略。"
+ },
+ "Up to 3. Each person can switch reminders off for themselves.": {
+  "ar": "حتى 3. يمكن لكل شخص إيقاف التذكيرات لنفسه.",
+  "de": "Bis zu 3. Jede Person kann Erinnerungen für sich selbst ausschalten.",
+  "es": "Hasta 3. Cada persona puede desactivar los recordatorios para sí misma.",
+  "fr": "Jusqu'à 3. Chacun peut désactiver les rappels pour lui-même.",
+  "ru": "До 3. Каждый может отключить напоминания для себя.",
+  "zh-Hans": "最多 3 个。每个人都可以为自己关闭提醒。"
+ },
+ "Up to 50 in: filters are used, so \"{value}\" was left out.": {
+  "ar": "يُستخدم حتى 50 من عوامل التصفية in:، لذلك تم تجاهل \"{value}\".",
+  "de": "Es werden bis zu 50 in:-Filter verwendet, daher wurde „{value}“ weggelassen.",
+  "es": "Se usan hasta 50 filtros in:, así que se omitió «{value}».",
+  "fr": "Jusqu'à 50 filtres in: sont utilisés, donc « {value} » a été ignoré.",
+  "ru": "Используется до 50 фильтров in:, поэтому «{value}» пропущен.",
+  "zh-Hans": "最多使用 50 个 in: 筛选条件,因此“{value}”已被忽略。"
+ },
+ "Upcoming": {
+  "ar": "القادمة",
+  "de": "Demnächst",
+  "es": "Próximos",
+  "fr": "À venir",
+  "ru": "Предстоящие",
+  "zh-Hans": "即将开始"
+ },
+ "Upload a cover picture": {
+  "ar": "ارفع صورة غلاف",
+  "de": "Titelbild hochladen",
+  "es": "Subir una imagen de portada",
+  "fr": "Importer une image de couverture",
+  "ru": "Загрузить обложку",
+  "zh-Hans": "上传封面图片"
+ },
+ "Upload a picture": {
+  "ar": "ارفع صورة",
+  "de": "Bild hochladen",
+  "es": "Subir una imagen",
+  "fr": "Importer une image",
+  "ru": "Загрузить картинку",
+  "zh-Hans": "上传图片"
+ },
+ "Upload a picture of your own; it is cropped to 16:9. The ready covers are there if you have none.": {
+  "ar": "ارفع صورتك الخاصة؛ تُقصّ بنسبة 16:9. الأغلفة الجاهزة متاحة إن لم تكن لديك صورة.",
+  "de": "Lade ein eigenes Bild hoch; es wird auf 16:9 zugeschnitten. Fertige Cover gibt es, falls du keins hast.",
+  "es": "Sube tu propia imagen; se recorta a 16:9. Hay portadas listas si no tienes ninguna.",
+  "fr": "Importe ta propre image ; elle est recadrée en 16:9. Des couvertures prêtes sont là si tu n'en as pas.",
+  "ru": "Загрузи свою картинку; она обрежется до 16:9. Если её нет, есть готовые обложки.",
+  "zh-Hans": "上传你自己的图片,会裁剪为 16:9。没有图片时可使用现成封面。"
+ },
+ "User ID": {
+  "ar": "معرّف المستخدم",
+  "de": "Nutzer-ID",
+  "es": "ID de usuario",
+  "fr": "ID utilisateur",
+  "ru": "ID пользователя",
+  "zh-Hans": "用户 ID"
+ },
+ "username": {
+  "ar": "اسم المستخدم",
+  "de": "Benutzername",
+  "es": "nombre de usuario",
+  "fr": "nom d'utilisateur",
+  "ru": "имя пользователя",
+  "zh-Hans": "用户名"
+ },
+ "View on {0}": {
+  "ar": "عرض على {0}",
+  "de": "Auf {0} ansehen",
+  "es": "Ver en {0}",
+  "fr": "Voir sur {0}",
+  "ru": "Открыть в {0}",
+  "zh-Hans": "在 {0} 上查看"
+ },
+ "Voice hangout": {
+  "ar": "جلسة صوتية",
+  "de": "Voice-Treff",
+  "es": "Charla de voz",
+  "fr": "Salon vocal détendu",
+  "ru": "Голосовая встреча",
+  "zh-Hans": "语音聚会"
+ },
+ "Votes": {
+  "ar": "الأصوات",
+  "de": "Stimmen",
+  "es": "Votos",
+  "fr": "Votes",
+  "ru": "Голоса",
+  "zh-Hans": "票数"
+ },
+ "Voting stops for everyone and the results become final. This can't be undone.": {
+  "ar": "سيتوقف التصويت للجميع وتصبح النتائج نهائية. لا يمكن التراجع عن ذلك.",
+  "de": "Die Abstimmung endet für alle und die Ergebnisse sind endgültig. Das lässt sich nicht rückgängig machen.",
+  "es": "La votación se cierra para todos y los resultados serán definitivos. No se puede deshacer.",
+  "fr": "Le vote s'arrête pour tout le monde et les résultats deviennent définitifs. Cette action est irréversible.",
+  "ru": "Голосование закончится для всех, а результаты станут окончательными. Это нельзя отменить.",
+  "zh-Hans": "投票将对所有人结束,结果成为最终结果。此操作无法撤销。"
+ },
+ "Waiting": {
+  "ar": "في الانتظار",
+  "de": "Wartend",
+  "es": "En espera",
+  "fr": "En attente",
+  "ru": "Ожидание",
+  "zh-Hans": "等候中"
+ },
+ "Waiting list": {
+  "ar": "قائمة الانتظار",
+  "de": "Warteliste",
+  "es": "Lista de espera",
+  "fr": "Liste d'attente",
+  "ru": "Список ожидания",
+  "zh-Hans": "候补名单"
+ },
+ "Watch party": {
+  "ar": "مشاهدة جماعية",
+  "de": "Watchparty",
+  "es": "Fiesta de visionado",
+  "fr": "Soirée visionnage",
+  "ru": "Совместный просмотр",
+  "zh-Hans": "观影派对"
+ },
+ "We play together in voice. Bring a game you like, or join the one that is running.": {
+  "ar": "نلعب معًا في القناة الصوتية. أحضر لعبة تحبها، أو انضم إلى اللعبة الجارية.",
+  "de": "Wir spielen zusammen im Voice. Bring ein Spiel mit, das du magst, oder steig in das laufende ein.",
+  "es": "Jugamos juntos en voz. Trae un juego que te guste o únete al que esté en marcha.",
+  "fr": "On joue ensemble en vocal. Apporte un jeu que tu aimes, ou rejoins celui en cours.",
+  "ru": "Играем вместе в голосовом чате. Принеси игру, которая тебе нравится, или присоединяйся к текущей.",
+  "zh-Hans": "我们在语音里一起玩。带上你喜欢的游戏,或加入正在进行的游戏。"
+ },
+ "We watch together and talk about it in voice. Come a few minutes early.": {
+  "ar": "نشاهد معًا ونتحدث عنه في القناة الصوتية. تعال قبل الموعد بدقائق.",
+  "de": "Wir schauen zusammen und reden im Voice darüber. Komm ein paar Minuten früher.",
+  "es": "Vemos juntos y lo comentamos en voz. Llega unos minutos antes.",
+  "fr": "On regarde ensemble et on en parle en vocal. Viens quelques minutes en avance.",
+  "ru": "Смотрим вместе и обсуждаем в голосовом чате. Приходи на несколько минут раньше.",
+  "zh-Hans": "我们一起观看并在语音里聊。请提前几分钟到场。"
+ },
+ "Welcome back, {userName}. Member since {since}.": {
+  "ar": "أهلًا بعودتك يا {userName}. عضو منذ {since}.",
+  "de": "Willkommen zurück, {userName}. Mitglied seit {since}.",
+  "es": "Te damos la bienvenida de nuevo, {userName}. Miembro desde {since}.",
+  "fr": "Bon retour, {userName}. Membre depuis {since}.",
+  "ru": "С возвращением, {userName}. Участник с {since}.",
+  "zh-Hans": "欢迎回来,{userName}。加入时间:{since}。"
+ },
+ "Welcome to {name}": {
+  "ar": "مرحبًا بك في {name}",
+  "de": "Willkommen bei {name}",
+  "es": "Te damos la bienvenida a {name}",
+  "fr": "Bienvenue sur {name}",
+  "ru": "Добро пожаловать в {name}",
+  "zh-Hans": "欢迎来到 {name}"
+ },
+ "Welcome, {userName}! Glad you are here.": {
+  "ar": "أهلًا بك يا {userName}! يسعدنا وجودك.",
+  "de": "Willkommen, {userName}! Schön, dass du da bist.",
+  "es": "¡Te damos la bienvenida, {userName}! Nos alegra que estés aquí.",
+  "fr": "Bienvenue, {userName} ! Content de t'avoir ici.",
+  "ru": "Добро пожаловать, {userName}! Рады, что ты с нами.",
+  "zh-Hans": "欢迎,{userName}!很高兴你来了。"
+ },
+ "What do you want to ask?": {
+  "ar": "ماذا تريد أن تسأل؟",
+  "de": "Was möchtest du fragen?",
+  "es": "¿Qué quieres preguntar?",
+  "fr": "Que veux-tu demander ?",
+  "ru": "О чём хочешь спросить?",
+  "zh-Hans": "你想问什么?"
+ },
+ "When": {
+  "ar": "متى",
+  "de": "Wann",
+  "es": "Cuándo",
+  "fr": "Quand",
+  "ru": "Когда",
+  "zh-Hans": "时间"
+ },
+ "When the organisers plan something, it shows up here.": {
+  "ar": "عندما يخطط المنظمون لشيء ما، يظهر هنا.",
+  "de": "Wenn die Organisatoren etwas planen, erscheint es hier.",
+  "es": "Cuando los organizadores planeen algo, aparecerá aquí.",
+  "fr": "Quand les organisateurs prévoient quelque chose, ça apparaît ici.",
+  "ru": "Когда организаторы что-то запланируют, это появится здесь.",
+  "zh-Hans": "组织者安排活动后会显示在这里。"
+ },
+ "Where to search": {
+  "ar": "أين تبحث",
+  "de": "Wo suchen",
+  "es": "Dónde buscar",
+  "fr": "Où chercher",
+  "ru": "Где искать",
+  "zh-Hans": "搜索范围"
+ },
+ "Which events": {
+  "ar": "أي الفعاليات",
+  "de": "Welche Events",
+  "es": "Qué eventos",
+  "fr": "Quels événements",
+  "ru": "Какие события",
+  "zh-Hans": "哪些活动"
+ },
+ "Who came": {
+  "ar": "من حضر",
+  "de": "Wer da war",
+  "es": "Quién vino",
+  "fr": "Qui est venu",
+  "ru": "Кто пришёл",
+  "zh-Hans": "谁来了"
+ },
+ "Who is coming": {
+  "ar": "من سيحضر",
+  "de": "Wer kommt",
+  "es": "Quién viene",
+  "fr": "Qui vient",
+  "ru": "Кто придёт",
+  "zh-Hans": "谁会来"
+ },
+ "Who sees it": {
+  "ar": "من يراها",
+  "de": "Wer es sieht",
+  "es": "Quién lo ve",
+  "fr": "Qui le voit",
+  "ru": "Кто видит",
+  "zh-Hans": "谁能看到"
+ },
+ "Who sees the names of the people coming": {
+  "ar": "من يرى أسماء الحاضرين",
+  "de": "Wer die Namen der Teilnehmenden sieht",
+  "es": "Quién ve los nombres de quienes vienen",
+  "fr": "Qui voit les noms des personnes qui viennent",
+  "ru": "Кто видит имена тех, кто придёт",
+  "zh-Hans": "谁能看到参加者的名字"
+ },
+ "Whole server": {
+  "ar": "السيرفر بأكمله",
+  "de": "Ganzer Server",
+  "es": "Todo el servidor",
+  "fr": "Tout le serveur",
+  "ru": "Весь сервер",
+  "zh-Hans": "整个服务器"
+ },
+ "Will you come?": {
+  "ar": "هل ستحضر؟",
+  "de": "Kommst du?",
+  "es": "¿Vendrás?",
+  "fr": "Tu viens ?",
+  "ru": "Придёшь?",
+  "zh-Hans": "你会来吗?"
+ },
+ "Without an end time it ends 12 hours after it starts, or when a manager ends it.": {
+  "ar": "بدون وقت نهاية، تنتهي بعد 12 ساعة من بدايتها، أو عندما يُنهيها مدير.",
+  "de": "Ohne Endzeit endet es 12 Stunden nach dem Start oder wenn ein Manager es beendet.",
+  "es": "Sin hora de fin, termina 12 horas después de empezar, o cuando un gestor la finaliza.",
+  "fr": "Sans heure de fin, il se termine 12 heures après le début, ou quand un gestionnaire y met fin.",
+  "ru": "Без времени окончания оно закончится через 12 часов после начала или когда его завершит модератор.",
+  "zh-Hans": "未设置结束时间时,将在开始 12 小时后结束,或由管理员结束。"
+ },
+ "Write a question.": {
+  "ar": "اكتب سؤالًا.",
+  "de": "Schreibe eine Frage.",
+  "es": "Escribe una pregunta.",
+  "fr": "Écris une question.",
+  "ru": "Напиши вопрос.",
+  "zh-Hans": "请输入问题。"
+ },
+ "You are going": {
+  "ar": "ستحضر",
+  "de": "Du gehst hin",
+  "es": "Vas a ir",
+  "fr": "Tu y vas",
+  "ru": "Ты идёшь",
+  "zh-Hans": "你将参加"
+ },
+ "You are number {0} on the waiting list": {
+  "ar": "ترتيبك {0} في قائمة الانتظار",
+  "de": "Du bist Nummer {0} auf der Warteliste",
+  "es": "Eres el número {0} en la lista de espera",
+  "fr": "Tu es numéro {0} sur la liste d'attente",
+  "ru": "Ты {0}-й в списке ожидания",
+  "zh-Hans": "你在候补名单中排第 {0}"
+ },
+ "You are on the waiting list": {
+  "ar": "أنت في قائمة الانتظار",
+  "de": "Du stehst auf der Warteliste",
+  "es": "Estás en la lista de espera",
+  "fr": "Tu es sur la liste d'attente",
+  "ru": "Ты в списке ожидания",
+  "zh-Hans": "你在候补名单中"
+ },
+ "You have a seat": {
+  "ar": "لديك مقعد",
+  "de": "Du hast einen Platz",
+  "es": "Tienes una plaza",
+  "fr": "Tu as une place",
+  "ru": "У тебя есть место",
+  "zh-Hans": "你有座位"
+ },
+ "You have a seat. Change your answer any time.": {
+  "ar": "لديك مقعد. يمكنك تغيير إجابتك في أي وقت.",
+  "de": "Du hast einen Platz. Du kannst deine Antwort jederzeit ändern.",
+  "es": "Tienes una plaza. Puedes cambiar tu respuesta cuando quieras.",
+  "fr": "Tu as une place. Tu peux changer ta réponse à tout moment.",
+  "ru": "У тебя есть место. Ответ можно изменить в любой момент.",
+  "zh-Hans": "你有座位。可随时更改回复。"
+ },
+ "You have not answered any event here": {
+  "ar": "لم تردّ على أي فعالية هنا",
+  "de": "Du hast hier noch auf kein Event geantwortet",
+  "es": "No has respondido a ningún evento aquí",
+  "fr": "Tu n'as répondu à aucun événement ici",
+  "ru": "Ты ещё не отвечал ни на одно событие здесь",
+  "zh-Hans": "你还没有回复这里的任何活动"
+ },
+ "Your question": {
+  "ar": "سؤالك",
+  "de": "Deine Frage",
+  "es": "Tu pregunta",
+  "fr": "Ta question",
+  "ru": "Твой вопрос",
+  "zh-Hans": "你的问题"
+ },
+ "Your room": {
+  "ar": "غرفتك",
+  "de": "Dein Raum",
+  "es": "Tu sala",
+  "fr": "Ton salon",
+  "ru": "Твоя комната",
+  "zh-Hans": "你的房间"
+ },
+ "Zrzur since {since}": {
+  "ar": "في زرزور منذ {since}",
+  "de": "Bei Zrzur seit {since}",
+  "es": "En Zrzur desde {since}",
+  "fr": "Sur Zrzur depuis {since}",
+  "ru": "В Zrzur с {since}",
+  "zh-Hans": "加入 Zrzur 时间:{since}"
+ },
+ "{0, plural, one {# member} other {# members}}": {
+  "ar": "{0, plural, zero {# عضو} one {عضو واحد} two {عضوان} few {# أعضاء} many {# عضوًا} other {# عضو}}",
+  "de": "{0, plural, one {# Mitglied} other {# Mitglieder}}",
+  "es": "{0, plural, one {# miembro} other {# miembros}}",
+  "fr": "{0, plural, one {# membre} other {# membres}}",
+  "ru": "{0, plural, one {# участник} few {# участника} many {# участников} other {# участника}}",
+  "zh-Hans": "{0, plural, other {# 位成员}}"
+ },
+ "{0, plural, one {# new member} other {# new members}}": {
+  "ar": "{0, plural, zero {# عضو جديد} one {عضو جديد} two {عضوان جديدان} few {# أعضاء جدد} many {# عضوًا جديدًا} other {# عضو جديد}}",
+  "de": "{0, plural, one {# neues Mitglied} other {# neue Mitglieder}}",
+  "es": "{0, plural, one {# miembro nuevo} other {# miembros nuevos}}",
+  "fr": "{0, plural, one {# nouveau membre} other {# nouveaux membres}}",
+  "ru": "{0, plural, one {# новый участник} few {# новых участника} many {# новых участников} other {# нового участника}}",
+  "zh-Hans": "{0, plural, other {# 位新成员}}"
+ },
+ "{0} in voice": {
+  "ar": "{0} في القناة الصوتية",
+  "de": "{0} im Voice",
+  "es": "{0} en voz",
+  "fr": "{0} en vocal",
+  "ru": "{0} в голосовом",
+  "zh-Hans": "{0} 人在语音中"
+ },
+ "{0} people are here": {
+  "ar": "{0} أشخاص هنا",
+  "de": "{0} Personen sind hier",
+  "es": "{0} personas están aquí",
+  "fr": "{0} personnes sont ici",
+  "ru": "Здесь {0} чел.",
+  "zh-Hans": "{0} 人在这里"
+ },
+ "1 person is here": {
+  "ar": "شخص واحد هنا",
+  "de": "1 Person ist hier",
+  "es": "1 persona está aquí",
+  "fr": "1 personne est ici",
+  "ru": "Здесь 1 человек",
+  "zh-Hans": "1 人在这里"
+ },
+ "A bot sends spam, abuses commands or asks for too much": {
+  "ar": "بوت يرسل رسائل مزعجة أو يسيء استخدام الأوامر أو يطلب أكثر من اللازم",
+  "de": "Ein Bot verschickt Spam, missbraucht Befehle oder verlangt zu viel",
+  "es": "Un bot envía spam, abusa de los comandos o pide demasiado",
+  "fr": "Un bot envoie du spam, abuse des commandes ou demande trop",
+  "ru": "Бот рассылает спам, злоупотребляет командами или запрашивает слишком много",
+  "zh-Hans": "机器人发送垃圾信息、滥用命令或索取过多权限"
+ },
+ "About this server": {
+  "ar": "عن هذا السيرفر",
+  "de": "Über diesen Server",
+  "es": "Acerca de este servidor",
+  "fr": "À propos de ce serveur",
+  "ru": "Об этом сервере",
+  "zh-Hans": "关于此服务器"
+ },
+ "Abuses commands": {
+  "ar": "يسيء استخدام الأوامر",
+  "de": "Missbraucht Befehle",
+  "es": "Abusa de los comandos",
+  "fr": "Abuse des commandes",
+  "ru": "Злоупотребляет командами",
+  "zh-Hans": "滥用命令"
+ },
+ "Accept request": {
+  "ar": "قبول الطلب",
+  "de": "Anfrage annehmen",
+  "es": "Aceptar solicitud",
+  "fr": "Accepter la demande",
+  "ru": "Принять запрос",
+  "zh-Hans": "接受请求"
+ },
+ "Accept the rules": {
+  "ar": "قبول القواعد",
+  "de": "Regeln akzeptieren",
+  "es": "Aceptar las reglas",
+  "fr": "Accepter les règles",
+  "ru": "Принять правила",
+  "zh-Hans": "接受规则"
+ },
+ "Accept the server rules to start writing here.": {
+  "ar": "اقبل قواعد السيرفر لتبدأ الكتابة هنا.",
+  "de": "Akzeptiere die Serverregeln, um hier zu schreiben.",
+  "es": "Acepta las reglas del servidor para empezar a escribir aquí.",
+  "fr": "Accepte les règles du serveur pour commencer à écrire ici.",
+  "ru": "Прими правила сервера, чтобы писать здесь.",
+  "zh-Hans": "接受服务器规则后即可在此发言。"
+ },
+ "Active now": {
+  "ar": "نشط الآن",
+  "de": "Jetzt aktiv",
+  "es": "Activo ahora",
+  "fr": "Actif maintenant",
+  "ru": "Сейчас в сети",
+  "zh-Hans": "当前在线"
+ },
+ "Activities": {
+  "ar": "الأنشطة",
+  "de": "Aktivitäten",
+  "es": "Actividades",
+  "fr": "Activités",
+  "ru": "Активности",
+  "zh-Hans": "活动"
+ },
+ "Add a friend": {
+  "ar": "إضافة صديق",
+  "de": "Freund hinzufügen",
+  "es": "Añadir un amigo",
+  "fr": "Ajouter un ami",
+  "ru": "Добавить друга",
+  "zh-Hans": "添加好友"
+ },
+ "Add a note": {
+  "ar": "إضافة ملاحظة",
+  "de": "Notiz hinzufügen",
+  "es": "Añadir una nota",
+  "fr": "Ajouter une note",
+  "ru": "Добавить заметку",
+  "zh-Hans": "添加备注"
+ },
+ "Add a profile picture": {
+  "ar": "أضف صورة ملف شخصي",
+  "de": "Profilbild hinzufügen",
+  "es": "Añadir una foto de perfil",
+  "fr": "Ajouter une photo de profil",
+  "ru": "Добавить фото профиля",
+  "zh-Hans": "添加头像"
+ },
+ "Add month and year of birth": {
+  "ar": "أضف شهر وسنة الميلاد",
+  "de": "Geburtsmonat und -jahr hinzufügen",
+  "es": "Añadir mes y año de nacimiento",
+  "fr": "Ajouter le mois et l'année de naissance",
+  "ru": "Добавить месяц и год рождения",
+  "zh-Hans": "添加出生年月"
+ },
+ "Add people by their username to chat, call and play together.": {
+  "ar": "أضف أشخاصًا باسم المستخدم لتتحدثوا وتتصلوا وتلعبوا معًا.",
+  "de": "Füge Leute über ihren Benutzernamen hinzu, um zu chatten, zu telefonieren und zusammen zu spielen.",
+  "es": "Añade personas con su nombre de usuario para chatear, llamar y jugar juntos.",
+  "fr": "Ajoute des gens avec leur nom d'utilisateur pour discuter, appeler et jouer ensemble.",
+  "ru": "Добавляй людей по имени пользователя, чтобы общаться, звонить и играть вместе.",
+  "zh-Hans": "通过用户名添加好友,一起聊天、通话和玩游戏。"
+ },
+ "Add reaction": {
+  "ar": "إضافة تفاعل",
+  "de": "Reaktion hinzufügen",
+  "es": "Añadir reacción",
+  "fr": "Ajouter une réaction",
+  "ru": "Добавить реакцию",
+  "zh-Hans": "添加表情回应"
+ },
+ "Address or documents": {
+  "ar": "عنوان أو مستندات",
+  "de": "Adresse oder Dokumente",
+  "es": "Dirección o documentos",
+  "fr": "Adresse ou documents",
+  "ru": "Адрес или документы",
+  "zh-Hans": "地址或证件"
+ },
+ "Age-restricted server": {
+  "ar": "سيرفر مقيّد بالعمر",
+  "de": "Altersbeschränkter Server",
+  "es": "Servidor con restricción de edad",
+  "fr": "Serveur soumis à une limite d'âge",
+  "ru": "Сервер с возрастным ограничением",
+  "zh-Hans": "年龄限制服务器"
+ },
+ "Alerts": {
+  "ar": "التنبيهات",
+  "de": "Hinweise",
+  "es": "Alertas",
+  "fr": "Alertes",
+  "ru": "Оповещения",
+  "zh-Hans": "提醒"
+ },
+ "All friends": {
+  "ar": "كل الأصدقاء",
+  "de": "Alle Freunde",
+  "es": "Todos los amigos",
+  "fr": "Tous les amis",
+  "ru": "Все друзья",
+  "zh-Hans": "所有好友"
+ },
+ "Allow microphone or camera access in your browser settings.": {
+  "ar": "اسمح بالوصول إلى الميكروفون أو الكاميرا من إعدادات المتصفح.",
+  "de": "Erlaube den Zugriff auf Mikrofon oder Kamera in den Browsereinstellungen.",
+  "es": "Permite el acceso al micrófono o a la cámara en los ajustes del navegador.",
+  "fr": "Autorise l'accès au micro ou à la caméra dans les réglages du navigateur.",
+  "ru": "Разреши доступ к микрофону или камере в настройках браузера.",
+  "zh-Hans": "请在浏览器设置中允许使用麦克风或摄像头。"
+ },
+ "An app that misrepresents what it does or where its links go": {
+  "ar": "تطبيق يضلّل بشأن ما يفعله أو وجهة روابطه",
+  "de": "Eine App, die falsch darstellt, was sie tut oder wohin ihre Links führen",
+  "es": "Una app que engaña sobre lo que hace o adónde llevan sus enlaces",
+  "fr": "Une appli qui trompe sur ce qu'elle fait ou sur la destination de ses liens",
+  "ru": "Приложение, которое вводит в заблуждение насчёт своих функций или ссылок",
+  "zh-Hans": "误导用户其功能或链接去向的应用"
+ },
+ "Animals & nature": {
+  "ar": "الحيوانات والطبيعة",
+  "de": "Tiere & Natur",
+  "es": "Animales y naturaleza",
+  "fr": "Animaux et nature",
+  "ru": "Животные и природа",
+  "zh-Hans": "动物与自然"
+ },
+ "Answer": {
+  "ar": "إجابة",
+  "de": "Antwort",
+  "es": "Respuesta",
+  "fr": "Réponse",
+  "ru": "Ответ",
+  "zh-Hans": "回答"
+ },
+ "Answer {0}": {
+  "ar": "الإجابة {0}",
+  "de": "Antwort {0}",
+  "es": "Respuesta {0}",
+  "fr": "Réponse {0}",
+  "ru": "Ответ {0}",
+  "zh-Hans": "回答 {0}"
+ },
+ "Anything else we should know? (optional)": {
+  "ar": "هل هناك شيء آخر يجب أن نعرفه؟ (اختياري)",
+  "de": "Gibt es noch etwas, das wir wissen sollten? (optional)",
+  "es": "¿Algo más que debamos saber? (opcional)",
+  "fr": "Autre chose à nous dire ? (facultatif)",
+  "ru": "Есть ли что-то ещё, что нам стоит знать? (необязательно)",
+  "zh-Hans": "还有什么需要我们知道的吗?(选填)"
+ },
+ "Applying…": {
+  "ar": "جارٍ التطبيق…",
+  "de": "Wird angewendet…",
+  "es": "Aplicando…",
+  "fr": "Application…",
+  "ru": "Применение…",
+  "zh-Hans": "正在应用…"
+ },
+ "Archive thread": {
+  "ar": "أرشفة الخيط",
+  "de": "Thread archivieren",
+  "es": "Archivar hilo",
+  "fr": "Archiver le fil",
+  "ru": "Архивировать ветку",
+  "zh-Hans": "归档子区"
+ },
+ "archived": {
+  "ar": "مؤرشف",
+  "de": "archiviert",
+  "es": "archivado",
+  "fr": "archivé",
+  "ru": "в архиве",
+  "zh-Hans": "已归档"
+ },
+ "Archived": {
+  "ar": "مؤرشف",
+  "de": "Archiviert",
+  "es": "Archivado",
+  "fr": "Archivé",
+  "ru": "В архиве",
+  "zh-Hans": "已归档"
+ },
+ "Asks for too many permissions": {
+  "ar": "يطلب أذونات كثيرة جدًا",
+  "de": "Verlangt zu viele Berechtigungen",
+  "es": "Pide demasiados permisos",
+  "fr": "Demande trop d'autorisations",
+  "ru": "Запрашивает слишком много разрешений",
+  "zh-Hans": "索取过多权限"
+ },
+ "Attacks on a group, or threats of violence": {
+  "ar": "هجوم على مجموعة، أو تهديد بالعنف",
+  "de": "Angriffe auf eine Gruppe oder Gewaltandrohungen",
+  "es": "Ataques a un grupo o amenazas de violencia",
+  "fr": "Attaques contre un groupe ou menaces de violence",
+  "ru": "Нападки на группу или угрозы насилием",
+  "zh-Hans": "攻击某一群体或暴力威胁"
+ },
+ "Back to categories": {
+  "ar": "العودة إلى التصنيفات",
+  "de": "Zurück zu den Kategorien",
+  "es": "Volver a las categorías",
+  "fr": "Retour aux catégories",
+  "ru": "Назад к категориям",
+  "zh-Hans": "返回分类"
+ },
+ "Blocked people can't message you or send requests.": {
+  "ar": "لا يستطيع المحظورون مراسلتك أو إرسال طلبات إليك.",
+  "de": "Blockierte Personen können dir keine Nachrichten oder Anfragen senden.",
+  "es": "Las personas bloqueadas no pueden escribirte ni enviarte solicitudes.",
+  "fr": "Les personnes bloquées ne peuvent pas t'écrire ni t'envoyer de demandes.",
+  "ru": "Заблокированные не могут писать тебе или отправлять запросы.",
+  "zh-Hans": "被屏蔽的人无法给你发消息或发送请求。"
+ },
+ "Browse categories": {
+  "ar": "تصفّح التصنيفات",
+  "de": "Kategorien durchsuchen",
+  "es": "Explorar categorías",
+  "fr": "Parcourir les catégories",
+  "ru": "Просмотр категорий",
+  "zh-Hans": "浏览分类"
+ },
+ "Bullying": {
+  "ar": "تنمّر",
+  "de": "Mobbing",
+  "es": "Acoso",
+  "fr": "Harcèlement",
+  "ru": "Травля",
+  "zh-Hans": "欺凌"
+ },
+ "Calls": {
+  "ar": "المكالمات",
+  "de": "Anrufe",
+  "es": "Llamadas",
+  "fr": "Appels",
+  "ru": "Звонки",
+  "zh-Hans": "通话"
+ },
+ "Camera unavailable": {
+  "ar": "الكاميرا غير متاحة",
+  "de": "Kamera nicht verfügbar",
+  "es": "Cámara no disponible",
+  "fr": "Caméra indisponible",
+  "ru": "Камера недоступна",
+  "zh-Hans": "摄像头不可用"
+ },
+ "Cancelled": {
+  "ar": "أُلغيت",
+  "de": "Abgebrochen",
+  "es": "Cancelado",
+  "fr": "Annulé",
+  "ru": "Отменено",
+  "zh-Hans": "已取消"
+ },
+ "Channels visible to you": {
+  "ar": "القنوات التي تراها",
+  "de": "Für dich sichtbare Kanäle",
+  "es": "Canales visibles para ti",
+  "fr": "Salons visibles pour toi",
+  "ru": "Каналы, которые ты видишь",
+  "zh-Hans": "你可见的频道"
+ },
+ "Close search": {
+  "ar": "إغلاق البحث",
+  "de": "Suche schließen",
+  "es": "Cerrar búsqueda",
+  "fr": "Fermer la recherche",
+  "ru": "Закрыть поиск",
+  "zh-Hans": "关闭搜索"
+ },
+ "Collecting or misusing people's data": {
+  "ar": "جمع بيانات الأشخاص أو إساءة استخدامها",
+  "de": "Daten von Personen sammeln oder missbrauchen",
+  "es": "Recopilar o usar mal los datos de las personas",
+  "fr": "Collecter ou détourner les données des gens",
+  "ru": "Сбор или неправомерное использование данных людей",
+  "zh-Hans": "收集或滥用他人数据"
+ },
+ "Content marked as mature needs an age check that Zrzur doesn't offer yet, so it is closed for everyone.": {
+  "ar": "المحتوى المصنّف للبالغين يحتاج إلى تحقق من العمر لا يوفّره زرزور بعد، لذلك هو مغلق للجميع.",
+  "de": "Als nicht jugendfrei markierte Inhalte brauchen eine Altersprüfung, die Zrzur noch nicht anbietet. Sie sind daher für alle gesperrt.",
+  "es": "El contenido marcado como para adultos necesita una verificación de edad que Zrzur aún no ofrece, así que está cerrado para todos.",
+  "fr": "Le contenu marqué comme réservé aux adultes nécessite une vérification d'âge que Zrzur ne propose pas encore. Il est donc fermé pour tout le monde.",
+  "ru": "Контент для взрослых требует проверки возраста, которой в Zrzur пока нет, поэтому он закрыт для всех.",
+  "zh-Hans": "标记为成人内容需要年龄验证,而 Zrzur 暂未提供,因此对所有人关闭。"
+ },
+ "Content shared without the owner's permission": {
+  "ar": "محتوى مشارَك دون إذن صاحبه",
+  "de": "Inhalte, die ohne Erlaubnis des Eigentümers geteilt werden",
+  "es": "Contenido compartido sin permiso del propietario",
+  "fr": "Contenu partagé sans l'autorisation de son propriétaire",
+  "ru": "Контент, опубликованный без разрешения владельца",
+  "zh-Hans": "未经所有者许可分享的内容"
+ },
+ "Copy username": {
+  "ar": "نسخ اسم المستخدم",
+  "de": "Benutzernamen kopieren",
+  "es": "Copiar nombre de usuario",
+  "fr": "Copier le nom d'utilisateur",
+  "ru": "Копировать имя пользователя",
+  "zh-Hans": "复制用户名"
+ },
+ "Copyright": {
+  "ar": "حقوق النشر",
+  "de": "Urheberrecht",
+  "es": "Derechos de autor",
+  "fr": "Droit d'auteur",
+  "ru": "Авторское право",
+  "zh-Hans": "版权"
+ },
+ "Couldn't load GIFs": {
+  "ar": "تعذّر تحميل ملفات GIF",
+  "de": "GIFs konnten nicht geladen werden",
+  "es": "No se pudieron cargar los GIF",
+  "fr": "Impossible de charger les GIF",
+  "ru": "Не удалось загрузить GIF",
+  "zh-Hans": "无法加载 GIF"
+ },
+ "Couldn't load this profile.": {
+  "ar": "تعذّر تحميل هذا الملف الشخصي.",
+  "de": "Dieses Profil konnte nicht geladen werden.",
+  "es": "No se pudo cargar este perfil.",
+  "fr": "Impossible de charger ce profil.",
+  "ru": "Не удалось загрузить этот профиль.",
+  "zh-Hans": "无法加载此个人资料。"
+ },
+ "Created": {
+  "ar": "تاريخ الإنشاء",
+  "de": "Erstellt",
+  "es": "Creado",
+  "fr": "Créé",
+  "ru": "Создано",
+  "zh-Hans": "创建时间"
+ },
+ "Describe what happened. Don't paste private information you don't need to share.": {
+  "ar": "صف ما حدث. لا تلصق معلومات خاصة لا يلزم مشاركتها.",
+  "de": "Beschreibe, was passiert ist. Füge keine privaten Informationen ein, die du nicht teilen musst.",
+  "es": "Describe lo que pasó. No pegues información privada que no necesites compartir.",
+  "fr": "Décris ce qui s'est passé. Ne colle pas d'informations privées que tu n'as pas besoin de partager.",
+  "ru": "Опиши, что случилось. Не вставляй личную информацию, которой не обязательно делиться.",
+  "zh-Hans": "请描述发生了什么。不要粘贴不必要分享的私人信息。"
+ },
+ "Discard recording": {
+  "ar": "تجاهل التسجيل",
+  "de": "Aufnahme verwerfen",
+  "es": "Descartar grabación",
+  "fr": "Supprimer l'enregistrement",
+  "ru": "Удалить запись",
+  "zh-Hans": "放弃录音"
+ },
+ "Disconnect from voice": {
+  "ar": "قطع الاتصال بالصوت",
+  "de": "Sprachverbindung trennen",
+  "es": "Desconectar de la voz",
+  "fr": "Quitter le vocal",
+  "ru": "Отключиться от голосового",
+  "zh-Hans": "断开语音连接"
+ },
+ "Dismiss": {
+  "ar": "إخفاء",
+  "de": "Ausblenden",
+  "es": "Descartar",
+  "fr": "Ignorer",
+  "ru": "Скрыть",
+  "zh-Hans": "忽略"
+ },
+ "Draft": {
+  "ar": "مسودة",
+  "de": "Entwurf",
+  "es": "Borrador",
+  "fr": "Brouillon",
+  "ru": "Черновик",
+  "zh-Hans": "草稿"
+ },
+ "Drafts": {
+  "ar": "المسودات",
+  "de": "Entwürfe",
+  "es": "Borradores",
+  "fr": "Brouillons",
+  "ru": "Черновики",
+  "zh-Hans": "草稿"
+ },
+ "Drop into a voice room": {
+  "ar": "انضم إلى غرفة صوتية",
+  "de": "In einen Sprachraum springen",
+  "es": "Entra a una sala de voz",
+  "fr": "Rejoindre un salon vocal",
+  "ru": "Зайти в голосовую комнату",
+  "zh-Hans": "加入语音房间"
+ },
+ "Edit": {
+  "ar": "تعديل",
+  "de": "Bearbeiten",
+  "es": "Editar",
+  "fr": "Modifier",
+  "ru": "Изменить",
+  "zh-Hans": "编辑"
+ },
+ "Edit lobby": {
+  "ar": "تعديل الردهة",
+  "de": "Lobby bearbeiten",
+  "es": "Editar lobby",
+  "fr": "Modifier le lobby",
+  "ru": "Изменить лобби",
+  "zh-Hans": "编辑大厅"
+ },
+ "End now": {
+  "ar": "أنهِ الآن",
+  "de": "Jetzt beenden",
+  "es": "Finalizar ahora",
+  "fr": "Terminer maintenant",
+  "ru": "Завершить сейчас",
+  "zh-Hans": "立即结束"
+ },
+ "Ends": {
+  "ar": "تنتهي",
+  "de": "Endet",
+  "es": "Termina",
+  "fr": "Fin",
+  "ru": "Конец",
+  "zh-Hans": "结束"
+ },
+ "Enter channel": {
+  "ar": "دخول القناة",
+  "de": "Kanal betreten",
+  "es": "Entrar al canal",
+  "fr": "Entrer dans le salon",
+  "ru": "Войти в канал",
+  "zh-Hans": "进入频道"
+ }
+}

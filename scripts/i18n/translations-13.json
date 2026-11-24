@@ -1,0 +1,1146 @@
+{
+  "This server only": {
+    "ar": "هذا السيرفر فقط",
+    "de": "Nur dieser Server",
+    "es": "Solo este servidor",
+    "fr": "Ce serveur uniquement",
+    "ru": "Только этот сервер",
+    "zh-Hans": "仅此服务器"
+  },
+  "This sound is too long. Sounds can be up to {max} seconds.": {
+    "ar": "هذا الصوت طويل جدًا. يمكن أن تصل الأصوات إلى {max} ثانية.",
+    "de": "Dieser Sound ist zu lang. Sounds dürfen bis zu {max} Sekunden lang sein.",
+    "es": "Este sonido es demasiado largo. Los sonidos pueden durar hasta {max} segundos.",
+    "fr": "Ce son est trop long. Les sons peuvent durer jusqu'à {max} secondes.",
+    "ru": "Этот звук слишком длинный. Звуки могут длиться до {max} с.",
+    "zh-Hans": "此音效太长。音效最长可达 {max} 秒。"
+  },
+  "This Steam account or its game details are private. Make them public on Steam, then press Refresh.": {
+    "ar": "حساب Steam هذا أو تفاصيل ألعابه خاصة. اجعلها عامة على Steam ثم اضغط تحديث.",
+    "de": "Dieses Steam-Konto oder seine Spieldetails sind privat. Stelle sie auf Steam auf öffentlich und tippe dann auf Aktualisieren.",
+    "es": "Esta cuenta de Steam o los detalles de sus juegos son privados. Hazlos públicos en Steam y pulsa Actualizar.",
+    "fr": "Ce compte Steam ou les détails de ses jeux sont privés. Rends-les publics sur Steam, puis appuie sur Actualiser.",
+    "ru": "Этот аккаунт Steam или данные об играх скрыты. Сделайте их публичными в Steam и нажмите «Обновить».",
+    "zh-Hans": "此 Steam 账号或其游戏详情为私密。请在 Steam 上设为公开，然后点按刷新。"
+  },
+  "This thread follows who can see #{parentName}.": {
+    "ar": "يتبع هذا الموضوع من يمكنه رؤية #{parentName}.",
+    "de": "Dieser Thread folgt der Sichtbarkeit von #{parentName}.",
+    "es": "Este hilo sigue quién puede ver #{parentName}.",
+    "fr": "Ce fil suit qui peut voir #{parentName}.",
+    "ru": "Эта ветка следует правилам видимости #{parentName}.",
+    "zh-Hans": "此主题串沿用 #{parentName} 的可见范围。"
+  },
+  "This thread follows who can see its channel.": {
+    "ar": "يتبع هذا الموضوع من يمكنه رؤية قناته.",
+    "de": "Dieser Thread folgt der Sichtbarkeit seines Kanals.",
+    "es": "Este hilo sigue quién puede ver su canal.",
+    "fr": "Ce fil suit qui peut voir son salon.",
+    "ru": "Эта ветка следует правилам видимости своего канала.",
+    "zh-Hans": "此主题串沿用其频道的可见范围。"
+  },
+  "This ties your {name} account to your Zrzur account.": {
+    "ar": "هذا يربط حساب {name} بحساب زرزور الخاص بك.",
+    "de": "Damit verknüpfst du dein {name}-Konto mit deinem Zrzur-Konto.",
+    "es": "Esto vincula tu cuenta de {name} con tu cuenta de Zrzur.",
+    "fr": "Cela relie ton compte {name} à ton compte Zrzur.",
+    "ru": "Это связывает ваш аккаунт {name} с аккаунтом Zrzur.",
+    "zh-Hans": "这会将你的 {name} 账号与 Zrzur 账号关联。"
+  },
+  "this ties your Steam account to your Zrzur account. The unlock days show when you played.": {
+    "ar": "هذا يربط حساب Steam الخاص بك بحساب زرزور. تظهر أيام الفتح متى لعبت.",
+    "de": "damit verknüpfst du dein Steam-Konto mit deinem Zrzur-Konto. Die Freischalttage zeigen, wann du gespielt hast.",
+    "es": "esto vincula tu cuenta de Steam con tu cuenta de Zrzur. Los días de desbloqueo muestran cuándo jugaste.",
+    "fr": "cela relie ton compte Steam à ton compte Zrzur. Les jours de déblocage montrent quand tu as joué.",
+    "ru": "это связывает ваш аккаунт Steam с аккаунтом Zrzur. Дни получения показывают, когда вы играли.",
+    "zh-Hans": "这会将你的 Steam 账号与 Zrzur 账号关联。解锁日期显示你游玩的时间。"
+  },
+  "Threshold": {
+    "ar": "الحد",
+    "de": "Schwellenwert",
+    "es": "Umbral",
+    "fr": "Seuil",
+    "ru": "Порог",
+    "zh-Hans": "阈值"
+  },
+  "Time in voice": {
+    "ar": "الوقت في الصوت",
+    "de": "Zeit im Sprachkanal",
+    "es": "Tiempo en voz",
+    "fr": "Temps en vocal",
+    "ru": "Время в голосе",
+    "zh-Hans": "语音时长"
+  },
+  "Time range": {
+    "ar": "النطاق الزمني",
+    "de": "Zeitraum",
+    "es": "Intervalo de tiempo",
+    "fr": "Période",
+    "ru": "Период",
+    "zh-Hans": "时间范围"
+  },
+  "Twitch, GitHub and Battle.net are trademarks of their owners. Zrzur is not affiliated with them or endorsed by them.": {
+    "ar": "Twitch وGitHub وBattle.net علامات تجارية لأصحابها. زرزور غير تابع لها ولا معتمد منها.",
+    "de": "Twitch, GitHub und Battle.net sind Marken ihrer jeweiligen Inhaber. Zrzur steht in keiner Verbindung zu ihnen und wird von ihnen nicht unterstützt.",
+    "es": "Twitch, GitHub y Battle.net son marcas registradas de sus propietarios. Zrzur no está afiliado a ellos ni cuenta con su respaldo.",
+    "fr": "Twitch, GitHub et Battle.net sont des marques de leurs propriétaires. Zrzur n'est ni affilié à eux ni approuvé par eux.",
+    "ru": "Twitch, GitHub и Battle.net — товарные знаки их владельцев. Zrzur не связан с ними и не одобрен ими.",
+    "zh-Hans": "Twitch、GitHub 和 Battle.net 是其各自所有者的商标。Zrzur 与它们无关联，也未获其认可。"
+  },
+  "Under 18, only friends can start a direct message with you. Anyone you write to first can reply.": {
+    "ar": "قبل سن 18، يمكن للأصدقاء فقط بدء رسالة خاصة معك. ومن تراسله أولًا يمكنه الرد.",
+    "de": "Unter 18 können nur Freunde eine Direktnachricht an dich starten. Wer von dir zuerst angeschrieben wird, kann antworten.",
+    "es": "Si tienes menos de 18 años, solo tus amigos pueden iniciar un mensaje directo contigo. Quien reciba tu mensaje primero puede responder.",
+    "fr": "Avant 18 ans, seuls tes amis peuvent t'envoyer un message privé en premier. Toute personne à qui tu écris d'abord peut répondre.",
+    "ru": "Если вам нет 18, только друзья могут начать с вами личную переписку. Тот, кому вы написали первым, может ответить.",
+    "zh-Hans": "未满 18 岁时，只有好友可以向你发起私信。你先发消息的人可以回复。"
+  },
+  "Unknown channel": {
+    "ar": "قناة غير معروفة",
+    "de": "Unbekannter Kanal",
+    "es": "Canal desconocido",
+    "fr": "Salon inconnu",
+    "ru": "Неизвестный канал",
+    "zh-Hans": "未知频道"
+  },
+  "Until {date}": {
+    "ar": "حتى {date}",
+    "de": "Bis {date}",
+    "es": "Hasta el {date}",
+    "fr": "Jusqu'au {date}",
+    "ru": "До {date}",
+    "zh-Hans": "直到 {date}"
+  },
+  "Up to {size}": {
+    "ar": "حتى {size}",
+    "de": "Bis zu {size}",
+    "es": "Hasta {size}",
+    "fr": "Jusqu'à {size}",
+    "ru": "До {size}",
+    "zh-Hans": "最大 {size}"
+  },
+  "Updated consent for {name}": {
+    "ar": "موافقة محدّثة لـ {name}",
+    "de": "Aktualisierte Zustimmung für {name}",
+    "es": "Consentimiento actualizado para {name}",
+    "fr": "Consentement mis à jour pour {name}",
+    "ru": "Обновлённое согласие для {name}",
+    "zh-Hans": "{name} 的授权已更新"
+  },
+  "Updates:": {
+    "ar": "التحديثات:",
+    "de": "Updates:",
+    "es": "Actualizaciones:",
+    "fr": "Mises à jour :",
+    "ru": "Обновления:",
+    "zh-Hans": "更新："
+  },
+  "Use a single emoji.": {
+    "ar": "استخدم إيموجي واحدًا فقط.",
+    "de": "Verwende nur ein einziges Emoji.",
+    "es": "Usa un solo emoji.",
+    "fr": "Utilise un seul emoji.",
+    "ru": "Используйте только один эмодзи.",
+    "zh-Hans": "请只使用一个表情符号。"
+  },
+  "Use at most {max} characters.": {
+    "ar": "استخدم {max} حرفًا كحد أقصى.",
+    "de": "Verwende höchstens {max} Zeichen.",
+    "es": "Usa como máximo {max} caracteres.",
+    "fr": "Utilise au maximum {max} caractères.",
+    "ru": "Используйте не более {max} символов.",
+    "zh-Hans": "最多使用 {max} 个字符。"
+  },
+  "Usernames no longer have a number tag. Choose a username that will be yours alone; you can keep <0>{currentUsername}</0> if nobody has taken it. Until then you stay <1>{0}</1>.": {
+    "ar": "لم تعد أسماء المستخدمين تحمل رقمًا. اختر اسم مستخدم يكون لك وحدك؛ ويمكنك الاحتفاظ بـ <0>{currentUsername}</0> إن لم يأخذه أحد. وحتى ذلك الحين تبقى <1>{0}</1>.",
+    "de": "Benutzernamen haben keinen Zahlen-Tag mehr. Wähle einen Benutzernamen, der nur dir gehört; du kannst <0>{currentUsername}</0> behalten, wenn ihn niemand sonst hat. Bis dahin bleibst du <1>{0}</1>.",
+    "es": "Los nombres de usuario ya no llevan número. Elige un nombre de usuario que sea solo tuyo; puedes conservar <0>{currentUsername}</0> si nadie más lo ha tomado. Hasta entonces sigues siendo <1>{0}</1>.",
+    "fr": "Les noms d'utilisateur n'ont plus de numéro. Choisis un nom d'utilisateur qui sera le tien seul ; tu peux garder <0>{currentUsername}</0> si personne d'autre ne l'a pris. D'ici là, tu restes <1>{0}</1>.",
+    "ru": "У имён пользователей больше нет числового тега. Выберите имя, которое будет только вашим; вы можете оставить <0>{currentUsername}</0>, если его никто не занял. До тех пор вы остаётесь <1>{0}</1>.",
+    "zh-Hans": "用户名不再带数字标签。请选择只属于你的用户名；如果没有人占用，你可以保留 <0>{currentUsername}</0>。在此之前你仍是 <1>{0}</1>。"
+  },
+  "Users will no longer be asked to confirm their age before joining this channel. Please ensure the content is appropriate for all ages.": {
+    "ar": "لن يُطلب من المستخدمين تأكيد أعمارهم قبل الانضمام إلى هذه القناة. تأكد من أن المحتوى مناسب لجميع الأعمار.",
+    "de": "Nutzer müssen ihr Alter nicht mehr bestätigen, bevor sie diesem Kanal beitreten. Stelle sicher, dass die Inhalte für alle Altersgruppen geeignet sind.",
+    "es": "Ya no se pedirá a los usuarios que confirmen su edad antes de unirse a este canal. Asegúrate de que el contenido sea apropiado para todas las edades.",
+    "fr": "Les utilisateurs ne devront plus confirmer leur âge avant de rejoindre ce salon. Assure-toi que le contenu convient à tous les âges.",
+    "ru": "Пользователей больше не будут просить подтвердить возраст перед входом в этот канал. Убедитесь, что содержимое подходит для любого возраста.",
+    "zh-Hans": "用户加入此频道前将不再需要确认年龄。请确保内容适合所有年龄段。"
+  },
+  "Uses less mobile data. You can load anything with a tap.": {
+    "ar": "يستهلك بيانات جوال أقل. يمكنك تحميل أي شيء بنقرة.",
+    "de": "Verbraucht weniger mobile Daten. Du kannst alles mit einem Tippen laden.",
+    "es": "Usa menos datos móviles. Puedes cargar cualquier cosa con un toque.",
+    "fr": "Consomme moins de données mobiles. Tu peux tout charger d'un appui.",
+    "ru": "Расходует меньше мобильного трафика. Всё можно загрузить нажатием.",
+    "zh-Hans": "更省移动流量。点按即可加载任何内容。"
+  },
+  "Verified: {verified}": {
+    "ar": "موثّق: {verified}",
+    "de": "Verifiziert: {verified}",
+    "es": "Verificado: {verified}",
+    "fr": "Vérifié : {verified}",
+    "ru": "Подтверждено: {verified}",
+    "zh-Hans": "已验证：{verified}"
+  },
+  "Waiting for Twitch: the name shows again once Twitch answers.": {
+    "ar": "بانتظار Twitch: يظهر الاسم مجددًا عندما يردّ Twitch.",
+    "de": "Warten auf Twitch: Der Name erscheint wieder, sobald Twitch antwortet.",
+    "es": "Esperando a Twitch: el nombre vuelve a mostrarse cuando Twitch responda.",
+    "fr": "En attente de Twitch : le nom réapparaît dès que Twitch répond.",
+    "ru": "Ожидание Twitch: имя снова появится, когда Twitch ответит.",
+    "zh-Hans": "正在等待 Twitch：Twitch 响应后将再次显示名称。"
+  },
+  "we copy it again only when you press Refresh. Private on Steam means nothing shows here. You can hide or disconnect at any time in Settings; disconnecting deletes this copy.": {
+    "ar": "ولا ننسخها مجددًا إلا عندما تضغط تحديث. الخاص على Steam يعني ألا يظهر شيء هنا. يمكنك الإخفاء أو إلغاء الربط في أي وقت من الإعدادات؛ وإلغاء الربط يحذف هذه النسخة.",
+    "de": "wir kopieren sie nur erneut, wenn du auf Aktualisieren tippst. Privat auf Steam bedeutet, dass hier nichts angezeigt wird. Du kannst jederzeit in den Einstellungen ausblenden oder trennen; beim Trennen wird diese Kopie gelöscht.",
+    "es": "solo la copiamos de nuevo cuando pulsas Actualizar. Privado en Steam significa que aquí no se muestra nada. Puedes ocultar o desconectar en cualquier momento en Ajustes; al desconectar se elimina esta copia.",
+    "fr": "nous ne la copions à nouveau que lorsque tu appuies sur Actualiser. Privé sur Steam signifie que rien ne s'affiche ici. Tu peux masquer ou déconnecter à tout moment dans les réglages ; la déconnexion supprime cette copie.",
+    "ru": "мы копируем их снова только при нажатии «Обновить». Если на Steam всё скрыто, здесь ничего не показывается. Вы можете скрыть или отключить в любой момент в настройках; при отключении эта копия удаляется.",
+    "zh-Hans": "仅当你点按刷新时，我们才会再次复制。在 Steam 上设为私密则这里不显示任何内容。你可以随时在设置中隐藏或断开连接；断开连接会删除此副本。"
+  },
+  "We could not load your connected apps.": {
+    "ar": "تعذّر تحميل تطبيقاتك المتصلة.",
+    "de": "Deine verbundenen Apps konnten nicht geladen werden.",
+    "es": "No pudimos cargar tus apps conectadas.",
+    "fr": "Impossible de charger tes apps connectées.",
+    "ru": "Не удалось загрузить подключённые приложения.",
+    "zh-Hans": "无法加载你已连接的应用。"
+  },
+  "We could not load your connections.": {
+    "ar": "تعذّر تحميل اتصالاتك.",
+    "de": "Deine Verbindungen konnten nicht geladen werden.",
+    "es": "No pudimos cargar tus conexiones.",
+    "fr": "Impossible de charger tes connexions.",
+    "ru": "Не удалось загрузить ваши подключения.",
+    "zh-Hans": "无法加载你的连接。"
+  },
+  "We couldn't prepare your copy. Ask again, or write to {contact} and we will answer within one month.": {
+    "ar": "تعذّر إعداد نسختك. اطلبها مرة أخرى، أو اكتب إلى {contact} وسنرد خلال شهر واحد.",
+    "de": "Deine Kopie konnte nicht vorbereitet werden. Fordere sie erneut an oder schreibe an {contact}, wir antworten innerhalb eines Monats.",
+    "es": "No pudimos preparar tu copia. Vuelve a solicitarla o escribe a {contact} y responderemos en un plazo de un mes.",
+    "fr": "Nous n'avons pas pu préparer ta copie. Demande-la à nouveau ou écris à {contact}, nous répondrons sous un mois.",
+    "ru": "Не удалось подготовить вашу копию. Запросите снова или напишите на {contact}, мы ответим в течение месяца.",
+    "zh-Hans": "无法准备你的副本。请重新申请，或写信至 {contact}，我们将在一个月内回复。"
+  },
+  "We give Twitch your channel id so it tells us when you go live or offline; people who can see your profile then see that you are live. We read your name again once a day and keep nothing from Twitch older than 24 hours. We keep no Twitch sign-in.": {
+    "ar": "نعطي Twitch معرّف قناتك ليخبرنا عندما تبدأ البث أو تنهيه؛ ثم يرى من يمكنه رؤية ملفك أنك في بث مباشر. نقرأ اسمك مجددًا مرة في اليوم ولا نحتفظ بأي شيء من Twitch أقدم من 24 ساعة. لا نحتفظ بأي تسجيل دخول إلى Twitch.",
+    "de": "Wir geben Twitch deine Kanal-ID, damit Twitch uns meldet, wenn du live gehst oder offline bist; wer dein Profil sehen kann, sieht dann, dass du live bist. Wir lesen deinen Namen einmal täglich neu und speichern nichts von Twitch, das älter als 24 Stunden ist. Wir speichern keine Twitch-Anmeldung.",
+    "es": "Le damos a Twitch el id de tu canal para que nos avise cuando empieces o termines un directo; quienes pueden ver tu perfil verán entonces que estás en directo. Leemos tu nombre de nuevo una vez al día y no guardamos nada de Twitch con más de 24 horas. No guardamos ningún inicio de sesión de Twitch.",
+    "fr": "Nous donnons à Twitch l'identifiant de ta chaîne pour qu'il nous prévienne quand tu passes en direct ou hors ligne ; les personnes qui peuvent voir ton profil voient alors que tu es en direct. Nous relisons ton nom une fois par jour et ne gardons rien de Twitch datant de plus de 24 heures. Nous ne conservons aucune connexion Twitch.",
+    "ru": "Мы передаём Twitch идентификатор вашего канала, чтобы он сообщал нам, когда вы начинаете или заканчиваете эфир; тогда те, кто видит ваш профиль, видят, что вы в эфире. Мы заново читаем ваше имя раз в сутки и не храним ничего от Twitch старше 24 часов. Данные входа в Twitch мы не храним.",
+    "zh-Hans": "我们会把你的频道 ID 提供给 Twitch，由它在你开播或下播时通知我们；能看到你个人资料的人随后会看到你正在直播。我们每天重新读取一次你的名称，不保留任何超过 24 小时的 Twitch 数据。我们不保存 Twitch 登录信息。"
+  },
+  "We have updated what you agree to when you link Battle.net: it now names where your data goes. You agree to it the next time you confirm on Battle.net.": {
+    "ar": "حدّثنا ما توافق عليه عند ربط Battle.net: أصبح يذكر الآن وجهة بياناتك. توافق عليه عند تأكيدك التالي على Battle.net.",
+    "de": "Wir haben aktualisiert, wofür du beim Verknüpfen von Battle.net zustimmst: Es nennt jetzt, wohin deine Daten gehen. Du stimmst beim nächsten Bestätigen auf Battle.net zu.",
+    "es": "Hemos actualizado lo que aceptas al vincular Battle.net: ahora indica adónde van tus datos. Lo aceptarás la próxima vez que confirmes en Battle.net.",
+    "fr": "Nous avons mis à jour ce que tu acceptes en liant Battle.net : il indique désormais où vont tes données. Tu l'acceptes à ta prochaine confirmation sur Battle.net.",
+    "ru": "Мы обновили то, с чем вы соглашаетесь при привязке Battle.net: теперь там указано, куда попадают ваши данные. Вы согласитесь при следующем подтверждении в Battle.net.",
+    "zh-Hans": "我们更新了你关联 Battle.net 时所同意的内容：现在会说明你的数据去向。你将在下次于 Battle.net 确认时表示同意。"
+  },
+  "We have updated what you agree to when you link GitHub: it now names where your data goes. Until you agree, your GitHub account does not show on your profile and Refresh stays off.": {
+    "ar": "حدّثنا ما توافق عليه عند ربط GitHub: أصبح يذكر الآن وجهة بياناتك. إلى أن توافق، لا يظهر حساب GitHub في ملفك ويبقى التحديث متوقفًا.",
+    "de": "Wir haben aktualisiert, wofür du beim Verknüpfen von GitHub zustimmst: Es nennt jetzt, wohin deine Daten gehen. Bis du zustimmst, wird dein GitHub-Konto nicht in deinem Profil angezeigt und Aktualisieren bleibt aus.",
+    "es": "Hemos actualizado lo que aceptas al vincular GitHub: ahora indica adónde van tus datos. Hasta que aceptes, tu cuenta de GitHub no aparece en tu perfil y Actualizar sigue desactivado.",
+    "fr": "Nous avons mis à jour ce que tu acceptes en liant GitHub : il indique désormais où vont tes données. Tant que tu n'acceptes pas, ton compte GitHub n'apparaît pas sur ton profil et Actualiser reste désactivé.",
+    "ru": "Мы обновили то, с чем вы соглашаетесь при привязке GitHub: теперь там указано, куда попадают ваши данные. Пока вы не согласитесь, аккаунт GitHub не отображается в профиле, а «Обновить» остаётся отключённой.",
+    "zh-Hans": "我们更新了你关联 GitHub 时所同意的内容：现在会说明你的数据去向。在你同意之前，你的 GitHub 账号不会显示在个人资料中，刷新也保持关闭。"
+  },
+  "We have updated what you agree to when you link Steam: it now covers game pictures and up to 60 of your latest achievements with the day you unlocked them (no time of day), and it names where your data goes. Until you agree, Refresh stays off and nothing new shows.": {
+    "ar": "حدّثنا ما توافق عليه عند ربط Steam: أصبح يشمل الآن صور الألعاب وحتى 60 من أحدث إنجازاتك مع يوم فتحها (دون وقت اليوم)، ويذكر وجهة بياناتك. إلى أن توافق يبقى التحديث متوقفًا ولا يظهر أي جديد.",
+    "de": "Wir haben aktualisiert, wofür du beim Verknüpfen von Steam zustimmst: Es umfasst jetzt Spielbilder und bis zu 60 deiner neuesten Erfolge mit dem Tag der Freischaltung (ohne Uhrzeit) und nennt, wohin deine Daten gehen. Bis du zustimmst, bleibt Aktualisieren aus und es wird nichts Neues angezeigt.",
+    "es": "Hemos actualizado lo que aceptas al vincular Steam: ahora incluye imágenes de juegos y hasta 60 de tus logros más recientes con el día en que los desbloqueaste (sin la hora), e indica adónde van tus datos. Hasta que aceptes, Actualizar sigue desactivado y no se muestra nada nuevo.",
+    "fr": "Nous avons mis à jour ce que tu acceptes en liant Steam : il couvre désormais les images des jeux et jusqu'à 60 de tes derniers succès avec le jour du déblocage (sans l'heure), et il indique où vont tes données. Tant que tu n'acceptes pas, Actualiser reste désactivé et rien de nouveau ne s'affiche.",
+    "ru": "Мы обновили то, с чем вы соглашаетесь при привязке Steam: теперь это включает изображения игр и до 60 ваших последних достижений с днём получения (без времени суток), а также указывает, куда попадают ваши данные. Пока вы не согласитесь, «Обновить» остаётся отключённой и ничего нового не показывается.",
+    "zh-Hans": "我们更新了你关联 Steam 时所同意的内容：现在包括游戏图片以及最多 60 个你最新的成就和解锁日期（不含具体时间），并会说明你的数据去向。在你同意之前，刷新保持关闭，也不会显示任何新内容。"
+  },
+  "We have updated what you agree to when you link Twitch: it now names where your data goes. Until you agree, your channel does not show on your profile and we exchange no data with Twitch about it.": {
+    "ar": "حدّثنا ما توافق عليه عند ربط Twitch: أصبح يذكر الآن وجهة بياناتك. إلى أن توافق، لا تظهر قناتك في ملفك ولا نتبادل أي بيانات مع Twitch بشأنها.",
+    "de": "Wir haben aktualisiert, wofür du beim Verknüpfen von Twitch zustimmst: Es nennt jetzt, wohin deine Daten gehen. Bis du zustimmst, wird dein Kanal nicht in deinem Profil angezeigt und wir tauschen dazu keine Daten mit Twitch aus.",
+    "es": "Hemos actualizado lo que aceptas al vincular Twitch: ahora indica adónde van tus datos. Hasta que aceptes, tu canal no aparece en tu perfil y no intercambiamos datos con Twitch al respecto.",
+    "fr": "Nous avons mis à jour ce que tu acceptes en liant Twitch : il indique désormais où vont tes données. Tant que tu n'acceptes pas, ta chaîne n'apparaît pas sur ton profil et nous n'échangeons aucune donnée avec Twitch à ce sujet.",
+    "ru": "Мы обновили то, с чем вы соглашаетесь при привязке Twitch: теперь там указано, куда попадают ваши данные. Пока вы не согласитесь, ваш канал не отображается в профиле, и мы не обмениваемся с Twitch данными о нём.",
+    "zh-Hans": "我们更新了你关联 Twitch 时所同意的内容：现在会说明你的数据去向。在你同意之前，你的频道不会显示在个人资料中，我们也不会就此与 Twitch 交换任何数据。"
+  },
+  "we read your repositories again only when you press Refresh. We keep no GitHub sign-in.": {
+    "ar": "ولا نقرأ مستودعاتك مجددًا إلا عندما تضغط تحديث. لا نحتفظ بأي تسجيل دخول إلى GitHub.",
+    "de": "wir lesen deine Repositories nur erneut, wenn du auf Aktualisieren tippst. Wir speichern keine GitHub-Anmeldung.",
+    "es": "solo volvemos a leer tus repositorios cuando pulsas Actualizar. No guardamos ningún inicio de sesión de GitHub.",
+    "fr": "nous ne relisons tes dépôts que lorsque tu appuies sur Actualiser. Nous ne conservons aucune connexion GitHub.",
+    "ru": "мы заново читаем ваши репозитории только при нажатии «Обновить». Данные входа в GitHub мы не храним.",
+    "zh-Hans": "仅当你点按刷新时，我们才会重新读取你的仓库。我们不保存 GitHub 登录信息。"
+  },
+  "We will copy:": {
+    "ar": "سننسخ:",
+    "de": "Wir kopieren:",
+    "es": "Copiaremos:",
+    "fr": "Nous copierons :",
+    "ru": "Мы скопируем:",
+    "zh-Hans": "我们将复制："
+  },
+  "What changes while it is on": {
+    "ar": "ما الذي يتغير أثناء التشغيل",
+    "de": "Was sich ändert, solange es aktiv ist",
+    "es": "Qué cambia mientras está activado",
+    "fr": "Ce qui change tant que c'est activé",
+    "ru": "Что меняется, пока это включено",
+    "zh-Hans": "开启期间会发生什么变化"
+  },
+  "What it can do": {
+    "ar": "ما يمكنه فعله",
+    "de": "Was es kann",
+    "es": "Qué puede hacer",
+    "fr": "Ce qu'il peut faire",
+    "ru": "Что оно умеет",
+    "zh-Hans": "它能做什么"
+  },
+  "What you play or post there can say something about your beliefs, health or sexuality.": {
+    "ar": "ما تلعبه أو تنشره هناك قد يكشف شيئًا عن معتقداتك أو صحتك أو ميولك الجنسية.",
+    "de": "Was du dort spielst oder postest, kann etwas über deine Überzeugungen, deine Gesundheit oder deine Sexualität verraten.",
+    "es": "Lo que juegas o publicas allí puede revelar algo sobre tus creencias, tu salud o tu sexualidad.",
+    "fr": "Ce que tu y joues ou publies peut révéler quelque chose sur tes convictions, ta santé ou ta sexualité.",
+    "ru": "То, во что вы играете или что публикуете там, может говорить о ваших убеждениях, здоровье или сексуальной ориентации.",
+    "zh-Hans": "你在那里玩的内容或发布的内容可能会透露你的信仰、健康状况或性取向。"
+  },
+  "When an organiser invites you to an event.": {
+    "ar": "عندما يدعوك منظّم إلى فعالية.",
+    "de": "Wenn dich ein Veranstalter zu einem Event einlädt.",
+    "es": "Cuando un organizador te invita a un evento.",
+    "fr": "Quand un organisateur t'invite à un évènement.",
+    "ru": "Когда организатор приглашает вас на событие.",
+    "zh-Hans": "当组织者邀请你参加活动时。"
+  },
+  "When the time or place of an event you answered changes.": {
+    "ar": "عندما يتغير وقت أو مكان فعالية أجبت عنها.",
+    "de": "Wenn sich Zeit oder Ort eines Events ändern, auf das du geantwortet hast.",
+    "es": "Cuando cambia la hora o el lugar de un evento al que respondiste.",
+    "fr": "Quand l'heure ou le lieu d'un évènement auquel tu as répondu change.",
+    "ru": "Когда меняются время или место события, на которое вы ответили.",
+    "zh-Hans": "当你已回复的活动的时间或地点发生变化时。"
+  },
+  "When you move up from the waiting list.": {
+    "ar": "عندما تنتقل من قائمة الانتظار.",
+    "de": "Wenn du von der Warteliste nachrückst.",
+    "es": "Cuando pasas de la lista de espera.",
+    "fr": "Quand tu passes de la liste d'attente à une place.",
+    "ru": "Когда вы продвигаетесь из списка ожидания.",
+    "zh-Hans": "当你从候补名单中递补时。"
+  },
+  "Where joins came from": {
+    "ar": "من أين جاءت الانضمامات",
+    "de": "Woher die Beitritte kamen",
+    "es": "De dónde vinieron las incorporaciones",
+    "fr": "D'où viennent les arrivées",
+    "ru": "Откуда пришли новые участники",
+    "zh-Hans": "加入来源"
+  },
+  "Where the sound comes from": {
+    "ar": "من أين يأتي الصوت",
+    "de": "Woher der Sound kommt",
+    "es": "De dónde viene el sonido",
+    "fr": "D'où vient le son",
+    "ru": "Откуда звук",
+    "zh-Hans": "音效来源"
+  },
+  "Which one": {
+    "ar": "أيّها",
+    "de": "Welcher",
+    "es": "Cuál",
+    "fr": "Lequel",
+    "ru": "Какой",
+    "zh-Hans": "哪一个"
+  },
+  "Who can see this category": {
+    "ar": "من يمكنه رؤية هذه الفئة",
+    "de": "Wer diese Kategorie sehen kann",
+    "es": "Quién puede ver esta categoría",
+    "fr": "Qui peut voir cette catégorie",
+    "ru": "Кто видит эту категорию",
+    "zh-Hans": "谁可以看到此分类"
+  },
+  "Who can see this category and what they can do in it.": {
+    "ar": "من يمكنه رؤية هذه الفئة وما يمكنه فعله فيها.",
+    "de": "Wer diese Kategorie sehen kann und was man darin tun darf.",
+    "es": "Quién puede ver esta categoría y qué puede hacer en ella.",
+    "fr": "Qui peut voir cette catégorie et ce qu'il peut y faire.",
+    "ru": "Кто видит эту категорию и что может в ней делать.",
+    "zh-Hans": "谁可以看到此分类，以及可以在其中做什么。"
+  },
+  "Who can see this channel": {
+    "ar": "من يمكنه رؤية هذه القناة",
+    "de": "Wer diesen Kanal sehen kann",
+    "es": "Quién puede ver este canal",
+    "fr": "Qui peut voir ce salon",
+    "ru": "Кто видит этот канал",
+    "zh-Hans": "谁可以看到此频道"
+  },
+  "Who sees it:": {
+    "ar": "من يراه:",
+    "de": "Wer es sieht:",
+    "es": "Quién lo ve:",
+    "fr": "Qui le voit :",
+    "ru": "Кто это видит:",
+    "zh-Hans": "谁能看到："
+  },
+  "Whoever joins this channel gets a voice room of their own next to it. The room is removed when everyone has left it.": {
+    "ar": "كل من ينضم إلى هذه القناة يحصل على غرفة صوتية خاصة به بجانبها. تُزال الغرفة عندما يغادرها الجميع.",
+    "de": "Wer diesem Kanal beitritt, bekommt daneben einen eigenen Sprachraum. Der Raum wird entfernt, sobald alle ihn verlassen haben.",
+    "es": "Quien se una a este canal recibe una sala de voz propia a su lado. La sala se elimina cuando todos la han abandonado.",
+    "fr": "Toute personne qui rejoint ce salon obtient son propre salon vocal à côté. Il est supprimé quand tout le monde l'a quitté.",
+    "ru": "Каждый, кто входит в этот канал, получает рядом собственную голосовую комнату. Комната удаляется, когда все её покинут.",
+    "zh-Hans": "任何加入此频道的人都会在旁边获得自己的语音房间。所有人离开后，该房间将被移除。"
+  },
+  "Yes, revoke": {
+    "ar": "نعم، إلغاء",
+    "de": "Ja, widerrufen",
+    "es": "Sí, revocar",
+    "fr": "Oui, révoquer",
+    "ru": "Да, отозвать",
+    "zh-Hans": "是，撤销"
+  },
+  "You can ask again in {h} h {m} min.": {
+    "ar": "يمكنك الطلب مجددًا بعد {h} س {m} د.",
+    "de": "Du kannst es in {h} Std. {m} Min. erneut anfragen.",
+    "es": "Puedes volver a solicitarlo en {h} h {m} min.",
+    "fr": "Tu pourras redemander dans {h} h {m} min.",
+    "ru": "Повторить запрос можно через {h} ч {m} мин.",
+    "zh-Hans": "你可以在 {h} 小时 {m} 分钟后再次申请。"
+  },
+  "You can see this but not change it. It needs the permission \"{ro}\".": {
+    "ar": "يمكنك رؤية هذا لكن لا يمكنك تغييره. يحتاج إلى الصلاحية \"{ro}\".",
+    "de": "Du kannst das sehen, aber nicht ändern. Dafür brauchst du die Berechtigung „{ro}“.",
+    "es": "Puedes ver esto pero no cambiarlo. Necesita el permiso «{ro}».",
+    "fr": "Tu peux voir ceci mais pas le modifier. Il faut la permission « {ro} ».",
+    "ru": "Вы можете это видеть, но не менять. Нужно разрешение «{ro}».",
+    "zh-Hans": "你可以查看但无法更改。需要“{ro}”权限。"
+  },
+  "You can't change access for someone ranked the same as you or above you.": {
+    "ar": "لا يمكنك تغيير الوصول لمن رتبته مثل رتبتك أو أعلى منك.",
+    "de": "Du kannst den Zugriff von Personen mit gleichem oder höherem Rang als du nicht ändern.",
+    "es": "No puedes cambiar el acceso de alguien con el mismo rango que tú o superior.",
+    "fr": "Tu ne peux pas modifier l'accès d'une personne de même rang que toi ou supérieur.",
+    "ru": "Вы не можете менять доступ тем, чей ранг равен вашему или выше.",
+    "zh-Hans": "你无法更改与你同级或高于你的人的访问权限。"
+  },
+  "You can't give permissions you don't have yourself.": {
+    "ar": "لا يمكنك منح صلاحيات لا تملكها بنفسك.",
+    "de": "Du kannst keine Berechtigungen vergeben, die du selbst nicht hast.",
+    "es": "No puedes conceder permisos que tú mismo no tienes.",
+    "fr": "Tu ne peux pas accorder des permissions que tu n'as pas toi-même.",
+    "ru": "Вы не можете выдавать разрешения, которых нет у вас самих.",
+    "zh-Hans": "你无法授予自己没有的权限。"
+  },
+  "You hear no soundboard sounds in calls.": {
+    "ar": "لا تسمع أي أصوات من لوحة الأصوات في المكالمات.",
+    "de": "Du hörst in Anrufen keine Soundboard-Sounds.",
+    "es": "No oyes ningún sonido de la tabla de sonidos en las llamadas.",
+    "fr": "Tu n'entends aucun son de la table de sons pendant les appels.",
+    "ru": "Вы не слышите звуки саундборда во время звонков.",
+    "zh-Hans": "你在通话中听不到音效板的声音。"
+  },
+  "You need “Manage permissions” to change who can see this channel.": {
+    "ar": "تحتاج إلى «إدارة الصلاحيات» لتغيير من يمكنه رؤية هذه القناة.",
+    "de": "Du brauchst „Berechtigungen verwalten“, um zu ändern, wer diesen Kanal sehen kann.",
+    "es": "Necesitas «Gestionar permisos» para cambiar quién puede ver este canal.",
+    "fr": "Il te faut « Gérer les permissions » pour changer qui peut voir ce salon.",
+    "ru": "Чтобы менять, кто видит этот канал, нужно разрешение «Управлять разрешениями».",
+    "zh-Hans": "你需要“管理权限”才能更改谁可以看到此频道。"
+  },
+  "You will sign in on {name}'s own page. Zrzur never sees that password.": {
+    "ar": "ستسجّل الدخول في صفحة {name} نفسها. زرزور لا يرى كلمة المرور تلك أبدًا.",
+    "de": "Du meldest dich auf der eigenen Seite von {name} an. Zrzur sieht dieses Passwort nie.",
+    "es": "Iniciarás sesión en la propia página de {name}. Zrzur nunca ve esa contraseña.",
+    "fr": "Tu te connecteras sur la page même de {name}. Zrzur ne voit jamais ce mot de passe.",
+    "ru": "Вход выполняется на собственной странице {name}. Zrzur никогда не видит этот пароль.",
+    "zh-Hans": "你将在 {name} 自己的页面登录。Zrzur 永远看不到该密码。"
+  },
+  "You will sign in on Steam's own page. Zrzur never sees that password.": {
+    "ar": "ستسجّل الدخول في صفحة Steam نفسها. زرزور لا يرى كلمة المرور تلك أبدًا.",
+    "de": "Du meldest dich auf der eigenen Seite von Steam an. Zrzur sieht dieses Passwort nie.",
+    "es": "Iniciarás sesión en la propia página de Steam. Zrzur nunca ve esa contraseña.",
+    "fr": "Tu te connecteras sur la page même de Steam. Zrzur ne voit jamais ce mot de passe.",
+    "ru": "Вход выполняется на собственной странице Steam. Zrzur никогда не видит этот пароль.",
+    "zh-Hans": "你将在 Steam 自己的页面登录。Zrzur 永远看不到该密码。"
+  },
+  "your BattleTag, and nothing else, and keep it in the EU.": {
+    "ar": "BattleTag الخاص بك، ولا شيء غيره، ونحتفظ به داخل الاتحاد الأوروبي.",
+    "de": "deinen BattleTag und sonst nichts, und wir speichern ihn in der EU.",
+    "es": "tu BattleTag, y nada más, y lo guardamos en la UE.",
+    "fr": "ton BattleTag, et rien d'autre, et nous le gardons dans l'UE.",
+    "ru": "ваш BattleTag и ничего больше, и храним его в ЕС.",
+    "zh-Hans": "你的 BattleTag，仅此而已，并保存在欧盟境内。"
+  },
+  "your GitHub username, name, picture, bio and link, your follower and repository counts, and up to 12 of your most starred own public repositories with their description, language and stars, and keep them in the EU.": {
+    "ar": "اسم مستخدم GitHub واسمك وصورتك ونبذتك ورابطك، وعدد متابعيك ومستودعاتك، وحتى 12 من أكثر مستودعاتك العامة حصولًا على النجوم مع وصفها ولغتها ونجومها، ونحتفظ بها داخل الاتحاد الأوروبي.",
+    "de": "deinen GitHub-Benutzernamen, Namen, dein Bild, deine Bio und deinen Link, deine Follower- und Repository-Zahlen sowie bis zu 12 deiner meistbesternten eigenen öffentlichen Repositories mit Beschreibung, Sprache und Sternen, und wir speichern sie in der EU.",
+    "es": "tu nombre de usuario de GitHub, tu nombre, tu foto, tu biografía y tu enlace, tus números de seguidores y repositorios, y hasta 12 de tus propios repositorios públicos con más estrellas, con su descripción, lenguaje y estrellas, y los guardamos en la UE.",
+    "fr": "ton nom d'utilisateur GitHub, ton nom, ta photo, ta bio et ton lien, tes nombres d'abonnés et de dépôts, et jusqu'à 12 de tes dépôts publics les plus étoilés avec leur description, leur langage et leurs étoiles, et nous les gardons dans l'UE.",
+    "ru": "ваше имя пользователя GitHub, имя, фото, описание и ссылку, число подписчиков и репозиториев, а также до 12 ваших публичных репозиториев с наибольшим числом звёзд с описанием, языком и звёздами, и храним их в ЕС.",
+    "zh-Hans": "你的 GitHub 用户名、姓名、头像、简介和链接，你的关注者数和仓库数，以及你获得星标最多的最多 12 个自有公开仓库及其描述、语言和星标数，并保存在欧盟境内。"
+  },
+  "your Steam name and link, your game count, hours played, your 10 most played games with their achievement counts, and up to 60 of your latest achievements in those games with their name, description and the day you unlocked them (no time of day). We take this from what Steam shows publicly and keep it in the EU. Game pictures and achievement icons come from Steam and load through Zrzur's servers, so Steam does not see who views your profile.": {
+    "ar": "اسمك ورابطك على Steam، وعدد ألعابك، وساعات اللعب، وأكثر 10 ألعاب لعبًا مع عدد إنجازات كل منها، وحتى 60 من أحدث إنجازاتك في تلك الألعاب باسمها ووصفها ويوم فتحها (دون وقت اليوم). نأخذ هذا مما يعرضه Steam علنًا ونحتفظ به داخل الاتحاد الأوروبي. صور الألعاب وأيقونات الإنجازات تأتي من Steam وتُحمَّل عبر خوادم زرزور، فلا يرى Steam من يشاهد ملفك.",
+    "de": "deinen Steam-Namen und -Link, deine Spielanzahl, Spielstunden, deine 10 meistgespielten Spiele mit ihren Erfolgsanzahlen und bis zu 60 deiner neuesten Erfolge in diesen Spielen mit Name, Beschreibung und dem Tag der Freischaltung (ohne Uhrzeit). Wir übernehmen das aus dem, was Steam öffentlich zeigt, und speichern es in der EU. Spielbilder und Erfolgssymbole kommen von Steam und werden über die Server von Zrzur geladen, damit Steam nicht sieht, wer dein Profil ansieht.",
+    "es": "tu nombre y enlace de Steam, tu número de juegos, las horas jugadas, tus 10 juegos más jugados con su número de logros, y hasta 60 de tus logros más recientes en esos juegos con su nombre, descripción y el día en que los desbloqueaste (sin la hora). Lo tomamos de lo que Steam muestra públicamente y lo guardamos en la UE. Las imágenes de juegos y los iconos de logros vienen de Steam y se cargan a través de los servidores de Zrzur, así que Steam no ve quién visita tu perfil.",
+    "fr": "ton nom et ton lien Steam, ton nombre de jeux, tes heures de jeu, tes 10 jeux les plus joués avec leur nombre de succès, et jusqu'à 60 de tes derniers succès dans ces jeux avec leur nom, leur description et le jour du déblocage (sans l'heure). Nous le prenons dans ce que Steam affiche publiquement et le gardons dans l'UE. Les images de jeux et les icônes de succès viennent de Steam et se chargent via les serveurs de Zrzur, donc Steam ne voit pas qui consulte ton profil.",
+    "ru": "ваше имя и ссылку Steam, число игр, часы игры, 10 самых популярных у вас игр с числом достижений и до 60 ваших последних достижений в этих играх с названием, описанием и днём получения (без времени суток). Мы берём это из того, что Steam показывает публично, и храним в ЕС. Изображения игр и значки достижений приходят из Steam и загружаются через серверы Zrzur, поэтому Steam не видит, кто просматривает ваш профиль.",
+    "zh-Hans": "你的 Steam 名称和链接、游戏数量、游戏时长、你游玩最多的 10 款游戏及其成就数，以及这些游戏中你最新的最多 60 个成就的名称、描述和解锁日期（不含具体时间）。我们取自 Steam 公开显示的内容，并保存在欧盟境内。游戏图片和成就图标来自 Steam，并通过 Zrzur 的服务器加载，因此 Steam 看不到谁在查看你的个人资料。"
+  },
+  "your Twitch name, picture, bio and channel link, whether you are a partner or affiliate, the category of your last stream, and whether you are live now with the stream title, and keep them in the EU.": {
+    "ar": "اسمك وصورتك ونبذتك ورابط قناتك على Twitch، وهل أنت شريك أو تابع، وفئة آخر بث لك، وهل أنت في بث مباشر الآن مع عنوان البث، ونحتفظ بها داخل الاتحاد الأوروبي.",
+    "de": "deinen Twitch-Namen, dein Bild, deine Bio und deinen Kanallink, ob du Partner oder Affiliate bist, die Kategorie deines letzten Streams und ob du gerade live bist, mit dem Stream-Titel, und wir speichern sie in der EU.",
+    "es": "tu nombre, foto, biografía y enlace de canal de Twitch, si eres partner o afiliado, la categoría de tu última emisión y si estás en directo ahora con el título de la emisión, y los guardamos en la UE.",
+    "fr": "ton nom, ta photo, ta bio et le lien de ta chaîne Twitch, si tu es partenaire ou affilié, la catégorie de ton dernier stream et si tu es en direct maintenant avec le titre du stream, et nous les gardons dans l'UE.",
+    "ru": "ваше имя, фото, описание и ссылку на канал Twitch, являетесь ли вы партнёром или аффилиатом, категорию последней трансляции и ведёте ли вы эфир сейчас с названием трансляции, и храним их в ЕС.",
+    "zh-Hans": "你的 Twitch 名称、头像、简介和频道链接，你是否为合作伙伴或联盟成员，你上一次直播的分类，以及你当前是否在直播及直播标题，并保存在欧盟境内。"
+  },
+  "Your username is yours alone, and friends use it to find you. Enter your current password to confirm.": {
+    "ar": "اسم المستخدم لك وحدك، ويستخدمه أصدقاؤك للعثور عليك. أدخل كلمة مرورك الحالية للتأكيد.",
+    "de": "Dein Benutzername gehört nur dir, und Freunde finden dich damit. Gib zur Bestätigung dein aktuelles Passwort ein.",
+    "es": "Tu nombre de usuario es solo tuyo y tus amigos lo usan para encontrarte. Introduce tu contraseña actual para confirmar.",
+    "fr": "Ton nom d'utilisateur est à toi seul et tes amis l'utilisent pour te trouver. Saisis ton mot de passe actuel pour confirmer.",
+    "ru": "Имя пользователя принадлежит только вам, по нему вас находят друзья. Введите текущий пароль для подтверждения.",
+    "zh-Hans": "你的用户名只属于你，好友通过它找到你。请输入当前密码以确认。"
+  },
+  "Zrzur finds the right level for your room.": {
+    "ar": "يجد زرزور المستوى المناسب لغرفتك.",
+    "de": "Zrzur findet die passende Stufe für deinen Raum.",
+    "es": "Zrzur encuentra el nivel adecuado para tu sala.",
+    "fr": "Zrzur trouve le bon niveau pour ton salon.",
+    "ru": "Zrzur подберёт подходящий уровень для вашей комнаты.",
+    "zh-Hans": "Zrzur 会为你的房间找到合适的级别。"
+  },
+  "{0} a month. Renews on {1}.": {
+    "ar": "{0} شهريًا. يتجدد في {1}.",
+    "de": "{0} pro Monat. Verlängert sich am {1}.",
+    "es": "{0} al mes. Se renueva el {1}.",
+    "fr": "{0} par mois. Se renouvelle le {1}.",
+    "ru": "{0} в месяц. Продлевается {1}.",
+    "zh-Hans": "每月 {0}。将于 {1} 续订。"
+  },
+  "{0} becomes the owner and can remove you. Type the server name to confirm.": {
+    "ar": "يصبح {0} المالك ويمكنه إزالتك. اكتب اسم السيرفر للتأكيد.",
+    "de": "{0} wird Besitzer und kann dich entfernen. Gib zur Bestätigung den Servernamen ein.",
+    "es": "{0} se convierte en propietario y puede expulsarte. Escribe el nombre del servidor para confirmar.",
+    "fr": "{0} devient propriétaire et peut te retirer. Saisis le nom du serveur pour confirmer.",
+    "ru": "{0} станет владельцем и сможет вас удалить. Введите название сервера для подтверждения.",
+    "zh-Hans": "{0} 将成为所有者，并可以移除你。请输入服务器名称以确认。"
+  },
+  "{0} hex": {
+    "ar": "{0} hex",
+    "de": "{0} Hex",
+    "es": "{0} hex",
+    "fr": "{0} hex",
+    "ru": "{0} hex",
+    "zh-Hans": "{0} 十六进制"
+  },
+  "/month": {
+    "ar": "/شهر",
+    "de": "/Monat",
+    "es": "/mes",
+    "fr": "/mois",
+    "ru": "/мес.",
+    "zh-Hans": "/月"
+  },
+  "A background behind your name in member lists. All of them are free.": {
+    "ar": "خلفية خلف اسمك في قوائم الأعضاء. كلها مجانية.",
+    "de": "Ein Hintergrund hinter deinem Namen in Mitgliederlisten. Alle sind kostenlos.",
+    "es": "Un fondo detrás de tu nombre en las listas de miembros. Todos son gratis.",
+    "fr": "Un arrière-plan derrière ton nom dans les listes de membres. Ils sont tous gratuits.",
+    "ru": "Фон за вашим именем в списках участников. Все они бесплатны.",
+    "zh-Hans": "成员列表中你名字后面的背景。全部免费。"
+  },
+  "A calm light theme in soft paper tones for bright rooms and daytime reading.": {
+    "ar": "سمة فاتحة هادئة بألوان ورقية ناعمة للغرف المضيئة والقراءة نهارًا.",
+    "de": "Ein ruhiges helles Design in weichen Papiertönen für helle Räume und Lesen bei Tag.",
+    "es": "Un tema claro y sereno en suaves tonos de papel para espacios luminosos y lectura de día.",
+    "fr": "Un thème clair et calme aux tons papier doux, pour les pièces lumineuses et la lecture de jour.",
+    "ru": "Спокойная светлая тема в мягких бумажных тонах для светлых помещений и чтения днём.",
+    "zh-Hans": "柔和纸张色调的平静浅色主题，适合明亮环境和白天阅读。"
+  },
+  "A frame around your avatar. All of them are free.": {
+    "ar": "إطار حول صورتك الرمزية. كلها مجانية.",
+    "de": "Ein Rahmen um dein Profilbild. Alle sind kostenlos.",
+    "es": "Un marco alrededor de tu avatar. Todos son gratis.",
+    "fr": "Un cadre autour de ton avatar. Ils sont tous gratuits.",
+    "ru": "Рамка вокруг вашего аватара. Все они бесплатны.",
+    "zh-Hans": "头像周围的边框。全部免费。"
+  },
+  "a friend": {
+    "ar": "صديق",
+    "de": "ein Freund",
+    "es": "un amigo",
+    "fr": "un ami",
+    "ru": "друг",
+    "zh-Hans": "一位好友"
+  },
+  "A member of the official Zrzur team. Server moderators don't get this badge.": {
+    "ar": "عضو في فريق زرزور الرسمي. مشرفو السيرفرات لا يحصلون على هذه الشارة.",
+    "de": "Mitglied des offiziellen Zrzur-Teams. Server-Moderatoren erhalten dieses Abzeichen nicht.",
+    "es": "Miembro del equipo oficial de Zrzur. Los moderadores de servidores no reciben esta insignia.",
+    "fr": "Membre de l'équipe officielle de Zrzur. Les modérateurs de serveur n'ont pas ce badge.",
+    "ru": "Участник официальной команды Zrzur. Модераторы серверов этот значок не получают.",
+    "zh-Hans": "Zrzur 官方团队成员。服务器版主不会获得此徽章。"
+  },
+  "A notice of illegal content.": {
+    "ar": "إشعار بمحتوى غير قانوني.",
+    "de": "Eine Meldung über illegale Inhalte.",
+    "es": "Una notificación de contenido ilegal.",
+    "fr": "Un signalement de contenu illégal.",
+    "ru": "Уведомление о незаконном контенте.",
+    "zh-Hans": "关于非法内容的通知。"
+  },
+  "A one-off badge.": {
+    "ar": "شارة لمرة واحدة.",
+    "de": "Ein einmaliges Abzeichen.",
+    "es": "Una insignia única.",
+    "fr": "Un badge unique.",
+    "ru": "Разовый значок.",
+    "zh-Hans": "一次性徽章。"
+  },
+  "A report from another person.": {
+    "ar": "بلاغ من شخص آخر.",
+    "de": "Eine Meldung von einer anderen Person.",
+    "es": "Un reporte de otra persona.",
+    "fr": "Un signalement d'une autre personne.",
+    "ru": "Жалоба от другого человека.",
+    "zh-Hans": "来自其他人的举报。"
+  },
+  "A reviewer asked:": {
+    "ar": "سأل المراجِع:",
+    "de": "Ein Prüfer fragte:",
+    "es": "Un revisor preguntó:",
+    "fr": "Un examinateur a demandé :",
+    "ru": "Проверяющий спросил:",
+    "zh-Hans": "审核员询问："
+  },
+  "A short link people remember.": {
+    "ar": "رابط قصير يتذكره الناس.",
+    "de": "Ein kurzer Link, den man sich merkt.",
+    "es": "Un enlace corto que la gente recuerda.",
+    "fr": "Un lien court dont les gens se souviennent.",
+    "ru": "Короткая ссылка, которую легко запомнить.",
+    "zh-Hans": "一个人们容易记住的短链接。"
+  },
+  "A warm dark theme in sand and copper tones, easy on the eyes in the evening.": {
+    "ar": "سمة داكنة دافئة بألوان الرمل والنحاس، مريحة للعين في المساء.",
+    "de": "Ein warmes dunkles Design in Sand- und Kupfertönen, am Abend augenschonend.",
+    "es": "Un tema oscuro cálido en tonos arena y cobre, suave para la vista por la noche.",
+    "fr": "Un thème sombre chaleureux aux tons sable et cuivre, doux pour les yeux le soir.",
+    "ru": "Тёплая тёмная тема в песочных и медных тонах, комфортная для глаз вечером.",
+    "zh-Hans": "沙色与铜色调的温暖深色主题，傍晚使用更护眼。"
+  },
+  "A webhook posts into one channel through its address. The address is shown once, so keep it safe.": {
+    "ar": "ينشر خطاف الويب في قناة واحدة عبر عنوانه. يُعرض العنوان مرة واحدة فقط، فاحفظه في مكان آمن.",
+    "de": "Ein Webhook postet über seine Adresse in einen Kanal. Die Adresse wird nur einmal angezeigt, bewahre sie sicher auf.",
+    "es": "Un webhook publica en un canal mediante su dirección. La dirección se muestra una sola vez, así que guárdala bien.",
+    "fr": "Un webhook publie dans un salon via son adresse. L'adresse n'est affichée qu'une fois, garde-la en lieu sûr.",
+    "ru": "Вебхук публикует сообщения в один канал по своему адресу. Адрес показывается только один раз, храните его в надёжном месте.",
+    "zh-Hans": "Webhook 通过其地址向一个频道发帖。该地址只显示一次，请妥善保管。"
+  },
+  "About me": {
+    "ar": "نبذة عني",
+    "de": "Über mich",
+    "es": "Sobre mí",
+    "fr": "À propos de moi",
+    "ru": "Обо мне",
+    "zh-Hans": "关于我"
+  },
+  "Accent {c}": {
+    "ar": "اللون المميز {c}",
+    "de": "Akzent {c}",
+    "es": "Acento {c}",
+    "fr": "Accent {c}",
+    "ru": "Акцент {c}",
+    "zh-Hans": "强调色 {c}"
+  },
+  "Accent colour": {
+    "ar": "لون التمييز",
+    "de": "Akzentfarbe",
+    "es": "Color de acento",
+    "fr": "Couleur d'accent",
+    "ru": "Акцентный цвет",
+    "zh-Hans": "强调色"
+  },
+  "Accent colours actions and selection. Outline icons stay muted.": {
+    "ar": "يلوّن لون التمييز الإجراءات والتحديد. تبقى أيقونات الخطوط خافتة.",
+    "de": "Die Akzentfarbe färbt Aktionen und Auswahl. Umrissicons bleiben gedämpft.",
+    "es": "El color de acento tiñe las acciones y la selección. Los iconos de contorno permanecen apagados.",
+    "fr": "La couleur d'accent colore les actions et la sélection. Les icônes en contour restent discrètes.",
+    "ru": "Акцентный цвет окрашивает действия и выбор. Контурные значки остаются приглушёнными.",
+    "zh-Hans": "强调色用于标示操作和选中项。线框图标保持柔和。"
+  },
+  "Accept change": {
+    "ar": "قبول التغيير",
+    "de": "Änderung akzeptieren",
+    "es": "Aceptar el cambio",
+    "fr": "Accepter la modification",
+    "ru": "Принять изменение",
+    "zh-Hans": "接受更改"
+  },
+  "Accept invitation": {
+    "ar": "قبول الدعوة",
+    "de": "Einladung annehmen",
+    "es": "Aceptar la invitación",
+    "fr": "Accepter l'invitation",
+    "ru": "Принять приглашение",
+    "zh-Hans": "接受邀请"
+  },
+  "Access": {
+    "ar": "الوصول",
+    "de": "Zugriff",
+    "es": "Acceso",
+    "fr": "Accès",
+    "ru": "Доступ",
+    "zh-Hans": "访问权限"
+  },
+  "Account banned": {
+    "ar": "الحساب محظور",
+    "de": "Konto gesperrt",
+    "es": "Cuenta bloqueada",
+    "fr": "Compte banni",
+    "ru": "Аккаунт заблокирован",
+    "zh-Hans": "账号已被封禁"
+  },
+  "Account information": {
+    "ar": "معلومات الحساب",
+    "de": "Kontoinformationen",
+    "es": "Información de la cuenta",
+    "fr": "Informations du compte",
+    "ru": "Сведения об аккаунте",
+    "zh-Hans": "账号信息"
+  },
+  "Account management": {
+    "ar": "إدارة الحساب",
+    "de": "Kontoverwaltung",
+    "es": "Gestión de la cuenta",
+    "fr": "Gestion du compte",
+    "ru": "Управление аккаунтом",
+    "zh-Hans": "账号管理"
+  },
+  "Account standing": {
+    "ar": "حالة الحساب",
+    "de": "Kontostatus",
+    "es": "Estado de la cuenta",
+    "fr": "État du compte",
+    "ru": "Состояние аккаунта",
+    "zh-Hans": "账号状态"
+  },
+  "Account suspended": {
+    "ar": "الحساب موقوف",
+    "de": "Konto gesperrt",
+    "es": "Cuenta suspendida",
+    "fr": "Compte suspendu",
+    "ru": "Аккаунт приостановлен",
+    "zh-Hans": "账号已被暂停"
+  },
+  "Accounts created before the early adopter cut-off.": {
+    "ar": "حسابات أُنشئت قبل موعد انتهاء المتبنّين الأوائل.",
+    "de": "Konten, die vor dem Stichtag für frühe Nutzer erstellt wurden.",
+    "es": "Cuentas creadas antes de la fecha límite de los primeros usuarios.",
+    "fr": "Comptes créés avant la date limite des premiers utilisateurs.",
+    "ru": "Аккаунты, созданные до даты окончания для первых пользователей.",
+    "zh-Hans": "在早期用户截止日期之前创建的账号。"
+  },
+  "Action taken": {
+    "ar": "الإجراء المتخذ",
+    "de": "Ergriffene Maßnahme",
+    "es": "Medida tomada",
+    "fr": "Mesure prise",
+    "ru": "Принятая мера",
+    "zh-Hans": "已采取的措施"
+  },
+  "Active": {
+    "ar": "نشط",
+    "de": "Aktiv",
+    "es": "Activo",
+    "fr": "Actif",
+    "ru": "Активен",
+    "zh-Hans": "活跃"
+  },
+  "Active creator": {
+    "ar": "صانع محتوى نشط",
+    "de": "Aktiver Creator",
+    "es": "Creador activo",
+    "fr": "Créateur actif",
+    "ru": "Активный автор",
+    "zh-Hans": "活跃创作者"
+  },
+  "Active tester": {
+    "ar": "مختبِر نشط",
+    "de": "Aktiver Tester",
+    "es": "Probador activo",
+    "fr": "Testeur actif",
+    "ru": "Активный тестировщик",
+    "zh-Hans": "活跃测试员"
+  },
+  "Actual": {
+    "ar": "الفعلي",
+    "de": "Tatsächlich",
+    "es": "Real",
+    "fr": "Réel",
+    "ru": "Фактически",
+    "zh-Hans": "实际"
+  },
+  "Add a button": {
+    "ar": "إضافة زر",
+    "de": "Schaltfläche hinzufügen",
+    "es": "Añadir un botón",
+    "fr": "Ajouter un bouton",
+    "ru": "Добавить кнопку",
+    "zh-Hans": "添加按钮"
+  },
+  "Add a question": {
+    "ar": "إضافة سؤال",
+    "de": "Frage hinzufügen",
+    "es": "Añadir una pregunta",
+    "fr": "Ajouter une question",
+    "ru": "Добавить вопрос",
+    "zh-Hans": "添加问题"
+  },
+  "Add a role question": {
+    "ar": "إضافة سؤال دور",
+    "de": "Rollenfrage hinzufügen",
+    "es": "Añadir una pregunta de rol",
+    "fr": "Ajouter une question de rôle",
+    "ru": "Добавить вопрос о роли",
+    "zh-Hans": "添加角色问题"
+  },
+  "Add a tag": {
+    "ar": "إضافة وسم",
+    "de": "Tag hinzufügen",
+    "es": "Añadir una etiqueta",
+    "fr": "Ajouter un tag",
+    "ru": "Добавить тег",
+    "zh-Hans": "添加标签"
+  },
+  "Add an answer": {
+    "ar": "إضافة إجابة",
+    "de": "Antwort hinzufügen",
+    "es": "Añadir una respuesta",
+    "fr": "Ajouter une réponse",
+    "ru": "Добавить ответ",
+    "zh-Hans": "添加回答"
+  },
+  "Add its bot to a server you manage": {
+    "ar": "أضف البوت الخاص به إلى سيرفر تديره",
+    "de": "Füge seinen Bot zu einem Server hinzu, den du verwaltest",
+    "es": "Añade su bot a un servidor que gestiones",
+    "fr": "Ajoute son bot à un serveur que tu gères",
+    "ru": "Добавьте его бота на сервер, которым вы управляете",
+    "zh-Hans": "将其机器人添加到你管理的服务器"
+  },
+  "Add link": {
+    "ar": "إضافة رابط",
+    "de": "Link hinzufügen",
+    "es": "Añadir enlace",
+    "fr": "Ajouter un lien",
+    "ru": "Добавить ссылку",
+    "zh-Hans": "添加链接"
+  },
+  "All good": {
+    "ar": "كل شيء على ما يرام",
+    "de": "Alles in Ordnung",
+    "es": "Todo bien",
+    "fr": "Tout va bien",
+    "ru": "Всё в порядке",
+    "zh-Hans": "一切正常"
+  },
+  "Always load media players from other sites": {
+    "ar": "تحميل مشغّلات الوسائط من المواقع الأخرى دائمًا",
+    "de": "Medienplayer von anderen Seiten immer laden",
+    "es": "Cargar siempre reproductores multimedia de otros sitios",
+    "fr": "Toujours charger les lecteurs multimédias d'autres sites",
+    "ru": "Всегда загружать медиаплееры с других сайтов",
+    "zh-Hans": "始终加载其他网站的媒体播放器"
+  },
+  "AMOLED": {
+    "ar": "AMOLED",
+    "de": "AMOLED",
+    "es": "AMOLED",
+    "fr": "AMOLED",
+    "ru": "AMOLED",
+    "zh-Hans": "AMOLED"
+  },
+  "An approved Zrzur partner or partner community.": {
+    "ar": "شريك معتمد لزرزور أو مجتمع شريك.",
+    "de": "Ein anerkannter Zrzur-Partner oder eine Partner-Community.",
+    "es": "Un socio aprobado de Zrzur o una comunidad socia.",
+    "fr": "Un partenaire approuvé de Zrzur ou une communauté partenaire.",
+    "ru": "Одобренный партнёр Zrzur или сообщество-партнёр.",
+    "zh-Hans": "获批的 Zrzur 合作伙伴或合作社区。"
+  },
+  "An idea for Zrzur": {
+    "ar": "فكرة لزرزور",
+    "de": "Eine Idee für Zrzur",
+    "es": "Una idea para Zrzur",
+    "fr": "Une idée pour Zrzur",
+    "ru": "Идея для Zrzur",
+    "zh-Hans": "给 Zrzur 的一个创意"
+  },
+  "An outstanding designer of Zrzur profile designs and decorations, chosen by the team.": {
+    "ar": "مصمم متميز لتصاميم وزخارف ملفات زرزور، يختاره الفريق.",
+    "de": "Ein herausragender Designer von Zrzur-Profildesigns und -Dekorationen, vom Team ausgewählt.",
+    "es": "Un diseñador sobresaliente de diseños y decoraciones de perfil de Zrzur, elegido por el equipo.",
+    "fr": "Un designer remarquable de designs et décorations de profil Zrzur, choisi par l'équipe.",
+    "ru": "Выдающийся дизайнер оформлений и украшений профиля Zrzur, выбранный командой.",
+    "zh-Hans": "由团队选出的 Zrzur 个人资料设计与装饰的杰出设计师。"
+  },
+  "Animations": {
+    "ar": "الحركات",
+    "de": "Animationen",
+    "es": "Animaciones",
+    "fr": "Animations",
+    "ru": "Анимации",
+    "zh-Hans": "动画"
+  },
+  "Animations always play, with the settings below.": {
+    "ar": "تعمل الحركات دائمًا، مع الإعدادات أدناه.",
+    "de": "Animationen laufen immer, mit den Einstellungen unten.",
+    "es": "Las animaciones siempre se reproducen, con los ajustes de abajo.",
+    "fr": "Les animations sont toujours jouées, avec les réglages ci-dessous.",
+    "ru": "Анимации всегда воспроизводятся с настройками ниже.",
+    "zh-Hans": "动画始终播放，并遵循下方的设置。"
+  },
+  "Anime & Manga": {
+    "ar": "أنمي ومانغا",
+    "de": "Anime & Manga",
+    "es": "Anime y manga",
+    "fr": "Anime et manga",
+    "ru": "Аниме и манга",
+    "zh-Hans": "动漫"
+  },
+  "Announcement channel": {
+    "ar": "قناة الإعلانات",
+    "de": "Ankündigungskanal",
+    "es": "Canal de anuncios",
+    "fr": "Salon d'annonces",
+    "ru": "Канал объявлений",
+    "zh-Hans": "公告频道"
+  },
+  "Answer": {
+    "ar": "الإجابة",
+    "de": "Antwort",
+    "es": "Respuesta",
+    "fr": "Réponse",
+    "ru": "Ответ",
+    "zh-Hans": "回答"
+  },
+  "Answer by {0}. Without an answer, nothing changes.": {
+    "ar": "الإجابة من {0}. بدون إجابة لا يتغير شيء.",
+    "de": "Antwort von {0}. Ohne Antwort ändert sich nichts.",
+    "es": "Respuesta de {0}. Sin respuesta, no cambia nada.",
+    "fr": "Réponse de {0}. Sans réponse, rien ne change.",
+    "ru": "Ответ от {0}. Без ответа ничего не меняется.",
+    "zh-Hans": "由 {0} 回答。没有回答则不会有任何变化。"
+  },
+  "Answer what new members ask most. Up to twenty.": {
+    "ar": "أجب عمّا يسأله الأعضاء الجدد أكثر. حتى عشرين.",
+    "de": "Beantworte, was neue Mitglieder am häufigsten fragen. Bis zu zwanzig.",
+    "es": "Responde lo que más preguntan los nuevos miembros. Hasta veinte.",
+    "fr": "Réponds à ce que les nouveaux membres demandent le plus. Jusqu'à vingt.",
+    "ru": "Ответьте на то, что новые участники спрашивают чаще всего. До двадцати.",
+    "zh-Hans": "回答新成员最常问的问题。最多二十个。"
+  },
+  "Answered": {
+    "ar": "تمت الإجابة",
+    "de": "Beantwortet",
+    "es": "Respondido",
+    "fr": "Répondu",
+    "ru": "Отвечено",
+    "zh-Hans": "已回答"
+  },
+  "Answers": {
+    "ar": "الإجابات",
+    "de": "Antworten",
+    "es": "Respuestas",
+    "fr": "Réponses",
+    "ru": "Ответы",
+    "zh-Hans": "回答"
+  },
+  "Answers to what new members ask most.": {
+    "ar": "إجابات عمّا يسأله الأعضاء الجدد أكثر.",
+    "de": "Antworten auf das, was neue Mitglieder am häufigsten fragen.",
+    "es": "Respuestas a lo que más preguntan los nuevos miembros.",
+    "fr": "Réponses à ce que les nouveaux membres demandent le plus.",
+    "ru": "Ответы на то, что новые участники спрашивают чаще всего.",
+    "zh-Hans": "对新成员最常问问题的回答。"
+  },
+  "Anything that still posts with its address will stop working.": {
+    "ar": "أي شيء ما زال ينشر بعنوانه سيتوقف عن العمل.",
+    "de": "Alles, was noch über seine Adresse postet, funktioniert nicht mehr.",
+    "es": "Todo lo que aún publique con su dirección dejará de funcionar.",
+    "fr": "Tout ce qui publie encore avec son adresse cessera de fonctionner.",
+    "ru": "Всё, что всё ещё публикует по его адресу, перестанет работать.",
+    "zh-Hans": "任何仍通过其地址发帖的内容都将停止工作。"
+  },
+  "App theme": {
+    "ar": "سمة التطبيق",
+    "de": "App-Design",
+    "es": "Tema de la app",
+    "fr": "Thème de l'app",
+    "ru": "Тема приложения",
+    "zh-Hans": "应用主题"
+  },
+  "Appeal": {
+    "ar": "طعن",
+    "de": "Einspruch",
+    "es": "Apelación",
+    "fr": "Contestation",
+    "ru": "Апелляция",
+    "zh-Hans": "申诉"
+  },
+  "Appeal accepted": {
+    "ar": "تم قبول الطعن",
+    "de": "Einspruch angenommen",
+    "es": "Apelación aceptada",
+    "fr": "Contestation acceptée",
+    "ru": "Апелляция принята",
+    "zh-Hans": "申诉已通过"
+  },
+  "Appeal declined": {
+    "ar": "تم رفض الطعن",
+    "de": "Einspruch abgelehnt",
+    "es": "Apelación rechazada",
+    "fr": "Contestation rejetée",
+    "ru": "Апелляция отклонена",
+    "zh-Hans": "申诉已被驳回"
+  },
+  "Appeal pending": {
+    "ar": "الطعن قيد المراجعة",
+    "de": "Einspruch ausstehend",
+    "es": "Apelación pendiente",
+    "fr": "Contestation en attente",
+    "ru": "Апелляция на рассмотрении",
+    "zh-Hans": "申诉待处理"
+  },
+  "Application": {
+    "ar": "الطلب",
+    "de": "Antrag",
+    "es": "Solicitud",
+    "fr": "Demande",
+    "ru": "Заявка",
+    "zh-Hans": "申请"
+  },
+  "Apply": {
+    "ar": "تطبيق",
+    "de": "Anwenden",
+    "es": "Aplicar",
+    "fr": "Appliquer",
+    "ru": "Применить",
+    "zh-Hans": "应用"
+  },
+  "Apply as a partner; the Zrzur team reviews every application against the partner criteria.": {
+    "ar": "قدّم كشريك؛ يراجع فريق زرزور كل طلب وفق معايير الشراكة.",
+    "de": "Bewirb dich als Partner; das Zrzur-Team prüft jede Bewerbung anhand der Partnerkriterien.",
+    "es": "Solicita ser socio; el equipo de Zrzur revisa cada solicitud según los criterios de socio.",
+    "fr": "Postule comme partenaire ; l'équipe Zrzur examine chaque candidature selon les critères de partenariat.",
+    "ru": "Подайте заявку как партнёр; команда Zrzur проверяет каждую заявку по критериям партнёрства.",
+    "zh-Hans": "申请成为合作伙伴；Zrzur 团队会根据合作伙伴标准审核每份申请。"
+  },
+  "Apps": {
+    "ar": "التطبيقات",
+    "de": "Apps",
+    "es": "Apps",
+    "fr": "Apps",
+    "ru": "Приложения",
+    "zh-Hans": "应用"
+  },
+  "Apps you allowed to use your account. Revoking one ends its access at once; bots it added stay in servers until their managers remove them.": {
+    "ar": "التطبيقات التي سمحت لها باستخدام حسابك. إلغاء أحدها ينهي وصوله فورًا؛ وتبقى البوتات التي أضافها في السيرفرات حتى يزيلها مديروها.",
+    "de": "Apps, denen du die Nutzung deines Kontos erlaubt hast. Ein Widerruf beendet den Zugriff sofort; von ihnen hinzugefügte Bots bleiben auf Servern, bis ihre Verwalter sie entfernen.",
+    "es": "Apps a las que permitiste usar tu cuenta. Revocar una termina su acceso de inmediato; los bots que añadió permanecen en los servidores hasta que sus administradores los eliminen.",
+    "fr": "Apps que tu as autorisées à utiliser ton compte. En révoquer une met fin à son accès immédiatement ; les bots qu'elle a ajoutés restent sur les serveurs jusqu'à ce que leurs gestionnaires les retirent.",
+    "ru": "Приложения, которым вы разрешили использовать свой аккаунт. Отзыв сразу прекращает доступ; добавленные ими боты остаются на серверах, пока их управляющие не удалят их.",
+    "zh-Hans": "你允许使用你账号的应用。撤销后其访问立即终止；它添加的机器人会留在服务器中，直到管理者将其移除。"
+  },
+  "Aquarius": {
+    "ar": "الدلو",
+    "de": "Wassermann",
+    "es": "Acuario",
+    "fr": "Verseau",
+    "ru": "Водолей",
+    "zh-Hans": "水瓶座"
+  },
+  "Arab countries": {
+    "ar": "الدول العربية",
+    "de": "Arabische Länder",
+    "es": "Países árabes",
+    "fr": "Pays arabes",
+    "ru": "Арабские страны",
+    "zh-Hans": "阿拉伯国家"
+  },
+  "Arabic sans": {
+    "ar": "عربي بلا زخارف",
+    "de": "Arabisch serifenlos",
+    "es": "Árabe sans",
+    "fr": "Arabe sans empattement",
+    "ru": "Арабский без засечек",
+    "zh-Hans": "阿拉伯文无衬线体"
+  },
+  "Aries": {
+    "ar": "الحمل",
+    "de": "Widder",
+    "es": "Aries",
+    "fr": "Bélier",
+    "ru": "Овен",
+    "zh-Hans": "白羊座"
+  },
+  "Arrangement": {
+    "ar": "الترتيب",
+    "de": "Anordnung",
+    "es": "Disposición",
+    "fr": "Disposition",
+    "ru": "Расположение",
+    "zh-Hans": "排列"
+  },
+  "Art & Creativity": {
+    "ar": "فنون وإبداع",
+    "de": "Kunst & Kreativität",
+    "es": "Arte y creatividad",
+    "fr": "Art et créativité",
+    "ru": "Искусство и творчество",
+    "zh-Hans": "艺术与创意"
+  },
+  "Ask the Zrzur team about your account, payments, safety or anything else. We answer here.": {
+    "ar": "اسأل فريق زرزور عن حسابك أو مدفوعاتك أو الأمان أو أي شيء آخر. نجيبك هنا.",
+    "de": "Frag das Zrzur-Team zu deinem Konto, Zahlungen, Sicherheit oder allem anderen. Wir antworten hier.",
+    "es": "Pregunta al equipo de Zrzur sobre tu cuenta, pagos, seguridad o cualquier otra cosa. Respondemos aquí.",
+    "fr": "Pose tes questions à l'équipe Zrzur sur ton compte, tes paiements, la sécurité ou autre chose. Nous répondons ici.",
+    "ru": "Спросите команду Zrzur об аккаунте, платежах, безопасности или о чём угодно. Мы отвечаем здесь.",
+    "zh-Hans": "向 Zrzur 团队咨询你的账号、付款、安全或其他任何问题。我们会在这里回复。"
+  },
+  "Ask to join": {
+    "ar": "اطلب الانضمام",
+    "de": "Beitritt anfragen",
+    "es": "Solicitar unirse",
+    "fr": "Demander à rejoindre",
+    "ru": "Попросить вступить",
+    "zh-Hans": "申请加入"
+  },
+  "At risk": {
+    "ar": "معرّض للخطر",
+    "de": "Gefährdet",
+    "es": "En riesgo",
+    "fr": "À risque",
+    "ru": "Под угрозой",
+    "zh-Hans": "有风险"
+  },
+  "Attachment": {
+    "ar": "مرفق",
+    "de": "Anhang",
+    "es": "Adjunto",
+    "fr": "Pièce jointe",
+    "ru": "Вложение",
+    "zh-Hans": "附件"
+  },
+  "Aurora": {
+    "ar": "الشفق القطبي",
+    "de": "Aurora",
+    "es": "Aurora",
+    "fr": "Aurore",
+    "ru": "Аврора",
+    "zh-Hans": "极光"
+  }
+}

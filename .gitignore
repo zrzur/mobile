@@ -1,0 +1,57 @@
+# Zrzur standard block: internal, never published
+_internal/
+CLAUDE.md
+.claude/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+Revolt.overrides.toml
+google-services.json
+GoogleService-Info.plist
+*.log
+*.sqlite
+*.bson
+*.dump
+uploads/
+node_modules/
+target/
+dist/
+build/
+out/
+.gradle/
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Expo
+.expo/
+web-build/
+expo-env.d.ts
+coverage/
+
+# Native
+.kotlin/
+*.orig.*
+*.p8
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# typescript
+*.tsbuildinfo
+
+# generated native folders (Continuous Native Generation)
+/ios
+/android

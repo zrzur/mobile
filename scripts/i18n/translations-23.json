@@ -1,0 +1,1162 @@
+{
+ "Events": {
+  "ar": "الفعاليات",
+  "de": "Events",
+  "es": "Eventos",
+  "fr": "Événements",
+  "ru": "События",
+  "zh-Hans": "活动"
+ },
+ "Extreme violence or gore": {
+  "ar": "عنف شديد أو مشاهد دموية",
+  "de": "Extreme Gewalt oder Blutvergießen",
+  "es": "Violencia extrema o contenido sangriento",
+  "fr": "Violence extrême ou scènes sanglantes",
+  "ru": "Крайнее насилие или жестокие сцены",
+  "zh-Hans": "极端暴力或血腥内容"
+ },
+ "Fake engagement": {
+  "ar": "تفاعل مزيف",
+  "de": "Gefälschte Interaktionen",
+  "es": "Interacción falsa",
+  "fr": "Faux engagement",
+  "ru": "Накрутка активности",
+  "zh-Hans": "虚假互动"
+ },
+ "Fake features": {
+  "ar": "ميزات مزيفة",
+  "de": "Gefälschte Funktionen",
+  "es": "Funciones falsas",
+  "fr": "Fausses fonctionnalités",
+  "ru": "Поддельные функции",
+  "zh-Hans": "虚假功能"
+ },
+ "Fake giveaway": {
+  "ar": "هدايا مزيفة",
+  "de": "Gefälschtes Gewinnspiel",
+  "es": "Sorteo falso",
+  "fr": "Faux concours",
+  "ru": "Фальшивый розыгрыш",
+  "zh-Hans": "虚假抽奖"
+ },
+ "Favorites": {
+  "ar": "المفضلة",
+  "de": "Favoriten",
+  "es": "Favoritos",
+  "fr": "Favoris",
+  "ru": "Избранное",
+  "zh-Hans": "收藏"
+ },
+ "Files or links that try to harm devices": {
+  "ar": "ملفات أو روابط تحاول إلحاق الضرر بالأجهزة",
+  "de": "Dateien oder Links, die Geräten schaden sollen",
+  "es": "Archivos o enlaces que intentan dañar dispositivos",
+  "fr": "Fichiers ou liens qui cherchent à nuire aux appareils",
+  "ru": "Файлы или ссылки, которые пытаются навредить устройствам",
+  "zh-Hans": "试图损害设备的文件或链接"
+ },
+ "Filter posts": {
+  "ar": "تصفية المنشورات",
+  "de": "Beiträge filtern",
+  "es": "Filtrar publicaciones",
+  "fr": "Filtrer les publications",
+  "ru": "Фильтр постов",
+  "zh-Hans": "筛选帖子"
+ },
+ "Find the perfect emoji": {
+  "ar": "اعثر على الإيموجي المناسب",
+  "de": "Finde das perfekte Emoji",
+  "es": "Encuentra el emoji perfecto",
+  "fr": "Trouve l'emoji parfait",
+  "ru": "Найди идеальный эмодзи",
+  "zh-Hans": "找到完美的表情"
+ },
+ "First message (optional)": {
+  "ar": "الرسالة الأولى (اختياري)",
+  "de": "Erste Nachricht (optional)",
+  "es": "Primer mensaje (opcional)",
+  "fr": "Premier message (facultatif)",
+  "ru": "Первое сообщение (необязательно)",
+  "zh-Hans": "第一条消息（可选）"
+ },
+ "Flags": {
+  "ar": "الأعلام",
+  "de": "Flaggen",
+  "es": "Banderas",
+  "fr": "Drapeaux",
+  "ru": "Флаги",
+  "zh-Hans": "旗帜"
+ },
+ "Flashing or harmful: it could cause seizures": {
+  "ar": "وميض أو محتوى ضار: قد يسبب نوبات صرع",
+  "de": "Blinkend oder schädlich: kann Anfälle auslösen",
+  "es": "Parpadeos o contenido dañino: podría provocar convulsiones",
+  "fr": "Clignotant ou nuisible : peut provoquer des crises",
+  "ru": "Мигающий или вредный контент: может вызвать приступы",
+  "zh-Hans": "闪烁或有害内容：可能引发癫痫发作"
+ },
+ "Food & drink": {
+  "ar": "الطعام والشراب",
+  "de": "Essen & Trinken",
+  "es": "Comida y bebida",
+  "fr": "Nourriture et boissons",
+  "ru": "Еда и напитки",
+  "zh-Hans": "饮食"
+ },
+ "Forums are off in this server. This post can only be read.": {
+  "ar": "المنتديات متوقفة في هذا السيرفر. يمكن قراءة هذا المنشور فقط.",
+  "de": "Foren sind auf diesem Server aus. Dieser Beitrag kann nur gelesen werden.",
+  "es": "Los foros están desactivados en este servidor. Esta publicación solo se puede leer.",
+  "fr": "Les forums sont désactivés sur ce serveur. Cette publication est en lecture seule.",
+  "ru": "На этом сервере форумы отключены. Этот пост можно только читать.",
+  "zh-Hans": "此服务器已关闭论坛。此帖子只能阅读。"
+ },
+ "Forums are off in this server. You can still read the posts.": {
+  "ar": "المنتديات متوقفة في هذا السيرفر. ما زال بإمكانك قراءة المنشورات.",
+  "de": "Foren sind auf diesem Server aus. Du kannst die Beiträge trotzdem lesen.",
+  "es": "Los foros están desactivados en este servidor. Aún puedes leer las publicaciones.",
+  "fr": "Les forums sont désactivés sur ce serveur. Tu peux toujours lire les publications.",
+  "ru": "На этом сервере форумы отключены. Посты всё ещё можно читать.",
+  "zh-Hans": "此服务器已关闭论坛。你仍可以阅读帖子。"
+ },
+ "Fraudulent links": {
+  "ar": "روابط احتيالية",
+  "de": "Betrügerische Links",
+  "es": "Enlaces fraudulentos",
+  "fr": "Liens frauduleux",
+  "ru": "Мошеннические ссылки",
+  "zh-Hans": "欺诈链接"
+ },
+ "Friend requests you send or receive wait here.": {
+  "ar": "طلبات الصداقة التي ترسلها أو تستقبلها تنتظر هنا.",
+  "de": "Freundschaftsanfragen, die du sendest oder erhältst, warten hier.",
+  "es": "Las solicitudes de amistad que envías o recibes esperan aquí.",
+  "fr": "Les demandes d'ami que tu envoies ou reçois attendent ici.",
+  "ru": "Отправленные и полученные заявки в друзья ждут здесь.",
+  "zh-Hans": "你发送或收到的好友请求会在这里等待。"
+ },
+ "Friends filter": {
+  "ar": "تصفية الأصدقاء",
+  "de": "Freundefilter",
+  "es": "Filtro de amigos",
+  "fr": "Filtre des amis",
+  "ru": "Фильтр друзей",
+  "zh-Hans": "好友筛选"
+ },
+ "GIF picker": {
+  "ar": "منتقي GIF",
+  "de": "GIF-Auswahl",
+  "es": "Selector de GIF",
+  "fr": "Sélecteur de GIF",
+  "ru": "Выбор GIF",
+  "zh-Hans": "GIF 选择器"
+ },
+ "GIFs aren't available yet": {
+  "ar": "صور GIF غير متاحة بعد",
+  "de": "GIFs sind noch nicht verfügbar",
+  "es": "Los GIF aún no están disponibles",
+  "fr": "Les GIF ne sont pas encore disponibles",
+  "ru": "GIF пока недоступны",
+  "zh-Hans": "GIF 暂不可用"
+ },
+ "Hacking": {
+  "ar": "اختراق",
+  "de": "Hacking",
+  "es": "Hackeo",
+  "fr": "Piratage",
+  "ru": "Взлом",
+  "zh-Hans": "黑客攻击"
+ },
+ "Hate speech": {
+  "ar": "خطاب كراهية",
+  "de": "Hassrede",
+  "es": "Discurso de odio",
+  "fr": "Discours haineux",
+  "ru": "Разжигание ненависти",
+  "zh-Hans": "仇恨言论"
+ },
+ "Headphones": {
+  "ar": "سماعات الرأس",
+  "de": "Kopfhörer",
+  "es": "Auriculares",
+  "fr": "Casque",
+  "ru": "Наушники",
+  "zh-Hans": "耳机"
+ },
+ "Home address or phone number": {
+  "ar": "عنوان المنزل أو رقم الهاتف",
+  "de": "Wohnadresse oder Telefonnummer",
+  "es": "Dirección de casa o número de teléfono",
+  "fr": "Adresse personnelle ou numéro de téléphone",
+  "ru": "Домашний адрес или номер телефона",
+  "zh-Hans": "家庭住址或电话号码"
+ },
+ "If someone is in immediate danger, contact your local emergency services now.": {
+  "ar": "إذا كان أحد في خطر داهم، اتصل بخدمات الطوارئ المحلية الآن.",
+  "de": "Wenn jemand in akuter Gefahr ist, wende dich sofort an den örtlichen Notdienst.",
+  "es": "Si alguien está en peligro inmediato, contacta ahora con los servicios de emergencia locales.",
+  "fr": "Si quelqu'un est en danger immédiat, contacte dès maintenant les services d'urgence locaux.",
+  "ru": "Если кому-то грозит непосредственная опасность, немедленно свяжитесь с местными экстренными службами.",
+  "zh-Hans": "如果有人处于紧急危险中，请立即联系当地紧急服务。"
+ },
+ "Ignore": {
+  "ar": "تجاهل",
+  "de": "Ignorieren",
+  "es": "Ignorar",
+  "fr": "Ignorer",
+  "ru": "Игнорировать",
+  "zh-Hans": "忽略"
+ },
+ "Illegal goods, extortion, hacking or extreme violence": {
+  "ar": "سلع غير قانونية أو ابتزاز أو اختراق أو عنف شديد",
+  "de": "Illegale Waren, Erpressung, Hacking oder extreme Gewalt",
+  "es": "Bienes ilegales, extorsión, hackeo o violencia extrema",
+  "fr": "Biens illégaux, extorsion, piratage ou violence extrême",
+  "ru": "Незаконные товары, вымогательство, взлом или крайнее насилие",
+  "zh-Hans": "非法商品、勒索、黑客攻击或极端暴力"
+ },
+ "Image": {
+  "ar": "صورة",
+  "de": "Bild",
+  "es": "Imagen",
+  "fr": "Image",
+  "ru": "Изображение",
+  "zh-Hans": "图片"
+ },
+ "Incoming": {
+  "ar": "الواردة",
+  "de": "Eingehend",
+  "es": "Entrantes",
+  "fr": "Reçues",
+  "ru": "Входящие",
+  "zh-Hans": "收到的"
+ },
+ "Incoming friend request": {
+  "ar": "طلب صداقة وارد",
+  "de": "Eingehende Freundschaftsanfrage",
+  "es": "Solicitud de amistad entrante",
+  "fr": "Demande d'ami reçue",
+  "ru": "Входящая заявка в друзья",
+  "zh-Hans": "收到的好友请求"
+ },
+ "Insults, targeting someone, unwanted contact or raids": {
+  "ar": "إهانات أو استهداف شخص أو تواصل غير مرغوب أو غارات",
+  "de": "Beleidigungen, gezielte Angriffe, unerwünschter Kontakt oder Raids",
+  "es": "Insultos, acoso a alguien, contacto no deseado o raids",
+  "fr": "Insultes, harcèlement ciblé, contact non désiré ou raids",
+  "ru": "Оскорбления, травля, нежелательные контакты или рейды",
+  "zh-Hans": "侮辱、针对他人、骚扰或突袭"
+ },
+ "Interests": {
+  "ar": "الاهتمامات",
+  "de": "Interessen",
+  "es": "Intereses",
+  "fr": "Centres d'intérêt",
+  "ru": "Интересы",
+  "zh-Hans": "兴趣"
+ },
+ "Involves a minor": {
+  "ar": "يتضمن قاصرًا",
+  "de": "Betrifft eine minderjährige Person",
+  "es": "Involucra a un menor",
+  "fr": "Concerne un mineur",
+  "ru": "Затрагивает несовершеннолетнего",
+  "zh-Hans": "涉及未成年人"
+ },
+ "It is open to you because you stated that you are 18 or over. Zrzur does not verify ages.": {
+  "ar": "هذا متاح لك لأنك ذكرت أن عمرك 18 عامًا أو أكثر. زرزور لا يتحقق من الأعمار.",
+  "de": "Er steht dir offen, weil du angegeben hast, dass du 18 oder älter bist. Zrzur überprüft das Alter nicht.",
+  "es": "Está abierto para ti porque indicaste que tienes 18 años o más. Zrzur no verifica las edades.",
+  "fr": "Il t'est ouvert parce que tu as indiqué avoir 18 ans ou plus. Zrzur ne vérifie pas l'âge.",
+  "ru": "Он открыт для тебя, потому что ты указал, что тебе 18 или больше. Zrzur не проверяет возраст.",
+  "zh-Hans": "你声明已年满 18 岁，所以可以访问。Zrzur 不会核实年龄。"
+ },
+ "Join call": {
+  "ar": "الانضمام إلى المكالمة",
+  "de": "Anruf beitreten",
+  "es": "Unirse a la llamada",
+  "fr": "Rejoindre l'appel",
+  "ru": "Присоединиться к звонку",
+  "zh-Hans": "加入通话"
+ },
+ "Join muted": {
+  "ar": "الانضمام مكتومًا",
+  "de": "Stumm beitreten",
+  "es": "Unirse silenciado",
+  "fr": "Rejoindre en sourdine",
+  "ru": "Войти без звука",
+  "zh-Hans": "静音加入"
+ },
+ "Join with microphone on": {
+  "ar": "الانضمام مع تشغيل الميكروفون",
+  "de": "Mit Mikrofon beitreten",
+  "es": "Unirse con el micrófono activado",
+  "fr": "Rejoindre avec le micro activé",
+  "ru": "Войти с включённым микрофоном",
+  "zh-Hans": "开启麦克风加入"
+ },
+ "Jump back in": {
+  "ar": "عُد إلى الحديث",
+  "de": "Wieder einsteigen",
+  "es": "Volver a la conversación",
+  "fr": "Reprendre",
+  "ru": "Вернуться",
+  "zh-Hans": "继续参与"
+ },
+ "Keep it": {
+  "ar": "احتفظ بها",
+  "de": "Behalten",
+  "es": "Conservar",
+  "fr": "Garder",
+  "ru": "Оставить",
+  "zh-Hans": "保留"
+ },
+ "Limit reached": {
+  "ar": "تم بلوغ الحد",
+  "de": "Limit erreicht",
+  "es": "Límite alcanzado",
+  "fr": "Limite atteinte",
+  "ru": "Лимит достигнут",
+  "zh-Hans": "已达上限"
+ },
+ "Link": {
+  "ar": "رابط",
+  "de": "Link",
+  "es": "Enlace",
+  "fr": "Lien",
+  "ru": "Ссылка",
+  "zh-Hans": "链接"
+ },
+ "Links that lead to phishing or harmful sites": {
+  "ar": "روابط تؤدي إلى مواقع تصيّد أو مواقع ضارة",
+  "de": "Links zu Phishing- oder schädlichen Seiten",
+  "es": "Enlaces que llevan a sitios de phishing o dañinos",
+  "fr": "Liens menant à des sites d'hameçonnage ou nuisibles",
+  "ru": "Ссылки на фишинговые или вредоносные сайты",
+  "zh-Hans": "指向钓鱼或有害网站的链接"
+ },
+ "Load": {
+  "ar": "تحميل",
+  "de": "Laden",
+  "es": "Cargar",
+  "fr": "Charger",
+  "ru": "Загрузить",
+  "zh-Hans": "加载"
+ },
+ "Load {provider} player": {
+  "ar": "تحميل مشغّل {provider}",
+  "de": "{provider}-Player laden",
+  "es": "Cargar reproductor de {provider}",
+  "fr": "Charger le lecteur {provider}",
+  "ru": "Загрузить плеер {provider}",
+  "zh-Hans": "加载 {provider} 播放器"
+ },
+ "Load {provider} player: {title}": {
+  "ar": "تحميل مشغّل {provider}: {title}",
+  "de": "{provider}-Player laden: {title}",
+  "es": "Cargar reproductor de {provider}: {title}",
+  "fr": "Charger le lecteur {provider} : {title}",
+  "ru": "Загрузить плеер {provider}: {title}",
+  "zh-Hans": "加载 {provider} 播放器：{title}"
+ },
+ "Loading GIFs": {
+  "ar": "جارٍ تحميل صور GIF",
+  "de": "GIFs werden geladen",
+  "es": "Cargando GIF",
+  "fr": "Chargement des GIF",
+  "ru": "Загрузка GIF",
+  "zh-Hans": "正在加载 GIF"
+ },
+ "Loading this connects to {0}. They get your IP address and may store cookies.": {
+  "ar": "التحميل يتصل بـ {0}. سيحصلون على عنوان IP الخاص بك وقد يخزّنون ملفات تعريف الارتباط.",
+  "de": "Beim Laden wird eine Verbindung zu {0} hergestellt. Sie erhalten deine IP-Adresse und können Cookies speichern.",
+  "es": "Al cargar, se conecta con {0}. Reciben tu dirección IP y pueden guardar cookies.",
+  "fr": "Le chargement se connecte à {0}. Ils reçoivent ton adresse IP et peuvent stocker des cookies.",
+  "ru": "При загрузке устанавливается соединение с {0}. Они получат твой IP-адрес и могут сохранять cookie.",
+  "zh-Hans": "加载时会连接到 {0}。对方会获得你的 IP 地址，并可能存储 Cookie。"
+ },
+ "Lock thread": {
+  "ar": "قفل الخيط",
+  "de": "Thread sperren",
+  "es": "Bloquear hilo",
+  "fr": "Verrouiller le fil",
+  "ru": "Закрыть ветку",
+  "zh-Hans": "锁定主题串"
+ },
+ "Make this page yours in Server settings, Lobby: a welcome text, buttons, questions and your team.": {
+  "ar": "اجعل هذه الصفحة لك من إعدادات السيرفر، اللوبي: نص ترحيب وأزرار وأسئلة وفريقك.",
+  "de": "Gestalte diese Seite in den Servereinstellungen unter Lobby: mit Willkommenstext, Schaltflächen, Fragen und deinem Team.",
+  "es": "Personaliza esta página en Ajustes del servidor, Lobby: un texto de bienvenida, botones, preguntas y tu equipo.",
+  "fr": "Personnalise cette page dans les paramètres du serveur, Lobby : un texte d'accueil, des boutons, des questions et ton équipe.",
+  "ru": "Настрой эту страницу в настройках сервера, раздел «Лобби»: приветствие, кнопки, вопросы и твоя команда.",
+  "zh-Hans": "在服务器设置的“大厅”中自定义此页面：欢迎文字、按钮、问题和你的团队。"
+ },
+ "Mass mentions": {
+  "ar": "إشارات جماعية",
+  "de": "Massenerwähnungen",
+  "es": "Menciones masivas",
+  "fr": "Mentions de masse",
+  "ru": "Массовые упоминания",
+  "zh-Hans": "大量提及"
+ },
+ "Member list": {
+  "ar": "قائمة الأعضاء",
+  "de": "Mitgliederliste",
+  "es": "Lista de miembros",
+  "fr": "Liste des membres",
+  "ru": "Список участников",
+  "zh-Hans": "成员列表"
+ },
+ "Members (approximate)": {
+  "ar": "الأعضاء (تقريبًا)",
+  "de": "Mitglieder (ungefähr)",
+  "es": "Miembros (aproximado)",
+  "fr": "Membres (approximatif)",
+  "ru": "Участники (примерно)",
+  "zh-Hans": "成员（约数）"
+ },
+ "Misleading sign-in or permissions": {
+  "ar": "تسجيل دخول أو أذونات مضللة",
+  "de": "Irreführende Anmeldung oder Berechtigungen",
+  "es": "Inicio de sesión o permisos engañosos",
+  "fr": "Connexion ou autorisations trompeuses",
+  "ru": "Вводящий в заблуждение вход или разрешения",
+  "zh-Hans": "误导性的登录或权限"
+ },
+ "Money scam": {
+  "ar": "احتيال مالي",
+  "de": "Geldbetrug",
+  "es": "Estafa de dinero",
+  "fr": "Arnaque financière",
+  "ru": "Денежное мошенничество",
+  "zh-Hans": "金钱诈骗"
+ },
+ "Move to voice channel": {
+  "ar": "الانتقال إلى قناة صوتية",
+  "de": "In Sprachkanal verschieben",
+  "es": "Mover al canal de voz",
+  "fr": "Déplacer vers le salon vocal",
+  "ru": "Переместить в голосовой канал",
+  "zh-Hans": "移至语音频道"
+ },
+ "Mute channel": {
+  "ar": "كتم القناة",
+  "de": "Kanal stummschalten",
+  "es": "Silenciar canal",
+  "fr": "Mettre le salon en sourdine",
+  "ru": "Отключить уведомления канала",
+  "zh-Hans": "静音频道"
+ },
+ "Mute server": {
+  "ar": "كتم السيرفر",
+  "de": "Server stummschalten",
+  "es": "Silenciar servidor",
+  "fr": "Mettre le serveur en sourdine",
+  "ru": "Отключить уведомления сервера",
+  "zh-Hans": "静音服务器"
+ },
+ "New": {
+  "ar": "جديد",
+  "de": "Neu",
+  "es": "Nuevo",
+  "fr": "Nouveau",
+  "ru": "Новое",
+  "zh-Hans": "新"
+ },
+ "New message": {
+  "ar": "رسالة جديدة",
+  "de": "Neue Nachricht",
+  "es": "Mensaje nuevo",
+  "fr": "Nouveau message",
+  "ru": "Новое сообщение",
+  "zh-Hans": "新消息"
+ },
+ "New post": {
+  "ar": "منشور جديد",
+  "de": "Neuer Beitrag",
+  "es": "Publicación nueva",
+  "fr": "Nouvelle publication",
+  "ru": "Новый пост",
+  "zh-Hans": "新帖子"
+ },
+ "New thread": {
+  "ar": "خيط جديد",
+  "de": "Neuer Thread",
+  "es": "Hilo nuevo",
+  "fr": "Nouveau fil",
+  "ru": "Новая ветка",
+  "zh-Hans": "新主题串"
+ },
+ "Next": {
+  "ar": "التالي",
+  "de": "Weiter",
+  "es": "Siguiente",
+  "fr": "Suivant",
+  "ru": "Далее",
+  "zh-Hans": "下一步"
+ },
+ "No accessible voice channels": {
+  "ar": "لا توجد قنوات صوتية متاحة",
+  "de": "Keine zugänglichen Sprachkanäle",
+  "es": "No hay canales de voz accesibles",
+  "fr": "Aucun salon vocal accessible",
+  "ru": "Нет доступных голосовых каналов",
+  "zh-Hans": "没有可访问的语音频道"
+ },
+ "No description provided.": {
+  "ar": "لم يتم تقديم وصف.",
+  "de": "Keine Beschreibung angegeben.",
+  "es": "No se proporcionó ninguna descripción.",
+  "fr": "Aucune description fournie.",
+  "ru": "Описание не указано.",
+  "zh-Hans": "未提供描述。"
+ },
+ "No emoji found": {
+  "ar": "لم يتم العثور على إيموجي",
+  "de": "Kein Emoji gefunden",
+  "es": "No se encontró ningún emoji",
+  "fr": "Aucun emoji trouvé",
+  "ru": "Эмодзи не найдены",
+  "zh-Hans": "未找到表情"
+ },
+ "No friends online right now": {
+  "ar": "لا يوجد أصدقاء متصلون الآن",
+  "de": "Gerade keine Freunde online",
+  "es": "No hay amigos en línea ahora",
+  "fr": "Aucun ami en ligne pour le moment",
+  "ru": "Сейчас нет друзей в сети",
+  "zh-Hans": "当前没有在线好友"
+ },
+ "No media device was found. Check your device settings.": {
+  "ar": "لم يتم العثور على جهاز وسائط. تحقق من إعدادات جهازك.",
+  "de": "Es wurde kein Mediengerät gefunden. Prüfe deine Geräteeinstellungen.",
+  "es": "No se encontró ningún dispositivo multimedia. Revisa los ajustes de tu dispositivo.",
+  "fr": "Aucun périphérique multimédia trouvé. Vérifie les réglages de ton appareil.",
+  "ru": "Медиаустройство не найдено. Проверь настройки устройства.",
+  "zh-Hans": "未找到媒体设备。请检查设备设置。"
+ },
+ "No messages yet": {
+  "ar": "لا توجد رسائل بعد",
+  "de": "Noch keine Nachrichten",
+  "es": "Aún no hay mensajes",
+  "fr": "Aucun message pour l'instant",
+  "ru": "Сообщений пока нет",
+  "zh-Hans": "暂无消息"
+ },
+ "No one is here yet. Start the call and others can join.": {
+  "ar": "لا أحد هنا بعد. ابدأ المكالمة ويمكن للآخرين الانضمام.",
+  "de": "Noch ist niemand hier. Starte den Anruf, dann können andere beitreten.",
+  "es": "Todavía no hay nadie. Inicia la llamada y otros podrán unirse.",
+  "fr": "Personne n'est encore là. Lance l'appel et les autres pourront le rejoindre.",
+  "ru": "Пока здесь никого нет. Начни звонок, и другие смогут присоединиться.",
+  "zh-Hans": "这里还没有人。开始通话，其他人就可以加入。"
+ },
+ "No one matches that search": {
+  "ar": "لا أحد يطابق هذا البحث",
+  "de": "Niemand passt zu dieser Suche",
+  "es": "Nadie coincide con esa búsqueda",
+  "fr": "Personne ne correspond à cette recherche",
+  "ru": "Никто не соответствует поиску",
+  "zh-Hans": "没有匹配该搜索的人"
+ },
+ "No pending requests": {
+  "ar": "لا توجد طلبات قيد الانتظار",
+  "de": "Keine ausstehenden Anfragen",
+  "es": "No hay solicitudes pendientes",
+  "fr": "Aucune demande en attente",
+  "ru": "Нет ожидающих заявок",
+  "zh-Hans": "没有待处理的请求"
+ },
+ "No posts yet.": {
+  "ar": "لا توجد منشورات بعد.",
+  "de": "Noch keine Beiträge.",
+  "es": "Aún no hay publicaciones.",
+  "fr": "Aucune publication pour l'instant.",
+  "ru": "Постов пока нет.",
+  "zh-Hans": "暂无帖子。"
+ },
+ "No posts yet. Start the first one.": {
+  "ar": "لا توجد منشورات بعد. ابدأ أول منشور.",
+  "de": "Noch keine Beiträge. Starte den ersten.",
+  "es": "Aún no hay publicaciones. Crea la primera.",
+  "fr": "Aucune publication pour l'instant. Crée la première.",
+  "ru": "Постов пока нет. Создай первый.",
+  "zh-Hans": "暂无帖子。发布第一条吧。"
+ },
+ "No question matches.": {
+  "ar": "لا يوجد سؤال مطابق.",
+  "de": "Keine Frage passt.",
+  "es": "Ninguna pregunta coincide.",
+  "fr": "Aucune question ne correspond.",
+  "ru": "Подходящих вопросов нет.",
+  "zh-Hans": "没有匹配的问题。"
+ },
+ "Note": {
+  "ar": "ملاحظة",
+  "de": "Notiz",
+  "es": "Nota",
+  "fr": "Note",
+  "ru": "Заметка",
+  "zh-Hans": "备注"
+ },
+ "Nothing matches this filter.": {
+  "ar": "لا شيء يطابق هذا الفلتر.",
+  "de": "Nichts passt zu diesem Filter.",
+  "es": "Nada coincide con este filtro.",
+  "fr": "Rien ne correspond à ce filtre.",
+  "ru": "Ничего не подходит под этот фильтр.",
+  "zh-Hans": "没有符合此筛选条件的内容。"
+ },
+ "Objects": {
+  "ar": "أشياء",
+  "de": "Objekte",
+  "es": "Objetos",
+  "fr": "Objets",
+  "ru": "Предметы",
+  "zh-Hans": "物体"
+ },
+ "Official": {
+  "ar": "رسمي",
+  "de": "Offiziell",
+  "es": "Oficial",
+  "fr": "Officiel",
+  "ru": "Официальный",
+  "zh-Hans": "官方"
+ },
+ "Only you can see this. It stays on this device.": {
+  "ar": "أنت وحدك ترى هذا. يبقى على هذا الجهاز.",
+  "de": "Nur du siehst das. Es bleibt auf diesem Gerät.",
+  "es": "Solo tú puedes ver esto. Se queda en este dispositivo.",
+  "fr": "Toi seul peux voir ceci. Cela reste sur cet appareil.",
+  "ru": "Это видишь только ты. Данные остаются на этом устройстве.",
+  "zh-Hans": "只有你能看到。内容保存在此设备上。"
+ },
+ "Open chat": {
+  "ar": "فتح الدردشة",
+  "de": "Chat öffnen",
+  "es": "Abrir chat",
+  "fr": "Ouvrir le chat",
+  "ru": "Открыть чат",
+  "zh-Hans": "打开聊天"
+ },
+ "Open emoji picker": {
+  "ar": "فتح منتقي الإيموجي",
+  "de": "Emoji-Auswahl öffnen",
+  "es": "Abrir selector de emoji",
+  "fr": "Ouvrir le sélecteur d'emoji",
+  "ru": "Открыть выбор эмодзи",
+  "zh-Hans": "打开表情选择器"
+ },
+ "Open settings": {
+  "ar": "فتح الإعدادات",
+  "de": "Einstellungen öffnen",
+  "es": "Abrir ajustes",
+  "fr": "Ouvrir les réglages",
+  "ru": "Открыть настройки",
+  "zh-Hans": "打开设置"
+ },
+ "Open thread": {
+  "ar": "فتح الخيط",
+  "de": "Thread öffnen",
+  "es": "Abrir hilo",
+  "fr": "Ouvrir le fil",
+  "ru": "Открыть ветку",
+  "zh-Hans": "打开主题串"
+ },
+ "Outgoing": {
+  "ar": "الصادرة",
+  "de": "Ausgehend",
+  "es": "Enviadas",
+  "fr": "Envoyées",
+  "ru": "Исходящие",
+  "zh-Hans": "发出的"
+ },
+ "Outgoing friend request": {
+  "ar": "طلب صداقة صادر",
+  "de": "Ausgehende Freundschaftsanfrage",
+  "es": "Solicitud de amistad enviada",
+  "fr": "Demande d'ami envoyée",
+  "ru": "Исходящая заявка в друзья",
+  "zh-Hans": "发出的好友请求"
+ },
+ "Phishing": {
+  "ar": "تصيّد احتيالي",
+  "de": "Phishing",
+  "es": "Phishing",
+  "fr": "Hameçonnage",
+  "ru": "Фишинг",
+  "zh-Hans": "钓鱼"
+ },
+ "Phishing, fake giveaways or money scams": {
+  "ar": "تصيّد احتيالي أو هدايا مزيفة أو احتيال مالي",
+  "de": "Phishing, gefälschte Gewinnspiele oder Geldbetrug",
+  "es": "Phishing, sorteos falsos o estafas de dinero",
+  "fr": "Hameçonnage, faux concours ou arnaques financières",
+  "ru": "Фишинг, фальшивые розыгрыши или денежное мошенничество",
+  "zh-Hans": "钓鱼、虚假抽奖或金钱诈骗"
+ },
+ "Pick what interests you. You get each role right away and can change it any time from the server menu.": {
+  "ar": "اختر ما يهمك. تحصل على كل دور فورًا ويمكنك تغييره في أي وقت من قائمة السيرفر.",
+  "de": "Wähle, was dich interessiert. Du bekommst jede Rolle sofort und kannst sie jederzeit im Servermenü ändern.",
+  "es": "Elige lo que te interesa. Recibes cada rol al instante y puedes cambiarlo cuando quieras desde el menú del servidor.",
+  "fr": "Choisis ce qui t'intéresse. Tu reçois chaque rôle tout de suite et tu peux le changer à tout moment depuis le menu du serveur.",
+  "ru": "Выбери, что тебе интересно. Каждая роль выдаётся сразу, и её можно изменить в любое время в меню сервера.",
+  "zh-Hans": "选择你感兴趣的内容。你会立即获得对应角色，并可随时在服务器菜单中更改。"
+ },
+ "Play": {
+  "ar": "تشغيل",
+  "de": "Abspielen",
+  "es": "Reproducir",
+  "fr": "Lecture",
+  "ru": "Воспроизвести",
+  "zh-Hans": "播放"
+ },
+ "Playback position": {
+  "ar": "موضع التشغيل",
+  "de": "Wiedergabeposition",
+  "es": "Posición de reproducción",
+  "fr": "Position de lecture",
+  "ru": "Позиция воспроизведения",
+  "zh-Hans": "播放位置"
+ },
+ "Post": {
+  "ar": "نشر",
+  "de": "Veröffentlichen",
+  "es": "Publicar",
+  "fr": "Publier",
+  "ru": "Опубликовать",
+  "zh-Hans": "发布"
+ },
+ "Post text": {
+  "ar": "نص المنشور",
+  "de": "Beitragstext",
+  "es": "Texto de la publicación",
+  "fr": "Texte de la publication",
+  "ru": "Текст поста",
+  "zh-Hans": "帖子内容"
+ },
+ "Posts couldn't be loaded.": {
+  "ar": "تعذّر تحميل المنشورات.",
+  "de": "Beiträge konnten nicht geladen werden.",
+  "es": "No se pudieron cargar las publicaciones.",
+  "fr": "Impossible de charger les publications.",
+  "ru": "Не удалось загрузить посты.",
+  "zh-Hans": "无法加载帖子。"
+ },
+ "Pretending to be you, someone else or Zrzur": {
+  "ar": "انتحال شخصيتك أو شخصية أخرى أو زرزور",
+  "de": "Gibt sich als du, eine andere Person oder Zrzur aus",
+  "es": "Se hace pasar por ti, por otra persona o por Zrzur",
+  "fr": "Se fait passer pour toi, quelqu'un d'autre ou Zrzur",
+  "ru": "Выдаёт себя за тебя, другого человека или Zrzur",
+  "zh-Hans": "冒充你、他人或 Zrzur"
+ },
+ "Pretends to be me": {
+  "ar": "ينتحل شخصيتي",
+  "de": "Gibt sich als ich aus",
+  "es": "Se hace pasar por mí",
+  "fr": "Se fait passer pour moi",
+  "ru": "Выдаёт себя за меня",
+  "zh-Hans": "冒充我"
+ },
+ "Pretends to be someone else": {
+  "ar": "ينتحل شخصية شخص آخر",
+  "de": "Gibt sich als jemand anderes aus",
+  "es": "Se hace pasar por otra persona",
+  "fr": "Se fait passer pour quelqu'un d'autre",
+  "ru": "Выдаёт себя за другого человека",
+  "zh-Hans": "冒充他人"
+ },
+ "Pretends to be Zrzur staff": {
+  "ar": "ينتحل صفة فريق زرزور",
+  "de": "Gibt sich als Zrzur-Team aus",
+  "es": "Se hace pasar por el personal de Zrzur",
+  "fr": "Se fait passer pour l'équipe Zrzur",
+  "ru": "Выдаёт себя за сотрудника Zrzur",
+  "zh-Hans": "冒充 Zrzur 工作人员"
+ },
+ "Private images": {
+  "ar": "صور خاصة",
+  "de": "Private Bilder",
+  "es": "Imágenes privadas",
+  "fr": "Images privées",
+  "ru": "Личные изображения",
+  "zh-Hans": "私密图片"
+ },
+ "Profile badges": {
+  "ar": "شارات الملف الشخصي",
+  "de": "Profilabzeichen",
+  "es": "Insignias del perfil",
+  "fr": "Badges du profil",
+  "ru": "Значки профиля",
+  "zh-Hans": "个人资料徽章"
+ },
+ "Publish": {
+  "ar": "نشر",
+  "de": "Veröffentlichen",
+  "es": "Publicar",
+  "fr": "Publier",
+  "ru": "Опубликовать",
+  "zh-Hans": "发布"
+ },
+ "Push notifications": {
+  "ar": "الإشعارات الفورية",
+  "de": "Push-Benachrichtigungen",
+  "es": "Notificaciones push",
+  "fr": "Notifications push",
+  "ru": "Push-уведомления",
+  "zh-Hans": "推送通知"
+ },
+ "Raid": {
+  "ar": "غارة",
+  "de": "Raid",
+  "es": "Raid",
+  "fr": "Raid",
+  "ru": "Рейд",
+  "zh-Hans": "突袭"
+ },
+ "Read in #{0}": {
+  "ar": "القراءة في #{0}",
+  "de": "In #{0} lesen",
+  "es": "Leer en #{0}",
+  "fr": "Lire dans #{0}",
+  "ru": "Читать в #{0}",
+  "zh-Hans": "在 #{0} 中阅读"
+ },
+ "Read the rules": {
+  "ar": "اقرأ القواعد",
+  "de": "Regeln lesen",
+  "es": "Lee las reglas",
+  "fr": "Lire les règles",
+  "ru": "Прочитать правила",
+  "zh-Hans": "阅读规则"
+ },
+ "Recent": {
+  "ar": "الأحدث",
+  "de": "Zuletzt",
+  "es": "Recientes",
+  "fr": "Récents",
+  "ru": "Недавние",
+  "zh-Hans": "最近"
+ },
+ "Record a voice message": {
+  "ar": "تسجيل رسالة صوتية",
+  "de": "Sprachnachricht aufnehmen",
+  "es": "Grabar un mensaje de voz",
+  "fr": "Enregistrer un message vocal",
+  "ru": "Записать голосовое сообщение",
+  "zh-Hans": "录制语音消息"
+ },
+ "Reference": {
+  "ar": "مرجع",
+  "de": "Referenz",
+  "es": "Referencia",
+  "fr": "Référence",
+  "ru": "Ссылка на источник",
+  "zh-Hans": "参考"
+ },
+ "Remove server deafen": {
+  "ar": "إلغاء إيقاف الصوت من السيرفر",
+  "de": "Server-Taubstellung aufheben",
+  "es": "Quitar ensordecimiento del servidor",
+  "fr": "Retirer la sourdine casque du serveur",
+  "ru": "Снять отключение звука сервером",
+  "zh-Hans": "解除服务器拒听"
+ },
+ "Remove server mute": {
+  "ar": "إلغاء الكتم من السيرفر",
+  "de": "Server-Stummschaltung aufheben",
+  "es": "Quitar silencio del servidor",
+  "fr": "Retirer la mise en sourdine du serveur",
+  "ru": "Снять отключение микрофона сервером",
+  "zh-Hans": "解除服务器静音"
+ },
+ "Reopen thread": {
+  "ar": "إعادة فتح الخيط",
+  "de": "Thread wieder öffnen",
+  "es": "Reabrir hilo",
+  "fr": "Rouvrir le fil",
+  "ru": "Открыть ветку снова",
+  "zh-Hans": "重新打开主题串"
+ },
+ "Report application": {
+  "ar": "الإبلاغ عن التطبيق",
+  "de": "Anwendung melden",
+  "es": "Denunciar aplicación",
+  "fr": "Signaler l'application",
+  "ru": "Пожаловаться на приложение",
+  "zh-Hans": "举报应用"
+ },
+ "Report attachment": {
+  "ar": "الإبلاغ عن المرفق",
+  "de": "Anhang melden",
+  "es": "Denunciar archivo adjunto",
+  "fr": "Signaler la pièce jointe",
+  "ru": "Пожаловаться на вложение",
+  "zh-Hans": "举报附件"
+ },
+ "Report bot": {
+  "ar": "الإبلاغ عن البوت",
+  "de": "Bot melden",
+  "es": "Denunciar bot",
+  "fr": "Signaler le bot",
+  "ru": "Пожаловаться на бота",
+  "zh-Hans": "举报机器人"
+ },
+ "Report channel": {
+  "ar": "الإبلاغ عن القناة",
+  "de": "Kanal melden",
+  "es": "Denunciar canal",
+  "fr": "Signaler le salon",
+  "ru": "Пожаловаться на канал",
+  "zh-Hans": "举报频道"
+ },
+ "Report design": {
+  "ar": "الإبلاغ عن التصميم",
+  "de": "Design melden",
+  "es": "Denunciar diseño",
+  "fr": "Signaler le design",
+  "ru": "Пожаловаться на дизайн",
+  "zh-Hans": "举报设计"
+ },
+ "Report Discover listing": {
+  "ar": "الإبلاغ عن إدراج في «اكتشف»",
+  "de": "Discover-Eintrag melden",
+  "es": "Denunciar anuncio de Descubrir",
+  "fr": "Signaler la fiche Découvrir",
+  "ru": "Пожаловаться на запись в «Обзоре»",
+  "zh-Hans": "举报“发现”列表"
+ },
+ "Report invite": {
+  "ar": "الإبلاغ عن الدعوة",
+  "de": "Einladung melden",
+  "es": "Denunciar invitación",
+  "fr": "Signaler l'invitation",
+  "ru": "Пожаловаться на приглашение",
+  "zh-Hans": "举报邀请"
+ },
+ "Report this effect": {
+  "ar": "الإبلاغ عن هذا التأثير",
+  "de": "Diesen Effekt melden",
+  "es": "Denunciar este efecto",
+  "fr": "Signaler cet effet",
+  "ru": "Пожаловаться на этот эффект",
+  "zh-Hans": "举报此效果"
+ },
+ "Report webhook": {
+  "ar": "الإبلاغ عن الويب هوك",
+  "de": "Webhook melden",
+  "es": "Denunciar webhook",
+  "fr": "Signaler le webhook",
+  "ru": "Пожаловаться на вебхук",
+  "zh-Hans": "举报 Webhook"
+ },
+ "Reporting doesn't remove anything by itself. A reviewer checks the report against the Zrzur guidelines.": {
+  "ar": "الإبلاغ لا يزيل أي شيء بحد ذاته. يراجع مراجع البلاغ وفق إرشادات زرزور.",
+  "de": "Eine Meldung entfernt von selbst nichts. Ein Prüfer vergleicht sie mit den Zrzur-Richtlinien.",
+  "es": "Denunciar no elimina nada por sí solo. Un revisor comprueba la denuncia según las normas de Zrzur.",
+  "fr": "Un signalement ne supprime rien à lui seul. Un modérateur l'examine selon les règles de Zrzur.",
+  "ru": "Жалоба сама ничего не удаляет. Проверяющий сверяет её с правилами Zrzur.",
+  "zh-Hans": "举报本身不会删除任何内容。审核人员会根据 Zrzur 准则检查举报。"
+ },
+ "Save draft": {
+  "ar": "حفظ المسودة",
+  "de": "Entwurf speichern",
+  "es": "Guardar borrador",
+  "fr": "Enregistrer le brouillon",
+  "ru": "Сохранить черновик",
+  "zh-Hans": "保存草稿"
+ },
+ "Screen share unavailable": {
+  "ar": "مشاركة الشاشة غير متاحة",
+  "de": "Bildschirmfreigabe nicht verfügbar",
+  "es": "Compartir pantalla no disponible",
+  "fr": "Partage d'écran indisponible",
+  "ru": "Демонстрация экрана недоступна",
+  "zh-Hans": "屏幕共享不可用"
+ },
+ "Search isn't available right now. Try again soon.": {
+  "ar": "البحث غير متاح الآن. حاول مرة أخرى قريبًا.",
+  "de": "Die Suche ist gerade nicht verfügbar. Versuche es bald noch einmal.",
+  "es": "La búsqueda no está disponible ahora. Inténtalo de nuevo pronto.",
+  "fr": "La recherche n'est pas disponible pour le moment. Réessaie bientôt.",
+  "ru": "Поиск сейчас недоступен. Попробуй позже.",
+  "zh-Hans": "搜索暂不可用。请稍后再试。"
+ },
+ "Search KLIPY": {
+  "ar": "البحث في KLIPY",
+  "de": "KLIPY durchsuchen",
+  "es": "Buscar en KLIPY",
+  "fr": "Rechercher sur KLIPY",
+  "ru": "Поиск в KLIPY",
+  "zh-Hans": "搜索 KLIPY"
+ },
+ "Search messages": {
+  "ar": "البحث في الرسائل",
+  "de": "Nachrichten durchsuchen",
+  "es": "Buscar mensajes",
+  "fr": "Rechercher des messages",
+  "ru": "Поиск сообщений",
+  "zh-Hans": "搜索消息"
+ },
+ "Search questions": {
+  "ar": "البحث في الأسئلة",
+  "de": "Fragen durchsuchen",
+  "es": "Buscar preguntas",
+  "fr": "Rechercher des questions",
+  "ru": "Поиск вопросов",
+  "zh-Hans": "搜索问题"
+ },
+ "Self-harm": {
+  "ar": "إيذاء النفس",
+  "de": "Selbstverletzung",
+  "es": "Autolesiones",
+  "fr": "Automutilation",
+  "ru": "Самоповреждение",
+  "zh-Hans": "自残"
+ },
+ "Selling or trading accounts": {
+  "ar": "بيع الحسابات أو المتاجرة بها",
+  "de": "Verkauf oder Handel mit Konten",
+  "es": "Venta o intercambio de cuentas",
+  "fr": "Vente ou échange de comptes",
+  "ru": "Продажа или обмен аккаунтов",
+  "zh-Hans": "出售或交易账号"
+ },
+ "Send GIF": {
+  "ar": "إرسال GIF",
+  "de": "GIF senden",
+  "es": "Enviar GIF",
+  "fr": "Envoyer un GIF",
+  "ru": "Отправить GIF",
+  "zh-Hans": "发送 GIF"
+ },
+ "Send voice message": {
+  "ar": "إرسال رسالة صوتية",
+  "de": "Sprachnachricht senden",
+  "es": "Enviar mensaje de voz",
+  "fr": "Envoyer un message vocal",
+  "ru": "Отправить голосовое сообщение",
+  "zh-Hans": "发送语音消息"
+ },
+ "Sends spam DMs": {
+  "ar": "يرسل رسائل خاصة مزعجة",
+  "de": "Sendet Spam-DMs",
+  "es": "Envía MD de spam",
+  "fr": "Envoie des MP de spam",
+  "ru": "Рассылает спам в личные сообщения",
+  "zh-Hans": "发送垃圾私信"
+ },
+ "Server deafen": {
+  "ar": "إيقاف الصوت من السيرفر",
+  "de": "Server-Taubstellung",
+  "es": "Ensordecer en el servidor",
+  "fr": "Sourdine casque serveur",
+  "ru": "Отключение звука сервером",
+  "zh-Hans": "服务器拒听"
+ },
+ "Server deafened": {
+  "ar": "تم إيقاف صوتك من السيرفر",
+  "de": "Vom Server taubgestellt",
+  "es": "Ensordecido por el servidor",
+  "fr": "Mis en sourdine casque par le serveur",
+  "ru": "Звук отключён сервером",
+  "zh-Hans": "已被服务器拒听"
+ },
+ "Server default": {
+  "ar": "افتراضي السيرفر",
+  "de": "Server-Standard",
+  "es": "Predeterminado del servidor",
+  "fr": "Défaut du serveur",
+  "ru": "По умолчанию для сервера",
+  "zh-Hans": "服务器默认"
+ },
+ "Server details": {
+  "ar": "تفاصيل السيرفر",
+  "de": "Serverdetails",
+  "es": "Detalles del servidor",
+  "fr": "Détails du serveur",
+  "ru": "Сведения о сервере",
+  "zh-Hans": "服务器详情"
+ },
+ "Server ID": {
+  "ar": "معرّف السيرفر",
+  "de": "Server-ID",
+  "es": "ID del servidor",
+  "fr": "ID du serveur",
+  "ru": "ID сервера",
+  "zh-Hans": "服务器 ID"
+ },
+ "Server info": {
+  "ar": "معلومات السيرفر",
+  "de": "Serverinfo",
+  "es": "Info del servidor",
+  "fr": "Infos du serveur",
+  "ru": "Информация о сервере",
+  "zh-Hans": "服务器信息"
+ },
+ "Server information": {
+  "ar": "معلومات السيرفر",
+  "de": "Serverinformationen",
+  "es": "Información del servidor",
+  "fr": "Informations du serveur",
+  "ru": "Информация о сервере",
+  "zh-Hans": "服务器信息"
+ },
+ "Server mute": {
+  "ar": "كتم من السيرفر",
+  "de": "Server-Stummschaltung",
+  "es": "Silencio del servidor",
+  "fr": "Sourdine serveur",
+  "ru": "Отключение микрофона сервером",
+  "zh-Hans": "服务器静音"
+ },
+ "Server muted": {
+  "ar": "تم كتمك من السيرفر",
+  "de": "Vom Server stummgeschaltet",
+  "es": "Silenciado por el servidor",
+  "fr": "Mis en sourdine par le serveur",
+  "ru": "Микрофон отключён сервером",
+  "zh-Hans": "已被服务器静音"
+ },
+ "Servers: {0}": {
+  "ar": "السيرفرات: {0}",
+  "de": "Server: {0}",
+  "es": "Servidores: {0}",
+  "fr": "Serveurs : {0}",
+  "ru": "Серверы: {0}",
+  "zh-Hans": "服务器：{0}"
+ },
+ "Shared without consent": {
+  "ar": "تمت مشاركته دون موافقة",
+  "de": "Ohne Einwilligung geteilt",
+  "es": "Compartido sin consentimiento",
+  "fr": "Partagé sans consentement",
+  "ru": "Опубликовано без согласия",
+  "zh-Hans": "未经同意分享"
+ },
+ "Show less": {
+  "ar": "عرض أقل",
+  "de": "Weniger anzeigen",
+  "es": "Mostrar menos",
+  "fr": "Afficher moins",
+  "ru": "Свернуть",
+  "zh-Hans": "收起"
+ },
+ "Show notifications while the app is open or in the background.": {
+  "ar": "إظهار الإشعارات أثناء فتح التطبيق أو في الخلفية.",
+  "de": "Benachrichtigungen anzeigen, während die App geöffnet ist oder im Hintergrund läuft.",
+  "es": "Mostrar notificaciones con la app abierta o en segundo plano.",
+  "fr": "Afficher les notifications quand l'app est ouverte ou en arrière-plan.",
+  "ru": "Показывать уведомления, когда приложение открыто или работает в фоне.",
+  "zh-Hans": "应用打开或在后台运行时显示通知。"
+ },
+ "Skip": {
+  "ar": "تخطّي",
+  "de": "Überspringen",
+  "es": "Omitir",
+  "fr": "Passer",
+  "ru": "Пропустить",
+  "zh-Hans": "跳过"
+ }
+}

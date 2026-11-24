@@ -1,0 +1,1146 @@
+{
+ "Daylight": {
+  "ar": "ضوء النهار",
+  "de": "Tageslicht",
+  "es": "Luz del día",
+  "fr": "Lumière du jour",
+  "ru": "Дневной свет",
+  "zh-Hans": "日光"
+ },
+ "Default font": {
+  "ar": "الخط الافتراضي",
+  "de": "Standardschrift",
+  "es": "Fuente predeterminada",
+  "fr": "Police par défaut",
+  "ru": "Шрифт по умолчанию",
+  "zh-Hans": "默认字体"
+ },
+ "Delete account": {
+  "ar": "حذف الحساب",
+  "de": "Konto löschen",
+  "es": "Eliminar cuenta",
+  "fr": "Supprimer le compte",
+  "ru": "Удалить аккаунт",
+  "zh-Hans": "删除账号"
+ },
+ "Delete this webhook?": {
+  "ar": "هل تريد حذف خطاف الويب هذا؟",
+  "de": "Diesen Webhook löschen?",
+  "es": "¿Eliminar este webhook?",
+  "fr": "Supprimer ce webhook ?",
+  "ru": "Удалить этот вебхук?",
+  "zh-Hans": "要删除此 Webhook 吗？"
+ },
+ "Desert Dawn": {
+  "ar": "فجر الصحراء",
+  "de": "Wüstenmorgen",
+  "es": "Amanecer en el desierto",
+  "fr": "Aube du désert",
+  "ru": "Рассвет в пустыне",
+  "zh-Hans": "沙漠黎明"
+ },
+ "Design": {
+  "ar": "التصميم",
+  "de": "Design",
+  "es": "Diseño",
+  "fr": "Design",
+  "ru": "Дизайн",
+  "zh-Hans": "设计"
+ },
+ "Design suspended": {
+  "ar": "التصميم معلّق",
+  "de": "Design gesperrt",
+  "es": "Diseño suspendido",
+  "fr": "Design suspendu",
+  "ru": "Дизайн приостановлен",
+  "zh-Hans": "设计已被暂停"
+ },
+ "Device (optional)": {
+  "ar": "الجهاز (اختياري)",
+  "de": "Gerät (optional)",
+  "es": "Dispositivo (opcional)",
+  "fr": "Appareil (facultatif)",
+  "ru": "Устройство (необязательно)",
+  "zh-Hans": "设备（可选）"
+ },
+ "Devices signed in to your account. Unused ones log out by themselves.": {
+  "ar": "الأجهزة المسجّل دخولها إلى حسابك. الأجهزة غير المستخدمة تسجّل الخروج تلقائيًا.",
+  "de": "Geräte, die in dein Konto eingeloggt sind. Ungenutzte werden automatisch abgemeldet.",
+  "es": "Dispositivos con sesión iniciada en tu cuenta. Los que no se usan cierran sesión solos.",
+  "fr": "Appareils connectés à ton compte. Ceux qui ne servent pas se déconnectent tout seuls.",
+  "ru": "Устройства, в которых выполнен вход в твой аккаунт. Неиспользуемые выходят сами.",
+  "zh-Hans": "已登录你账号的设备。长期不用的设备会自动退出登录。"
+ },
+ "Disable": {
+  "ar": "تعطيل",
+  "de": "Deaktivieren",
+  "es": "Desactivar",
+  "fr": "Désactiver",
+  "ru": "Отключить",
+  "zh-Hans": "停用"
+ },
+ "Disable account": {
+  "ar": "تعطيل الحساب",
+  "de": "Konto deaktivieren",
+  "es": "Desactivar cuenta",
+  "fr": "Désactiver le compte",
+  "ru": "Отключить аккаунт",
+  "zh-Hans": "停用账号"
+ },
+ "Disconnect": {
+  "ar": "قطع الاتصال",
+  "de": "Trennen",
+  "es": "Desconectar",
+  "fr": "Déconnecter",
+  "ru": "Отключить",
+  "zh-Hans": "断开连接"
+ },
+ "Discover": {
+  "ar": "اكتشف",
+  "de": "Entdecken",
+  "es": "Descubrir",
+  "fr": "Découvrir",
+  "ru": "Обзор",
+  "zh-Hans": "发现"
+ },
+ "Discover bot listing": {
+  "ar": "قائمة البوت في استكشف",
+  "de": "Bot-Eintrag in Entdecken",
+  "es": "Ficha del bot en Descubrir",
+  "fr": "Fiche du bot dans Découvrir",
+  "ru": "Страница бота в разделе «Обзор»",
+  "zh-Hans": "机器人的“发现”列表"
+ },
+ "Discover server listing": {
+  "ar": "قائمة السيرفر في استكشف",
+  "de": "Server-Eintrag in Entdecken",
+  "es": "Ficha del servidor en Descubrir",
+  "fr": "Fiche du serveur dans Découvrir",
+  "ru": "Страница сервера в разделе «Обзор»",
+  "zh-Hans": "服务器的“发现”列表"
+ },
+ "Discovery": {
+  "ar": "الاستكشاف",
+  "de": "Entdecken",
+  "es": "Descubrimiento",
+  "fr": "Découverte",
+  "ru": "Обзор",
+  "zh-Hans": "发现"
+ },
+ "Display name style": {
+  "ar": "نمط الاسم المعروض",
+  "de": "Stil des Anzeigenamens",
+  "es": "Estilo del nombre visible",
+  "fr": "Style du nom d'affichage",
+  "ru": "Стиль отображаемого имени",
+  "zh-Hans": "显示名称样式"
+ },
+ "Download": {
+  "ar": "تنزيل",
+  "de": "Herunterladen",
+  "es": "Descargar",
+  "fr": "Télécharger",
+  "ru": "Скачать",
+  "zh-Hans": "下载"
+ },
+ "Duplicate": {
+  "ar": "تكرار",
+  "de": "Duplizieren",
+  "es": "Duplicar",
+  "fr": "Dupliquer",
+  "ru": "Дублировать",
+  "zh-Hans": "复制"
+ },
+ "e.g. she/her, they/them": {
+  "ar": "مثال: هي، هو",
+  "de": "z. B. sie/ihr, er/ihm",
+  "es": "p. ej. ella, él",
+  "fr": "p. ex. elle, il",
+  "ru": "напр. она, он",
+  "zh-Hans": "例如：她、他"
+ },
+ "e.g. they/them": {
+  "ar": "مثال: هم",
+  "de": "z. B. they/them",
+  "es": "p. ej. elle, they/them",
+  "fr": "p. ex. iel, they/them",
+  "ru": "напр. они",
+  "zh-Hans": "例如：they/them"
+ },
+ "Each Wing counts towards a server's level. Move them any time; they leave a server with you.": {
+  "ar": "كل جناح يُحتسب في مستوى السيرفر. انقله متى شئت، وهو يغادر السيرفر معك.",
+  "de": "Jeder Flügel zählt für das Level eines Servers. Du kannst sie jederzeit verschieben; sie verlassen einen Server mit dir.",
+  "es": "Cada Ala cuenta para el nivel de un servidor. Muévelas cuando quieras; se van contigo si sales de un servidor.",
+  "fr": "Chaque Aile compte pour le niveau d'un serveur. Déplace-les quand tu veux ; elles partent avec toi.",
+  "ru": "Каждое Крыло учитывается в уровне сервера. Перемещай их когда угодно; они уходят с сервера вместе с тобой.",
+  "zh-Hans": "每个翅膀都计入服务器等级。你可以随时移动它们；你离开服务器时它们也会随你离开。"
+ },
+ "Early Adopter": {
+  "ar": "مستخدم مبكر",
+  "de": "Early Adopter",
+  "es": "Pionero",
+  "fr": "Pionnier",
+  "ru": "Первопроходец",
+  "zh-Hans": "早期用户"
+ },
+ "Early Supporter": {
+  "ar": "داعم مبكر",
+  "de": "Früher Unterstützer",
+  "es": "Apoyo temprano",
+  "fr": "Soutien précoce",
+  "ru": "Ранний сторонник",
+  "zh-Hans": "早期支持者"
+ },
+ "Echo cancellation": {
+  "ar": "صدى الصوت",
+  "de": "Echounterdrückung",
+  "es": "Cancelación de eco",
+  "fr": "Annulation d'écho",
+  "ru": "Эхоподавление",
+  "zh-Hans": "回声消除"
+ },
+ "Edit": {
+  "ar": "تعديل",
+  "de": "Bearbeiten",
+  "es": "Editar",
+  "fr": "Modifier",
+  "ru": "Изменить",
+  "zh-Hans": "编辑"
+ },
+ "Edit webhook": {
+  "ar": "تعديل خطاف الويب",
+  "de": "Webhook bearbeiten",
+  "es": "Editar webhook",
+  "fr": "Modifier le webhook",
+  "ru": "Изменить вебхук",
+  "zh-Hans": "编辑 Webhook"
+ },
+ "Education": {
+  "ar": "التعليم",
+  "de": "Bildung",
+  "es": "Educación",
+  "fr": "Éducation",
+  "ru": "Образование",
+  "zh-Hans": "教育"
+ },
+ "Elegant": {
+  "ar": "أنيق",
+  "de": "Elegant",
+  "es": "Elegante",
+  "fr": "Élégant",
+  "ru": "Элегантный",
+  "zh-Hans": "优雅"
+ },
+ "Elite Bug Hunter": {
+  "ar": "صائد أخطاء متميز",
+  "de": "Elite-Bug-Jäger",
+  "es": "Cazador de errores de élite",
+  "fr": "Chasseur de bugs d'élite",
+  "ru": "Элитный охотник за багами",
+  "zh-Hans": "精英漏洞猎手"
+ },
+ "Embers": {
+  "ar": "جمر",
+  "de": "Glut",
+  "es": "Brasas",
+  "fr": "Braises",
+  "ru": "Угольки",
+  "zh-Hans": "余烬"
+ },
+ "Empty fields follow the theme. Text keeps 4.5:1 contrast.": {
+  "ar": "الحقول الفارغة تتبع السمة. النص يحافظ على تباين 4.5:1.",
+  "de": "Leere Felder folgen dem Theme. Text behält einen Kontrast von 4,5:1.",
+  "es": "Los campos vacíos siguen el tema. El texto mantiene un contraste de 4,5:1.",
+  "fr": "Les champs vides suivent le thème. Le texte garde un contraste de 4,5:1.",
+  "ru": "Пустые поля следуют теме. Текст сохраняет контраст 4,5:1.",
+  "zh-Hans": "留空的项会跟随主题。文字保持 4.5:1 的对比度。"
+ },
+ "Enabled": {
+  "ar": "مفعّل",
+  "de": "Aktiviert",
+  "es": "Activado",
+  "fr": "Activé",
+  "ru": "Включено",
+  "zh-Hans": "已启用"
+ },
+ "Ending soon": {
+  "ar": "ينتهي قريبًا",
+  "de": "Endet bald",
+  "es": "Termina pronto",
+  "fr": "Bientôt terminé",
+  "ru": "Скоро закончится",
+  "zh-Hans": "即将结束"
+ },
+ "Ends": {
+  "ar": "ينتهي",
+  "de": "Endet",
+  "es": "Termina",
+  "fr": "Se termine",
+  "ru": "Заканчивается",
+  "zh-Hans": "结束于"
+ },
+ "England": {
+  "ar": "إنجلترا",
+  "de": "England",
+  "es": "Inglaterra",
+  "fr": "Angleterre",
+  "ru": "Англия",
+  "zh-Hans": "英格兰"
+ },
+ "Enter code": {
+  "ar": "أدخل الرمز",
+  "de": "Code eingeben",
+  "es": "Introduce el código",
+  "fr": "Saisis le code",
+  "ru": "Введите код",
+  "zh-Hans": "输入验证码"
+ },
+ "Enter your current password, then choose a new one you don't use anywhere else.": {
+  "ar": "أدخل كلمة مرورك الحالية، ثم اختر كلمة مرور جديدة لا تستخدمها في أي مكان آخر.",
+  "de": "Gib dein aktuelles Passwort ein und wähle dann ein neues, das du sonst nirgends verwendest.",
+  "es": "Introduce tu contraseña actual y elige una nueva que no uses en ningún otro sitio.",
+  "fr": "Saisis ton mot de passe actuel, puis choisis-en un nouveau que tu n'utilises nulle part ailleurs.",
+  "ru": "Введите текущий пароль, затем выберите новый, который вы нигде больше не используете.",
+  "zh-Hans": "输入当前密码，然后设置一个你没在其他地方用过的新密码。"
+ },
+ "Entertainment": {
+  "ar": "الترفيه",
+  "de": "Unterhaltung",
+  "es": "Entretenimiento",
+  "fr": "Divertissement",
+  "ru": "Развлечения",
+  "zh-Hans": "娱乐"
+ },
+ "Events": {
+  "ar": "الأحداث",
+  "de": "Events",
+  "es": "Eventos",
+  "fr": "Événements",
+  "ru": "События",
+  "zh-Hans": "活动"
+ },
+ "Every listing gets its own public page on discover.zrzur.com. Anyone can open it without an account and search engines index it, with a preview image and the approximate member and online counts.": {
+  "ar": "لكل إدراج صفحة عامة خاصة به على discover.zrzur.com. يمكن لأي شخص فتحها بدون حساب، وتفهرسها محركات البحث مع صورة معاينة وأعداد تقريبية للأعضاء والمتصلين.",
+  "de": "Jeder Eintrag hat eine eigene öffentliche Seite auf discover.zrzur.com. Jeder kann sie ohne Konto öffnen, Suchmaschinen indexieren sie, mit Vorschaubild und ungefähren Mitglieder- und Online-Zahlen.",
+  "es": "Cada ficha tiene su propia página pública en discover.zrzur.com. Cualquiera puede abrirla sin cuenta y los buscadores la indexan, con imagen de vista previa y cifras aproximadas de miembros y conectados.",
+  "fr": "Chaque fiche a sa propre page publique sur discover.zrzur.com. N'importe qui peut l'ouvrir sans compte et les moteurs de recherche l'indexent, avec une image d'aperçu et le nombre approximatif de membres et de personnes en ligne.",
+  "ru": "У каждой страницы есть своя публичная страница на discover.zrzur.com. Её может открыть любой без аккаунта, её индексируют поисковики; показываются картинка предпросмотра и примерное число участников и людей онлайн.",
+  "zh-Hans": "每个列表在 discover.zrzur.com 上都有自己的公开页面。任何人无需账号即可打开，搜索引擎也会收录，并显示预览图以及大致的成员数和在线人数。"
+ },
+ "Everything you need to talk is free, and stays free. Feather gives you bigger files, sharper streams and longer messages, and pays for the servers everyone else uses too.": {
+  "ar": "كل ما تحتاجه للتحدث مجاني ويبقى مجانيًا. تمنحك ريشة ملفات أكبر وبثًا أوضح ورسائل أطول، وتموّل السيرفرات التي يستخدمها الجميع.",
+  "de": "Alles, was du zum Reden brauchst, ist kostenlos und bleibt es. Feather gibt dir größere Dateien, schärfere Streams und längere Nachrichten und bezahlt die Server, die alle anderen auch nutzen.",
+  "es": "Todo lo que necesitas para hablar es gratis y seguirá siéndolo. Feather te da archivos más grandes, streams más nítidos y mensajes más largos, y paga los servidores que usa todo el mundo.",
+  "fr": "Tout ce qu'il faut pour discuter est gratuit et le restera. Feather t'offre des fichiers plus gros, des streams plus nets et des messages plus longs, et finance les serveurs que tout le monde utilise.",
+  "ru": "Всё, что нужно для общения, бесплатно и останется бесплатным. Feather даёт файлы побольше, более чёткие трансляции и более длинные сообщения и оплачивает серверы, которыми пользуются все.",
+  "zh-Hans": "聊天所需的一切都是免费的，并将一直免费。Feather 为你提供更大的文件、更清晰的直播和更长的消息，同时也为大家都在用的服务器买单。"
+ },
+ "Exceptional bug and security contributions, recognised by the team.": {
+  "ar": "إسهامات استثنائية في الأخطاء والأمان، يقدّرها الفريق.",
+  "de": "Außergewöhnliche Beiträge zu Bugs und Sicherheit, vom Team gewürdigt.",
+  "es": "Contribuciones excepcionales en errores y seguridad, reconocidas por el equipo.",
+  "fr": "Contributions exceptionnelles sur les bugs et la sécurité, reconnues par l'équipe.",
+  "ru": "Выдающийся вклад в поиск багов и уязвимостей, отмеченный командой.",
+  "zh-Hans": "在漏洞和安全方面做出杰出贡献，获团队认可。"
+ },
+ "Expected": {
+  "ar": "متوقع",
+  "de": "Erwartet",
+  "es": "Esperado",
+  "fr": "Attendu",
+  "ru": "Ожидается",
+  "zh-Hans": "预期"
+ },
+ "Extras": {
+  "ar": "إضافات",
+  "de": "Extras",
+  "es": "Extras",
+  "fr": "Extras",
+  "ru": "Дополнения",
+  "zh-Hans": "附加内容"
+ },
+ "Falling stars": {
+  "ar": "نجوم متساقطة",
+  "de": "Sternschnuppen",
+  "es": "Estrellas fugaces",
+  "fr": "Étoiles filantes",
+  "ru": "Падающие звёзды",
+  "zh-Hans": "流星"
+ },
+ "Feather": {
+  "ar": "ريشة",
+  "de": "Feather",
+  "es": "Feather",
+  "fr": "Feather",
+  "ru": "Feather",
+  "zh-Hans": "Feather"
+ },
+ "Feathers": {
+  "ar": "ريش",
+  "de": "Feathers",
+  "es": "Feathers",
+  "fr": "Feathers",
+  "ru": "Feathers",
+  "zh-Hans": "Feathers"
+ },
+ "Features": {
+  "ar": "الميزات",
+  "de": "Funktionen",
+  "es": "Funciones",
+  "fr": "Fonctionnalités",
+  "ru": "Возможности",
+  "zh-Hans": "功能"
+ },
+ "Feedback & reports": {
+  "ar": "ملاحظات وبلاغات",
+  "de": "Feedback & Meldungen",
+  "es": "Comentarios e informes",
+  "fr": "Retours et signalements",
+  "ru": "Отзывы и жалобы",
+  "zh-Hans": "反馈与举报"
+ },
+ "Fireflies": {
+  "ar": "يراعات",
+  "de": "Glühwürmchen",
+  "es": "Luciérnagas",
+  "fr": "Lucioles",
+  "ru": "Светлячки",
+  "zh-Hans": "萤火虫"
+ },
+ "First channel everyone can read": {
+  "ar": "أول قناة يمكن للجميع قراءتها",
+  "de": "Erster Kanal, den alle lesen können",
+  "es": "Primer canal que todos pueden leer",
+  "fr": "Premier canal que tout le monde peut lire",
+  "ru": "Первый канал, доступный для чтения всем",
+  "zh-Hans": "第一个所有人都能阅读的频道"
+ },
+ "Fixed": {
+  "ar": "ثابت",
+  "de": "Fest",
+  "es": "Fijo",
+  "fr": "Fixe",
+  "ru": "Фиксированный",
+  "zh-Hans": "固定"
+ },
+ "Flame ring": {
+  "ar": "حلقة اللهب",
+  "de": "Flammenring",
+  "es": "Anillo de llamas",
+  "fr": "Anneau de flammes",
+  "ru": "Огненное кольцо",
+  "zh-Hans": "火焰环"
+ },
+ "Follow device": {
+  "ar": "اتباع الجهاز",
+  "de": "Dem Gerät folgen",
+  "es": "Seguir al dispositivo",
+  "fr": "Suivre l'appareil",
+  "ru": "Как на устройстве",
+  "zh-Hans": "跟随设备"
+ },
+ "For example: Windows 11, Firefox": {
+  "ar": "مثال: Windows 11، Firefox",
+  "de": "Zum Beispiel: Windows 11, Firefox",
+  "es": "Por ejemplo: Windows 11, Firefox",
+  "fr": "Par exemple : Windows 11, Firefox",
+  "ru": "Например: Windows 11, Firefox",
+  "zh-Hans": "例如：Windows 11、Firefox"
+ },
+ "For the people who keep Zrzur flying.": {
+  "ar": "لمن يبقون زرزور محلّقًا.",
+  "de": "Für die Leute, die Zrzur am Fliegen halten.",
+  "es": "Para quienes mantienen Zrzur en vuelo.",
+  "fr": "Pour celles et ceux qui gardent Zrzur en vol.",
+  "ru": "Для тех, кто не даёт Zrzur упасть.",
+  "zh-Hans": "献给让 Zrzur 持续翱翔的人。"
+ },
+ "Forget": {
+  "ar": "نسيان",
+  "de": "Vergessen",
+  "es": "Olvidar",
+  "fr": "Oublier",
+  "ru": "Забыть",
+  "zh-Hans": "忘记"
+ },
+ "Found a real bug that the Zrzur team verified.": {
+  "ar": "عثر على خطأ حقيقي تحقق منه فريق زرزور.",
+  "de": "Hat einen echten Bug gefunden, den das Zrzur-Team bestätigt hat.",
+  "es": "Encontró un error real que el equipo de Zrzur verificó.",
+  "fr": "A trouvé un vrai bug vérifié par l'équipe Zrzur.",
+  "ru": "Нашёл настоящий баг, подтверждённый командой Zrzur.",
+  "zh-Hans": "发现了经 Zrzur 团队确认的真实漏洞。"
+ },
+ "Founded Zrzur.": {
+  "ar": "أسّس زرزور.",
+  "de": "Hat Zrzur gegründet.",
+  "es": "Fundó Zrzur.",
+  "fr": "A fondé Zrzur.",
+  "ru": "Основал Zrzur.",
+  "zh-Hans": "创立了 Zrzur。"
+ },
+ "Free": {
+  "ar": "مجاني",
+  "de": "Kostenlos",
+  "es": "Gratis",
+  "fr": "Gratuit",
+  "ru": "Бесплатно",
+  "zh-Hans": "免费"
+ },
+ "Friends and server members": {
+  "ar": "الأصدقاء وأعضاء السيرفر",
+  "de": "Freunde und Servermitglieder",
+  "es": "Amigos y miembros del servidor",
+  "fr": "Amis et membres du serveur",
+  "ru": "Друзья и участники сервера",
+  "zh-Hans": "好友和服务器成员"
+ },
+ "Friends can always message you, and blocked people never can. Anyone you write to first can reply.": {
+  "ar": "يمكن للأصدقاء مراسلتك دائمًا، ولا يمكن للمحظورين ذلك أبدًا. ومن تكتب له أولًا يمكنه الرد.",
+  "de": "Freunde können dir immer schreiben, blockierte Personen nie. Wem du zuerst schreibst, der kann antworten.",
+  "es": "Los amigos siempre pueden escribirte y las personas bloqueadas nunca. Quien reciba un mensaje tuyo primero puede responder.",
+  "fr": "Tes amis peuvent toujours t'écrire, les personnes bloquées jamais. Quiconque tu contactes en premier peut répondre.",
+  "ru": "Друзья всегда могут тебе писать, заблокированные — никогда. Тот, кому ты написал первым, может ответить.",
+  "zh-Hans": "好友随时可以给你发消息，被屏蔽的人则永远不行。你先联系的人可以回复。"
+ },
+ "Friends only": {
+  "ar": "الأصدقاء فقط",
+  "de": "Nur Freunde",
+  "es": "Solo amigos",
+  "fr": "Amis uniquement",
+  "ru": "Только друзья",
+  "zh-Hans": "仅好友"
+ },
+ "Full": {
+  "ar": "كامل",
+  "de": "Vollständig",
+  "es": "Completo",
+  "fr": "Complet",
+  "ru": "Полностью",
+  "zh-Hans": "完整"
+ },
+ "Fully translated": {
+  "ar": "مترجم بالكامل",
+  "de": "Vollständig übersetzt",
+  "es": "Totalmente traducido",
+  "fr": "Entièrement traduit",
+  "ru": "Переведено полностью",
+  "zh-Hans": "已完整翻译"
+ },
+ "Further violations may lead to a suspension.": {
+  "ar": "قد تؤدي المخالفات الإضافية إلى التعليق.",
+  "de": "Weitere Verstöße können zu einer Sperrung führen.",
+  "es": "Más infracciones pueden llevar a una suspensión.",
+  "fr": "D'autres infractions peuvent entraîner une suspension.",
+  "ru": "Дальнейшие нарушения могут привести к блокировке.",
+  "zh-Hans": "进一步的违规可能导致账号被暂停。"
+ },
+ "Games": {
+  "ar": "الألعاب",
+  "de": "Spiele",
+  "es": "Juegos",
+  "fr": "Jeux",
+  "ru": "Игры",
+  "zh-Hans": "游戏"
+ },
+ "Gaming": {
+  "ar": "الألعاب",
+  "de": "Gaming",
+  "es": "Videojuegos",
+  "fr": "Jeux vidéo",
+  "ru": "Игры",
+  "zh-Hans": "游戏"
+ },
+ "Gaming dark: deep midnight panels, Raspberry for actions and Neon Pink for highlights.": {
+  "ar": "داكن للألعاب: لوحات منتصف الليل العميقة، وتوت العليق للإجراءات والوردي النيون للتمييز.",
+  "de": "Gaming-Dunkel: tiefe Mitternachtsflächen, Himbeere für Aktionen und Neonpink für Akzente.",
+  "es": "Oscuro gamer: paneles de medianoche profundo, frambuesa para las acciones y rosa neón para los destacados.",
+  "fr": "Sombre gaming : panneaux bleu nuit profond, framboise pour les actions et rose néon pour les accents.",
+  "ru": "Тёмная игровая: глубокие полуночные панели, малиновый для действий и неоново-розовый для акцентов.",
+  "zh-Hans": "游戏深色：深邃的午夜面板，操作用覆盆子红，高亮用霓虹粉。"
+ },
+ "Gears": {
+  "ar": "تروس",
+  "de": "Zahnräder",
+  "es": "Engranajes",
+  "fr": "Engrenages",
+  "ru": "Шестерёнки",
+  "zh-Hans": "齿轮"
+ },
+ "Gemini": {
+  "ar": "Gemini",
+  "de": "Gemini",
+  "es": "Gemini",
+  "fr": "Gemini",
+  "ru": "Gemini",
+  "zh-Hans": "Gemini"
+ },
+ "Generate": {
+  "ar": "إنشاء",
+  "de": "Erzeugen",
+  "es": "Generar",
+  "fr": "Générer",
+  "ru": "Создать",
+  "zh-Hans": "生成"
+ },
+ "Geometric": {
+  "ar": "هندسي",
+  "de": "Geometrisch",
+  "es": "Geométrico",
+  "fr": "Géométrique",
+  "ru": "Геометрия",
+  "zh-Hans": "几何"
+ },
+ "Geometric bloom": {
+  "ar": "ازدهار هندسي",
+  "de": "Geometrische Blüte",
+  "es": "Floración geométrica",
+  "fr": "Floraison géométrique",
+  "ru": "Геометрический цветок",
+  "zh-Hans": "几何绽放"
+ },
+ "Get a ZIP file with your account, profile, messages you sent, files you uploaded, servers, purchases, reports you filed, support requests and settings.": {
+  "ar": "احصل على ملف ZIP يضم حسابك وملفك الشخصي والرسائل التي أرسلتها والملفات التي رفعتها والسيرفرات والمشتريات والبلاغات التي قدّمتها وطلبات الدعم والإعدادات.",
+  "de": "Erhalte eine ZIP-Datei mit deinem Konto, Profil, gesendeten Nachrichten, hochgeladenen Dateien, Servern, Käufen, eingereichten Meldungen, Supportanfragen und Einstellungen.",
+  "es": "Obtén un archivo ZIP con tu cuenta, perfil, mensajes enviados, archivos subidos, servidores, compras, informes presentados, solicitudes de soporte y ajustes.",
+  "fr": "Reçois un fichier ZIP avec ton compte, ton profil, les messages envoyés, les fichiers importés, tes serveurs, achats, signalements déposés, demandes d'assistance et réglages.",
+  "ru": "Получи ZIP-файл с твоим аккаунтом, профилем, отправленными сообщениями, загруженными файлами, серверами, покупками, поданными жалобами, обращениями в поддержку и настройками.",
+  "zh-Hans": "获取一个 ZIP 文件，包含你的账号、个人资料、你发送的消息、你上传的文件、服务器、购买记录、你提交的举报、支持请求和设置。"
+ },
+ "Give the server to a member. You stay a member.": {
+  "ar": "أعطِ السيرفر لعضو. ستبقى عضوًا فيه.",
+  "de": "Gib den Server an ein Mitglied ab. Du bleibst Mitglied.",
+  "es": "Cede el servidor a un miembro. Seguirás siendo miembro.",
+  "fr": "Donne le serveur à un membre. Tu restes membre.",
+  "ru": "Передайте сервер участнику. Вы останетесь его участником.",
+  "zh-Hans": "把服务器转让给某位成员。你仍是成员。"
+ },
+ "Given automatically": {
+  "ar": "يُمنح تلقائيًا",
+  "de": "Wird automatisch vergeben",
+  "es": "Se concede automáticamente",
+  "fr": "Attribué automatiquement",
+  "ru": "Выдаётся автоматически",
+  "zh-Hans": "自动授予"
+ },
+ "Given automatically when your account turns one year old.": {
+  "ar": "يُمنح تلقائيًا عندما يبلغ حسابك سنة واحدة.",
+  "de": "Wird automatisch vergeben, wenn dein Konto ein Jahr alt wird.",
+  "es": "Se concede automáticamente cuando tu cuenta cumple un año.",
+  "fr": "Attribué automatiquement quand ton compte a un an.",
+  "ru": "Выдаётся автоматически, когда твоему аккаунту исполняется год.",
+  "zh-Hans": "账号满一年时自动授予。"
+ },
+ "Given automatically when your account turns three years old.": {
+  "ar": "يُمنح تلقائيًا عندما يبلغ حسابك ثلاث سنوات.",
+  "de": "Wird automatisch vergeben, wenn dein Konto drei Jahre alt wird.",
+  "es": "Se concede automáticamente cuando tu cuenta cumple tres años.",
+  "fr": "Attribué automatiquement quand ton compte a trois ans.",
+  "ru": "Выдаётся автоматически, когда твоему аккаунту исполняется три года.",
+  "zh-Hans": "账号满三年时自动授予。"
+ },
+ "Given by the Zrzur team to people who help others with support.": {
+  "ar": "يمنحه فريق زرزور لمن يساعدون الآخرين في الدعم.",
+  "de": "Wird vom Zrzur-Team an Leute vergeben, die anderen beim Support helfen.",
+  "es": "Lo concede el equipo de Zrzur a quienes ayudan a otros con el soporte.",
+  "fr": "Décerné par l'équipe Zrzur à celles et ceux qui aident les autres au support.",
+  "ru": "Выдаётся командой Zrzur тем, кто помогает другим в поддержке.",
+  "zh-Hans": "由 Zrzur 团队授予帮助他人解决问题的人。"
+ },
+ "Given by Zrzur. Ends on {0}, nothing renews.": {
+  "ar": "مقدَّم من زرزور. ينتهي في {0}، ولا يُجدَّد.",
+  "de": "Von Zrzur geschenkt. Endet am {0}, nichts verlängert sich.",
+  "es": "Regalo de Zrzur. Termina el {0}, nada se renueva.",
+  "fr": "Offert par Zrzur. Se termine le {0}, rien ne se renouvelle.",
+  "ru": "Подарок от Zrzur. Заканчивается {0}, ничего не продлевается.",
+  "zh-Hans": "由 Zrzur 赠送。{0} 到期，不会续订。"
+ },
+ "Given to people who supported Zrzur during the early supporter period.": {
+  "ar": "يُمنح لمن دعموا زرزور خلال فترة الدعم المبكر.",
+  "de": "Wird an Leute vergeben, die Zrzur in der frühen Unterstützerphase unterstützt haben.",
+  "es": "Se concede a quienes apoyaron a Zrzur durante el periodo de apoyo temprano.",
+  "fr": "Attribué à celles et ceux qui ont soutenu Zrzur pendant la période de soutien précoce.",
+  "ru": "Выдаётся тем, кто поддержал Zrzur в период раннего спонсорства.",
+  "zh-Hans": "授予在早期支持阶段支持过 Zrzur 的人。"
+ },
+ "Given to Zrzur's own developers.": {
+  "ar": "يُمنح لمطوّري زرزور أنفسهم.",
+  "de": "Wird an die Entwickler von Zrzur vergeben.",
+  "es": "Se concede a los propios desarrolladores de Zrzur.",
+  "fr": "Attribué aux développeurs de Zrzur.",
+  "ru": "Выдаётся разработчикам Zrzur.",
+  "zh-Hans": "授予 Zrzur 的开发者。"
+ },
+ "Given to Zrzur's platform moderation team.": {
+  "ar": "يُمنح لفريق الإشراف على منصة زرزور.",
+  "de": "Wird an das Plattform-Moderationsteam von Zrzur vergeben.",
+  "es": "Se concede al equipo de moderación de la plataforma de Zrzur.",
+  "fr": "Attribué à l'équipe de modération de la plateforme Zrzur.",
+  "ru": "Выдаётся команде модерации платформы Zrzur.",
+  "zh-Hans": "授予 Zrzur 平台审核团队。"
+ },
+ "Gradient": {
+  "ar": "تدرّج",
+  "de": "Verlauf",
+  "es": "Degradado",
+  "fr": "Dégradé",
+  "ru": "Градиент",
+  "zh-Hans": "渐变"
+ },
+ "Gradient angle": {
+  "ar": "زاوية التدرّج",
+  "de": "Verlaufswinkel",
+  "es": "Ángulo del degradado",
+  "fr": "Angle du dégradé",
+  "ru": "Угол градиента",
+  "zh-Hans": "渐变角度"
+ },
+ "Gradient colour": {
+  "ar": "لون التدرّج",
+  "de": "Verlaufsfarbe",
+  "es": "Color del degradado",
+  "fr": "Couleur du dégradé",
+  "ru": "Цвет градиента",
+  "zh-Hans": "渐变颜色"
+ },
+ "Graphite": {
+  "ar": "غرافيت",
+  "de": "Graphit",
+  "es": "Grafito",
+  "fr": "Graphite",
+  "ru": "Графит",
+  "zh-Hans": "石墨"
+ },
+ "Ground": {
+  "ar": "أرض",
+  "de": "Boden",
+  "es": "Tierra",
+  "fr": "Sol",
+  "ru": "Земля",
+  "zh-Hans": "大地"
+ },
+ "Harassment or bullying": {
+  "ar": "مضايقة أو تنمّر",
+  "de": "Belästigung oder Mobbing",
+  "es": "Acoso o intimidación",
+  "fr": "Harcèlement ou intimidation",
+  "ru": "Преследование или травля",
+  "zh-Hans": "骚扰或欺凌"
+ },
+ "Has been on Zrzur for a year.": {
+  "ar": "مرّت سنة على وجوده في زرزور.",
+  "de": "Seit einem Jahr auf Zrzur.",
+  "es": "Lleva un año en Zrzur.",
+  "fr": "Est sur Zrzur depuis un an.",
+  "ru": "Уже год на Zrzur.",
+  "zh-Hans": "已加入 Zrzur 一年。"
+ },
+ "Has been on Zrzur for three years.": {
+  "ar": "مرّت ثلاث سنوات على وجوده في زرزور.",
+  "de": "Seit drei Jahren auf Zrzur.",
+  "es": "Lleva tres años en Zrzur.",
+  "fr": "Est sur Zrzur depuis trois ans.",
+  "ru": "Уже три года на Zrzur.",
+  "zh-Hans": "已加入 Zrzur 三年。"
+ },
+ "Hate or threats": {
+  "ar": "كراهية أو تهديدات",
+  "de": "Hass oder Drohungen",
+  "es": "Odio o amenazas",
+  "fr": "Haine ou menaces",
+  "ru": "Ненависть или угрозы",
+  "zh-Hans": "仇恨或威胁"
+ },
+ "Hearts": {
+  "ar": "قلوب",
+  "de": "Herzen",
+  "es": "Corazones",
+  "fr": "Cœurs",
+  "ru": "Сердечки",
+  "zh-Hans": "爱心"
+ },
+ "Hello channel": {
+  "ar": "قناة الترحيب",
+  "de": "Hallo-Kanal",
+  "es": "Canal de bienvenida",
+  "fr": "Canal de bienvenue",
+  "ru": "Канал приветствия",
+  "zh-Hans": "欢迎频道"
+ },
+ "Help & safety": {
+  "ar": "المساعدة والأمان",
+  "de": "Hilfe & Sicherheit",
+  "es": "Ayuda y seguridad",
+  "fr": "Aide et sécurité",
+  "ru": "Помощь и безопасность",
+  "zh-Hans": "帮助与安全"
+ },
+ "Help translate Zrzur into an existing or new language": {
+  "ar": "ساعد في ترجمة زرزور إلى لغة موجودة أو جديدة",
+  "de": "Hilf mit, Zrzur in eine bestehende oder neue Sprache zu übersetzen",
+  "es": "Ayuda a traducir Zrzur a un idioma existente o nuevo",
+  "fr": "Aide à traduire Zrzur dans une langue existante ou nouvelle",
+  "ru": "Помогите перевести Zrzur на существующий или новый язык",
+  "zh-Hans": "帮助把 Zrzur 翻译成现有或新的语言"
+ },
+ "Helped people with support.": {
+  "ar": "ساعد الناس في الدعم.",
+  "de": "Hat Leuten beim Support geholfen.",
+  "es": "Ayudó a otras personas con el soporte.",
+  "fr": "A aidé des gens au support.",
+  "ru": "Помогал людям в поддержке.",
+  "zh-Hans": "曾在支持中帮助他人。"
+ },
+ "Helped translate Zrzur.": {
+  "ar": "ساهم في ترجمة زرزور.",
+  "de": "Hat bei der Übersetzung von Zrzur geholfen.",
+  "es": "Ayudó a traducir Zrzur.",
+  "fr": "A aidé à traduire Zrzur.",
+  "ru": "Помогал переводить Zrzur.",
+  "zh-Hans": "曾协助翻译 Zrzur。"
+ },
+ "Hexagon": {
+  "ar": "سداسي",
+  "de": "Sechseck",
+  "es": "Hexágono",
+  "fr": "Hexagone",
+  "ru": "Шестиугольник",
+  "zh-Hans": "六边形"
+ },
+ "Hidden": {
+  "ar": "مخفي",
+  "de": "Versteckt",
+  "es": "Oculto",
+  "fr": "Masqué",
+  "ru": "Скрыто",
+  "zh-Hans": "已隐藏"
+ },
+ "High Contrast": {
+  "ar": "تباين عالٍ",
+  "de": "Hoher Kontrast",
+  "es": "Alto contraste",
+  "fr": "Contraste élevé",
+  "ru": "Высокая контрастность",
+  "zh-Hans": "高对比度"
+ },
+ "Historical": {
+  "ar": "تاريخي",
+  "de": "Historisch",
+  "es": "Histórico",
+  "fr": "Historique",
+  "ru": "Исторический",
+  "zh-Hans": "历史"
+ },
+ "Hold Bug Hunter, then have 10 verified reports or a verified serious security report. The team decides; it is never automatic.": {
+  "ar": "احصل على شارة صائد الأخطاء، ثم قدّم 10 بلاغات تم التحقق منها أو بلاغًا أمنيًا خطيرًا تم التحقق منه. يقرر الفريق؛ وليس تلقائيًا أبدًا.",
+  "de": "Habe die Bug-Hunter-Plakette und dann 10 bestätigte Meldungen oder eine bestätigte schwere Sicherheitsmeldung. Das Team entscheidet; es passiert nie automatisch.",
+  "es": "Ten la insignia de Cazador de errores y después 10 informes verificados o un informe de seguridad grave verificado. Lo decide el equipo; nunca es automático.",
+  "fr": "Possède Bug Hunter, puis 10 signalements vérifiés ou un signalement de sécurité grave vérifié. L'équipe décide ; ce n'est jamais automatique.",
+  "ru": "Получи значок Bug Hunter, затем 10 подтверждённых отчётов или один подтверждённый отчёт о серьёзной уязвимости. Решает команда; автоматически это не происходит.",
+  "zh-Hans": "先获得漏洞猎手徽章，再提交 10 份已核实的报告或一份已核实的严重安全报告。由团队决定，绝不会自动授予。"
+ },
+ "How do I get a role?": {
+  "ar": "كيف أحصل على دور؟",
+  "de": "Wie bekomme ich eine Rolle?",
+  "es": "¿Cómo consigo un rol?",
+  "fr": "Comment obtenir un rôle ?",
+  "ru": "Как получить роль?",
+  "zh-Hans": "如何获得身份组？"
+ },
+ "How many people are in the server.": {
+  "ar": "عدد الأشخاص في السيرفر.",
+  "de": "Wie viele Leute auf dem Server sind.",
+  "es": "Cuántas personas hay en el servidor.",
+  "fr": "Combien de personnes sont sur le serveur.",
+  "ru": "Сколько человек на сервере.",
+  "zh-Hans": "服务器中的人数。"
+ },
+ "How to appeal": {
+  "ar": "كيفية الاستئناف",
+  "de": "So legst du Einspruch ein",
+  "es": "Cómo apelar",
+  "fr": "Comment faire appel",
+  "ru": "Как подать апелляцию",
+  "zh-Hans": "如何申诉"
+ },
+ "Ice crystal": {
+  "ar": "بلّورة جليدية",
+  "de": "Eiskristall",
+  "es": "Cristal de hielo",
+  "fr": "Cristal de glace",
+  "ru": "Ледяной кристалл",
+  "zh-Hans": "冰晶"
+ },
+ "If you sent a lot of messages": {
+  "ar": "إذا أرسلت الكثير من الرسائل",
+  "de": "Wenn du viele Nachrichten gesendet hast",
+  "es": "Si enviaste muchos mensajes",
+  "fr": "Si tu as envoyé beaucoup de messages",
+  "ru": "Если вы отправили много сообщений",
+  "zh-Hans": "如果你发送了很多消息"
+ },
+ "Illegal content": {
+  "ar": "محتوى غير قانوني",
+  "de": "Illegale Inhalte",
+  "es": "Contenido ilegal",
+  "fr": "Contenu illégal",
+  "ru": "Незаконный контент",
+  "zh-Hans": "违法内容"
+ },
+ "Illegal under {law}, {provision}": {
+  "ar": "غير قانوني بموجب {law}، {provision}",
+  "de": "Rechtswidrig nach {law}, {provision}",
+  "es": "Ilegal según {law}, {provision}",
+  "fr": "Illégal au titre de {law}, {provision}",
+  "ru": "Незаконно согласно {law}, {provision}",
+  "zh-Hans": "违反 {law}，{provision}"
+ },
+ "Images": {
+  "ar": "الصور",
+  "de": "Bilder",
+  "es": "Imágenes",
+  "fr": "Images",
+  "ru": "Изображения",
+  "zh-Hans": "图片"
+ },
+ "In a server, a role colour wins over yours, but your font stays. On a profile card with a theme, your name turns white so it stays readable.": {
+  "ar": "في السيرفر، يغلب لون الدور على لونك، لكن خطك يبقى. وعلى بطاقة ملف شخصي بسمة، يتحول اسمك إلى الأبيض ليبقى مقروءًا.",
+  "de": "In einem Server hat die Rollenfarbe Vorrang vor deiner, deine Schrift bleibt aber. Auf einer Profilkarte mit Theme wird dein Name weiß, damit er lesbar bleibt.",
+  "es": "En un servidor, el color del rol prevalece sobre el tuyo, pero tu fuente se mantiene. En una tarjeta de perfil con tema, tu nombre se vuelve blanco para seguir siendo legible.",
+  "fr": "Dans un serveur, la couleur du rôle prend le pas sur la tienne, mais ta police reste. Sur une carte de profil avec thème, ton nom devient blanc pour rester lisible.",
+  "ru": "На сервере цвет роли приоритетнее вашего, но шрифт остаётся. На карточке профиля с темой имя становится белым, чтобы оставаться читаемым.",
+  "zh-Hans": "在服务器中，身份组颜色优先于你的颜色，但你的字体不变。在带主题的资料卡上，你的名字会变成白色以保证清晰可读。"
+ },
+ "In review": {
+  "ar": "قيد المراجعة",
+  "de": "In Prüfung",
+  "es": "En revisión",
+  "fr": "En cours d'examen",
+  "ru": "На рассмотрении",
+  "zh-Hans": "审核中"
+ },
+ "Included with Feather": {
+  "ar": "مضمّن مع ريشة",
+  "de": "In Feather enthalten",
+  "es": "Incluido con Feather",
+  "fr": "Inclus avec Feather",
+  "ru": "Входит в Feather",
+  "zh-Hans": "Feather 已包含"
+ },
+ "Ink drops": {
+  "ar": "قطرات حبر",
+  "de": "Tintentropfen",
+  "es": "Gotas de tinta",
+  "fr": "Gouttes d'encre",
+  "ru": "Капли чернил",
+  "zh-Hans": "墨滴"
+ },
+ "Input volume": {
+  "ar": "مستوى صوت الإدخال",
+  "de": "Eingangslautstärke",
+  "es": "Volumen de entrada",
+  "fr": "Volume d'entrée",
+  "ru": "Громкость микрофона",
+  "zh-Hans": "输入音量"
+ },
+ "Integrations": {
+  "ar": "التكاملات",
+  "de": "Integrationen",
+  "es": "Integraciones",
+  "fr": "Intégrations",
+  "ru": "Интеграции",
+  "zh-Hans": "集成"
+ },
+ "Invite": {
+  "ar": "دعوة",
+  "de": "Einladen",
+  "es": "Invitar",
+  "fr": "Inviter",
+  "ru": "Пригласить",
+  "zh-Hans": "邀请"
+ },
+ "Invite people button": {
+  "ar": "زر دعوة الأشخاص",
+  "de": "Schaltfläche „Leute einladen“",
+  "es": "Botón de invitar personas",
+  "fr": "Bouton Inviter des personnes",
+  "ru": "Кнопка «Пригласить людей»",
+  "zh-Hans": "邀请他人按钮"
+ },
+ "Invited": {
+  "ar": "مدعو",
+  "de": "Eingeladen",
+  "es": "Invitado",
+  "fr": "Invité",
+  "ru": "Приглашён",
+  "zh-Hans": "已邀请"
+ },
+ "Invites and sharing": {
+  "ar": "الدعوات والمشاركة",
+  "de": "Einladungen und Teilen",
+  "es": "Invitaciones y compartir",
+  "fr": "Invitations et partage",
+  "ru": "Приглашения и обмен",
+  "zh-Hans": "邀请与分享"
+ },
+ "It didn't work": {
+  "ar": "لم ينجح الأمر",
+  "de": "Es hat nicht geklappt",
+  "es": "No funcionó",
+  "fr": "Ça n'a pas marché",
+  "ru": "Не получилось",
+  "zh-Hans": "没有成功"
+ },
+ "Its newest message is the latest news. Empty: your first announcement channel.": {
+  "ar": "أحدث رسالة فيها هي آخر الأخبار. إن كانت فارغة: قناة إعلاناتك الأولى.",
+  "de": "Die neueste Nachricht darin ist die aktuelle Neuigkeit. Leer: dein erster Ankündigungskanal.",
+  "es": "Su mensaje más reciente es la última noticia. Vacío: tu primer canal de anuncios.",
+  "fr": "Son message le plus récent est la dernière actualité. Vide : ton premier canal d'annonces.",
+  "ru": "Его последнее сообщение — свежая новость. Если пусто: ваш первый канал объявлений.",
+  "zh-Hans": "其中最新的一条消息就是最新动态。留空则使用你的第一个公告频道。"
+ },
+ "Ivy": {
+  "ar": "اللبلاب",
+  "de": "Efeu",
+  "es": "Hiedra",
+  "fr": "Lierre",
+  "ru": "Плющ",
+  "zh-Hans": "常春藤"
+ },
+ "Join the closed beta program by invitation or request. It is shown while you are in the program.": {
+  "ar": "انضم إلى برنامج النسخة التجريبية المغلقة بدعوة أو بطلب. تظهر ما دمت في البرنامج.",
+  "de": "Tritt dem geschlossenen Beta-Programm auf Einladung oder Anfrage bei. Wird angezeigt, solange du im Programm bist.",
+  "es": "Únete al programa de beta cerrada por invitación o solicitud. Se muestra mientras estés en el programa.",
+  "fr": "Rejoins le programme bêta fermée sur invitation ou sur demande. Il s'affiche tant que tu es dans le programme.",
+  "ru": "Вступи в программу закрытого бета-тестирования по приглашению или заявке. Отображается, пока ты в программе.",
+  "zh-Hans": "通过邀请或申请加入封闭测试计划。你在计划中时会显示。"
+ },
+ "Joined Zrzur in its first days.": {
+  "ar": "انضم إلى زرزور في أيامه الأولى.",
+  "de": "Ist in den ersten Tagen zu Zrzur gekommen.",
+  "es": "Se unió a Zrzur en sus primeros días.",
+  "fr": "A rejoint Zrzur dès ses premiers jours.",
+  "ru": "Присоединился к Zrzur в первые дни.",
+  "zh-Hans": "在 Zrzur 上线之初就加入。"
+ },
+ "Keep Feather": {
+  "ar": "احتفظ بريشة",
+  "de": "Feather behalten",
+  "es": "Mantener Feather",
+  "fr": "Garder Feather",
+  "ru": "Оставить Feather",
+  "zh-Hans": "保留 Feather"
+ },
+ "Keeps your microphone at a steady level.": {
+  "ar": "يُبقي صوت الميكروفون عند مستوى ثابت.",
+  "de": "Hält dein Mikrofon auf einer gleichmäßigen Lautstärke.",
+  "es": "Mantiene tu micrófono a un nivel constante.",
+  "fr": "Maintient ton micro à un niveau stable.",
+  "ru": "Поддерживает ровный уровень микрофона.",
+  "zh-Hans": "让麦克风音量保持稳定。"
+ },
+ "Keeps Zrzur safe for everyone.": {
+  "ar": "يحافظ على أمان زرزور للجميع.",
+  "de": "Hält Zrzur für alle sicher.",
+  "es": "Mantiene Zrzur seguro para todos.",
+  "fr": "Garde Zrzur sûr pour tout le monde.",
+  "ru": "Обеспечивает безопасность Zrzur для всех.",
+  "zh-Hans": "守护 Zrzur，让每个人都安全。"
+ },
+ "Kites": {
+  "ar": "طائرات ورقية",
+  "de": "Drachen",
+  "es": "Cometas",
+  "fr": "Cerfs-volants",
+  "ru": "Воздушные змеи",
+  "zh-Hans": "风筝"
+ },
+ "Know your username and avatar": {
+  "ar": "اعرف اسم المستخدم والصورة الرمزية",
+  "de": "Benutzername und Avatar kennen",
+  "es": "Conoce el nombre de usuario y el avatar",
+  "fr": "Connaître le nom d'utilisateur et l'avatar",
+  "ru": "Знать имя пользователя и аватар",
+  "zh-Hans": "了解用户名和头像"
+ },
+ "Kurdistan": {
+  "ar": "كردستان",
+  "de": "Kurdistan",
+  "es": "Kurdistán",
+  "fr": "Kurdistan",
+  "ru": "Курдистан",
+  "zh-Hans": "库尔德斯坦"
+ },
+ "Label": {
+  "ar": "التسمية",
+  "de": "Bezeichnung",
+  "es": "Etiqueta",
+  "fr": "Libellé",
+  "ru": "Подпись",
+  "zh-Hans": "标签"
+ },
+ "Languages": {
+  "ar": "اللغات",
+  "de": "Sprachen",
+  "es": "Idiomas",
+  "fr": "Langues",
+  "ru": "Языки",
+  "zh-Hans": "语言"
+ },
+ "Lanterns": {
+  "ar": "فوانيس",
+  "de": "Laternen",
+  "es": "Faroles",
+  "fr": "Lanternes",
+  "ru": "Фонарики",
+  "zh-Hans": "灯笼"
+ },
+ "Latest news": {
+  "ar": "آخر الأخبار",
+  "de": "Neueste Neuigkeiten",
+  "es": "Últimas noticias",
+  "fr": "Dernières actualités",
+  "ru": "Последние новости",
+  "zh-Hans": "最新动态"
+ },
+ "Laurel": {
+  "ar": "غار",
+  "de": "Lorbeer",
+  "es": "Laurel",
+  "fr": "Laurier",
+  "ru": "Лавр",
+  "zh-Hans": "月桂"
+ },
+ "Layout": {
+  "ar": "التخطيط",
+  "de": "Layout",
+  "es": "Diseño",
+  "fr": "Disposition",
+  "ru": "Макет",
+  "zh-Hans": "布局"
+ },
+ "Leave the beta": {
+  "ar": "مغادرة النسخة التجريبية",
+  "de": "Beta verlassen",
+  "es": "Salir de la beta",
+  "fr": "Quitter la bêta",
+  "ru": "Выйти из беты",
+  "zh-Hans": "退出测试版"
+ },
+ "Leaves": {
+  "ar": "أوراق",
+  "de": "Blätter",
+  "es": "Hojas",
+  "fr": "Feuilles",
+  "ru": "Листья",
+  "zh-Hans": "树叶"
+ },
+ "Leo": {
+  "ar": "الأسد",
+  "de": "Löwe",
+  "es": "Leo",
+  "fr": "Lion",
+  "ru": "Лев",
+  "zh-Hans": "狮子座"
+ }
+}

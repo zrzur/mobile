@@ -1,0 +1,810 @@
+{
+ "Server banner": {
+  "ar": "بانر السيرفر",
+  "de": "Server-Banner",
+  "es": "Banner del servidor",
+  "fr": "Bannière du serveur",
+  "ru": "Баннер сервера",
+  "zh-Hans": "服务器横幅"
+ },
+ "Server profile": {
+  "ar": "ملف السيرفر",
+  "de": "Serverprofil",
+  "es": "Perfil del servidor",
+  "fr": "Profil du serveur",
+  "ru": "Профиль сервера",
+  "zh-Hans": "服务器资料"
+ },
+ "Server settings": {
+  "ar": "إعدادات السيرفر",
+  "de": "Servereinstellungen",
+  "es": "Ajustes del servidor",
+  "fr": "Paramètres du serveur",
+  "ru": "Настройки сервера",
+  "zh-Hans": "服务器设置"
+ },
+ "Show members separately": {
+  "ar": "عرض الأعضاء منفصلين",
+  "de": "Mitglieder getrennt anzeigen",
+  "es": "Mostrar miembros por separado",
+  "fr": "Afficher les membres séparément",
+  "ru": "Показывать участников отдельно",
+  "zh-Hans": "单独显示成员"
+ },
+ "Show more": {
+  "ar": "عرض المزيد",
+  "de": "Mehr anzeigen",
+  "es": "Mostrar más",
+  "fr": "Afficher plus",
+  "ru": "Показать ещё",
+  "zh-Hans": "显示更多"
+ },
+ "Shown in the audit log": {
+  "ar": "يظهر في سجل التدقيق",
+  "de": "Wird im Audit-Log angezeigt",
+  "es": "Se muestra en el registro de auditoría",
+  "fr": "Affiché dans le journal d'audit",
+  "ru": "Отображается в журнале аудита",
+  "zh-Hans": "显示在审核日志中"
+ },
+ "Shown in the server info and invites. Markdown is supported.": {
+  "ar": "يظهر في معلومات السيرفر والدعوات. يدعم Markdown.",
+  "de": "Wird in den Serverinfos und Einladungen angezeigt. Markdown wird unterstützt.",
+  "es": "Se muestra en la información del servidor y en las invitaciones. Admite Markdown.",
+  "fr": "Affiché dans les infos du serveur et les invitations. Markdown est pris en charge.",
+  "ru": "Отображается в информации о сервере и приглашениях. Поддерживается Markdown.",
+  "zh-Hans": "显示在服务器信息和邀请中。支持 Markdown。"
+ },
+ "Shown next to members' names.": {
+  "ar": "يظهر بجانب أسماء الأعضاء.",
+  "de": "Wird neben den Namen der Mitglieder angezeigt.",
+  "es": "Se muestra junto al nombre de los miembros.",
+  "fr": "Affiché à côté du nom des membres.",
+  "ru": "Отображается рядом с именами участников.",
+  "zh-Hans": "显示在成员名称旁边。"
+ },
+ "Side conversations in the text channels of this server.": {
+  "ar": "محادثات جانبية في القنوات النصية لهذا السيرفر.",
+  "de": "Nebengespräche in den Textkanälen dieses Servers.",
+  "es": "Conversaciones paralelas en los canales de texto de este servidor.",
+  "fr": "Conversations parallèles dans les salons textuels de ce serveur.",
+  "ru": "Побочные обсуждения в текстовых каналах этого сервера.",
+  "zh-Hans": "在此服务器的文字频道中进行的分支对话。"
+ },
+ "Slow mode off": {
+  "ar": "الوضع البطيء متوقف",
+  "de": "Langsammodus aus",
+  "es": "Modo lento desactivado",
+  "fr": "Mode lent désactivé",
+  "ru": "Медленный режим выключен",
+  "zh-Hans": "慢速模式已关闭"
+ },
+ "Slow mode: {0}": {
+  "ar": "الوضع البطيء: {0}",
+  "de": "Langsammodus: {0}",
+  "es": "Modo lento: {0}",
+  "fr": "Mode lent : {0}",
+  "ru": "Медленный режим: {0}",
+  "zh-Hans": "慢速模式：{0}"
+ },
+ "Sort": {
+  "ar": "الترتيب",
+  "de": "Sortierung",
+  "es": "Orden",
+  "fr": "Tri",
+  "ru": "Сортировка",
+  "zh-Hans": "排序"
+ },
+ "Start posts in the forums of this server": {
+  "ar": "بدء منشورات في المنتديات في هذا السيرفر",
+  "de": "Beiträge in den Foren dieses Servers starten",
+  "es": "Iniciar publicaciones en los foros de este servidor",
+  "fr": "Créer des posts dans les forums de ce serveur",
+  "ru": "Создавать публикации в форумах этого сервера",
+  "zh-Hans": "在此服务器的论坛中发起帖子"
+ },
+ "Start threads in the text channels of this server": {
+  "ar": "بدء خيوط في القنوات النصية في هذا السيرفر",
+  "de": "Threads in den Textkanälen dieses Servers starten",
+  "es": "Iniciar hilos en los canales de texto de este servidor",
+  "fr": "Créer des fils dans les salons textuels de ce serveur",
+  "ru": "Создавать ветки в текстовых каналах этого сервера",
+  "zh-Hans": "在此服务器的文字频道中发起主题串"
+ },
+ "Talk, video and screen sharing": {
+  "ar": "التحدث والفيديو ومشاركة الشاشة",
+  "de": "Sprechen, Video und Bildschirmfreigabe",
+  "es": "Hablar, vídeo y compartir pantalla",
+  "fr": "Parler, vidéo et partage d'écran",
+  "ru": "Разговор, видео и показ экрана",
+  "zh-Hans": "语音、视频和屏幕共享"
+ },
+ "Text": {
+  "ar": "نص",
+  "de": "Text",
+  "es": "Texto",
+  "fr": "Texte",
+  "ru": "Текст",
+  "zh-Hans": "文字"
+ },
+ "Text channel": {
+  "ar": "قناة نصية",
+  "de": "Textkanal",
+  "es": "Canal de texto",
+  "fr": "Salon textuel",
+  "ru": "Текстовый канал",
+  "zh-Hans": "文字频道"
+ },
+ "The channels and their categories.": {
+  "ar": "القنوات وفئاتها.",
+  "de": "Die Kanäle und ihre Kategorien.",
+  "es": "Los canales y sus categorías.",
+  "fr": "Les salons et leurs catégories.",
+  "ru": "Каналы и их категории.",
+  "zh-Hans": "频道及其分类。"
+ },
+ "The link stops working at once for everyone who has it.": {
+  "ar": "يتوقف الرابط عن العمل فورًا لدى كل من يملكه.",
+  "de": "Der Link funktioniert sofort für alle nicht mehr, die ihn haben.",
+  "es": "El enlace deja de funcionar al instante para todos los que lo tengan.",
+  "fr": "Le lien cesse aussitôt de fonctionner pour tous ceux qui l'ont.",
+  "ru": "Ссылка сразу перестанет работать у всех, у кого она есть.",
+  "zh-Hans": "所有持有该链接的人将立即无法使用它。"
+ },
+ "The name, picture and description people see.": {
+  "ar": "الاسم والصورة والوصف الذي يراه الناس.",
+  "de": "Name, Bild und Beschreibung, die andere sehen.",
+  "es": "El nombre, la imagen y la descripción que ve la gente.",
+  "fr": "Le nom, l'image et la description que les gens voient.",
+  "ru": "Название, картинка и описание, которые видят люди.",
+  "zh-Hans": "大家看到的名称、图片和简介。"
+ },
+ "The server's own emoji.": {
+  "ar": "إيموجي السيرفر الخاصة.",
+  "de": "Die eigenen Emojis des Servers.",
+  "es": "Los emojis propios del servidor.",
+  "fr": "Les émojis propres au serveur.",
+  "ru": "Собственные эмодзи сервера.",
+  "zh-Hans": "服务器专属表情。"
+ },
+ "Threads": {
+  "ar": "الخيوط",
+  "de": "Threads",
+  "es": "Hilos",
+  "fr": "Fils",
+  "ru": "Ветки",
+  "zh-Hans": "主题串"
+ },
+ "Threads and forums": {
+  "ar": "الخيوط والمنتديات",
+  "de": "Threads und Foren",
+  "es": "Hilos y foros",
+  "fr": "Fils et forums",
+  "ru": "Ветки и форумы",
+  "zh-Hans": "主题串和论坛"
+ },
+ "Timed out": {
+  "ar": "في إيقاف مؤقت",
+  "de": "Im Timeout",
+  "es": "Aislado temporalmente",
+  "fr": "En sourdine",
+  "ru": "В тайм-ауте",
+  "zh-Hans": "已被禁言"
+ },
+ "Timeout member": {
+  "ar": "إيقاف عضو مؤقتًا",
+  "de": "Mitglied in Timeout schicken",
+  "es": "Aislar temporalmente a un miembro",
+  "fr": "Exclure temporairement un membre",
+  "ru": "Отправить участника в тайм-аут",
+  "zh-Hans": "禁言成员"
+ },
+ "Timeout members": {
+  "ar": "إيقاف الأعضاء مؤقتًا",
+  "de": "Mitglieder in Timeout schicken",
+  "es": "Aislar temporalmente a miembros",
+  "fr": "Exclure temporairement des membres",
+  "ru": "Отправлять участников в тайм-аут",
+  "zh-Hans": "禁言成员"
+ },
+ "Turn them on or off for this server.": {
+  "ar": "فعّلها أو عطّلها لهذا السيرفر.",
+  "de": "Schalte sie für diesen Server ein oder aus.",
+  "es": "Actívalas o desactívalas para este servidor.",
+  "fr": "Active-les ou désactive-les pour ce serveur.",
+  "ru": "Включите или выключите их для этого сервера.",
+  "zh-Hans": "为此服务器开启或关闭。"
+ },
+ "Type": {
+  "ar": "النوع",
+  "de": "Typ",
+  "es": "Tipo",
+  "fr": "Type",
+  "ru": "Тип",
+  "zh-Hans": "类型"
+ },
+ "Unban": {
+  "ar": "رفع الحظر",
+  "de": "Sperre aufheben",
+  "es": "Quitar el veto",
+  "fr": "Débannir",
+  "ru": "Разбанить",
+  "zh-Hans": "解除封禁"
+ },
+ "Unsaved changes": {
+  "ar": "تغييرات غير محفوظة",
+  "de": "Nicht gespeicherte Änderungen",
+  "es": "Cambios sin guardar",
+  "fr": "Modifications non enregistrées",
+  "ru": "Несохранённые изменения",
+  "zh-Hans": "未保存的更改"
+ },
+ "Upload": {
+  "ar": "رفع",
+  "de": "Hochladen",
+  "es": "Subir",
+  "fr": "Importer",
+  "ru": "Загрузить",
+  "zh-Hans": "上传"
+ },
+ "Upload emoji": {
+  "ar": "رفع إيموجي",
+  "de": "Emoji hochladen",
+  "es": "Subir emoji",
+  "fr": "Importer un émoji",
+  "ru": "Загрузить эмодзи",
+  "zh-Hans": "上传表情"
+ },
+ "Upload files": {
+  "ar": "رفع الملفات",
+  "de": "Dateien hochladen",
+  "es": "Subir archivos",
+  "fr": "Importer des fichiers",
+  "ru": "Загружать файлы",
+  "zh-Hans": "上传文件"
+ },
+ "Upload one above to get started.": {
+  "ar": "ارفع واحدًا بالأعلى للبدء.",
+  "de": "Lade oben eines hoch, um zu starten.",
+  "es": "Sube uno arriba para empezar.",
+  "fr": "Importes-en un ci-dessus pour commencer.",
+  "ru": "Загрузите один выше, чтобы начать.",
+  "zh-Hans": "在上方上传一个即可开始。"
+ },
+ "Uploading…": {
+  "ar": "جارٍ الرفع…",
+  "de": "Wird hochgeladen…",
+  "es": "Subiendo…",
+  "fr": "Importation…",
+  "ru": "Загрузка…",
+  "zh-Hans": "正在上传…"
+ },
+ "Use + to add the first one to this category.": {
+  "ar": "استخدم + لإضافة أول عنصر إلى هذه الفئة.",
+  "de": "Tippe auf +, um den ersten zu dieser Kategorie hinzuzufügen.",
+  "es": "Usa + para añadir el primero a esta categoría.",
+  "fr": "Utilise + pour ajouter le premier à cette catégorie.",
+  "ru": "Нажмите +, чтобы добавить первый в эту категорию.",
+  "zh-Hans": "点击 + 向此分类添加第一个。"
+ },
+ "Use emojis from other servers": {
+  "ar": "استخدام إيموجي من سيرفرات أخرى",
+  "de": "Emojis von anderen Servern verwenden",
+  "es": "Usar emojis de otros servidores",
+  "fr": "Utiliser les émojis d'autres serveurs",
+  "ru": "Использовать эмодзи с других серверов",
+  "zh-Hans": "使用其他服务器的表情"
+ },
+ "Use lowercase letters, numbers and underscores.": {
+  "ar": "استخدم أحرفًا صغيرة وأرقامًا وشرطات سفلية.",
+  "de": "Verwende Kleinbuchstaben, Zahlen und Unterstriche.",
+  "es": "Usa letras minúsculas, números y guiones bajos.",
+  "fr": "Utilise des minuscules, des chiffres et des tirets bas.",
+  "ru": "Используйте строчные буквы, цифры и подчёркивания.",
+  "zh-Hans": "请使用小写字母、数字和下划线。"
+ },
+ "View audit log": {
+  "ar": "عرض سجل التدقيق",
+  "de": "Audit-Log ansehen",
+  "es": "Ver registro de auditoría",
+  "fr": "Voir le journal d'audit",
+  "ru": "Просмотр журнала аудита",
+  "zh-Hans": "查看审核日志"
+ },
+ "View channel": {
+  "ar": "عرض القناة",
+  "de": "Kanal ansehen",
+  "es": "Ver canal",
+  "fr": "Voir le salon",
+  "ru": "Просмотр канала",
+  "zh-Hans": "查看频道"
+ },
+ "Voice rooms": {
+  "ar": "غرف صوتية",
+  "de": "Sprachräume",
+  "es": "Salas de voz",
+  "fr": "Salons vocaux",
+  "ru": "Голосовые комнаты",
+  "zh-Hans": "语音房间"
+ },
+ "What every member can do before any role is added.": {
+  "ar": "ما يستطيع كل عضو فعله قبل إضافة أي دور.",
+  "de": "Was jedes Mitglied tun kann, bevor eine Rolle hinzugefügt wird.",
+  "es": "Lo que puede hacer cada miembro antes de añadir ningún rol.",
+  "fr": "Ce que chaque membre peut faire avant l'ajout d'un rôle.",
+  "ru": "Что может каждый участник, пока не добавлена ни одна роль.",
+  "zh-Hans": "在添加任何角色之前，每位成员可以做的事。"
+ },
+ "What this channel is for": {
+  "ar": "ما الغرض من هذه القناة",
+  "de": "Wofür dieser Kanal gedacht ist",
+  "es": "Para qué sirve este canal",
+  "fr": "À quoi sert ce salon",
+  "ru": "Для чего этот канал",
+  "zh-Hans": "此频道的用途"
+ },
+ "When one is off, nobody can add to it, the owner included. Nothing is deleted: everything already there can still be read.": {
+  "ar": "عند إيقاف أحدها، لا يستطيع أحد الإضافة إليه، بمن فيهم المالك. لا يُحذف شيء: يمكن قراءة كل ما هو موجود فيه.",
+  "de": "Ist eines ausgeschaltet, kann niemand etwas hinzufügen, auch der Besitzer nicht. Nichts wird gelöscht: Alles, was schon da ist, bleibt lesbar.",
+  "es": "Si uno está desactivado, nadie puede añadir contenido, ni siquiera el propietario. No se borra nada: todo lo que ya hay se puede seguir leyendo.",
+  "fr": "Quand l'un est désactivé, personne ne peut y ajouter de contenu, propriétaire compris. Rien n'est supprimé : tout ce qui s'y trouve reste lisible.",
+  "ru": "Если один из них выключен, добавлять в него никто не сможет, включая владельца. Ничего не удаляется: всё, что уже есть, можно читать.",
+  "zh-Hans": "关闭后，任何人（包括所有者）都无法再向其中添加内容。不会删除任何内容：已有的内容仍可阅读。"
+ },
+ "Without category": {
+  "ar": "بدون فئة",
+  "de": "Ohne Kategorie",
+  "es": "Sin categoría",
+  "fr": "Sans catégorie",
+  "ru": "Без категории",
+  "zh-Hans": "无分类"
+ },
+ "Write in the threads and forum posts of this server": {
+  "ar": "الكتابة في الخيوط ومنشورات المنتديات في هذا السيرفر",
+  "de": "In Threads und Forenbeiträgen dieses Servers schreiben",
+  "es": "Escribir en los hilos y publicaciones de foro de este servidor",
+  "fr": "Écrire dans les fils et les posts de forum de ce serveur",
+  "ru": "Писать в ветках и публикациях форумов этого сервера",
+  "zh-Hans": "在此服务器的主题串和论坛帖子中发言"
+ },
+ "You can't change this role": {
+  "ar": "لا يمكنك تغيير هذا الدور",
+  "de": "Du kannst diese Rolle nicht ändern",
+  "es": "No puedes cambiar este rol",
+  "fr": "Tu ne peux pas modifier ce rôle",
+  "ru": "Вы не можете изменить эту роль",
+  "zh-Hans": "你无法更改此角色"
+ },
+ "Able to access channels on this server": {
+  "ar": "القدرة على الوصول إلى القنوات في هذا السيرفر",
+  "de": "Kann auf Kanäle dieses Servers zugreifen",
+  "es": "Puede acceder a los canales de este servidor",
+  "fr": "Peut accéder aux salons de ce serveur",
+  "ru": "Доступ к каналам этого сервера",
+  "zh-Hans": "可以访问此服务器上的频道"
+ },
+ "Able to speak in voice call": {
+  "ar": "القدرة على التحدث في المكالمة الصوتية",
+  "de": "Kann in Sprachanrufen sprechen",
+  "es": "Puede hablar en llamadas de voz",
+  "fr": "Peut parler dans les appels vocaux",
+  "ru": "Возможность говорить в голосовом звонке",
+  "zh-Hans": "可以在语音通话中发言"
+ },
+ "Admin": {
+  "ar": "مسؤول",
+  "de": "Admin",
+  "es": "Admin",
+  "fr": "Admin",
+  "ru": "Админ",
+  "zh-Hans": "管理员"
+ },
+ "Allow members to change name and avatar per-message": {
+  "ar": "السماح للأعضاء بتغيير الاسم والصورة الرمزية لكل رسالة",
+  "de": "Mitgliedern erlauben, Name und Avatar pro Nachricht zu ändern",
+  "es": "Permitir que los miembros cambien nombre y avatar en cada mensaje",
+  "fr": "Autoriser les membres à changer de nom et d'avatar par message",
+  "ru": "Разрешить участникам менять имя и аватар для каждого сообщения",
+  "zh-Hans": "允许成员为每条消息更改名称和头像"
+ },
+ "Assign lower-ranked roles to lower-ranking members": {
+  "ar": "تعيين أدوار أدنى رتبة للأعضاء الأدنى رتبة",
+  "de": "Rollen mit niedrigerem Rang an Mitglieder mit niedrigerem Rang vergeben",
+  "es": "Asignar roles de rango inferior a miembros de rango inferior",
+  "fr": "Attribuer des rôles de rang inférieur aux membres de rang inférieur",
+  "ru": "Назначать роли более низкого ранга участникам более низкого ранга",
+  "zh-Hans": "将较低等级的角色分配给较低等级的成员"
+ },
+ "Ban lower-ranking members from the server": {
+  "ar": "حظر الأعضاء الأدنى رتبة من السيرفر",
+  "de": "Mitglieder mit niedrigerem Rang vom Server sperren",
+  "es": "Vetar del servidor a miembros de rango inferior",
+  "fr": "Bannir du serveur les membres de rang inférieur",
+  "ru": "Банить участников более низкого ранга на сервере",
+  "zh-Hans": "将较低等级的成员从服务器封禁"
+ },
+ "Bypasses slowmode in channels": {
+  "ar": "تجاوز الوضع البطيء في القنوات",
+  "de": "Umgeht den Langsammodus in Kanälen",
+  "es": "Ignora el modo lento en los canales",
+  "fr": "Ignore le mode lent dans les salons",
+  "ru": "Обходит медленный режим в каналах",
+  "zh-Hans": "可无视频道中的慢速模式"
+ },
+ "Change other members' nicknames": {
+  "ar": "تغيير ألقاب الأعضاء الآخرين",
+  "de": "Nicknamen anderer Mitglieder ändern",
+  "es": "Cambiar los apodos de otros miembros",
+  "fr": "Modifier les pseudos des autres membres",
+  "ru": "Менять никнеймы других участников",
+  "zh-Hans": "更改其他成员的昵称"
+ },
+ "Change own avatar": {
+  "ar": "تغيير صورتك الرمزية",
+  "de": "Eigenen Avatar ändern",
+  "es": "Cambiar tu propio avatar",
+  "fr": "Modifier son propre avatar",
+  "ru": "Менять свой аватар",
+  "zh-Hans": "更改自己的头像"
+ },
+ "Change own nickname": {
+  "ar": "تغيير لقبك",
+  "de": "Eigenen Nicknamen ändern",
+  "es": "Cambiar tu propio apodo",
+  "fr": "Modifier son propre pseudo",
+  "ru": "Менять свой никнейм",
+  "zh-Hans": "更改自己的昵称"
+ },
+ "Connect to voice channel": {
+  "ar": "الاتصال بقناة صوتية",
+  "de": "Mit Sprachkanal verbinden",
+  "es": "Conectarse a un canal de voz",
+  "fr": "Se connecter à un salon vocal",
+  "ru": "Подключаться к голосовому каналу",
+  "zh-Hans": "连接到语音频道"
+ },
+ "Copy invite link": {
+  "ar": "نسخ رابط الدعوة",
+  "de": "Einladungslink kopieren",
+  "es": "Copiar enlace de invitación",
+  "fr": "Copier le lien d'invitation",
+  "ru": "Копировать ссылку-приглашение",
+  "zh-Hans": "复制邀请链接"
+ },
+ "Create a new category": {
+  "ar": "إنشاء فئة جديدة",
+  "de": "Neue Kategorie erstellen",
+  "es": "Crear una categoría nueva",
+  "fr": "Créer une nouvelle catégorie",
+  "ru": "Создать новую категорию",
+  "zh-Hans": "创建新分类"
+ },
+ "Create and edit server roles": {
+  "ar": "إنشاء أدوار السيرفر وتعديلها",
+  "de": "Serverrollen erstellen und bearbeiten",
+  "es": "Crear y editar roles del servidor",
+  "fr": "Créer et modifier les rôles du serveur",
+  "ru": "Создавать и изменять роли сервера",
+  "zh-Hans": "创建和编辑服务器角色"
+ },
+ "Create and edit webhooks": {
+  "ar": "إنشاء الويب هوكس وتعديلها",
+  "de": "Webhooks erstellen und bearbeiten",
+  "es": "Crear y editar webhooks",
+  "fr": "Créer et modifier des webhooks",
+  "ru": "Создавать и изменять вебхуки",
+  "zh-Hans": "创建和编辑 Webhook"
+ },
+ "Create invites for others to use": {
+  "ar": "إنشاء دعوات ليستخدمها الآخرون",
+  "de": "Einladungen für andere erstellen",
+  "es": "Crear invitaciones para que otros las usen",
+  "fr": "Créer des invitations pour les autres",
+  "ru": "Создавать приглашения для других",
+  "zh-Hans": "创建供他人使用的邀请"
+ },
+ "Create server emoji": {
+  "ar": "إنشاء إيموجي للسيرفر",
+  "de": "Server-Emojis erstellen",
+  "es": "Crear emojis del servidor",
+  "fr": "Créer des émojis du serveur",
+  "ru": "Создавать эмодзи сервера",
+  "zh-Hans": "创建服务器表情"
+ },
+ "Deafen lower-ranking members in voice call": {
+  "ar": "كتم سماع الأعضاء الأدنى رتبة في المكالمة الصوتية",
+  "de": "Mitglieder mit niedrigerem Rang im Sprachanruf taubschalten",
+  "es": "Ensordecer a miembros de rango inferior en llamadas de voz",
+  "fr": "Mettre en sourdine casque les membres de rang inférieur en appel vocal",
+  "ru": "Отключать звук у участников более низкого ранга в голосовом звонке",
+  "zh-Hans": "在语音通话中为较低等级的成员设置拒听"
+ },
+ "Delete and pin messages sent by other members": {
+  "ar": "حذف الرسائل التي أرسلها أعضاء آخرون وتثبيتها",
+  "de": "Nachrichten anderer Mitglieder löschen und anheften",
+  "es": "Eliminar y fijar mensajes enviados por otros miembros",
+  "fr": "Supprimer et épingler les messages d'autres membres",
+  "ru": "Удалять и закреплять сообщения других участников",
+  "zh-Hans": "删除和置顶其他成员发送的消息"
+ },
+ "Delete category": {
+  "ar": "حذف الفئة",
+  "de": "Kategorie löschen",
+  "es": "Eliminar categoría",
+  "fr": "Supprimer la catégorie",
+  "ru": "Удалить категорию",
+  "zh-Hans": "删除分类"
+ },
+ "Deleting this emoji will disallow future use. All past uses will remain.": {
+  "ar": "حذف هذا الإيموجي سيمنع استخدامه مستقبلًا. ستبقى كل الاستخدامات السابقة.",
+  "de": "Wenn du dieses Emoji löschst, kann es nicht mehr verwendet werden. Bisherige Verwendungen bleiben erhalten.",
+  "es": "Al eliminar este emoji no se podrá volver a usar. Los usos anteriores se conservarán.",
+  "fr": "Supprimer cet émoji empêchera son utilisation future. Les usages passés seront conservés.",
+  "ru": "После удаления этого эмодзи его нельзя будет использовать. Прежние использования останутся.",
+  "zh-Hans": "删除此表情后将无法再使用，已发送的内容中仍会保留。"
+ },
+ "Don't delete messages": {
+  "ar": "عدم حذف الرسائل",
+  "de": "Nachrichten nicht löschen",
+  "es": "No eliminar mensajes",
+  "fr": "Ne pas supprimer les messages",
+  "ru": "Не удалять сообщения",
+  "zh-Hans": "不删除消息"
+ },
+ "Duration": {
+  "ar": "المدة",
+  "de": "Dauer",
+  "es": "Duración",
+  "fr": "Durée",
+  "ru": "Длительность",
+  "zh-Hans": "时长"
+ },
+ "Edit and delete channel": {
+  "ar": "تعديل القناة وحذفها",
+  "de": "Kanal bearbeiten und löschen",
+  "es": "Editar y eliminar canal",
+  "fr": "Modifier et supprimer le salon",
+  "ru": "Изменять и удалять канал",
+  "zh-Hans": "编辑和删除频道"
+ },
+ "Edit any permissions on the server": {
+  "ar": "تعديل أي صلاحيات في السيرفر",
+  "de": "Beliebige Berechtigungen auf dem Server bearbeiten",
+  "es": "Editar cualquier permiso del servidor",
+  "fr": "Modifier toutes les permissions du serveur",
+  "ru": "Изменять любые разрешения на сервере",
+  "zh-Hans": "编辑服务器上的任何权限"
+ },
+ "Edit roles": {
+  "ar": "تعديل الأدوار",
+  "de": "Rollen bearbeiten",
+  "es": "Editar roles",
+  "fr": "Modifier les rôles",
+  "ru": "Изменять роли",
+  "zh-Hans": "编辑角色"
+ },
+ "Edit the server's information and settings": {
+  "ar": "تعديل معلومات السيرفر وإعداداته",
+  "de": "Informationen und Einstellungen des Servers bearbeiten",
+  "es": "Editar la información y los ajustes del servidor",
+  "fr": "Modifier les infos et les paramètres du serveur",
+  "ru": "Изменять информацию и настройки сервера",
+  "zh-Hans": "编辑服务器的信息和设置"
+ },
+ "Emoji": {
+  "ar": "إيموجي",
+  "de": "Emoji",
+  "es": "Emoji",
+  "fr": "Émoji",
+  "ru": "Эмодзи",
+  "zh-Hans": "表情"
+ },
+ "Everyone": {
+  "ar": "الجميع",
+  "de": "Alle",
+  "es": "Todos",
+  "fr": "Tout le monde",
+  "ru": "Все",
+  "zh-Hans": "所有人"
+ },
+ "Hear other people and see their video": {
+  "ar": "سماع الآخرين ومشاهدة الفيديو الخاص بهم",
+  "de": "Andere hören und ihr Video sehen",
+  "es": "Escuchar a otros y ver su vídeo",
+  "fr": "Entendre les autres et voir leur vidéo",
+  "ru": "Слышать других и видеть их видео",
+  "zh-Hans": "听到其他人并观看他们的视频"
+ },
+ "Kick lower-ranking members from the server": {
+  "ar": "طرد الأعضاء الأدنى رتبة من السيرفر",
+  "de": "Mitglieder mit niedrigerem Rang vom Server werfen",
+  "es": "Expulsar del servidor a miembros de rango inferior",
+  "fr": "Expulser du serveur les membres de rang inférieur",
+  "ru": "Исключать участников более низкого ранга с сервера",
+  "zh-Hans": "将较低等级的成员踢出服务器"
+ },
+ "Listen": {
+  "ar": "الاستماع",
+  "de": "Zuhören",
+  "es": "Escuchar",
+  "fr": "Écouter",
+  "ru": "Слушать",
+  "zh-Hans": "收听"
+ },
+ "Mention everyone and online members inside the server": {
+  "ar": "منشن الجميع والأعضاء المتصلين داخل السيرفر",
+  "de": "Alle und Online-Mitglieder auf dem Server erwähnen",
+  "es": "Mencionar a todos y a los miembros en línea del servidor",
+  "fr": "Mentionner tout le monde et les membres en ligne du serveur",
+  "ru": "Упоминать всех и участников онлайн на сервере",
+  "zh-Hans": "在服务器内提及所有人和在线成员"
+ },
+ "Mention specific roles": {
+  "ar": "منشن أدوار محددة",
+  "de": "Bestimmte Rollen erwähnen",
+  "es": "Mencionar roles concretos",
+  "fr": "Mentionner des rôles précis",
+  "ru": "Упоминать определённые роли",
+  "zh-Hans": "提及特定角色"
+ },
+ "Move members between voice channels": {
+  "ar": "نقل الأعضاء بين القنوات الصوتية",
+  "de": "Mitglieder zwischen Sprachkanälen verschieben",
+  "es": "Mover miembros entre canales de voz",
+  "fr": "Déplacer des membres entre salons vocaux",
+  "ru": "Перемещать участников между голосовыми каналами",
+  "zh-Hans": "在语音频道之间移动成员"
+ },
+ "Mute lower-ranking members in voice call": {
+  "ar": "كتم الأعضاء الأدنى رتبة في المكالمة الصوتية",
+  "de": "Mitglieder mit niedrigerem Rang im Sprachanruf stummschalten",
+  "es": "Silenciar a miembros de rango inferior en llamadas de voz",
+  "fr": "Rendre muets les membres de rang inférieur en appel vocal",
+  "ru": "Отключать микрофон у участников более низкого ранга в голосовом звонке",
+  "zh-Hans": "在语音通话中将较低等级的成员静音"
+ },
+ "Name": {
+  "ar": "الاسم",
+  "de": "Name",
+  "es": "Nombre",
+  "fr": "Nom",
+  "ru": "Название",
+  "zh-Hans": "名称"
+ },
+ "Preview": {
+  "ar": "معاينة",
+  "de": "Vorschau",
+  "es": "Vista previa",
+  "fr": "Aperçu",
+  "ru": "Предпросмотр",
+  "zh-Hans": "预览"
+ },
+ "React": {
+  "ar": "التفاعل",
+  "de": "Reagieren",
+  "es": "Reaccionar",
+  "fr": "Réagir",
+  "ru": "Реакции",
+  "zh-Hans": "回应"
+ },
+ "React to messages with emoji": {
+  "ar": "التفاعل مع الرسائل بالإيموجي",
+  "de": "Mit Emojis auf Nachrichten reagieren",
+  "es": "Reaccionar a mensajes con emojis",
+  "fr": "Réagir aux messages avec des émojis",
+  "ru": "Реагировать на сообщения эмодзи",
+  "zh-Hans": "用表情回应消息"
+ },
+ "Read past messages sent in channels": {
+  "ar": "قراءة الرسائل السابقة المرسلة في القنوات",
+  "de": "Frühere Nachrichten in Kanälen lesen",
+  "es": "Leer mensajes anteriores enviados en los canales",
+  "fr": "Lire les anciens messages envoyés dans les salons",
+  "ru": "Читать прошлые сообщения в каналах",
+  "zh-Hans": "阅读频道中的历史消息"
+ },
+ "Remove": {
+  "ar": "إزالة",
+  "de": "Entfernen",
+  "es": "Quitar",
+  "fr": "Retirer",
+  "ru": "Убрать",
+  "zh-Hans": "移除"
+ },
+ "Remove other members' avatars": {
+  "ar": "إزالة الصور الرمزية للأعضاء الآخرين",
+  "de": "Avatare anderer Mitglieder entfernen",
+  "es": "Quitar los avatares de otros miembros",
+  "fr": "Retirer les avatars des autres membres",
+  "ru": "Убирать аватары других участников",
+  "zh-Hans": "移除其他成员的头像"
+ },
+ "Rename emoji": {
+  "ar": "إعادة تسمية الإيموجي",
+  "de": "Emoji umbenennen",
+  "es": "Renombrar emoji",
+  "fr": "Renommer l'émoji",
+  "ru": "Переименовать эмодзи",
+  "zh-Hans": "重命名表情"
+ },
+ "Saving…": {
+  "ar": "جارٍ الحفظ…",
+  "de": "Wird gespeichert…",
+  "es": "Guardando…",
+  "fr": "Enregistrement…",
+  "ru": "Сохранение…",
+  "zh-Hans": "正在保存…"
+ },
+ "Send attachments to chat": {
+  "ar": "إرسال مرفقات إلى المحادثة",
+  "de": "Anhänge im Chat senden",
+  "es": "Enviar archivos adjuntos al chat",
+  "fr": "Envoyer des pièces jointes dans le chat",
+  "ru": "Отправлять вложения в чат",
+  "zh-Hans": "在聊天中发送附件"
+ },
+ "Send embedded content such as link embeds or custom embeds": {
+  "ar": "إرسال محتوى مضمّن مثل معاينات الروابط أو التضمينات المخصصة",
+  "de": "Eingebettete Inhalte wie Link-Vorschauen oder eigene Embeds senden",
+  "es": "Enviar contenido incrustado, como vistas previas de enlaces o incrustaciones personalizadas",
+  "fr": "Envoyer du contenu intégré, comme des aperçus de liens ou des embeds personnalisés",
+  "ru": "Отправлять встроенный контент, например превью ссылок или собственные эмбеды",
+  "zh-Hans": "发送嵌入内容，例如链接嵌入或自定义嵌入"
+ },
+ "Send messages in channels": {
+  "ar": "إرسال رسائل في القنوات",
+  "de": "Nachrichten in Kanälen senden",
+  "es": "Enviar mensajes en los canales",
+  "fr": "Envoyer des messages dans les salons",
+  "ru": "Отправлять сообщения в каналах",
+  "zh-Hans": "在频道中发送消息"
+ },
+ "Share camera or screen in voice call": {
+  "ar": "مشاركة الكاميرا أو الشاشة في المكالمة الصوتية",
+  "de": "Kamera oder Bildschirm im Sprachanruf teilen",
+  "es": "Compartir cámara o pantalla en llamadas de voz",
+  "fr": "Partager la caméra ou l'écran en appel vocal",
+  "ru": "Показывать камеру или экран в голосовом звонке",
+  "zh-Hans": "在语音通话中共享摄像头或屏幕"
+ },
+ "Temporarily prevent lower-ranking members from interacting": {
+  "ar": "منع الأعضاء الأدنى رتبة من التفاعل مؤقتًا",
+  "de": "Mitglieder mit niedrigerem Rang vorübergehend an Interaktionen hindern",
+  "es": "Impedir temporalmente que miembros de rango inferior interactúen",
+  "fr": "Empêcher temporairement les membres de rang inférieur d'interagir",
+  "ru": "Временно запрещать участникам более низкого ранга взаимодействовать",
+  "zh-Hans": "暂时禁止较低等级的成员互动"
+ },
+ "This server is about...": {
+  "ar": "يدور هذا السيرفر حول...",
+  "de": "In diesem Server geht es um …",
+  "es": "Este servidor trata de...",
+  "fr": "Ce serveur parle de…",
+  "ru": "Этот сервер посвящён…",
+  "zh-Hans": "这个服务器是关于……"
+ },
+ "User broke a certain rule…": {
+  "ar": "خالف المستخدم قاعدة معينة…",
+  "de": "Nutzer hat eine bestimmte Regel gebrochen …",
+  "es": "El usuario incumplió una norma…",
+  "fr": "L'utilisateur a enfreint une règle…",
+  "ru": "Пользователь нарушил определённое правило…",
+  "zh-Hans": "用户违反了某条规则……"
+ },
+ "Voice": {
+  "ar": "صوت",
+  "de": "Sprache",
+  "es": "Voz",
+  "fr": "Voix",
+  "ru": "Голос",
+  "zh-Hans": "语音"
+ },
+ "Zrzur rocks!": {
+  "ar": "زرزور رائع!",
+  "de": "Zrzur rockt!",
+  "es": "¡Zrzur es genial!",
+  "fr": "Zrzur, c'est top !",
+  "ru": "Zrzur — это круто!",
+  "zh-Hans": "Zrzur 太棒了！"
+ }
+}

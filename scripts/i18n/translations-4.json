@@ -1,0 +1,818 @@
+{
+ "{0} people": {
+  "ar": "{0} أشخاص",
+  "de": "{0} Personen",
+  "es": "{0} personas",
+  "fr": "{0} personnes",
+  "ru": "{0} чел.",
+  "zh-Hans": "{0} 人"
+ },
+ "{0} person": {
+  "ar": "{0} شخص",
+  "de": "{0} Person",
+  "es": "{0} persona",
+  "fr": "{0} personne",
+  "ru": "{0} чел.",
+  "zh-Hans": "{0} 人"
+ },
+ "{count} uploaded": {
+  "ar": "تم رفع {count}",
+  "de": "{count} hochgeladen",
+  "es": "{count} subidos",
+  "fr": "{count} importés",
+  "ru": "Загружено: {count}",
+  "zh-Hans": "已上传 {count} 个"
+ },
+ "{days} days left": {
+  "ar": "متبقٍ {days} أيام",
+  "de": "Noch {days} Tage",
+  "es": "Quedan {days} días",
+  "fr": "{days} jours restants",
+  "ru": "Осталось дн.: {days}",
+  "zh-Hans": "剩余 {days} 天"
+ },
+ "{h} h left": {
+  "ar": "متبقٍ {h} ساعة",
+  "de": "Noch {h} Std.",
+  "es": "Quedan {h} h",
+  "fr": "{h} h restantes",
+  "ru": "Осталось {h} ч",
+  "zh-Hans": "剩余 {h} 小时"
+ },
+ "{left} of {limit} slots left. Members use them as :name:.": {
+  "ar": "متبقٍ {left} من {limit} خانة. يستخدمها الأعضاء بالشكل :name:.",
+  "de": "Noch {left} von {limit} Plätzen frei. Mitglieder nutzen sie als :name:.",
+  "es": "Quedan {left} de {limit} espacios. Los miembros los usan como :name:.",
+  "fr": "Il reste {left} emplacements sur {limit}. Les membres les utilisent sous la forme :name:.",
+  "ru": "Свободно мест: {left} из {limit}. Участники используют их как :name:.",
+  "zh-Hans": "还剩 {left} / {limit} 个位置。成员以 :name: 的形式使用。"
+ },
+ "{min} min left": {
+  "ar": "متبقٍ {min} دقيقة",
+  "de": "Noch {min} Min.",
+  "es": "Quedan {min} min",
+  "fr": "{min} min restantes",
+  "ru": "Осталось {min} мин",
+  "zh-Hans": "剩余 {min} 分钟"
+ },
+ "{n} people": {
+  "ar": "{n} أشخاص",
+  "de": "{n} Personen",
+  "es": "{n} personas",
+  "fr": "{n} personnes",
+  "ru": "{n} чел.",
+  "zh-Hans": "{n} 人"
+ },
+ "{n} person": {
+  "ar": "{n} شخص",
+  "de": "{n} Person",
+  "es": "{n} persona",
+  "fr": "{n} personne",
+  "ru": "{n} чел.",
+  "zh-Hans": "{n} 人"
+ },
+ "{total} in total": {
+  "ar": "الإجمالي {total}",
+  "de": "Insgesamt {total}",
+  "es": "{total} en total",
+  "fr": "{total} au total",
+  "ru": "Всего: {total}",
+  "zh-Hans": "共 {total} 个"
+ },
+ "{username} can join the server again.": {
+  "ar": "يمكن لـ {username} الانضمام إلى السيرفر مجددًا.",
+  "de": "{username} kann dem Server wieder beitreten.",
+  "es": "{username} podrá volver a unirse al servidor.",
+  "fr": "{username} pourra à nouveau rejoindre le serveur.",
+  "ru": "{username} снова сможет присоединиться к серверу.",
+  "zh-Hans": "{username} 可以再次加入服务器。"
+ },
+ "{username} will not be able to interact with the server until the timeout expires.": {
+  "ar": "لن يتمكن {username} من التفاعل مع السيرفر حتى ينتهي الإيقاف المؤقت.",
+  "de": "{username} kann nicht mit dem Server interagieren, bis die Auszeit abläuft.",
+  "es": "{username} no podrá interactuar con el servidor hasta que termine el aislamiento temporal.",
+  "fr": "{username} ne pourra pas interagir avec le serveur tant que l'exclusion temporaire n'aura pas expiré.",
+  "ru": "{username} не сможет взаимодействовать с сервером, пока не истечёт тайм-аут.",
+  "zh-Hans": "在禁言结束前，{username} 将无法与服务器互动。"
+ },
+ "{username}'s timeout will be removed and they will be able to interact with the server again.": {
+  "ar": "ستُزال مدة الإيقاف المؤقت عن {username} وسيتمكن من التفاعل مع السيرفر مجددًا.",
+  "de": "Die Auszeit von {username} wird aufgehoben und die Person kann wieder mit dem Server interagieren.",
+  "es": "Se quitará el aislamiento temporal de {username} y podrá volver a interactuar con el servidor.",
+  "fr": "L'exclusion temporaire de {username} sera levée et la personne pourra à nouveau interagir avec le serveur.",
+  "ru": "Тайм-аут для {username} будет снят, и участник снова сможет взаимодействовать с сервером.",
+  "zh-Hans": "将解除 {username} 的禁言，其可再次与服务器互动。"
+ },
+ "{uses} of {max} uses": {
+  "ar": "{uses} من {max} استخدامات",
+  "de": "{uses} von {max} Verwendungen",
+  "es": "{uses} de {max} usos",
+  "fr": "{uses} utilisations sur {max}",
+  "ru": "Использований: {uses} из {max}",
+  "zh-Hans": "已使用 {uses} / {max} 次"
+ },
+ "{uses} uses": {
+  "ar": "{uses} استخدامات",
+  "de": "{uses} Verwendungen",
+  "es": "{uses} usos",
+  "fr": "{uses} utilisations",
+  "ru": "Использований: {uses}",
+  "zh-Hans": "已使用 {uses} 次"
+ },
+ "1 week": {
+  "ar": "أسبوع واحد",
+  "de": "1 Woche",
+  "es": "1 semana",
+  "fr": "1 semaine",
+  "ru": "1 неделя",
+  "zh-Hans": "1 周"
+ },
+ "3 days": {
+  "ar": "3 أيام",
+  "de": "3 Tage",
+  "es": "3 días",
+  "fr": "3 jours",
+  "ru": "3 дня",
+  "zh-Hans": "3 天"
+ },
+ "5 minutes": {
+  "ar": "5 دقائق",
+  "de": "5 Minuten",
+  "es": "5 minutos",
+  "fr": "5 minutes",
+  "ru": "5 минут",
+  "zh-Hans": "5 分钟"
+ },
+ "A welcome page; a Lobby row shows for everyone and the server opens on it.": {
+  "ar": "صفحة ترحيب؛ يظهر صف اللوبي للجميع ويُفتح السيرفر عليه.",
+  "de": "Eine Willkommensseite; eine Lobby-Zeile erscheint für alle und der Server öffnet sich darauf.",
+  "es": "Una página de bienvenida; la fila Lobby aparece para todos y el servidor se abre en ella.",
+  "fr": "Une page d'accueil ; une ligne Lobby s'affiche pour tout le monde et le serveur s'ouvre dessus.",
+  "ru": "Страница приветствия: строка «Лобби» видна всем, и сервер открывается на ней.",
+  "zh-Hans": "欢迎页面；所有人都会看到“大厅”一行，服务器默认从这里打开。"
+ },
+ "Add and remove the server's sounds": {
+  "ar": "إضافة أصوات السيرفر وإزالتها",
+  "de": "Sounds des Servers hinzufügen und entfernen",
+  "es": "Añadir y quitar los sonidos del servidor",
+  "fr": "Ajouter et supprimer les sons du serveur",
+  "ru": "Добавлять и удалять звуки сервера",
+  "zh-Hans": "添加和移除服务器的音效"
+ },
+ "Added by {by}": {
+  "ar": "أضافه {by}",
+  "de": "Hinzugefügt von {by}",
+  "es": "Añadido por {by}",
+  "fr": "Ajouté par {by}",
+  "ru": "Добавил(а): {by}",
+  "zh-Hans": "由 {by} 添加"
+ },
+ "Administrator": {
+  "ar": "مدير",
+  "de": "Administrator",
+  "es": "Administrador",
+  "fr": "Administrateur",
+  "ru": "Администратор",
+  "zh-Hans": "管理员"
+ },
+ "Default notifications": {
+  "ar": "الإشعارات الافتراضية",
+  "de": "Standardbenachrichtigungen",
+  "es": "Notificaciones predeterminadas",
+  "fr": "Notifications par défaut",
+  "ru": "Уведомления по умолчанию",
+  "zh-Hans": "默认通知"
+ },
+ "Delete :{deletingName}:?": {
+  "ar": "حذف :{deletingName}:؟",
+  "de": ":{deletingName}: löschen?",
+  "es": "¿Eliminar :{deletingName}:?",
+  "fr": "Supprimer :{deletingName}: ?",
+  "ru": "Удалить :{deletingName}:?",
+  "zh-Hans": "删除 :{deletingName}:？"
+ },
+ "Delete {channelName}?": {
+  "ar": "حذف {channelName}؟",
+  "de": "{channelName} löschen?",
+  "es": "¿Eliminar {channelName}?",
+  "fr": "Supprimer {channelName} ?",
+  "ru": "Удалить {channelName}?",
+  "zh-Hans": "删除 {channelName}？"
+ },
+ "Delete {roleName}?": {
+  "ar": "حذف {roleName}؟",
+  "de": "{roleName} löschen?",
+  "es": "¿Eliminar {roleName}?",
+  "fr": "Supprimer {roleName} ?",
+  "ru": "Удалить {roleName}?",
+  "zh-Hans": "删除 {roleName}？"
+ },
+ "Delete {serverName}?": {
+  "ar": "حذف {serverName}؟",
+  "de": "{serverName} löschen?",
+  "es": "¿Eliminar {serverName}?",
+  "fr": "Supprimer {serverName} ?",
+  "ru": "Удалить {serverName}?",
+  "zh-Hans": "删除 {serverName}？"
+ },
+ "Each member can still choose their own setting.": {
+  "ar": "يمكن لكل عضو أن يختار إعداده الخاص.",
+  "de": "Jedes Mitglied kann weiterhin seine eigene Einstellung wählen.",
+  "es": "Cada miembro puede seguir eligiendo su propio ajuste.",
+  "fr": "Chaque membre peut toujours choisir son propre réglage.",
+  "ru": "Каждый участник по-прежнему может выбрать свою настройку.",
+  "zh-Hans": "每位成员仍可自行选择设置。"
+ },
+ "Events and lobby": {
+  "ar": "الأحداث واللوبي",
+  "de": "Ereignisse und Lobby",
+  "es": "Eventos y lobby",
+  "fr": "Événements et lobby",
+  "ru": "События и лобби",
+  "zh-Hans": "活动和大厅"
+ },
+ "Every right in every channel, private ones too, whatever their settings say. Only an administrator or the owner can give it.": {
+  "ar": "كل الصلاحيات في كل القنوات، حتى الخاصة منها، مهما كانت إعداداتها. لا يمنحها إلا مدير أو المالك.",
+  "de": "Alle Rechte in jedem Kanal, auch in privaten, egal was dort eingestellt ist. Nur ein Administrator oder der Besitzer kann sie vergeben.",
+  "es": "Todos los permisos en todos los canales, también los privados, sin importar su configuración. Solo un administrador o el propietario puede otorgarlo.",
+  "fr": "Tous les droits dans tous les salons, même privés, quels que soient leurs réglages. Seul un administrateur ou le propriétaire peut l'accorder.",
+  "ru": "Все права во всех каналах, включая приватные, независимо от их настроек. Выдать его может только администратор или владелец.",
+  "zh-Hans": "拥有所有频道（包括私密频道）中的全部权限，不受其设置影响。只有管理员或所有者可以授予。"
+ },
+ "Its channels stay, and the same people keep seeing them. Once the category is deleted, there's no going back.": {
+  "ar": "ستبقى قنواتها ويظل الأشخاص أنفسهم يرونها. بعد حذف الفئة لا يمكن التراجع.",
+  "de": "Die Kanäle bleiben erhalten und dieselben Leute sehen sie weiterhin. Eine gelöschte Kategorie lässt sich nicht wiederherstellen.",
+  "es": "Sus canales se quedan y las mismas personas siguen viéndolos. Una vez eliminada la categoría, no hay vuelta atrás.",
+  "fr": "Ses salons restent et les mêmes personnes continuent de les voir. Une fois la catégorie supprimée, il n'y a pas de retour en arrière.",
+  "ru": "Её каналы сохранятся, и те же люди продолжат их видеть. После удаления категории вернуть её нельзя.",
+  "zh-Hans": "其中的频道会保留，原有成员仍可看到。分类一旦删除便无法恢复。"
+ },
+ "Manage soundboard": {
+  "ar": "إدارة لوحة الأصوات",
+  "de": "Soundboard verwalten",
+  "es": "Gestionar panel de sonidos",
+  "fr": "Gérer la table de sons",
+  "ru": "Управление звуковой панелью",
+  "zh-Hans": "管理音效板"
+ },
+ "Members are notified about every message.": {
+  "ar": "يُشعَر الأعضاء بكل رسالة.",
+  "de": "Mitglieder werden bei jeder Nachricht benachrichtigt.",
+  "es": "Se notifica a los miembros de cada mensaje.",
+  "fr": "Les membres sont notifiés pour chaque message.",
+  "ru": "Участники получают уведомления о каждом сообщении.",
+  "zh-Hans": "成员会收到每条消息的通知。"
+ },
+ "Members are notified only when someone mentions them.": {
+  "ar": "يُشعَر الأعضاء فقط عندما يشير إليهم أحد.",
+  "de": "Mitglieder werden nur benachrichtigt, wenn sie erwähnt werden.",
+  "es": "Se notifica a los miembros solo cuando alguien los menciona.",
+  "fr": "Les membres ne sont notifiés que lorsqu'on les mentionne.",
+  "ru": "Участники получают уведомления, только когда их упоминают.",
+  "zh-Hans": "仅当有人提及成员时才会通知。"
+ },
+ "Notify members about": {
+  "ar": "إشعار الأعضاء بشأن",
+  "de": "Mitglieder benachrichtigen bei",
+  "es": "Notificar a los miembros sobre",
+  "fr": "Notifier les membres pour",
+  "ru": "Уведомлять участников о",
+  "zh-Hans": "通知成员的内容"
+ },
+ "Pick a conversation or a channel.": {
+  "ar": "اختر محادثة أو قناة.",
+  "de": "Wähle eine Unterhaltung oder einen Kanal.",
+  "es": "Elige una conversación o un canal.",
+  "fr": "Choisis une conversation ou un salon.",
+  "ru": "Выбери беседу или канал.",
+  "zh-Hans": "选择一个对话或频道。"
+ },
+ "Plan game nights and meetups; an Events row shows for everyone.": {
+  "ar": "خطّط لليالي الألعاب واللقاءات؛ يظهر صف الأحداث للجميع.",
+  "de": "Plane Spieleabende und Treffen; eine Ereignisse-Zeile erscheint für alle.",
+  "es": "Planea noches de juegos y quedadas; la fila Eventos aparece para todos.",
+  "fr": "Planifie des soirées jeux et des rencontres ; une ligne Événements s'affiche pour tout le monde.",
+  "ru": "Планируй игровые вечера и встречи: строка «События» видна всем.",
+  "zh-Hans": "安排游戏之夜和聚会；所有人都会看到“活动”一行。"
+ },
+ "Play the server's sounds in a voice call": {
+  "ar": "تشغيل أصوات السيرفر في مكالمة صوتية",
+  "de": "Sounds des Servers in einem Sprachanruf abspielen",
+  "es": "Reproducir los sonidos del servidor en una llamada de voz",
+  "fr": "Jouer les sons du serveur dans un appel vocal",
+  "ru": "Воспроизводить звуки сервера в голосовом звонке",
+  "zh-Hans": "在语音通话中播放服务器的音效"
+ },
+ "Roles higher in the list rank above lower ones.": {
+  "ar": "الأدوار الأعلى في القائمة تتفوق على الأدنى منها.",
+  "de": "Rollen weiter oben in der Liste stehen über den unteren.",
+  "es": "Los roles más arriba en la lista tienen rango sobre los de abajo.",
+  "fr": "Les rôles plus haut dans la liste sont prioritaires sur ceux du dessous.",
+  "ru": "Роли выше в списке имеют приоритет над нижестоящими.",
+  "zh-Hans": "列表中靠上的角色等级高于靠下的角色。"
+ },
+ "Room size of {channelName}": {
+  "ar": "حجم غرفة {channelName}",
+  "de": "Raumgröße von {channelName}",
+  "es": "Tamaño de sala de {channelName}",
+  "fr": "Taille de la salle de {channelName}",
+  "ru": "Размер комнаты {channelName}",
+  "zh-Hans": "{channelName} 的房间人数上限"
+ },
+ "Rows at the top of the channel list. Both start off.": {
+  "ar": "صفوف في أعلى قائمة القنوات. كلاهما معطّل في البداية.",
+  "de": "Zeilen oben in der Kanalliste. Beide sind anfangs aus.",
+  "es": "Filas en la parte superior de la lista de canales. Ambas empiezan desactivadas.",
+  "fr": "Lignes en haut de la liste des salons. Les deux sont désactivées au départ.",
+  "ru": "Строки в верхней части списка каналов. Обе изначально выключены.",
+  "zh-Hans": "位于频道列表顶部的行。两者默认关闭。"
+ },
+ "Slow mode in {channelName}": {
+  "ar": "الوضع البطيء في {channelName}",
+  "de": "Langsammodus in {channelName}",
+  "es": "Modo lento en {channelName}",
+  "fr": "Mode lent dans {channelName}",
+  "ru": "Медленный режим в {channelName}",
+  "zh-Hans": "{channelName} 的慢速模式"
+ },
+ "Speakers talk, everyone else listens and can ask to speak.": {
+  "ar": "يتحدث المتحدثون ويستمع الجميع ويمكنهم طلب التحدث.",
+  "de": "Sprecher reden, alle anderen hören zu und können darum bitten, zu sprechen.",
+  "es": "Los oradores hablan, los demás escuchan y pueden pedir la palabra.",
+  "fr": "Les intervenants parlent, les autres écoutent et peuvent demander à prendre la parole.",
+  "ru": "Говорят докладчики, остальные слушают и могут попросить слово.",
+  "zh-Hans": "发言者讲话，其他人收听并可申请发言。"
+ },
+ "Stage": {
+  "ar": "المسرح",
+  "de": "Bühne",
+  "es": "Escenario",
+  "fr": "Scène",
+  "ru": "Сцена",
+  "zh-Hans": "舞台"
+ },
+ "Turning one off hides its row and keeps what you made: planned events and the lobby design stay saved.": {
+  "ar": "إيقاف أحدهما يخفي صفه ويحتفظ بما أنشأته: تبقى الأحداث المخططة وتصميم اللوبي محفوظين.",
+  "de": "Wenn du eine ausschaltest, wird ihre Zeile ausgeblendet, aber alles bleibt erhalten: geplante Ereignisse und das Lobby-Design bleiben gespeichert.",
+  "es": "Al desactivar una se oculta su fila y se conserva lo que creaste: los eventos planeados y el diseño del lobby siguen guardados.",
+  "fr": "Désactiver l'une masque sa ligne et conserve ce que tu as créé : les événements prévus et le design du lobby restent enregistrés.",
+  "ru": "Если выключить одну из них, её строка скроется, а созданное сохранится: запланированные события и оформление лобби останутся.",
+  "zh-Hans": "关闭其中一项会隐藏对应的行，但已创建的内容会保留：已安排的活动和大厅设计仍会保存。"
+ },
+ "Use a colour like #E0195F.": {
+  "ar": "استخدم لونًا مثل #E0195F.",
+  "de": "Nutze eine Farbe wie #E0195F.",
+  "es": "Usa un color como #E0195F.",
+  "fr": "Utilise une couleur comme #E0195F.",
+  "ru": "Укажи цвет, например #E0195F.",
+  "zh-Hans": "请使用类似 #E0195F 的颜色。"
+ },
+ "Use soundboard": {
+  "ar": "استخدام لوحة الأصوات",
+  "de": "Soundboard nutzen",
+  "es": "Usar panel de sonidos",
+  "fr": "Utiliser la table de sons",
+  "ru": "Использовать звуковую панель",
+  "zh-Hans": "使用音效板"
+ },
+ "What members are notified about until they choose for themselves.": {
+  "ar": "ما يُشعَر به الأعضاء إلى أن يختاروا بأنفسهم.",
+  "de": "Worüber Mitglieder benachrichtigt werden, bis sie selbst etwas wählen.",
+  "es": "Sobre qué se notifica a los miembros hasta que elijan por sí mismos.",
+  "fr": "Ce pour quoi les membres sont notifiés tant qu'ils n'ont pas choisi eux-mêmes.",
+  "ru": "О чём уведомляются участники, пока они не выберут сами.",
+  "zh-Hans": "在成员自行选择之前，他们会收到哪些通知。"
+ },
+ "You are about to ban {username}": {
+  "ar": "أنت على وشك حظر {username}",
+  "de": "Du bist dabei, {username} zu bannen",
+  "es": "Estás a punto de vetar a {username}",
+  "fr": "Tu es sur le point de bannir {username}",
+  "ru": "Ты собираешься заблокировать {username}",
+  "zh-Hans": "你即将封禁 {username}"
+ },
+ "You are about to kick {username}": {
+  "ar": "أنت على وشك طرد {username}",
+  "de": "Du bist dabei, {username} zu kicken",
+  "es": "Estás a punto de expulsar a {username}",
+  "fr": "Tu es sur le point d'expulser {username}",
+  "ru": "Ты собираешься исключить {username}",
+  "zh-Hans": "你即将踢出 {username}"
+ },
+ "You can see this but not change it. It needs the permission \"{readOnly}\".": {
+  "ar": "يمكنك رؤية هذا لكن لا يمكنك تغييره. يتطلب الصلاحية \"{readOnly}\".",
+  "de": "Du kannst das sehen, aber nicht ändern. Dafür brauchst du die Berechtigung „{readOnly}“.",
+  "es": "Puedes verlo pero no cambiarlo. Necesita el permiso «{readOnly}».",
+  "fr": "Tu peux voir ceci mais pas le modifier. Il faut la permission « {readOnly} ».",
+  "ru": "Ты можешь это видеть, но не менять. Нужно разрешение «{readOnly}».",
+  "zh-Hans": "你可以查看但无法更改。需要“{readOnly}”权限。"
+ },
+ "1 day": {
+  "ar": "يوم واحد",
+  "de": "1 Tag",
+  "es": "1 día",
+  "fr": "1 jour",
+  "ru": "1 день",
+  "zh-Hans": "1 天"
+ },
+ "1 hour": {
+  "ar": "ساعة واحدة",
+  "de": "1 Stunde",
+  "es": "1 hora",
+  "fr": "1 heure",
+  "ru": "1 час",
+  "zh-Hans": "1 小时"
+ },
+ "1 minute": {
+  "ar": "دقيقة واحدة",
+  "de": "1 Minute",
+  "es": "1 minuto",
+  "fr": "1 minute",
+  "ru": "1 минута",
+  "zh-Hans": "1 分钟"
+ },
+ "10 minutes": {
+  "ar": "10 دقائق",
+  "de": "10 Minuten",
+  "es": "10 minutos",
+  "fr": "10 minutes",
+  "ru": "10 минут",
+  "zh-Hans": "10 分钟"
+ },
+ "12 hours": {
+  "ar": "12 ساعة",
+  "de": "12 Stunden",
+  "es": "12 horas",
+  "fr": "12 heures",
+  "ru": "12 часов",
+  "zh-Hans": "12 小时"
+ },
+ "30 minutes": {
+  "ar": "30 دقيقة",
+  "de": "30 Minuten",
+  "es": "30 minutos",
+  "fr": "30 minutes",
+  "ru": "30 минут",
+  "zh-Hans": "30 分钟"
+ },
+ "6 hours": {
+  "ar": "6 ساعات",
+  "de": "6 Stunden",
+  "es": "6 horas",
+  "fr": "6 heures",
+  "ru": "6 часов",
+  "zh-Hans": "6 小时"
+ },
+ "7 days": {
+  "ar": "7 أيام",
+  "de": "7 Tage",
+  "es": "7 días",
+  "fr": "7 jours",
+  "ru": "7 дней",
+  "zh-Hans": "7 天"
+ },
+ "A square image, then a name with lowercase letters, numbers and underscores.": {
+  "ar": "صورة مربعة، ثم اسم من أحرف صغيرة وأرقام وشرطات سفلية.",
+  "de": "Ein quadratisches Bild, dann ein Name aus Kleinbuchstaben, Zahlen und Unterstrichen.",
+  "es": "Una imagen cuadrada y luego un nombre con minúsculas, números y guiones bajos.",
+  "fr": "Une image carrée, puis un nom en minuscules, chiffres et tirets bas.",
+  "ru": "Квадратное изображение, затем имя из строчных букв, цифр и подчёркиваний.",
+  "zh-Hans": "先选一张方形图片，再输入由小写字母、数字和下划线组成的名称。"
+ },
+ "Active invites": {
+  "ar": "الدعوات النشطة",
+  "de": "Aktive Einladungen",
+  "es": "Invitaciones activas",
+  "fr": "Invitations actives",
+  "ru": "Активные приглашения",
+  "zh-Hans": "有效邀请"
+ },
+ "Add a channel here": {
+  "ar": "أضف قناة هنا",
+  "de": "Hier einen Kanal hinzufügen",
+  "es": "Añade un canal aquí",
+  "fr": "Ajouter un salon ici",
+  "ru": "Добавить канал сюда",
+  "zh-Hans": "在此添加频道"
+ },
+ "Age-restricted": {
+  "ar": "مقيّد بالعمر",
+  "de": "Altersbeschränkt",
+  "es": "Restringido por edad",
+  "fr": "Réservé aux adultes",
+  "ru": "С возрастным ограничением",
+  "zh-Hans": "限制年龄"
+ },
+ "All messages": {
+  "ar": "كل الرسائل",
+  "de": "Alle Nachrichten",
+  "es": "Todos los mensajes",
+  "fr": "Tous les messages",
+  "ru": "Все сообщения",
+  "zh-Hans": "所有消息"
+ },
+ "All roles": {
+  "ar": "كل الأدوار",
+  "de": "Alle Rollen",
+  "es": "Todos los roles",
+  "fr": "Tous les rôles",
+  "ru": "Все роли",
+  "zh-Hans": "所有角色"
+ },
+ "Allow": {
+  "ar": "سماح",
+  "de": "Erlauben",
+  "es": "Permitir",
+  "fr": "Autoriser",
+  "ru": "Разрешить",
+  "zh-Hans": "允许"
+ },
+ "Announcement": {
+  "ar": "إعلانات",
+  "de": "Ankündigungen",
+  "es": "Anuncios",
+  "fr": "Annonces",
+  "ru": "Объявления",
+  "zh-Hans": "公告"
+ },
+ "Anyone with one of these links can join. Delete a link to stop it working.": {
+  "ar": "يمكن لأي شخص لديه أحد هذه الروابط الانضمام. احذف الرابط لإيقاف عمله.",
+  "de": "Jeder mit einem dieser Links kann beitreten. Lösche einen Link, damit er nicht mehr funktioniert.",
+  "es": "Cualquiera con uno de estos enlaces puede unirse. Elimina un enlace para que deje de funcionar.",
+  "fr": "Toute personne ayant l'un de ces liens peut rejoindre. Supprime un lien pour qu'il ne fonctionne plus.",
+  "ru": "Любой, у кого есть одна из этих ссылок, может присоединиться. Удали ссылку, чтобы она перестала работать.",
+  "zh-Hans": "任何拥有这些链接之一的人都可以加入。删除链接即可使其失效。"
+ },
+ "Approve or reject people who ask to join a private server": {
+  "ar": "قبول أو رفض من يطلبون الانضمام إلى سيرفر خاص",
+  "de": "Personen annehmen oder ablehnen, die einem privaten Server beitreten möchten",
+  "es": "Aprobar o rechazar a quienes piden unirse a un servidor privado",
+  "fr": "Approuver ou refuser les personnes qui demandent à rejoindre un serveur privé",
+  "ru": "Одобрять или отклонять заявки на вступление в приватный сервер",
+  "zh-Hans": "批准或拒绝申请加入私密服务器的人"
+ },
+ "Assign roles": {
+  "ar": "تعيين الأدوار",
+  "de": "Rollen zuweisen",
+  "es": "Asignar roles",
+  "fr": "Attribuer des rôles",
+  "ru": "Назначать роли",
+  "zh-Hans": "分配角色"
+ },
+ "At or above your highest role: only someone higher can change it.": {
+  "ar": "في مستوى أعلى دور لديك أو فوقه: لا يستطيع تغييره إلا من هو أعلى منك.",
+  "de": "Auf oder über deiner höchsten Rolle: Nur jemand mit höherer Rolle kann es ändern.",
+  "es": "En tu rol más alto o por encima: solo alguien superior puede cambiarlo.",
+  "fr": "Au niveau de ton rôle le plus élevé ou au-dessus : seule une personne de rang supérieur peut le modifier.",
+  "ru": "На уровне твоей высшей роли или выше: изменить это может только тот, чей ранг выше.",
+  "zh-Hans": "等同于或高于你的最高角色：只有更高级别的人才能更改。"
+ },
+ "Audit log": {
+  "ar": "سجل التدقيق",
+  "de": "Protokoll",
+  "es": "Registro de auditoría",
+  "fr": "Journal d'audit",
+  "ru": "Журнал аудита",
+  "zh-Hans": "审计日志"
+ },
+ "Ban members": {
+  "ar": "حظر الأعضاء",
+  "de": "Mitglieder bannen",
+  "es": "Vetar miembros",
+  "fr": "Bannir des membres",
+  "ru": "Блокировать участников",
+  "zh-Hans": "封禁成员"
+ },
+ "Banned members": {
+  "ar": "الأعضاء المحظورون",
+  "de": "Gebannte Mitglieder",
+  "es": "Miembros vetados",
+  "fr": "Membres bannis",
+  "ru": "Заблокированные участники",
+  "zh-Hans": "已封禁成员"
+ },
+ "Banned people can't rejoin until they're unbanned, even with an invite.": {
+  "ar": "لا يستطيع المحظورون العودة حتى يُرفع الحظر عنهم، حتى لو معهم دعوة.",
+  "de": "Gebannte Personen können nicht erneut beitreten, bis der Bann aufgehoben wird, auch nicht mit einer Einladung.",
+  "es": "Las personas vetadas no pueden volver a unirse hasta que se les quite el veto, ni siquiera con una invitación.",
+  "fr": "Les personnes bannies ne peuvent pas revenir tant qu'elles ne sont pas débannies, même avec une invitation.",
+  "ru": "Заблокированные не смогут вернуться, пока их не разблокируют, даже с приглашением.",
+  "zh-Hans": "被封禁的人在解除封禁前无法重新加入，即使有邀请也不行。"
+ },
+ "Bans couldn't be loaded": {
+  "ar": "تعذّر تحميل قائمة الحظر",
+  "de": "Bans konnten nicht geladen werden",
+  "es": "No se pudieron cargar los vetos",
+  "fr": "Impossible de charger les bannissements",
+  "ru": "Не удалось загрузить блокировки",
+  "zh-Hans": "无法加载封禁列表"
+ },
+ "Bypass slowmode": {
+  "ar": "تجاوز الوضع البطيء",
+  "de": "Langsammodus umgehen",
+  "es": "Saltarse el modo lento",
+  "fr": "Ignorer le mode lent",
+  "ru": "Обходить медленный режим",
+  "zh-Hans": "绕过慢速模式"
+ },
+ "Categories": {
+  "ar": "الفئات",
+  "de": "Kategorien",
+  "es": "Categorías",
+  "fr": "Catégories",
+  "ru": "Категории",
+  "zh-Hans": "分类"
+ },
+ "Change nickname": {
+  "ar": "تغيير اللقب",
+  "de": "Spitzname ändern",
+  "es": "Cambiar apodo",
+  "fr": "Changer de pseudo",
+  "ru": "Менять никнейм",
+  "zh-Hans": "更改昵称"
+ },
+ "Change server banner": {
+  "ar": "تغيير بانر السيرفر",
+  "de": "Server-Banner ändern",
+  "es": "Cambiar banner del servidor",
+  "fr": "Changer la bannière du serveur",
+  "ru": "Менять баннер сервера",
+  "zh-Hans": "更改服务器横幅"
+ },
+ "Change server icon": {
+  "ar": "تغيير أيقونة السيرفر",
+  "de": "Server-Symbol ändern",
+  "es": "Cambiar icono del servidor",
+  "fr": "Changer l'icône du serveur",
+  "ru": "Менять значок сервера",
+  "zh-Hans": "更改服务器图标"
+ },
+ "Channel name": {
+  "ar": "اسم القناة",
+  "de": "Kanalname",
+  "es": "Nombre del canal",
+  "fr": "Nom du salon",
+  "ru": "Название канала",
+  "zh-Hans": "频道名称"
+ },
+ "Channel settings": {
+  "ar": "إعدادات القناة",
+  "de": "Kanaleinstellungen",
+  "es": "Ajustes del canal",
+  "fr": "Paramètres du salon",
+  "ru": "Настройки канала",
+  "zh-Hans": "频道设置"
+ },
+ "Channels are where your community talks.": {
+  "ar": "القنوات هي المكان الذي يتحدث فيه مجتمعك.",
+  "de": "In Kanälen unterhält sich deine Community.",
+  "es": "Los canales son donde habla tu comunidad.",
+  "fr": "Les salons sont l'endroit où ta communauté discute.",
+  "ru": "Каналы — это место, где общается твоё сообщество.",
+  "zh-Hans": "频道是你的社区交流的地方。"
+ },
+ "Channels of posts with a title and tags in this server.": {
+  "ar": "قنوات منشورات بعنوان ووسوم في هذا السيرفر.",
+  "de": "Kanäle mit Beiträgen samt Titel und Tags in diesem Server.",
+  "es": "Canales de publicaciones con título y etiquetas en este servidor.",
+  "fr": "Salons de publications avec titre et tags dans ce serveur.",
+  "ru": "Каналы с постами, у которых есть заголовок и теги, на этом сервере.",
+  "zh-Hans": "此服务器中带有标题和标签的帖子频道。"
+ },
+ "Choose emoji image": {
+  "ar": "اختر صورة الإيموجي",
+  "de": "Emoji-Bild auswählen",
+  "es": "Elegir imagen del emoji",
+  "fr": "Choisir l'image de l'émoji",
+  "ru": "Выбрать изображение эмодзи",
+  "zh-Hans": "选择表情图片"
+ },
+ "Community": {
+  "ar": "المجتمع",
+  "de": "Community",
+  "es": "Comunidad",
+  "fr": "Communauté",
+  "ru": "Сообщество",
+  "zh-Hans": "社区"
+ },
+ "Create forum posts": {
+  "ar": "إنشاء منشورات المنتدى",
+  "de": "Forenbeiträge erstellen",
+  "es": "Crear publicaciones del foro",
+  "fr": "Créer des publications de forum",
+  "ru": "Создавать посты на форуме",
+  "zh-Hans": "创建论坛帖子"
+ },
+ "Create one to bring people into this server.": {
+  "ar": "أنشئ واحدة لإدخال الناس إلى هذا السيرفر.",
+  "de": "Erstelle eine, um Leute auf diesen Server zu holen.",
+  "es": "Crea una para traer gente a este servidor.",
+  "fr": "Crée-en une pour faire venir des gens sur ce serveur.",
+  "ru": "Создай её, чтобы пригласить людей на этот сервер.",
+  "zh-Hans": "创建一个，邀请大家加入此服务器。"
+ },
+ "Create role": {
+  "ar": "إنشاء دور",
+  "de": "Rolle erstellen",
+  "es": "Crear rol",
+  "fr": "Créer un rôle",
+  "ru": "Создать роль",
+  "zh-Hans": "创建角色"
+ },
+ "Create threads": {
+  "ar": "إنشاء سلاسل",
+  "de": "Threads erstellen",
+  "es": "Crear hilos",
+  "fr": "Créer des fils",
+  "ru": "Создавать ветки",
+  "zh-Hans": "创建子区"
+ },
+ "Danger zone": {
+  "ar": "منطقة الخطر",
+  "de": "Gefahrenbereich",
+  "es": "Zona de peligro",
+  "fr": "Zone dangereuse",
+  "ru": "Опасная зона",
+  "zh-Hans": "危险区域"
+ },
+ "Deafen members": {
+  "ar": "كتم سماعة الأعضاء",
+  "de": "Mitglieder taubschalten",
+  "es": "Ensordecer miembros",
+  "fr": "Mettre des membres en sourdine casque",
+  "ru": "Отключать участникам звук",
+  "zh-Hans": "将成员拒听"
+ },
+ "Default (inherit)": {
+  "ar": "افتراضي (وراثة)",
+  "de": "Standard (erben)",
+  "es": "Predeterminado (heredar)",
+  "fr": "Par défaut (hériter)",
+  "ru": "По умолчанию (наследовать)",
+  "zh-Hans": "默认（继承）"
+ },
+ "Default permissions": {
+  "ar": "الصلاحيات الافتراضية",
+  "de": "Standardberechtigungen",
+  "es": "Permisos predeterminados",
+  "fr": "Permissions par défaut",
+  "ru": "Права по умолчанию",
+  "zh-Hans": "默认权限"
+ },
+ "Delete emoji": {
+  "ar": "حذف الإيموجي",
+  "de": "Emoji löschen",
+  "es": "Eliminar emoji",
+  "fr": "Supprimer l'émoji",
+  "ru": "Удалить эмодзи",
+  "zh-Hans": "删除表情"
+ },
+ "Delete invite": {
+  "ar": "حذف الدعوة",
+  "de": "Einladung löschen",
+  "es": "Eliminar invitación",
+  "fr": "Supprimer l'invitation",
+  "ru": "Удалить приглашение",
+  "zh-Hans": "删除邀请"
+ },
+ "Delete message history": {
+  "ar": "حذف سجل الرسائل",
+  "de": "Nachrichtenverlauf löschen",
+  "es": "Eliminar historial de mensajes",
+  "fr": "Supprimer l'historique des messages",
+  "ru": "Удалить историю сообщений",
+  "zh-Hans": "删除消息记录"
+ },
+ "Delete role": {
+  "ar": "حذف الدور",
+  "de": "Rolle löschen",
+  "es": "Eliminar rol",
+  "fr": "Supprimer le rôle",
+  "ru": "Удалить роль",
+  "zh-Hans": "删除角色"
+ },
+ "Delete server": {
+  "ar": "حذف السيرفر",
+  "de": "Server löschen",
+  "es": "Eliminar servidor",
+  "fr": "Supprimer le serveur",
+  "ru": "Удалить сервер",
+  "zh-Hans": "删除服务器"
+ },
+ "Delete this invite?": {
+  "ar": "حذف هذه الدعوة؟",
+  "de": "Diese Einladung löschen?",
+  "es": "¿Eliminar esta invitación?",
+  "fr": "Supprimer cette invitation ?",
+  "ru": "Удалить это приглашение?",
+  "zh-Hans": "删除此邀请？"
+ },
+ "Deny": {
+  "ar": "رفض",
+  "de": "Ablehnen",
+  "es": "Denegar",
+  "fr": "Refuser",
+  "ru": "Запретить",
+  "zh-Hans": "拒绝"
+ }
+}

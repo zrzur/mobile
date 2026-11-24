@@ -1,0 +1,1162 @@
+{
+ "in: works in servers only.": {
+  "ar": "in: يعمل في السيرفرات فقط.",
+  "de": "in: funktioniert nur in Servern.",
+  "es": "in: solo funciona en servidores.",
+  "fr": "in: ne fonctionne que dans les serveurs.",
+  "ru": "in: работает только на серверах.",
+  "zh-Hans": "in: 仅在服务器中有效。"
+ },
+ "Incoming call": {
+  "ar": "مكالمة واردة",
+  "de": "Eingehender Anruf",
+  "es": "Llamada entrante",
+  "fr": "Appel entrant",
+  "ru": "Входящий звонок",
+  "zh-Hans": "来电"
+ },
+ "Invite members": {
+  "ar": "دعوة أعضاء",
+  "de": "Mitglieder einladen",
+  "es": "Invitar miembros",
+  "fr": "Inviter des membres",
+  "ru": "Пригласить участников",
+  "zh-Hans": "邀请成员"
+ },
+ "Invited only": {
+  "ar": "بالدعوة فقط",
+  "de": "Nur auf Einladung",
+  "es": "Solo por invitación",
+  "fr": "Sur invitation uniquement",
+  "ru": "Только по приглашению",
+  "zh-Hans": "仅限受邀"
+ },
+ "is calling you": {
+  "ar": "يتصل بك",
+  "de": "ruft dich an",
+  "es": "te está llamando",
+  "fr": "t'appelle",
+  "ru": "звонит вам",
+  "zh-Hans": "正在呼叫你"
+ },
+ "Join the waiting list": {
+  "ar": "انضم إلى قائمة الانتظار",
+  "de": "Auf die Warteliste",
+  "es": "Unirse a la lista de espera",
+  "fr": "Rejoindre la liste d'attente",
+  "ru": "Встать в список ожидания",
+  "zh-Hans": "加入候补名单"
+ },
+ "Jump to message": {
+  "ar": "الانتقال إلى الرسالة",
+  "de": "Zur Nachricht springen",
+  "es": "Ir al mensaje",
+  "fr": "Aller au message",
+  "ru": "Перейти к сообщению",
+  "zh-Hans": "跳转到消息"
+ },
+ "Link copied": {
+  "ar": "تم نسخ الرابط",
+  "de": "Link kopiert",
+  "es": "Enlace copiado",
+  "fr": "Lien copié",
+  "ru": "Ссылка скопирована",
+  "zh-Hans": "链接已复制"
+ },
+ "Links sent in this channel show here.": {
+  "ar": "تظهر هنا الروابط المرسلة في هذه القناة.",
+  "de": "Links aus diesem Kanal erscheinen hier.",
+  "es": "Los enlaces enviados en este canal aparecen aquí.",
+  "fr": "Les liens envoyés dans ce salon apparaissent ici.",
+  "ru": "Здесь появятся ссылки, отправленные в этом канале.",
+  "zh-Hans": "此频道中发送的链接会显示在这里。"
+ },
+ "Listening: {0}": {
+  "ar": "يستمع إلى: {0}",
+  "de": "Hört: {0}",
+  "es": "Escuchando: {0}",
+  "fr": "Écoute : {0}",
+  "ru": "Слушает: {0}",
+  "zh-Hans": "正在收听：{0}"
+ },
+ "Loading events": {
+  "ar": "جارٍ تحميل الفعاليات",
+  "de": "Events werden geladen",
+  "es": "Cargando eventos",
+  "fr": "Chargement des événements",
+  "ru": "Загрузка событий",
+  "zh-Hans": "正在加载活动"
+ },
+ "Markdown works here.": {
+  "ar": "يعمل Markdown هنا.",
+  "de": "Markdown funktioniert hier.",
+  "es": "Markdown funciona aquí.",
+  "fr": "Le Markdown fonctionne ici.",
+  "ru": "Здесь работает Markdown.",
+  "zh-Hans": "此处支持 Markdown。"
+ },
+ "Maybe": {
+  "ar": "ربما",
+  "de": "Vielleicht",
+  "es": "Quizás",
+  "fr": "Peut-être",
+  "ru": "Возможно",
+  "zh-Hans": "可能"
+ },
+ "Media": {
+  "ar": "الوسائط",
+  "de": "Medien",
+  "es": "Multimedia",
+  "fr": "Médias",
+  "ru": "Медиа",
+  "zh-Hans": "媒体"
+ },
+ "Members who can open the channel.": {
+  "ar": "الأعضاء الذين يمكنهم فتح القناة.",
+  "de": "Mitglieder, die den Kanal öffnen können.",
+  "es": "Miembros que pueden abrir el canal.",
+  "fr": "Membres qui peuvent ouvrir le salon.",
+  "ru": "Участники, которые могут открыть канал.",
+  "zh-Hans": "可以打开该频道的成员。"
+ },
+ "Message @{name}": {
+  "ar": "مراسلة @{name}",
+  "de": "Nachricht an @{name}",
+  "es": "Mensaje a @{name}",
+  "fr": "Message à @{name}",
+  "ru": "Написать @{name}",
+  "zh-Hans": "给 @{name} 发消息"
+ },
+ "Messages after a day": {
+  "ar": "الرسائل بعد يوم",
+  "de": "Nachrichten nach einem Tag",
+  "es": "Mensajes después de un día",
+  "fr": "Messages après un jour",
+  "ru": "Сообщения после даты",
+  "zh-Hans": "某天之后的消息"
+ },
+ "Messages before a day": {
+  "ar": "الرسائل قبل يوم",
+  "de": "Nachrichten vor einem Tag",
+  "es": "Mensajes antes de un día",
+  "fr": "Messages avant un jour",
+  "ru": "Сообщения до даты",
+  "zh-Hans": "某天之前的消息"
+ },
+ "Messages from a member": {
+  "ar": "رسائل من عضو",
+  "de": "Nachrichten von einem Mitglied",
+  "es": "Mensajes de un miembro",
+  "fr": "Messages d'un membre",
+  "ru": "Сообщения участника",
+  "zh-Hans": "某位成员的消息"
+ },
+ "Messages in a channel, across the server": {
+  "ar": "رسائل في قناة، عبر السيرفر",
+  "de": "Nachrichten in einem Kanal auf dem Server",
+  "es": "Mensajes en un canal, en todo el servidor",
+  "fr": "Messages d'un salon, sur tout le serveur",
+  "ru": "Сообщения в канале по всему серверу",
+  "zh-Hans": "服务器内某个频道的消息"
+ },
+ "Messages on a day": {
+  "ar": "رسائل في يوم معيّن",
+  "de": "Nachrichten an einem Tag",
+  "es": "Mensajes de un día",
+  "fr": "Messages d'un jour",
+  "ru": "Сообщения за день",
+  "zh-Hans": "某天的消息"
+ },
+ "Messages that mention a member": {
+  "ar": "رسائل تذكر عضوًا",
+  "de": "Nachrichten, die ein Mitglied erwähnen",
+  "es": "Mensajes que mencionan a un miembro",
+  "fr": "Messages qui mentionnent un membre",
+  "ru": "Сообщения с упоминанием участника",
+  "zh-Hans": "提及某位成员的消息"
+ },
+ "Messages with a link, file, image, video, embed or sound": {
+  "ar": "رسائل فيها رابط أو ملف أو صورة أو فيديو أو تضمين أو صوت",
+  "de": "Nachrichten mit Link, Datei, Bild, Video, Einbettung oder Ton",
+  "es": "Mensajes con enlace, archivo, imagen, vídeo, inserción o sonido",
+  "fr": "Messages avec lien, fichier, image, vidéo, aperçu intégré ou son",
+  "ru": "Сообщения со ссылкой, файлом, картинкой, видео, вложением или звуком",
+  "zh-Hans": "包含链接、文件、图片、视频、嵌入内容或声音的消息"
+ },
+ "Microphone access is blocked. Allow it in your phone's settings to record.": {
+  "ar": "الوصول إلى الميكروفون محظور. اسمح به من إعدادات هاتفك للتسجيل.",
+  "de": "Der Mikrofonzugriff ist blockiert. Erlaube ihn in den Einstellungen deines Handys, um aufzunehmen.",
+  "es": "El acceso al micrófono está bloqueado. Permítelo en los ajustes del teléfono para grabar.",
+  "fr": "L'accès au micro est bloqué. Autorise-le dans les réglages de ton téléphone pour enregistrer.",
+  "ru": "Доступ к микрофону заблокирован. Разрешите его в настройках телефона, чтобы записывать.",
+  "zh-Hans": "麦克风权限已被禁止。请在手机设置中允许后再录音。"
+ },
+ "More people": {
+  "ar": "المزيد من الأشخاص",
+  "de": "Mehr Leute",
+  "es": "Más personas",
+  "fr": "Plus de personnes",
+  "ru": "Ещё люди",
+  "zh-Hans": "更多人"
+ },
+ "Muted until {time}": {
+  "ar": "مكتوم حتى {time}",
+  "de": "Stumm bis {time}",
+  "es": "Silenciado hasta {time}",
+  "fr": "En sourdine jusqu'à {time}",
+  "ru": "Звук отключён до {time}",
+  "zh-Hans": "已静音至 {time}"
+ },
+ "My events": {
+  "ar": "فعالياتي",
+  "de": "Meine Events",
+  "es": "Mis eventos",
+  "fr": "Mes événements",
+  "ru": "Мои события",
+  "zh-Hans": "我的活动"
+ },
+ "New event": {
+  "ar": "فعالية جديدة",
+  "de": "Neues Event",
+  "es": "Nuevo evento",
+  "fr": "Nouvel événement",
+  "ru": "Новое событие",
+  "zh-Hans": "新建活动"
+ },
+ "No archived threads": {
+  "ar": "لا توجد خيوط مؤرشفة",
+  "de": "Keine archivierten Threads",
+  "es": "No hay hilos archivados",
+  "fr": "Aucun fil archivé",
+  "ru": "Нет архивных веток",
+  "zh-Hans": "没有已归档的子区"
+ },
+ "No channel called \"{value}\".": {
+  "ar": "لا توجد قناة باسم \"{value}\".",
+  "de": "Kein Kanal namens \"{value}\".",
+  "es": "No hay ningún canal llamado \"{value}\".",
+  "fr": "Aucun salon nommé \"{value}\".",
+  "ru": "Нет канала с названием \"{value}\".",
+  "zh-Hans": "没有名为“{value}”的频道。"
+ },
+ "No cover yet": {
+  "ar": "لا توجد صورة غلاف بعد",
+  "de": "Noch kein Titelbild",
+  "es": "Aún no hay portada",
+  "fr": "Pas encore de couverture",
+  "ru": "Обложки пока нет",
+  "zh-Hans": "暂无封面"
+ },
+ "No drafts": {
+  "ar": "لا توجد مسودات",
+  "de": "Keine Entwürfe",
+  "es": "No hay borradores",
+  "fr": "Aucun brouillon",
+  "ru": "Нет черновиков",
+  "zh-Hans": "没有草稿"
+ },
+ "No event matches. Try other words or another place.": {
+  "ar": "لا توجد فعالية مطابقة. جرّب كلمات أخرى أو مكانًا آخر.",
+  "de": "Kein Event passt. Probier andere Wörter oder einen anderen Ort.",
+  "es": "Ningún evento coincide. Prueba otras palabras u otro lugar.",
+  "fr": "Aucun événement ne correspond. Essaie d'autres mots ou un autre lieu.",
+  "ru": "Ничего не найдено. Попробуйте другие слова или другое место.",
+  "zh-Hans": "没有匹配的活动。换个关键词或地点试试。"
+ },
+ "No events planned yet": {
+  "ar": "لا توجد فعاليات مخطط لها بعد",
+  "de": "Noch keine Events geplant",
+  "es": "Aún no hay eventos planeados",
+  "fr": "Aucun événement prévu pour l'instant",
+  "ru": "Событий пока не запланировано",
+  "zh-Hans": "暂无计划中的活动"
+ },
+ "No files yet": {
+  "ar": "لا توجد ملفات بعد",
+  "de": "Noch keine Dateien",
+  "es": "Aún no hay archivos",
+  "fr": "Aucun fichier pour l'instant",
+  "ru": "Файлов пока нет",
+  "zh-Hans": "暂无文件"
+ },
+ "No games to show.": {
+  "ar": "لا توجد ألعاب لعرضها.",
+  "de": "Keine Spiele zum Anzeigen.",
+  "es": "No hay juegos que mostrar.",
+  "fr": "Aucun jeu à afficher.",
+  "ru": "Нет игр для показа.",
+  "zh-Hans": "没有可显示的游戏。"
+ },
+ "No links yet": {
+  "ar": "لا توجد روابط بعد",
+  "de": "Noch keine Links",
+  "es": "Aún no hay enlaces",
+  "fr": "Aucun lien pour l'instant",
+  "ru": "Ссылок пока нет",
+  "zh-Hans": "暂无链接"
+ },
+ "No member called \"{value}\".": {
+  "ar": "لا يوجد عضو باسم \"{value}\".",
+  "de": "Kein Mitglied namens \"{value}\".",
+  "es": "No hay ningún miembro llamado \"{value}\".",
+  "fr": "Aucun membre nommé \"{value}\".",
+  "ru": "Нет участника с именем \"{value}\".",
+  "zh-Hans": "没有名为“{value}”的成员。"
+ },
+ "No messages in this channel match your search.": {
+  "ar": "لا توجد رسائل في هذه القناة تطابق بحثك.",
+  "de": "Keine Nachrichten in diesem Kanal passen zu deiner Suche.",
+  "es": "Ningún mensaje de este canal coincide con tu búsqueda.",
+  "fr": "Aucun message de ce salon ne correspond à ta recherche.",
+  "ru": "В этом канале нет сообщений по вашему запросу.",
+  "zh-Hans": "此频道中没有符合搜索的消息。"
+ },
+ "No messages in this server match your search.": {
+  "ar": "لا توجد رسائل في هذا السيرفر تطابق بحثك.",
+  "de": "Keine Nachrichten in diesem Server passen zu deiner Suche.",
+  "es": "Ningún mensaje de este servidor coincide con tu búsqueda.",
+  "fr": "Aucun message de ce serveur ne correspond à ta recherche.",
+  "ru": "На этом сервере нет сообщений по вашему запросу.",
+  "zh-Hans": "此服务器中没有符合搜索的消息。"
+ },
+ "No pictures or videos yet": {
+  "ar": "لا توجد صور أو فيديوهات بعد",
+  "de": "Noch keine Bilder oder Videos",
+  "es": "Aún no hay imágenes ni vídeos",
+  "fr": "Aucune image ou vidéo pour l'instant",
+  "ru": "Картинок и видео пока нет",
+  "zh-Hans": "暂无图片或视频"
+ },
+ "No pinned messages yet": {
+  "ar": "لا توجد رسائل مثبّتة بعد",
+  "de": "Noch keine angepinnten Nachrichten",
+  "es": "Aún no hay mensajes fijados",
+  "fr": "Aucun message épinglé pour l'instant",
+  "ru": "Закреплённых сообщений пока нет",
+  "zh-Hans": "暂无置顶消息"
+ },
+ "No plan. Drop in and talk.": {
+  "ar": "بلا خطة. ادخل وتحدّث.",
+  "de": "Kein Plan. Komm einfach rein und red mit.",
+  "es": "Sin plan. Entra y habla.",
+  "fr": "Pas de programme. Viens discuter.",
+  "ru": "Без плана. Заходите и общайтесь.",
+  "zh-Hans": "没有安排。进来聊聊吧。"
+ },
+ "No servers or friends in common.": {
+  "ar": "لا توجد سيرفرات أو أصدقاء مشتركون.",
+  "de": "Keine gemeinsamen Server oder Freunde.",
+  "es": "No hay servidores ni amigos en común.",
+  "fr": "Aucun serveur ni ami en commun.",
+  "ru": "Нет общих серверов или друзей.",
+  "zh-Hans": "没有共同的服务器或好友。"
+ },
+ "No sounds yet. People who manage the soundboard add them in Server settings, Soundboard.": {
+  "ar": "لا توجد أصوات بعد. من يدير لوحة الأصوات يضيفها من إعدادات السيرفر، لوحة الأصوات.",
+  "de": "Noch keine Sounds. Wer das Soundboard verwaltet, fügt sie unter Servereinstellungen, Soundboard hinzu.",
+  "es": "Aún no hay sonidos. Quien gestiona el tablero de sonidos los añade en Ajustes del servidor, Tablero de sonidos.",
+  "fr": "Aucun son pour l'instant. Les personnes qui gèrent la table de sons les ajoutent dans Paramètres du serveur, Table de sons.",
+  "ru": "Звуков пока нет. Те, кто управляет саундбордом, добавляют их в настройках сервера, Саундборд.",
+  "zh-Hans": "暂无音效。管理音效板的人可在服务器设置的“音效板”中添加。"
+ },
+ "No threads yet": {
+  "ar": "لا توجد خيوط بعد",
+  "de": "Noch keine Threads",
+  "es": "Aún no hay hilos",
+  "fr": "Aucun fil pour l'instant",
+  "ru": "Веток пока нет",
+  "zh-Hans": "暂无子区"
+ },
+ "No topic yet": {
+  "ar": "لا يوجد موضوع بعد",
+  "de": "Noch kein Thema",
+  "es": "Aún no hay tema",
+  "fr": "Pas encore de sujet",
+  "ru": "Темы пока нет",
+  "zh-Hans": "暂无主题"
+ },
+ "Nobody answered yet": {
+  "ar": "لم يُجب أحد بعد",
+  "de": "Noch niemand hat geantwortet",
+  "es": "Nadie ha respondido todavía",
+  "fr": "Personne n'a encore répondu",
+  "ru": "Пока никто не ответил",
+  "zh-Hans": "暂无人回答"
+ },
+ "Nobody answered.": {
+  "ar": "لم يُجب أحد.",
+  "de": "Niemand hat geantwortet.",
+  "es": "Nadie respondió.",
+  "fr": "Personne n'a répondu.",
+  "ru": "Никто не ответил.",
+  "zh-Hans": "没有人回答。"
+ },
+ "Nobody chose this answer yet.": {
+  "ar": "لم يختر أحد هذه الإجابة بعد.",
+  "de": "Niemand hat diese Antwort gewählt.",
+  "es": "Nadie ha elegido esta respuesta todavía.",
+  "fr": "Personne n'a encore choisi cette réponse.",
+  "ru": "Этот ответ пока никто не выбрал.",
+  "zh-Hans": "还没有人选择这个答案。"
+ },
+ "Nobody found by that name.": {
+  "ar": "لم يُعثر على أحد بهذا الاسم.",
+  "de": "Niemand mit diesem Namen gefunden.",
+  "es": "No se encontró a nadie con ese nombre.",
+  "fr": "Personne trouvé avec ce nom.",
+  "ru": "Никого с таким именем не найдено.",
+  "zh-Hans": "没有找到这个名字的人。"
+ },
+ "Nobody yet.": {
+  "ar": "لا أحد بعد.",
+  "de": "Noch niemand.",
+  "es": "Nadie todavía.",
+  "fr": "Personne pour l'instant.",
+  "ru": "Пока никого.",
+  "zh-Hans": "暂时没有人。"
+ },
+ "Nothing found. Try another name.": {
+  "ar": "لم يُعثر على شيء. جرّب اسمًا آخر.",
+  "de": "Nichts gefunden. Probier einen anderen Namen.",
+  "es": "No se encontró nada. Prueba con otro nombre.",
+  "fr": "Rien trouvé. Essaie un autre nom.",
+  "ru": "Ничего не найдено. Попробуйте другое имя.",
+  "zh-Hans": "没有找到。换个名字试试。"
+ },
+ "Nothing in the last three months": {
+  "ar": "لا شيء في آخر ثلاثة أشهر",
+  "de": "Nichts in den letzten drei Monaten",
+  "es": "Nada en los últimos tres meses",
+  "fr": "Rien au cours des trois derniers mois",
+  "ru": "Ничего за последние три месяца",
+  "zh-Hans": "最近三个月没有内容"
+ },
+ "Number {0} in line": {
+  "ar": "الرقم {0} في الانتظار",
+  "de": "Platz {0} in der Warteschlange",
+  "es": "Número {0} en la fila",
+  "fr": "Numéro {0} dans la file",
+  "ru": "Номер {0} в очереди",
+  "zh-Hans": "排在第 {0} 位"
+ },
+ "of {0}": {
+  "ar": "من {0}",
+  "de": "von {0}",
+  "es": "de {0}",
+  "fr": "sur {0}",
+  "ru": "из {0}",
+  "zh-Hans": "共 {0}"
+ },
+ "On a day": {
+  "ar": "في يوم معيّن",
+  "de": "An einem Tag",
+  "es": "En un día",
+  "fr": "Un jour précis",
+  "ru": "В определённый день",
+  "zh-Hans": "在某天"
+ },
+ "On day": {
+  "ar": "في يوم",
+  "de": "Am Tag",
+  "es": "En el día",
+  "fr": "Le jour",
+  "ru": "В день",
+  "zh-Hans": "在当天"
+ },
+ "On the waiting list": {
+  "ar": "في قائمة الانتظار",
+  "de": "Auf der Warteliste",
+  "es": "En la lista de espera",
+  "fr": "Sur la liste d'attente",
+  "ru": "В списке ожидания",
+  "zh-Hans": "在候补名单中"
+ },
+ "Only one mentions: filter is used, so \"{value}\" was left out.": {
+  "ar": "يُستخدم مرشّح mentions: واحد فقط، لذلك تم استبعاد \"{value}\".",
+  "de": "Es wird nur ein mentions:-Filter verwendet, deshalb wurde \"{value}\" weggelassen.",
+  "es": "Solo se usa un filtro mentions:, así que \"{value}\" se omitió.",
+  "fr": "Un seul filtre mentions: est utilisé, donc \"{value}\" a été ignoré.",
+  "ru": "Используется только один фильтр mentions:, поэтому \"{value}\" пропущено.",
+  "zh-Hans": "只会使用一个 mentions: 筛选，因此“{value}”被忽略。"
+ },
+ "Only pinned messages": {
+  "ar": "الرسائل المثبّتة فقط",
+  "de": "Nur angepinnte Nachrichten",
+  "es": "Solo mensajes fijados",
+  "fr": "Seulement les messages épinglés",
+  "ru": "Только закреплённые сообщения",
+  "zh-Hans": "仅置顶消息"
+ },
+ "Only some roles see it": {
+  "ar": "بعض الأدوار فقط تراه",
+  "de": "Nur einige Rollen sehen es",
+  "es": "Solo algunos roles lo ven",
+  "fr": "Seuls certains rôles le voient",
+  "ru": "Видно только некоторым ролям",
+  "zh-Hans": "仅部分角色可见"
+ },
+ "Only the first 64 characters are searched.": {
+  "ar": "يُبحث في أول 64 حرفًا فقط.",
+  "de": "Nur die ersten 64 Zeichen werden durchsucht.",
+  "es": "Solo se buscan los primeros 64 caracteres.",
+  "fr": "Seuls les 64 premiers caractères sont recherchés.",
+  "ru": "Поиск идёт только по первым 64 символам.",
+  "zh-Hans": "仅搜索前 64 个字符。"
+ },
+ "Only the invited people see it": {
+  "ar": "المدعوون فقط يرونه",
+  "de": "Nur eingeladene Leute sehen es",
+  "es": "Solo las personas invitadas lo ven",
+  "fr": "Seules les personnes invitées le voient",
+  "ru": "Видно только приглашённым",
+  "zh-Hans": "仅受邀的人可见"
+ },
+ "Only the invited people see this event.": {
+  "ar": "المدعوون فقط يرون هذه الفعالية.",
+  "de": "Nur eingeladene Leute sehen dieses Event.",
+  "es": "Solo las personas invitadas ven este evento.",
+  "fr": "Seules les personnes invitées voient cet événement.",
+  "ru": "Это событие видно только приглашённым.",
+  "zh-Hans": "仅受邀的人可以看到此活动。"
+ },
+ "Only the organisers see the names.": {
+  "ar": "المنظّمون فقط يرون الأسماء.",
+  "de": "Nur die Organisatoren sehen die Namen.",
+  "es": "Solo los organizadores ven los nombres.",
+  "fr": "Seuls les organisateurs voient les noms.",
+  "ru": "Имена видят только организаторы.",
+  "zh-Hans": "仅组织者可以看到名字。"
+ },
+ "Only the people taking part see the names.": {
+  "ar": "المشاركون فقط يرون الأسماء.",
+  "de": "Nur die Teilnehmenden sehen die Namen.",
+  "es": "Solo los participantes ven los nombres.",
+  "fr": "Seuls les participants voient les noms.",
+  "ru": "Имена видят только участники.",
+  "zh-Hans": "仅参与者可以看到名字。"
+ },
+ "Only the people you let in can join. People already inside stay.": {
+  "ar": "المسموح لهم فقط يمكنهم الانضمام. من هم بالداخل يبقون.",
+  "de": "Nur Leute, die du reinlässt, können beitreten. Wer schon drin ist, bleibt.",
+  "es": "Solo pueden unirse las personas que dejes entrar. Quienes ya están dentro se quedan.",
+  "fr": "Seules les personnes que tu acceptes peuvent rejoindre. Celles déjà dedans restent.",
+  "ru": "Присоединиться могут только те, кого вы впустите. Те, кто уже внутри, остаются.",
+  "zh-Hans": "只有你允许的人才能加入。已在里面的人不受影响。"
+ },
+ "Only the people you let in can see the room.": {
+  "ar": "المسموح لهم فقط يمكنهم رؤية الغرفة.",
+  "de": "Nur Leute, die du reinlässt, sehen den Raum.",
+  "es": "Solo las personas que dejes entrar ven la sala.",
+  "fr": "Seules les personnes que tu acceptes voient le salon.",
+  "ru": "Комнату видят только те, кого вы впустили.",
+  "zh-Hans": "只有你允许的人才能看到这个房间。"
+ },
+ "Only you": {
+  "ar": "أنت فقط",
+  "de": "Nur du",
+  "es": "Solo tú",
+  "fr": "Toi seulement",
+  "ru": "Только вы",
+  "zh-Hans": "仅你自己"
+ },
+ "Open for": {
+  "ar": "مفتوح لمدة",
+  "de": "Offen für",
+  "es": "Abierto durante",
+  "fr": "Ouvert pendant",
+  "ru": "Открыто на",
+  "zh-Hans": "开放时长"
+ },
+ "Open for {0}": {
+  "ar": "مفتوح لمدة {0}",
+  "de": "Offen für {0}",
+  "es": "Abierto durante {0}",
+  "fr": "Ouvert pendant {0}",
+  "ru": "Открыто на {0}",
+  "zh-Hans": "开放 {0}"
+ },
+ "Open link": {
+  "ar": "فتح الرابط",
+  "de": "Link öffnen",
+  "es": "Abrir enlace",
+  "fr": "Ouvrir le lien",
+  "ru": "Открыть ссылку",
+  "zh-Hans": "打开链接"
+ },
+ "Options for answer {0}": {
+  "ar": "خيارات الإجابة {0}",
+  "de": "Optionen für Antwort {0}",
+  "es": "Opciones de la respuesta {0}",
+  "fr": "Options de la réponse {0}",
+  "ru": "Параметры ответа {0}",
+  "zh-Hans": "答案 {0} 的选项"
+ },
+ "Organiser tools": {
+  "ar": "أدوات المنظّم",
+  "de": "Organisator-Tools",
+  "es": "Herramientas del organizador",
+  "fr": "Outils d'organisateur",
+  "ru": "Инструменты организатора",
+  "zh-Hans": "组织者工具"
+ },
+ "Organisers": {
+  "ar": "المنظّمون",
+  "de": "Organisatoren",
+  "es": "Organizadores",
+  "fr": "Organisateurs",
+  "ru": "Организаторы",
+  "zh-Hans": "组织者"
+ },
+ "Organisers only": {
+  "ar": "للمنظّمين فقط",
+  "de": "Nur Organisatoren",
+  "es": "Solo organizadores",
+  "fr": "Organisateurs uniquement",
+  "ru": "Только организаторы",
+  "zh-Hans": "仅限组织者"
+ },
+ "Outside the server": {
+  "ar": "خارج السيرفر",
+  "de": "Außerhalb des Servers",
+  "es": "Fuera del servidor",
+  "fr": "En dehors du serveur",
+  "ru": "Вне сервера",
+  "zh-Hans": "服务器之外"
+ },
+ "Over": {
+  "ar": "تجاوز",
+  "de": "Überbucht",
+  "es": "Superado",
+  "fr": "Dépassé",
+  "ru": "Превышено",
+  "zh-Hans": "超出"
+ },
+ "Over its limit: an organiser seated more people than there are seats.": {
+  "ar": "تجاوز الحد: أجلس منظّم عددًا أكبر من المقاعد المتاحة.",
+  "de": "Über dem Limit: Ein Organisator hat mehr Leute gesetzt, als Plätze da sind.",
+  "es": "Por encima del límite: un organizador ha sentado a más gente que plazas hay.",
+  "fr": "Limite dépassée : un organisateur a placé plus de personnes qu'il n'y a de places.",
+  "ru": "Превышен лимит: организатор посадил больше людей, чем есть мест.",
+  "zh-Hans": "超出上限：组织者安排的人数多于座位数。"
+ },
+ "Partner": {
+  "ar": "شريك",
+  "de": "Partner",
+  "es": "Socio",
+  "fr": "Partenaire",
+  "ru": "Партнёр",
+  "zh-Hans": "合作伙伴"
+ },
+ "Past": {
+  "ar": "السابقة",
+  "de": "Vergangen",
+  "es": "Pasados",
+  "fr": "Passés",
+  "ru": "Прошедшие",
+  "zh-Hans": "已结束"
+ },
+ "People at most": {
+  "ar": "الحد الأقصى للأشخاص",
+  "de": "Höchstens Leute",
+  "es": "Máximo de personas",
+  "fr": "Nombre max. de personnes",
+  "ru": "Не более человек",
+  "zh-Hans": "最多人数"
+ },
+ "People can pick several answers.": {
+  "ar": "يمكن للأشخاص اختيار عدة إجابات.",
+  "de": "Man kann mehrere Antworten wählen.",
+  "es": "Se pueden elegir varias respuestas.",
+  "fr": "On peut choisir plusieurs réponses.",
+  "ru": "Можно выбрать несколько ответов.",
+  "zh-Hans": "可以选择多个答案。"
+ },
+ "People taking part": {
+  "ar": "المشاركون",
+  "de": "Teilnehmende",
+  "es": "Participantes",
+  "fr": "Participants",
+  "ru": "Участники",
+  "zh-Hans": "参与者"
+ },
+ "People you let in": {
+  "ar": "الأشخاص الذين تسمح لهم",
+  "de": "Leute, die du reinlässt",
+  "es": "Personas que dejas entrar",
+  "fr": "Personnes que tu acceptes",
+  "ru": "Те, кого вы впускаете",
+  "zh-Hans": "你允许的人"
+ },
+ "Phone": {
+  "ar": "الهاتف",
+  "de": "Handy",
+  "es": "Teléfono",
+  "fr": "Téléphone",
+  "ru": "Телефон",
+  "zh-Hans": "手机"
+ },
+ "Pictures and videos sent in this channel show here.": {
+  "ar": "تظهر هنا الصور والفيديوهات المرسلة في هذه القناة.",
+  "de": "Bilder und Videos aus diesem Kanal erscheinen hier.",
+  "es": "Las imágenes y vídeos enviados en este canal aparecen aquí.",
+  "fr": "Les images et vidéos envoyées dans ce salon apparaissent ici.",
+  "ru": "Здесь появятся картинки и видео, отправленные в этом канале.",
+  "zh-Hans": "此频道中发送的图片和视频会显示在这里。"
+ },
+ "Pin an important message from its menu to keep it here.": {
+  "ar": "ثبّت رسالة مهمة من قائمتها لتبقى هنا.",
+  "de": "Pinne eine wichtige Nachricht über ihr Menü, damit sie hier bleibt.",
+  "es": "Fija un mensaje importante desde su menú para mantenerlo aquí.",
+  "fr": "Épingle un message important depuis son menu pour le garder ici.",
+  "ru": "Закрепите важное сообщение из его меню, и оно останется здесь.",
+  "zh-Hans": "在消息菜单中置顶重要消息，它就会保留在这里。"
+ },
+ "Pinned": {
+  "ar": "مثبّتة",
+  "de": "Angepinnt",
+  "es": "Fijados",
+  "fr": "Épinglés",
+  "ru": "Закреплённые",
+  "zh-Hans": "置顶"
+ },
+ "pinned: takes true or false.": {
+  "ar": "pinned: يقبل true أو false.",
+  "de": "pinned: akzeptiert true oder false.",
+  "es": "pinned: acepta true o false.",
+  "fr": "pinned: accepte true ou false.",
+  "ru": "pinned: принимает true или false.",
+  "zh-Hans": "pinned: 取值为 true 或 false。"
+ },
+ "Pins": {
+  "ar": "المثبّتات",
+  "de": "Pins",
+  "es": "Fijados",
+  "fr": "Épingles",
+  "ru": "Закрепы",
+  "zh-Hans": "置顶"
+ },
+ "Plan a game night, a tournament or a meetup. Members answer once and keep their place.": {
+  "ar": "خطّط لليلة ألعاب أو بطولة أو لقاء. يرد الأعضاء مرة واحدة ويحتفظون بمكانهم.",
+  "de": "Plane einen Spieleabend, ein Turnier oder ein Treffen. Mitglieder antworten einmal und behalten ihren Platz.",
+  "es": "Planea una noche de juegos, un torneo o una quedada. Los miembros responden una vez y conservan su sitio.",
+  "fr": "Organise une soirée jeux, un tournoi ou une rencontre. Les membres répondent une fois et gardent leur place.",
+  "ru": "Запланируйте игровой вечер, турнир или встречу. Участники отвечают один раз и сохраняют своё место.",
+  "zh-Hans": "策划游戏之夜、比赛或聚会。成员只需回复一次即可保留位置。"
+ },
+ "Post poll": {
+  "ar": "نشر التصويت",
+  "de": "Umfrage posten",
+  "es": "Publicar encuesta",
+  "fr": "Publier le sondage",
+  "ru": "Опубликовать опрос",
+  "zh-Hans": "发布投票"
+ },
+ "Put hand down": {
+  "ar": "خفض اليد",
+  "de": "Hand senken",
+  "es": "Bajar la mano",
+  "fr": "Baisser la main",
+  "ru": "Опустить руку",
+  "zh-Hans": "放下手"
+ },
+ "Reconnected": {
+  "ar": "أُعيد الاتصال",
+  "de": "Wieder verbunden",
+  "es": "Reconectado",
+  "fr": "Reconnecté",
+  "ru": "Соединение восстановлено",
+  "zh-Hans": "已重新连接"
+ },
+ "Rejoin": {
+  "ar": "إعادة الانضمام",
+  "de": "Wieder beitreten",
+  "es": "Volver a unirse",
+  "fr": "Rejoindre à nouveau",
+  "ru": "Вернуться",
+  "zh-Hans": "重新加入"
+ },
+ "Remind me": {
+  "ar": "ذكّرني",
+  "de": "Erinnere mich",
+  "es": "Recuérdamelo",
+  "fr": "Me le rappeler",
+  "ru": "Напомнить мне",
+  "zh-Hans": "提醒我"
+ },
+ "Remind the people who are coming": {
+  "ar": "ذكّر القادمين",
+  "de": "Erinnere die Leute, die kommen",
+  "es": "Recordar a quienes van a venir",
+  "fr": "Rappeler aux personnes qui viennent",
+  "ru": "Напомнить тем, кто придёт",
+  "zh-Hans": "提醒会来的人"
+ },
+ "Reminder set for {0}.": {
+  "ar": "تم ضبط التذكير على {0}.",
+  "de": "Erinnerung für {0} gesetzt.",
+  "es": "Recordatorio fijado para {0}.",
+  "fr": "Rappel programmé pour {0}.",
+  "ru": "Напоминание установлено на {0}.",
+  "zh-Hans": "已设置提醒时间：{0}。"
+ },
+ "Reminders for this event": {
+  "ar": "تذكيرات هذه الفعالية",
+  "de": "Erinnerungen für dieses Event",
+  "es": "Recordatorios de este evento",
+  "fr": "Rappels pour cet événement",
+  "ru": "Напоминания об этом событии",
+  "zh-Hans": "此活动的提醒"
+ },
+ "Remove filter: {0}": {
+  "ar": "إزالة المرشّح: {0}",
+  "de": "Filter entfernen: {0}",
+  "es": "Quitar filtro: {0}",
+  "fr": "Retirer le filtre : {0}",
+  "ru": "Убрать фильтр: {0}",
+  "zh-Hans": "移除筛选：{0}"
+ },
+ "Remove filter: {label}": {
+  "ar": "إزالة المرشّح: {label}",
+  "de": "Filter entfernen: {label}",
+  "es": "Quitar filtro: {label}",
+  "fr": "Retirer le filtre : {label}",
+  "ru": "Убрать фильтр: {label}",
+  "zh-Hans": "移除筛选：{label}"
+ },
+ "Remove from saved": {
+  "ar": "إزالة من المحفوظات",
+  "de": "Aus Gespeichertem entfernen",
+  "es": "Quitar de guardados",
+  "fr": "Retirer des enregistrés",
+  "ru": "Убрать из сохранённых",
+  "zh-Hans": "从已保存中移除"
+ },
+ "Remove link previews": {
+  "ar": "إزالة معاينات الروابط",
+  "de": "Link-Vorschauen entfernen",
+  "es": "Quitar vistas previas de enlaces",
+  "fr": "Retirer les aperçus de liens",
+  "ru": "Убрать превью ссылок",
+  "zh-Hans": "移除链接预览"
+ },
+ "Remove link previews?": {
+  "ar": "إزالة معاينات الروابط؟",
+  "de": "Link-Vorschauen entfernen?",
+  "es": "¿Quitar las vistas previas de enlaces?",
+  "fr": "Retirer les aperçus de liens ?",
+  "ru": "Убрать превью ссылок?",
+  "zh-Hans": "要移除链接预览吗？"
+ },
+ "Remove previews": {
+  "ar": "إزالة المعاينات",
+  "de": "Vorschauen entfernen",
+  "es": "Quitar vistas previas",
+  "fr": "Retirer les aperçus",
+  "ru": "Убрать превью",
+  "zh-Hans": "移除预览"
+ },
+ "Removed from saved messages.": {
+  "ar": "أُزيلت من الرسائل المحفوظة.",
+  "de": "Aus gespeicherten Nachrichten entfernt.",
+  "es": "Quitado de los mensajes guardados.",
+  "fr": "Retiré des messages enregistrés.",
+  "ru": "Убрано из сохранённых сообщений.",
+  "zh-Hans": "已从已保存消息中移除。"
+ },
+ "Repeat": {
+  "ar": "تكرار",
+  "de": "Wiederholen",
+  "es": "Repetir",
+  "fr": "Répéter",
+  "ru": "Повторять",
+  "zh-Hans": "重复"
+ },
+ "Roles in {server}": {
+  "ar": "الأدوار في {server}",
+  "de": "Rollen in {server}",
+  "es": "Roles en {server}",
+  "fr": "Rôles dans {server}",
+  "ru": "Роли на {server}",
+  "zh-Hans": "{server} 中的角色"
+ },
+ "Room controls": {
+  "ar": "عناصر التحكم بالغرفة",
+  "de": "Raumsteuerung",
+  "es": "Controles de la sala",
+  "fr": "Commandes du salon",
+  "ru": "Управление комнатой",
+  "zh-Hans": "房间控制"
+ },
+ "Room name": {
+  "ar": "اسم الغرفة",
+  "de": "Raumname",
+  "es": "Nombre de la sala",
+  "fr": "Nom du salon",
+  "ru": "Название комнаты",
+  "zh-Hans": "房间名称"
+ },
+ "Save an event as a draft to finish it later. Only organisers see drafts.": {
+  "ar": "احفظ الفعالية كمسودة لإكمالها لاحقًا. المنظّمون فقط يرون المسودات.",
+  "de": "Speichere ein Event als Entwurf und mach später weiter. Nur Organisatoren sehen Entwürfe.",
+  "es": "Guarda un evento como borrador para terminarlo después. Solo los organizadores ven los borradores.",
+  "fr": "Enregistre un événement en brouillon pour le terminer plus tard. Seuls les organisateurs voient les brouillons.",
+  "ru": "Сохраните событие как черновик, чтобы закончить позже. Черновики видят только организаторы.",
+  "zh-Hans": "将活动存为草稿，稍后再完成。只有组织者能看到草稿。"
+ },
+ "Save message": {
+  "ar": "حفظ الرسالة",
+  "de": "Nachricht speichern",
+  "es": "Guardar mensaje",
+  "fr": "Enregistrer le message",
+  "ru": "Сохранить сообщение",
+  "zh-Hans": "保存消息"
+ },
+ "Saved. Only you see your saved messages.": {
+  "ar": "تم الحفظ. أنت فقط ترى رسائلك المحفوظة.",
+  "de": "Gespeichert. Nur du siehst deine gespeicherten Nachrichten.",
+  "es": "Guardado. Solo tú ves tus mensajes guardados.",
+  "fr": "Enregistré. Toi seul vois tes messages enregistrés.",
+  "ru": "Сохранено. Сохранённые сообщения видите только вы.",
+  "zh-Hans": "已保存。只有你能看到已保存的消息。"
+ },
+ "Say hello in #{name}": {
+  "ar": "قل مرحبًا في #{name}",
+  "de": "Sag Hallo in #{name}",
+  "es": "Saluda en #{name}",
+  "fr": "Dis bonjour dans #{name}",
+  "ru": "Поздоровайтесь в #{name}",
+  "zh-Hans": "在 #{name} 打个招呼"
+ },
+ "Search conversations and channels": {
+  "ar": "البحث في المحادثات والقنوات",
+  "de": "Unterhaltungen und Kanäle durchsuchen",
+  "es": "Buscar conversaciones y canales",
+  "fr": "Rechercher des conversations et des salons",
+  "ru": "Поиск по чатам и каналам",
+  "zh-Hans": "搜索对话和频道"
+ },
+ "Search events": {
+  "ar": "البحث في الفعاليات",
+  "de": "Events durchsuchen",
+  "es": "Buscar eventos",
+  "fr": "Rechercher des événements",
+  "ru": "Поиск событий",
+  "zh-Hans": "搜索活动"
+ },
+ "Seat limit": {
+  "ar": "حد المقاعد",
+  "de": "Platzlimit",
+  "es": "Límite de plazas",
+  "fr": "Limite de places",
+  "ru": "Лимит мест",
+  "zh-Hans": "座位上限"
+ },
+ "Seats": {
+  "ar": "المقاعد",
+  "de": "Plätze",
+  "es": "Plazas",
+  "fr": "Places",
+  "ru": "Места",
+  "zh-Hans": "座位"
+ },
+ "See who voted": {
+  "ar": "عرض من صوّت",
+  "de": "Sehen, wer abgestimmt hat",
+  "es": "Ver quién votó",
+  "fr": "Voir qui a voté",
+  "ru": "Посмотреть, кто голосовал",
+  "zh-Hans": "查看投票者"
+ },
+ "Select all": {
+  "ar": "تحديد الكل",
+  "de": "Alle auswählen",
+  "es": "Seleccionar todo",
+  "fr": "Tout sélectionner",
+  "ru": "Выбрать все",
+  "zh-Hans": "全选"
+ },
+ "Select messages": {
+  "ar": "تحديد الرسائل",
+  "de": "Nachrichten auswählen",
+  "es": "Seleccionar mensajes",
+  "fr": "Sélectionner des messages",
+  "ru": "Выбрать сообщения",
+  "zh-Hans": "选择消息"
+ },
+ "Servers and friends in common": {
+  "ar": "السيرفرات والأصدقاء المشتركون",
+  "de": "Gemeinsame Server und Freunde",
+  "es": "Servidores y amigos en común",
+  "fr": "Serveurs et amis en commun",
+  "ru": "Общие серверы и друзья",
+  "zh-Hans": "共同的服务器和好友"
+ },
+ "Set an end time": {
+  "ar": "تحديد وقت الانتهاء",
+  "de": "Endzeit festlegen",
+  "es": "Fijar una hora de fin",
+  "fr": "Définir une heure de fin",
+  "ru": "Задать время окончания",
+  "zh-Hans": "设置结束时间"
+ },
+ "Set reminder": {
+  "ar": "ضبط التذكير",
+  "de": "Erinnerung setzen",
+  "es": "Fijar recordatorio",
+  "fr": "Programmer un rappel",
+  "ru": "Установить напоминание",
+  "zh-Hans": "设置提醒"
+ },
+ "Show all {0}": {
+  "ar": "عرض كل {0}",
+  "de": "Alle {0} anzeigen",
+  "es": "Mostrar los {0}",
+  "fr": "Afficher les {0}",
+  "ru": "Показать все ({0})",
+  "zh-Hans": "显示全部 {0}"
+ },
+ "Show results": {
+  "ar": "عرض النتائج",
+  "de": "Ergebnisse anzeigen",
+  "es": "Mostrar resultados",
+  "fr": "Afficher les résultats",
+  "ru": "Показать результаты",
+  "zh-Hans": "显示结果"
+ },
+ "Sign up with Going to take a place. The rules and the brackets come before the start.": {
+  "ar": "سجّل بالضغط على \"سأحضر\" لحجز مكان. القواعد والجداول قبل البدء.",
+  "de": "Melde dich mit „Ich komme“ an, um einen Platz zu bekommen. Regeln und Turnierbaum kommen vor dem Start.",
+  "es": "Apúntate con «Voy» para reservar plaza. Las reglas y los cuadros llegan antes del inicio.",
+  "fr": "Inscris-toi avec « Je viens » pour avoir une place. Les règles et les tableaux arrivent avant le début.",
+  "ru": "Нажмите «Пойду», чтобы занять место. Правила и сетки появятся до начала.",
+  "zh-Hans": "点“参加”即可占位。规则和对阵表会在开始前公布。"
+ },
+ "Skin tone": {
+  "ar": "لون البشرة",
+  "de": "Hautton",
+  "es": "Tono de piel",
+  "fr": "Teinte de peau",
+  "ru": "Оттенок кожи",
+  "zh-Hans": "肤色"
+ },
+ "Some roles": {
+  "ar": "بعض الأدوار",
+  "de": "Einige Rollen",
+  "es": "Algunos roles",
+  "fr": "Certains rôles",
+  "ru": "Некоторые роли",
+  "zh-Hans": "部分角色"
+ },
+ "Somewhere else": {
+  "ar": "مكان آخر",
+  "de": "Woanders",
+  "es": "En otro lugar",
+  "fr": "Ailleurs",
+  "ru": "В другом месте",
+  "zh-Hans": "其他地方"
+ },
+ "Sound": {
+  "ar": "الصوت",
+  "de": "Ton",
+  "es": "Sonido",
+  "fr": "Son",
+  "ru": "Звук",
+  "zh-Hans": "声音"
+ },
+ "Sound output": {
+  "ar": "مخرج الصوت",
+  "de": "Tonausgabe",
+  "es": "Salida de sonido",
+  "fr": "Sortie audio",
+  "ru": "Вывод звука",
+  "zh-Hans": "声音输出"
+ },
+ "Speakers": {
+  "ar": "المتحدثون",
+  "de": "Sprechende",
+  "es": "Oradores",
+  "fr": "Intervenants",
+  "ru": "Спикеры",
+  "zh-Hans": "发言者"
+ },
+ "Speakers: {0}": {
+  "ar": "المتحدثون: {0}",
+  "de": "Sprechende: {0}",
+  "es": "Oradores: {0}",
+  "fr": "Intervenants : {0}",
+  "ru": "Спикеры: {0}",
+  "zh-Hans": "发言者：{0}"
+ },
+ "Stage": {
+  "ar": "المنصة",
+  "de": "Bühne",
+  "es": "Escenario",
+  "fr": "Scène",
+  "ru": "Сцена",
+  "zh-Hans": "舞台"
+ },
+ "Start a call": {
+  "ar": "بدء مكالمة",
+  "de": "Anruf starten",
+  "es": "Iniciar una llamada",
+  "fr": "Démarrer un appel",
+  "ru": "Начать звонок",
+  "zh-Hans": "发起通话"
+ },
+ "Start a video call": {
+  "ar": "بدء مكالمة فيديو",
+  "de": "Videoanruf starten",
+  "es": "Iniciar una videollamada",
+  "fr": "Démarrer un appel vidéo",
+  "ru": "Начать видеозвонок",
+  "zh-Hans": "发起视频通话"
+ },
+ "Start from": {
+  "ar": "البدء من",
+  "de": "Ab",
+  "es": "Desde",
+  "fr": "À partir de",
+  "ru": "Начало с",
+  "zh-Hans": "开始于"
+ },
+ "Start now": {
+  "ar": "ابدأ الآن",
+  "de": "Jetzt starten",
+  "es": "Empezar ahora",
+  "fr": "Démarrer maintenant",
+  "ru": "Начать сейчас",
+  "zh-Hans": "立即开始"
+ },
+ "Start one from a message, or with New thread.": {
+  "ar": "ابدأ واحدًا من رسالة، أو بـ \"خيط جديد\".",
+  "de": "Starte einen aus einer Nachricht oder mit „Neuer Thread“.",
+  "es": "Empieza uno desde un mensaje o con «Hilo nuevo».",
+  "fr": "Lances-en un depuis un message, ou avec « Nouveau fil ».",
+  "ru": "Создайте ветку из сообщения или через «Новая ветка».",
+  "zh-Hans": "可从某条消息发起，或点“新建子区”。"
+ },
+ "Started {0}": {
+  "ar": "بدأ {0}",
+  "de": "Gestartet {0}",
+  "es": "Empezó {0}",
+  "fr": "Démarré {0}",
+  "ru": "Начато {0}",
+  "zh-Hans": "开始于 {0}"
+ },
+ "Starts": {
+  "ar": "يبدأ",
+  "de": "Beginnt",
+  "es": "Empieza",
+  "fr": "Début",
+  "ru": "Начало",
+  "zh-Hans": "开始"
+ },
+ "Still not loading.": {
+  "ar": "ما زال لا يُحمَّل.",
+  "de": "Lädt immer noch nicht.",
+  "es": "Sigue sin cargar.",
+  "fr": "Ça ne charge toujours pas.",
+  "ru": "Всё ещё не загружается.",
+  "zh-Hans": "仍然无法加载。"
+ }
+}

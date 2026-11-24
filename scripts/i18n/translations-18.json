@@ -1,0 +1,1146 @@
+{
+ "Spacing": {
+  "ar": "التباعد",
+  "de": "Abstand",
+  "es": "Espaciado",
+  "fr": "Espacement",
+  "ru": "Интервалы",
+  "zh-Hans": "间距"
+ },
+ "Spam": {
+  "ar": "رسائل مزعجة",
+  "de": "Spam",
+  "es": "Spam",
+  "fr": "Spam",
+  "ru": "Спам",
+  "zh-Hans": "垃圾信息"
+ },
+ "Sparkle dust": {
+  "ar": "غبار لامع",
+  "de": "Glitzerstaub",
+  "es": "Polvo brillante",
+  "fr": "Poussière scintillante",
+  "ru": "Блестящая пыль",
+  "zh-Hans": "闪光尘"
+ },
+ "Sparks": {
+  "ar": "شرارات",
+  "de": "Funken",
+  "es": "Chispas",
+  "fr": "Étincelles",
+  "ru": "Искры",
+  "zh-Hans": "火花"
+ },
+ "Special badge": {
+  "ar": "شارة خاصة",
+  "de": "Spezielles Abzeichen",
+  "es": "Insignia especial",
+  "fr": "Badge spécial",
+  "ru": "Особый значок",
+  "zh-Hans": "特别徽章"
+ },
+ "Special channels": {
+  "ar": "قنوات خاصة",
+  "de": "Spezielle Kanäle",
+  "es": "Canales especiales",
+  "fr": "Salons spéciaux",
+  "ru": "Особые каналы",
+  "zh-Hans": "特殊频道"
+ },
+ "Sports": {
+  "ar": "رياضة",
+  "de": "Sport",
+  "es": "Deportes",
+  "fr": "Sports",
+  "ru": "Спорт",
+  "zh-Hans": "体育"
+ },
+ "Standing": {
+  "ar": "الوضع",
+  "de": "Status",
+  "es": "Situación",
+  "fr": "Situation",
+  "ru": "Статус",
+  "zh-Hans": "状态"
+ },
+ "Stars in orbit": {
+  "ar": "نجوم في المدار",
+  "de": "Sterne im Orbit",
+  "es": "Estrellas en órbita",
+  "fr": "Étoiles en orbite",
+  "ru": "Звёзды на орбите",
+  "zh-Hans": "轨道星辰"
+ },
+ "Start here": {
+  "ar": "ابدأ من هنا",
+  "de": "Starte hier",
+  "es": "Empieza aquí",
+  "fr": "Commence ici",
+  "ru": "Начните здесь",
+  "zh-Hans": "从这里开始"
+ },
+ "Start posts in the forums of this category": {
+  "ar": "بدء منشورات في منتديات هذه الفئة",
+  "de": "Beiträge in den Foren dieser Kategorie starten",
+  "es": "Iniciar publicaciones en los foros de esta categoría",
+  "fr": "Créer des posts dans les forums de cette catégorie",
+  "ru": "Создавать посты на форумах этой категории",
+  "zh-Hans": "在此分类的论坛中发起帖子"
+ },
+ "Start posts in this forum": {
+  "ar": "بدء منشورات في هذا المنتدى",
+  "de": "Beiträge in diesem Forum starten",
+  "es": "Iniciar publicaciones en este foro",
+  "fr": "Créer des posts dans ce forum",
+  "ru": "Создавать посты на этом форуме",
+  "zh-Hans": "在此论坛中发起帖子"
+ },
+ "Start threads in the text channels of this category": {
+  "ar": "بدء سلاسل في القنوات النصية لهذه الفئة",
+  "de": "Threads in den Textkanälen dieser Kategorie starten",
+  "es": "Iniciar hilos en los canales de texto de esta categoría",
+  "fr": "Créer des fils dans les salons textuels de cette catégorie",
+  "ru": "Создавать ветки в текстовых каналах этой категории",
+  "zh-Hans": "在此分类的文字频道中发起子区"
+ },
+ "Start threads in this channel": {
+  "ar": "بدء سلاسل في هذه القناة",
+  "de": "Threads in diesem Kanal starten",
+  "es": "Iniciar hilos en este canal",
+  "fr": "Créer des fils dans ce salon",
+  "ru": "Создавать ветки в этом канале",
+  "zh-Hans": "在此频道中发起子区"
+ },
+ "Stated by you, not verified.": {
+  "ar": "من إفادتك، غير موثّق.",
+  "de": "Von dir angegeben, nicht überprüft.",
+  "es": "Indicado por ti, no verificado.",
+  "fr": "Indiqué par toi, non vérifié.",
+  "ru": "Указано вами, не проверено.",
+  "zh-Hans": "由你自行填写，未经验证。"
+ },
+ "Status text": {
+  "ar": "نص الحالة",
+  "de": "Statustext",
+  "es": "Texto de estado",
+  "fr": "Texte de statut",
+  "ru": "Текст статуса",
+  "zh-Hans": "状态文字"
+ },
+ "Steps for new members that tick themselves off.": {
+  "ar": "خطوات للأعضاء الجدد تُعلَّم كمكتملة تلقائياً.",
+  "de": "Schritte für neue Mitglieder, die sich von selbst abhaken.",
+  "es": "Pasos para nuevos miembros que se marcan solos.",
+  "fr": "Des étapes pour les nouveaux membres qui se cochent toutes seules.",
+  "ru": "Шаги для новых участников, которые отмечаются сами.",
+  "zh-Hans": "新成员的步骤，完成后自动打勾。"
+ },
+ "Steps to reproduce": {
+  "ar": "خطوات إعادة الحدوث",
+  "de": "Schritte zur Reproduktion",
+  "es": "Pasos para reproducirlo",
+  "fr": "Étapes pour reproduire",
+  "ru": "Шаги для воспроизведения",
+  "zh-Hans": "复现步骤"
+ },
+ "Stream ended": {
+  "ar": "انتهى البث",
+  "de": "Stream beendet",
+  "es": "Transmisión finalizada",
+  "fr": "Stream terminé",
+  "ru": "Трансляция завершена",
+  "zh-Hans": "直播已结束"
+ },
+ "Stream sounds": {
+  "ar": "أصوات البث",
+  "de": "Stream-Sounds",
+  "es": "Sonidos de transmisión",
+  "fr": "Sons du stream",
+  "ru": "Звуки трансляции",
+  "zh-Hans": "直播音效"
+ },
+ "Stream started": {
+  "ar": "بدأ البث",
+  "de": "Stream gestartet",
+  "es": "Transmisión iniciada",
+  "fr": "Stream démarré",
+  "ru": "Трансляция началась",
+  "zh-Hans": "直播已开始"
+ },
+ "Strong": {
+  "ar": "قوي",
+  "de": "Stark",
+  "es": "Fuerte",
+  "fr": "Fort",
+  "ru": "Сильный",
+  "zh-Hans": "强"
+ },
+ "Subject": {
+  "ar": "الموضوع",
+  "de": "Betreff",
+  "es": "Asunto",
+  "fr": "Objet",
+  "ru": "Тема",
+  "zh-Hans": "主题"
+ },
+ "Submit again": {
+  "ar": "إرسال مرة أخرى",
+  "de": "Erneut senden",
+  "es": "Enviar de nuevo",
+  "fr": "Renvoyer",
+  "ru": "Отправить ещё раз",
+  "zh-Hans": "重新提交"
+ },
+ "Suggest new Zrzur features once the public repository is available.": {
+  "ar": "اقترح ميزات جديدة لزرزور عند توفّر المستودع العام.",
+  "de": "Schlage neue Zrzur-Funktionen vor, sobald das öffentliche Repository verfügbar ist.",
+  "es": "Sugiere nuevas funciones de Zrzur cuando el repositorio público esté disponible.",
+  "fr": "Propose de nouvelles fonctionnalités de Zrzur dès que le dépôt public sera disponible.",
+  "ru": "Предлагайте новые функции Zrzur, когда появится публичный репозиторий.",
+  "zh-Hans": "公开仓库上线后，即可建议 Zrzur 的新功能。"
+ },
+ "Sun rays": {
+  "ar": "أشعة الشمس",
+  "de": "Sonnenstrahlen",
+  "es": "Rayos de sol",
+  "fr": "Rayons de soleil",
+  "ru": "Солнечные лучи",
+  "zh-Hans": "阳光"
+ },
+ "Sunset": {
+  "ar": "غروب",
+  "de": "Sonnenuntergang",
+  "es": "Atardecer",
+  "fr": "Coucher de soleil",
+  "ru": "Закат",
+  "zh-Hans": "日落"
+ },
+ "Super Creator": {
+  "ar": "صانع محتوى متميز",
+  "de": "Super Creator",
+  "es": "Súper creador",
+  "fr": "Super créateur",
+  "ru": "Суперкреатор",
+  "zh-Hans": "超级创作者"
+ },
+ "Supported Zrzur in its early days.": {
+  "ar": "دعم زرزور في أيامه الأولى.",
+  "de": "Hat Zrzur in der Anfangszeit unterstützt.",
+  "es": "Apoyó a Zrzur en sus primeros días.",
+  "fr": "A soutenu Zrzur à ses débuts.",
+  "ru": "Поддержал Zrzur в первые дни.",
+  "zh-Hans": "在 Zrzur 早期给予过支持。"
+ },
+ "Supported Zrzur.": {
+  "ar": "دعم زرزور.",
+  "de": "Hat Zrzur unterstützt.",
+  "es": "Apoyó a Zrzur.",
+  "fr": "A soutenu Zrzur.",
+  "ru": "Поддержал Zrzur.",
+  "zh-Hans": "支持过 Zrzur。"
+ },
+ "Supporter": {
+  "ar": "داعم",
+  "de": "Unterstützer",
+  "es": "Colaborador",
+  "fr": "Soutien",
+  "ru": "Поддерживающий",
+  "zh-Hans": "支持者"
+ },
+ "Supports Zrzur with an active Feather subscription.": {
+  "ar": "يدعم زرزور باشتراك ريشة نشط.",
+  "de": "Unterstützt Zrzur mit einem aktiven Feather-Abo.",
+  "es": "Apoya a Zrzur con una suscripción Feather activa.",
+  "fr": "Soutient Zrzur avec un abonnement Feather actif.",
+  "ru": "Поддерживает Zrzur активной подпиской Feather.",
+  "zh-Hans": "通过有效的 Feather 订阅支持 Zrzur。"
+ },
+ "Surprise me": {
+  "ar": "فاجئني",
+  "de": "Überrasch mich",
+  "es": "Sorpréndeme",
+  "fr": "Surprends-moi",
+  "ru": "Удиви меня",
+  "zh-Hans": "给我惊喜"
+ },
+ "Suspended": {
+  "ar": "موقوف",
+  "de": "Gesperrt",
+  "es": "Suspendido",
+  "fr": "Suspendu",
+  "ru": "Приостановлен",
+  "zh-Hans": "已暂停"
+ },
+ "Swaps movement and zoom for short fades.": {
+  "ar": "يستبدل الحركة والتكبير بتلاشٍ قصير.",
+  "de": "Ersetzt Bewegung und Zoom durch kurze Überblendungen.",
+  "es": "Cambia el movimiento y el zoom por breves desvanecimientos.",
+  "fr": "Remplace les mouvements et le zoom par de courts fondus.",
+  "ru": "Заменяет движение и масштабирование короткими затуханиями.",
+  "zh-Hans": "用短暂的淡入淡出取代移动和缩放。"
+ },
+ "System follows your device's light or dark setting.": {
+  "ar": "النظام يتبع الوضع الفاتح أو الداكن في جهازك.",
+  "de": "System folgt der hellen oder dunklen Einstellung deines Geräts.",
+  "es": "El sistema sigue el modo claro u oscuro de tu dispositivo.",
+  "fr": "Le système suit le réglage clair ou sombre de ton appareil.",
+  "ru": "Система следует светлой или тёмной теме устройства.",
+  "zh-Hans": "跟随设备的浅色或深色设置。"
+ },
+ "Tagline": {
+  "ar": "شعار مختصر",
+  "de": "Slogan",
+  "es": "Eslogan",
+  "fr": "Slogan",
+  "ru": "Слоган",
+  "zh-Hans": "标语"
+ },
+ "Tags": {
+  "ar": "الوسوم",
+  "de": "Tags",
+  "es": "Etiquetas",
+  "fr": "Tags",
+  "ru": "Теги",
+  "zh-Hans": "标签"
+ },
+ "Tags use 2–24 letters, numbers, - or _.": {
+  "ar": "يتكوّن الوسم من 2 إلى 24 حرفاً أو رقماً أو - أو _.",
+  "de": "Tags bestehen aus 2–24 Buchstaben, Zahlen, - oder _.",
+  "es": "Las etiquetas usan de 2 a 24 letras, números, - o _.",
+  "fr": "Les tags comptent 2 à 24 lettres, chiffres, - ou _.",
+  "ru": "Теги: от 2 до 24 букв, цифр, - или _.",
+  "zh-Hans": "标签由 2–24 个字母、数字、- 或 _ 组成。"
+ },
+ "Takes people straight to the conversation.": {
+  "ar": "يأخذ الناس مباشرة إلى المحادثة.",
+  "de": "Bringt Leute direkt zur Unterhaltung.",
+  "es": "Lleva a las personas directamente a la conversación.",
+  "fr": "Amène directement les gens à la conversation.",
+  "ru": "Сразу ведёт людей в беседу.",
+  "zh-Hans": "直接带人进入对话。"
+ },
+ "Taurus": {
+  "ar": "الثور",
+  "de": "Stier",
+  "es": "Tauro",
+  "fr": "Taureau",
+  "ru": "Телец",
+  "zh-Hans": "金牛座"
+ },
+ "Technology": {
+  "ar": "تقنية",
+  "de": "Technologie",
+  "es": "Tecnología",
+  "fr": "Technologie",
+  "ru": "Технологии",
+  "zh-Hans": "科技"
+ },
+ "Terms of Service": {
+  "ar": "شروط الخدمة",
+  "de": "Nutzungsbedingungen",
+  "es": "Términos del servicio",
+  "fr": "Conditions d'utilisation",
+  "ru": "Условия использования",
+  "zh-Hans": "服务条款"
+ },
+ "Test mode: payments run in the payment provider's test environment. Use its test cards; no real money is charged.": {
+  "ar": "وضع الاختبار: تُنفَّذ المدفوعات في بيئة الاختبار لدى مزوّد الدفع. استخدم بطاقاته التجريبية؛ لن يُخصم أي مبلغ حقيقي.",
+  "de": "Testmodus: Zahlungen laufen in der Testumgebung des Zahlungsanbieters. Nutze dessen Testkarten; es wird kein echtes Geld abgebucht.",
+  "es": "Modo de prueba: los pagos se procesan en el entorno de pruebas del proveedor de pagos. Usa sus tarjetas de prueba; no se cobra dinero real.",
+  "fr": "Mode test : les paiements passent par l'environnement de test du prestataire de paiement. Utilise ses cartes de test ; aucun argent réel n'est débité.",
+  "ru": "Тестовый режим: платежи проходят в тестовой среде платёжного провайдера. Используйте его тестовые карты; реальные деньги не списываются.",
+  "zh-Hans": "测试模式：付款在支付服务商的测试环境中进行。请使用其测试卡，不会扣除真实款项。"
+ },
+ "Test mode: purchases are simulated and nothing is charged. No card details are asked for or stored.": {
+  "ar": "وضع الاختبار: المشتريات محاكاة ولا يُخصم أي مبلغ. لا تُطلب بيانات البطاقة ولا تُحفظ.",
+  "de": "Testmodus: Käufe werden simuliert, es wird nichts abgebucht. Kartendaten werden weder abgefragt noch gespeichert.",
+  "es": "Modo de prueba: las compras son simuladas y no se cobra nada. No se piden ni se guardan datos de tarjeta.",
+  "fr": "Mode test : les achats sont simulés et rien n'est débité. Aucune donnée de carte n'est demandée ni enregistrée.",
+  "ru": "Тестовый режим: покупки имитируются, ничего не списывается. Данные карты не запрашиваются и не сохраняются.",
+  "zh-Hans": "测试模式：购买为模拟，不会扣款。不会询问或保存银行卡信息。"
+ },
+ "Text colour": {
+  "ar": "لون النص",
+  "de": "Textfarbe",
+  "es": "Color del texto",
+  "fr": "Couleur du texte",
+  "ru": "Цвет текста",
+  "zh-Hans": "文字颜色"
+ },
+ "Thanks for following the Zrzur guidelines.": {
+  "ar": "شكراً لالتزامك بإرشادات زرزور.",
+  "de": "Danke, dass du die Zrzur-Richtlinien befolgst.",
+  "es": "Gracias por seguir las normas de Zrzur.",
+  "fr": "Merci de respecter les règles de Zrzur.",
+  "ru": "Спасибо, что соблюдаете правила Zrzur.",
+  "zh-Hans": "感谢你遵守 Zrzur 准则。"
+ },
+ "Thanks! Your report was sent. Reviewers will look at it.": {
+  "ar": "شكراً! تم إرسال بلاغك وسيراجعه المراجعون.",
+  "de": "Danke! Deine Meldung wurde gesendet. Das Prüfteam sieht sie sich an.",
+  "es": "¡Gracias! Tu denuncia se envió. Los revisores la examinarán.",
+  "fr": "Merci ! Ton signalement a été envoyé. L'équipe de modération va l'examiner.",
+  "ru": "Спасибо! Ваша жалоба отправлена. Её рассмотрят модераторы.",
+  "zh-Hans": "谢谢！你的举报已发送，审核人员会查看。"
+ },
+ "That device will need to sign in again.": {
+  "ar": "سيحتاج ذلك الجهاز إلى تسجيل الدخول من جديد.",
+  "de": "Dieses Gerät muss sich erneut anmelden.",
+  "es": "Ese dispositivo tendrá que volver a iniciar sesión.",
+  "fr": "Cet appareil devra se reconnecter.",
+  "ru": "Это устройство потребует повторного входа.",
+  "zh-Hans": "该设备需要重新登录。"
+ },
+ "The beta is closed: ask to join and the team may invite you.": {
+  "ar": "النسخة التجريبية مغلقة: اطلب الانضمام وقد يدعوك الفريق.",
+  "de": "Die Beta ist geschlossen: Frag an, und das Team lädt dich eventuell ein.",
+  "es": "La beta está cerrada: pide unirte y el equipo podría invitarte.",
+  "fr": "La bêta est fermée : demande à la rejoindre et l'équipe pourra t'inviter.",
+  "ru": "Бета закрыта: подайте заявку, и команда, возможно, пригласит вас.",
+  "zh-Hans": "测试版暂不公开：申请加入，团队可能会邀请你。"
+ },
+ "The bots in this server.": {
+  "ar": "البوتات الموجودة في هذا السيرفر.",
+  "de": "Die Bots auf diesem Server.",
+  "es": "Los bots de este servidor.",
+  "fr": "Les bots de ce serveur.",
+  "ru": "Боты на этом сервере.",
+  "zh-Hans": "此服务器中的机器人。"
+ },
+ "The channel and all of its messages": {
+  "ar": "القناة وكل رسائلها",
+  "de": "Der Kanal und alle seine Nachrichten",
+  "es": "El canal y todos sus mensajes",
+  "fr": "Le salon et tous ses messages",
+  "ru": "Канал и все его сообщения",
+  "zh-Hans": "该频道及其所有消息"
+ },
+ "The channel's own permissions for everyone and for roles are removed and it uses the category's. Member overrides stay.": {
+  "ar": "تُزال صلاحيات القناة الخاصة بالجميع وبالأدوار وتعتمد صلاحيات الفئة. تبقى استثناءات الأعضاء.",
+  "de": "Die eigenen Berechtigungen des Kanals für alle und für Rollen werden entfernt, er nutzt die der Kategorie. Mitglieder-Überschreibungen bleiben.",
+  "es": "Se quitan los permisos propios del canal para todos y para los roles, y usa los de la categoría. Las excepciones de miembros se mantienen.",
+  "fr": "Les permissions propres du salon pour tout le monde et pour les rôles sont supprimées ; il utilise celles de la catégorie. Les exceptions de membres restent.",
+  "ru": "Собственные права канала для всех и для ролей удаляются, он использует права категории. Исключения для участников сохраняются.",
+  "zh-Hans": "该频道针对所有人和身份组的专属权限将被移除，改用分类的权限。成员的单独设置保留。"
+ },
+ "The current address stops working at once. Anything that posts with it needs the new one.": {
+  "ar": "يتوقف العنوان الحالي عن العمل فوراً. أي شيء ينشر به يحتاج إلى العنوان الجديد.",
+  "de": "Die aktuelle Adresse funktioniert sofort nicht mehr. Alles, was damit postet, braucht die neue.",
+  "es": "La dirección actual deja de funcionar de inmediato. Todo lo que publique con ella necesita la nueva.",
+  "fr": "L'adresse actuelle cesse de fonctionner immédiatement. Tout ce qui publie avec elle a besoin de la nouvelle.",
+  "ru": "Текущий адрес сразу перестанет работать. Всему, что публикует через него, понадобится новый.",
+  "zh-Hans": "当前地址会立即失效。所有使用它发帖的服务都需要换成新地址。"
+ },
+ "The European Commission publishes the list of certified bodies on its website.": {
+  "ar": "تنشر المفوضية الأوروبية قائمة الهيئات المعتمدة على موقعها.",
+  "de": "Die Europäische Kommission veröffentlicht die Liste der zertifizierten Stellen auf ihrer Website.",
+  "es": "La Comisión Europea publica la lista de organismos certificados en su sitio web.",
+  "fr": "La Commission européenne publie la liste des organismes certifiés sur son site web.",
+  "ru": "Европейская комиссия публикует список сертифицированных органов на своём сайте.",
+  "zh-Hans": "欧盟委员会在其网站上公布经认证机构的名单。"
+ },
+ "The Feather badge next to your name on your profile.": {
+  "ar": "شارة ريشة بجانب اسمك في ملفك الشخصي.",
+  "de": "Das Feather-Abzeichen neben deinem Namen im Profil.",
+  "es": "La insignia de Feather junto a tu nombre en tu perfil.",
+  "fr": "Le badge Feather à côté de ton nom sur ton profil.",
+  "ru": "Значок Feather рядом с вашим именем в профиле.",
+  "zh-Hans": "个人资料中姓名旁的 Feather 徽章。"
+ },
+ "The first page of your server: what it is about, what to do first and who runs it.": {
+  "ar": "الصفحة الأولى في سيرفرك: موضوعه، وماذا تفعل أولاً، ومن يديره.",
+  "de": "Die erste Seite deines Servers: worum es geht, was man zuerst tut und wer ihn leitet.",
+  "es": "La primera página de tu servidor: de qué trata, qué hacer primero y quién lo dirige.",
+  "fr": "La première page de ton serveur : de quoi il parle, quoi faire d'abord et qui le gère.",
+  "ru": "Первая страница вашего сервера: о чём он, с чего начать и кто им управляет.",
+  "zh-Hans": "服务器的首页：介绍主题、首先要做什么以及由谁管理。"
+ },
+ "The name, icon, banner and description come from your server's Overview settings.": {
+  "ar": "يؤخذ الاسم والأيقونة والبانر والوصف من إعدادات نظرة عامة لسيرفرك.",
+  "de": "Name, Symbol, Banner und Beschreibung stammen aus den Übersichtseinstellungen deines Servers.",
+  "es": "El nombre, el icono, el banner y la descripción vienen de los ajustes de Resumen de tu servidor.",
+  "fr": "Le nom, l'icône, la bannière et la description viennent des paramètres Vue d'ensemble de ton serveur.",
+  "ru": "Название, значок, баннер и описание берутся из настроек «Обзор» вашего сервера.",
+  "zh-Hans": "名称、图标、横幅和描述来自服务器的“概览”设置。"
+ },
+ "The newest message of your announcements.": {
+  "ar": "أحدث رسالة في إعلاناتك.",
+  "de": "Die neueste Nachricht deiner Ankündigungen.",
+  "es": "El mensaje más reciente de tus anuncios.",
+  "fr": "Le message le plus récent de tes annonces.",
+  "ru": "Последнее сообщение из ваших объявлений.",
+  "zh-Hans": "公告中最新的一条消息。"
+ },
+ "The owner and the roles you pick.": {
+  "ar": "المالك والأدوار التي تختارها.",
+  "de": "Der Besitzer und die Rollen, die du auswählst.",
+  "es": "El propietario y los roles que elijas.",
+  "fr": "Le propriétaire et les rôles que tu choisis.",
+  "ru": "Владелец и выбранные вами роли.",
+  "zh-Hans": "所有者和你选择的身份组。"
+ },
+ "The owner is always listed. Pick the roles whose members are shown too, up to ten.": {
+  "ar": "المالك يظهر دائماً. اختر الأدوار التي يظهر أعضاؤها أيضاً، حتى عشرة.",
+  "de": "Der Besitzer wird immer angezeigt. Wähle die Rollen, deren Mitglieder ebenfalls angezeigt werden, bis zu zehn.",
+  "es": "El propietario siempre aparece. Elige los roles cuyos miembros también se muestran, hasta diez.",
+  "fr": "Le propriétaire apparaît toujours. Choisis les rôles dont les membres sont aussi affichés, jusqu'à dix.",
+  "ru": "Владелец показывается всегда. Выберите роли, участники которых тоже отображаются, до десяти.",
+  "zh-Hans": "所有者始终会显示。可再选择最多十个身份组，其成员也会显示。"
+ },
+ "The picture at the top of the lobby.": {
+  "ar": "الصورة في أعلى اللوبي.",
+  "de": "Das Bild oben in der Lobby.",
+  "es": "La imagen en la parte superior del lobby.",
+  "fr": "L'image en haut du lobby.",
+  "ru": "Картинка в верхней части лобби.",
+  "zh-Hans": "大厅顶部的图片。"
+ },
+ "The rules channel, system messages and counters.": {
+  "ar": "قناة القواعد ورسائل النظام والعدّادات.",
+  "de": "Der Regelkanal, Systemnachrichten und Zähler.",
+  "es": "El canal de reglas, los mensajes del sistema y los contadores.",
+  "fr": "Le salon des règles, les messages système et les compteurs.",
+  "ru": "Канал правил, системные сообщения и счётчики.",
+  "zh-Hans": "规则频道、系统消息和计数器。"
+ },
+ "The server's level and its perks.": {
+  "ar": "مستوى السيرفر ومزاياه.",
+  "de": "Das Level des Servers und seine Vorteile.",
+  "es": "El nivel del servidor y sus ventajas.",
+  "fr": "Le niveau du serveur et ses avantages.",
+  "ru": "Уровень сервера и его преимущества.",
+  "zh-Hans": "服务器等级及其特权。"
+ },
+ "The team will let you know when you are in.": {
+  "ar": "سيُعلمك الفريق عند قبولك.",
+  "de": "Das Team meldet sich, sobald du dabei bist.",
+  "es": "El equipo te avisará cuando entres.",
+  "fr": "L'équipe te préviendra quand tu seras admis.",
+  "ru": "Команда сообщит вам, когда вас примут.",
+  "zh-Hans": "加入后团队会通知你。"
+ },
+ "The webhooks could not be loaded.": {
+  "ar": "تعذّر تحميل خطافات الويب.",
+  "de": "Die Webhooks konnten nicht geladen werden.",
+  "es": "No se pudieron cargar los webhooks.",
+  "fr": "Impossible de charger les webhooks.",
+  "ru": "Не удалось загрузить вебхуки.",
+  "zh-Hans": "无法加载 Webhook。"
+ },
+ "The Zrzur team confirmed who runs this server.": {
+  "ar": "أكّد فريق زرزور هوية من يدير هذا السيرفر.",
+  "de": "Das Zrzur-Team hat bestätigt, wer diesen Server betreibt.",
+  "es": "El equipo de Zrzur confirmó quién dirige este servidor.",
+  "fr": "L'équipe Zrzur a confirmé qui gère ce serveur.",
+  "ru": "Команда Zrzur подтвердила, кто управляет этим сервером.",
+  "zh-Hans": "Zrzur 团队已确认该服务器的管理者身份。"
+ },
+ "The Zrzur team reviewed this bot.": {
+  "ar": "راجع فريق زرزور هذا البوت.",
+  "de": "Das Zrzur-Team hat diesen Bot geprüft.",
+  "es": "El equipo de Zrzur revisó este bot.",
+  "fr": "L'équipe Zrzur a examiné ce bot.",
+  "ru": "Команда Zrzur проверила этого бота.",
+  "zh-Hans": "Zrzur 团队已审核此机器人。"
+ },
+ "Their creations": {
+  "ar": "إبداعاتهم",
+  "de": "Ihre Kreationen",
+  "es": "Sus creaciones",
+  "fr": "Leurs créations",
+  "ru": "Их творения",
+  "zh-Hans": "他们的作品"
+ },
+ "Themes": {
+  "ar": "سمات",
+  "de": "Designs",
+  "es": "Temas",
+  "fr": "Thèmes",
+  "ru": "Темы",
+  "zh-Hans": "主题"
+ },
+ "There is no channel where you can manage webhooks.": {
+  "ar": "لا توجد قناة يمكنك إدارة خطافات الويب فيها.",
+  "de": "Es gibt keinen Kanal, in dem du Webhooks verwalten kannst.",
+  "es": "No hay ningún canal donde puedas gestionar webhooks.",
+  "fr": "Il n'y a aucun salon où tu peux gérer les webhooks.",
+  "ru": "Нет канала, в котором вы можете управлять вебхуками.",
+  "zh-Hans": "没有你可以管理 Webhook 的频道。"
+ },
+ "These settings aren't available yet.": {
+  "ar": "هذه الإعدادات غير متاحة بعد.",
+  "de": "Diese Einstellungen sind noch nicht verfügbar.",
+  "es": "Estos ajustes aún no están disponibles.",
+  "fr": "Ces paramètres ne sont pas encore disponibles.",
+  "ru": "Эти настройки пока недоступны.",
+  "zh-Hans": "这些设置暂不可用。"
+ },
+ "This action can't be appealed, or you already appealed it.": {
+  "ar": "لا يمكن الطعن في هذا الإجراء، أو أنك طعنت فيه مسبقاً.",
+  "de": "Gegen diese Maßnahme kann kein Einspruch erhoben werden, oder du hast bereits Einspruch erhoben.",
+  "es": "Esta medida no se puede apelar, o ya la apelaste.",
+  "fr": "Cette mesure ne peut pas être contestée, ou tu l'as déjà contestée.",
+  "ru": "Это действие нельзя обжаловать, или вы уже подали апелляцию.",
+  "zh-Hans": "此处置无法申诉，或你已经申诉过。"
+ },
+ "This channel uses its own permissions.": {
+  "ar": "تستخدم هذه القناة صلاحيات خاصة بها.",
+  "de": "Dieser Kanal nutzt eigene Berechtigungen.",
+  "es": "Este canal usa sus propios permisos.",
+  "fr": "Ce salon utilise ses propres permissions.",
+  "ru": "Этот канал использует собственные права.",
+  "zh-Hans": "此频道使用自己的权限。"
+ },
+ "This device": {
+  "ar": "هذا الجهاز",
+  "de": "Dieses Gerät",
+  "es": "Este dispositivo",
+  "fr": "Cet appareil",
+  "ru": "Это устройство",
+  "zh-Hans": "此设备"
+ },
+ "This device stays signed in.": {
+  "ar": "يبقى هذا الجهاز مسجّل الدخول.",
+  "de": "Dieses Gerät bleibt angemeldet.",
+  "es": "Este dispositivo sigue con la sesión iniciada.",
+  "fr": "Cet appareil reste connecté.",
+  "ru": "Это устройство остаётся в аккаунте.",
+  "zh-Hans": "此设备保持登录状态。"
+ },
+ "This is a test message.": {
+  "ar": "هذه رسالة اختبار.",
+  "de": "Das ist eine Testnachricht.",
+  "es": "Este es un mensaje de prueba.",
+  "fr": "Ceci est un message de test.",
+  "ru": "Это тестовое сообщение.",
+  "zh-Hans": "这是一条测试消息。"
+ },
+ "This is how it will look on Discover.": {
+  "ar": "هكذا سيظهر في استكشف.",
+  "de": "So sieht es in Discover aus.",
+  "es": "Así se verá en Descubrir.",
+  "fr": "Voici comment il apparaîtra dans Découvrir.",
+  "ru": "Так это будет выглядеть в «Обзоре».",
+  "zh-Hans": "这是它在“发现”中的显示效果。"
+ },
+ "This page couldn't load": {
+  "ar": "تعذّر تحميل هذه الصفحة",
+  "de": "Diese Seite konnte nicht geladen werden",
+  "es": "No se pudo cargar esta página",
+  "fr": "Cette page n'a pas pu se charger",
+  "ru": "Не удалось загрузить страницу",
+  "zh-Hans": "此页面无法加载"
+ },
+ "This server is listed on Discover": {
+  "ar": "هذا السيرفر مدرج في استكشف",
+  "de": "Dieser Server ist in Discover gelistet",
+  "es": "Este servidor está en Descubrir",
+  "fr": "Ce serveur est listé dans Découvrir",
+  "ru": "Этот сервер есть в «Обзоре»",
+  "zh-Hans": "此服务器已列入“发现”"
+ },
+ "This ticket couldn't be loaded.": {
+  "ar": "تعذّر تحميل هذه التذكرة.",
+  "de": "Dieses Ticket konnte nicht geladen werden.",
+  "es": "No se pudo cargar este ticket.",
+  "fr": "Impossible de charger ce ticket.",
+  "ru": "Не удалось загрузить это обращение.",
+  "zh-Hans": "无法加载此工单。"
+ },
+ "This ticket is closed. Write a new one if you still need help.": {
+  "ar": "هذه التذكرة مغلقة. اكتب تذكرة جديدة إن كنت لا تزال بحاجة إلى مساعدة.",
+  "de": "Dieses Ticket ist geschlossen. Schreib ein neues, wenn du noch Hilfe brauchst.",
+  "es": "Este ticket está cerrado. Escribe uno nuevo si aún necesitas ayuda.",
+  "fr": "Ce ticket est fermé. Écris-en un nouveau si tu as encore besoin d'aide.",
+  "ru": "Это обращение закрыто. Создайте новое, если вам всё ещё нужна помощь.",
+  "zh-Hans": "此工单已关闭。如仍需帮助，请新建一个。"
+ },
+ "Thorn roses": {
+  "ar": "ورود شائكة",
+  "de": "Dornenrosen",
+  "es": "Rosas con espinas",
+  "fr": "Roses épineuses",
+  "ru": "Шипастые розы",
+  "zh-Hans": "荆棘玫瑰"
+ },
+ "Three Years on Zrzur": {
+  "ar": "ثلاث سنوات على زرزور",
+  "de": "Drei Jahre auf Zrzur",
+  "es": "Tres años en Zrzur",
+  "fr": "Trois ans sur Zrzur",
+  "ru": "Три года на Zrzur",
+  "zh-Hans": "加入 Zrzur 三周年"
+ },
+ "Title": {
+  "ar": "العنوان",
+  "de": "Titel",
+  "es": "Título",
+  "fr": "Titre",
+  "ru": "Заголовок",
+  "zh-Hans": "标题"
+ },
+ "Top tier": {
+  "ar": "المستوى الأعلى",
+  "de": "Höchste Stufe",
+  "es": "Nivel superior",
+  "fr": "Niveau supérieur",
+  "ru": "Высший уровень",
+  "zh-Hans": "最高等级"
+ },
+ "Transfer": {
+  "ar": "نقل",
+  "de": "Übertragen",
+  "es": "Transferir",
+  "fr": "Transférer",
+  "ru": "Передать",
+  "zh-Hans": "转让"
+ },
+ "Transfer ownership": {
+  "ar": "نقل الملكية",
+  "de": "Eigentum übertragen",
+  "es": "Transferir la propiedad",
+  "fr": "Transférer la propriété",
+  "ru": "Передать владение",
+  "zh-Hans": "转让所有权"
+ },
+ "Translator": {
+  "ar": "مترجم",
+  "de": "Übersetzer",
+  "es": "Traductor",
+  "fr": "Traducteur",
+  "ru": "Переводчик",
+  "zh-Hans": "翻译者"
+ },
+ "Triaged": {
+  "ar": "تم الفرز",
+  "de": "Eingestuft",
+  "es": "Clasificado",
+  "fr": "Trié",
+  "ru": "Рассортировано",
+  "zh-Hans": "已分类"
+ },
+ "Tries Zrzur features before everyone else.": {
+  "ar": "يجرّب ميزات زرزور قبل الجميع.",
+  "de": "Testet Zrzur-Funktionen vor allen anderen.",
+  "es": "Prueba las funciones de Zrzur antes que nadie.",
+  "fr": "Essaie les fonctionnalités de Zrzur avant tout le monde.",
+  "ru": "Пробует функции Zrzur раньше всех.",
+  "zh-Hans": "比所有人更早体验 Zrzur 新功能。"
+ },
+ "Turn a badge off to hide it from your profile.": {
+  "ar": "أوقف الشارة لإخفائها من ملفك الشخصي.",
+  "de": "Schalte ein Abzeichen aus, um es in deinem Profil zu verbergen.",
+  "es": "Desactiva una insignia para ocultarla de tu perfil.",
+  "fr": "Désactive un badge pour le masquer de ton profil.",
+  "ru": "Отключите значок, чтобы скрыть его в профиле.",
+  "zh-Hans": "关闭徽章即可在个人资料中隐藏它。"
+ },
+ "Two-factor authentication protects your account even if your password leaks.": {
+  "ar": "تحمي المصادقة الثنائية حسابك حتى لو تسرّبت كلمة مرورك.",
+  "de": "Die Zwei-Faktor-Authentifizierung schützt dein Konto, selbst wenn dein Passwort bekannt wird.",
+  "es": "La autenticación de dos factores protege tu cuenta aunque se filtre tu contraseña.",
+  "fr": "L'authentification à deux facteurs protège ton compte même si ton mot de passe fuite.",
+  "ru": "Двухфакторная аутентификация защищает аккаунт, даже если пароль утёк.",
+  "zh-Hans": "即使密码泄露，双重验证也能保护你的账号。"
+ },
+ "Type a name": {
+  "ar": "اكتب اسماً",
+  "de": "Namen eingeben",
+  "es": "Escribe un nombre",
+  "fr": "Saisis un nom",
+  "ru": "Введите имя",
+  "zh-Hans": "输入名称"
+ },
+ "Typewriter": {
+  "ar": "آلة كاتبة",
+  "de": "Schreibmaschine",
+  "es": "Máquina de escribir",
+  "fr": "Machine à écrire",
+  "ru": "Пишущая машинка",
+  "zh-Hans": "打字机"
+ },
+ "Unauthorised content": {
+  "ar": "محتوى غير مصرّح به",
+  "de": "Nicht autorisierte Inhalte",
+  "es": "Contenido no autorizado",
+  "fr": "Contenu non autorisé",
+  "ru": "Неразрешённый контент",
+  "zh-Hans": "未经授权的内容"
+ },
+ "Under minimum age": {
+  "ar": "دون الحد الأدنى للعمر",
+  "de": "Unter dem Mindestalter",
+  "es": "Menor de la edad mínima",
+  "fr": "Sous l'âge minimum",
+  "ru": "Младше минимального возраста",
+  "zh-Hans": "未达最低年龄"
+ },
+ "Unlocked": {
+  "ar": "مفتوح",
+  "de": "Freigeschaltet",
+  "es": "Desbloqueado",
+  "fr": "Débloqué",
+  "ru": "Открыто",
+  "zh-Hans": "已解锁"
+ },
+ "Untranslated text falls back to English.": {
+  "ar": "يظهر النص غير المترجم بالإنجليزية.",
+  "de": "Nicht übersetzter Text erscheint auf Englisch.",
+  "es": "El texto sin traducir aparece en inglés.",
+  "fr": "Le texte non traduit s'affiche en anglais.",
+  "ru": "Непереведённый текст показывается на английском.",
+  "zh-Hans": "未翻译的文字将显示为英语。"
+ },
+ "Up to {MAX_LINKS} links, starting with https://. People see the real site address and a warning before they leave Zrzur. Others can see this.": {
+  "ar": "حتى {MAX_LINKS} روابط تبدأ بـ https://. يرى الناس عنوان الموقع الحقيقي وتحذيراً قبل مغادرة زرزور. يمكن للآخرين رؤية هذا.",
+  "de": "Bis zu {MAX_LINKS} Links, beginnend mit https://. Leute sehen die echte Adresse und eine Warnung, bevor sie Zrzur verlassen. Andere können das sehen.",
+  "es": "Hasta {MAX_LINKS} enlaces, que empiecen por https://. Las personas ven la dirección real del sitio y una advertencia antes de salir de Zrzur. Otros pueden ver esto.",
+  "fr": "Jusqu'à {MAX_LINKS} liens, commençant par https://. Les gens voient la vraie adresse du site et un avertissement avant de quitter Zrzur. Les autres peuvent le voir.",
+  "ru": "До {MAX_LINKS} ссылок, начинающихся с https://. Перед выходом из Zrzur люди видят настоящий адрес сайта и предупреждение. Это видно другим.",
+  "zh-Hans": "最多 {MAX_LINKS} 个以 https:// 开头的链接。人们离开 Zrzur 前会看到真实网址和警告。其他人可以看到这些内容。"
+ },
+ "Up to five questions with up to eight answers each.": {
+  "ar": "حتى خمسة أسئلة، لكل منها حتى ثماني إجابات.",
+  "de": "Bis zu fünf Fragen mit je bis zu acht Antworten.",
+  "es": "Hasta cinco preguntas con hasta ocho respuestas cada una.",
+  "fr": "Jusqu'à cinq questions avec huit réponses chacune au maximum.",
+  "ru": "До пяти вопросов, в каждом до восьми вариантов ответа.",
+  "zh-Hans": "最多五个问题，每个问题最多八个答案。"
+ },
+ "Up to five words people might search for. Press Enter to add.": {
+  "ar": "حتى خمس كلمات قد يبحث عنها الناس. اضغط Enter للإضافة.",
+  "de": "Bis zu fünf Wörter, nach denen Leute suchen könnten. Zum Hinzufügen Enter drücken.",
+  "es": "Hasta cinco palabras que la gente podría buscar. Pulsa Intro para añadir.",
+  "fr": "Jusqu'à cinq mots que les gens pourraient chercher. Appuie sur Entrée pour ajouter.",
+  "ru": "До пяти слов, по которым могут искать. Нажмите Enter, чтобы добавить.",
+  "zh-Hans": "最多五个人们可能搜索的词。按 Enter 添加。"
+ },
+ "Up to three buttons under the name, each opening a channel. Read the rules is added by itself when a rules channel is set.": {
+  "ar": "حتى ثلاثة أزرار تحت الاسم، يفتح كل منها قناة. يُضاف زر «اقرأ القواعد» تلقائياً عند تعيين قناة القواعد.",
+  "de": "Bis zu drei Schaltflächen unter dem Namen, die jeweils einen Kanal öffnen. „Regeln lesen“ wird automatisch hinzugefügt, wenn ein Regelkanal festgelegt ist.",
+  "es": "Hasta tres botones bajo el nombre, cada uno abre un canal. «Leer las reglas» se añade solo cuando hay un canal de reglas.",
+  "fr": "Jusqu'à trois boutons sous le nom, chacun ouvrant un salon. « Lire les règles » s'ajoute tout seul quand un salon des règles est défini.",
+  "ru": "До трёх кнопок под названием, каждая открывает канал. Кнопка «Прочитать правила» добавляется сама, если задан канал правил.",
+  "zh-Hans": "名称下方最多三个按钮，每个打开一个频道。设置规则频道后，会自动添加“阅读规则”。"
+ },
+ "Uploads": {
+  "ar": "رفع الملفات",
+  "de": "Uploads",
+  "es": "Subidas",
+  "fr": "Envois de fichiers",
+  "ru": "Загрузки",
+  "zh-Hans": "上传"
+ },
+ "Use 3–32 letters, numbers or single hyphens.": {
+  "ar": "استخدم من 3 إلى 32 حرفاً أو رقماً أو شرطات مفردة.",
+  "de": "Nutze 3–32 Buchstaben, Zahlen oder einzelne Bindestriche.",
+  "es": "Usa de 3 a 32 letras, números o guiones simples.",
+  "fr": "Utilise 3 à 32 lettres, chiffres ou tirets simples.",
+  "ru": "Используйте от 3 до 32 букв, цифр или одиночных дефисов.",
+  "zh-Hans": "使用 3–32 个字母、数字或单个连字符。"
+ },
+ "Use a different nickname or avatar in a specific server.": {
+  "ar": "استخدم لقباً أو صورة رمزية مختلفة في سيرفر معيّن.",
+  "de": "Nutze in einem bestimmten Server einen anderen Spitznamen oder Avatar.",
+  "es": "Usa un apodo o avatar distinto en un servidor concreto.",
+  "fr": "Utilise un autre pseudo ou avatar sur un serveur précis.",
+  "ru": "Используйте другой ник или аватар на конкретном сервере.",
+  "zh-Hans": "在特定服务器中使用不同的昵称或头像。"
+ },
+ "Use a real site address, such as https://example.com": {
+  "ar": "استخدم عنوان موقع حقيقياً، مثل https://example.com",
+  "de": "Nutze eine echte Adresse, z. B. https://example.com",
+  "es": "Usa una dirección de sitio real, como https://example.com",
+  "fr": "Utilise une vraie adresse de site, comme https://example.com",
+  "ru": "Используйте настоящий адрес сайта, например https://example.com",
+  "zh-Hans": "请使用真实网址，例如 https://example.com"
+ },
+ "Use a six-digit colour such as #E0195F.": {
+  "ar": "استخدم لوناً من ست خانات مثل #E0195F.",
+  "de": "Nutze eine sechsstellige Farbe wie #E0195F.",
+  "es": "Usa un color de seis dígitos como #E0195F.",
+  "fr": "Utilise une couleur à six chiffres comme #E0195F.",
+  "ru": "Используйте шестизначный цвет, например #E0195F.",
+  "zh-Hans": "请使用六位颜色值，例如 #E0195F。"
+ },
+ "Use animations": {
+  "ar": "استخدام الحركات",
+  "de": "Animationen verwenden",
+  "es": "Usar animaciones",
+  "fr": "Utiliser les animations",
+  "ru": "Использовать анимации",
+  "zh-Hans": "使用动画"
+ },
+ "Use Appeal below. You can appeal for at least 6 months after the decision. If you cannot sign in, write to {contact} and give the reference {reference}. A person reviews it.": {
+  "ar": "استخدم «طعن» أدناه. يمكنك الطعن لمدة 6 أشهر على الأقل بعد القرار. إن تعذّر تسجيل الدخول، راسل {contact} واذكر المرجع {reference}. يراجعه شخص.",
+  "de": "Nutze unten „Einspruch“. Du kannst mindestens 6 Monate nach der Entscheidung Einspruch einlegen. Wenn du dich nicht anmelden kannst, schreib an {contact} und nenne die Referenz {reference}. Ein Mensch prüft es.",
+  "es": "Usa Apelar más abajo. Puedes apelar al menos durante 6 meses tras la decisión. Si no puedes iniciar sesión, escribe a {contact} e indica la referencia {reference}. Lo revisa una persona.",
+  "fr": "Utilise Contester ci-dessous. Tu peux contester pendant au moins 6 mois après la décision. Si tu ne peux pas te connecter, écris à {contact} en indiquant la référence {reference}. Une personne l'examine.",
+  "ru": "Нажмите «Обжаловать» ниже. Обжаловать можно как минимум 6 месяцев после решения. Если не удаётся войти, напишите на {contact} и укажите номер {reference}. Обращение рассмотрит человек.",
+  "zh-Hans": "请使用下方的“申诉”。决定作出后至少 6 个月内可以申诉。如果无法登录，请写信至 {contact} 并提供参考编号 {reference}。将由人工审核。"
+ },
+ "Use at least 2 characters.": {
+  "ar": "استخدم حرفين على الأقل.",
+  "de": "Nutze mindestens 2 Zeichen.",
+  "es": "Usa al menos 2 caracteres.",
+  "fr": "Utilise au moins 2 caractères.",
+  "ru": "Используйте не менее 2 символов.",
+  "zh-Hans": "至少使用 2 个字符。"
+ },
+ "Use letters, numbers, underscores (_), dots (.) or dashes (-).": {
+  "ar": "استخدم حروفاً وأرقاماً وشرطات سفلية (_) ونقاطاً (.) أو شرطات (-).",
+  "de": "Nutze Buchstaben, Zahlen, Unterstriche (_), Punkte (.) oder Bindestriche (-).",
+  "es": "Usa letras, números, guiones bajos (_), puntos (.) o guiones (-).",
+  "fr": "Utilise des lettres, chiffres, tirets bas (_), points (.) ou tirets (-).",
+  "ru": "Используйте буквы, цифры, подчёркивания (_), точки (.) или дефисы (-).",
+  "zh-Hans": "使用字母、数字、下划线 (_)、点 (.) 或连字符 (-)。"
+ },
+ "Used in message timestamps and lists.": {
+  "ar": "يُستخدم في أوقات الرسائل والقوائم.",
+  "de": "Wird in Nachrichten-Zeitstempeln und Listen verwendet.",
+  "es": "Se usa en las marcas de tiempo de los mensajes y en las listas.",
+  "fr": "Utilisé dans les horodatages des messages et les listes.",
+  "ru": "Используется в метках времени сообщений и списках.",
+  "zh-Hans": "用于消息时间戳和列表。"
+ },
+ "Used to decide:": {
+  "ar": "يُستخدم لاتخاذ القرار:",
+  "de": "Zur Entscheidung verwendet:",
+  "es": "Se usó para decidir:",
+  "fr": "Utilisé pour décider :",
+  "ru": "Использовано для решения:",
+  "zh-Hans": "用于作出决定："
+ },
+ "Used to find it:": {
+  "ar": "استُخدم للعثور عليه:",
+  "de": "Zum Auffinden verwendet:",
+  "es": "Se usó para encontrarlo:",
+  "fr": "Utilisé pour le trouver :",
+  "ru": "Использовано для обнаружения:",
+  "zh-Hans": "用于发现它："
+ },
+ "User joined call": {
+  "ar": "انضم مستخدم إلى المكالمة",
+  "de": "Nutzer ist dem Anruf beigetreten",
+  "es": "Un usuario se unió a la llamada",
+  "fr": "Un utilisateur a rejoint l'appel",
+  "ru": "Пользователь присоединился к звонку",
+  "zh-Hans": "用户加入了通话"
+ },
+ "User left call": {
+  "ar": "غادر مستخدم المكالمة",
+  "de": "Nutzer hat den Anruf verlassen",
+  "es": "Un usuario salió de la llamada",
+  "fr": "Un utilisateur a quitté l'appel",
+  "ru": "Пользователь покинул звонок",
+  "zh-Hans": "用户离开了通话"
+ },
+ "User limit": {
+  "ar": "حد المستخدمين",
+  "de": "Nutzerlimit",
+  "es": "Límite de usuarios",
+  "fr": "Limite d'utilisateurs",
+  "ru": "Лимит пользователей",
+  "zh-Hans": "用户上限"
+ },
+ "User management": {
+  "ar": "إدارة المستخدمين",
+  "de": "Nutzerverwaltung",
+  "es": "Gestión de usuarios",
+  "fr": "Gestion des utilisateurs",
+  "ru": "Управление пользователями",
+  "zh-Hans": "用户管理"
+ },
+ "User settings": {
+  "ar": "إعدادات المستخدم",
+  "de": "Nutzereinstellungen",
+  "es": "Ajustes de usuario",
+  "fr": "Paramètres utilisateur",
+  "ru": "Настройки пользователя",
+  "zh-Hans": "用户设置"
+ },
+ "Using your main avatar": {
+  "ar": "يستخدم صورتك الرمزية الرئيسية",
+  "de": "Dein Hauptavatar wird verwendet",
+  "es": "Usando tu avatar principal",
+  "fr": "Utilise ton avatar principal",
+  "ru": "Используется ваш основной аватар",
+  "zh-Hans": "使用你的主头像"
+ },
+ "Verified bot": {
+  "ar": "بوت موثّق",
+  "de": "Verifizierter Bot",
+  "es": "Bot verificado",
+  "fr": "Bot vérifié",
+  "ru": "Проверенный бот",
+  "zh-Hans": "已验证机器人"
+ },
+ "Verified Bot Developer": {
+  "ar": "مطوّر بوت موثّق",
+  "de": "Verifizierter Bot-Entwickler",
+  "es": "Desarrollador de bots verificado",
+  "fr": "Développeur de bots vérifié",
+  "ru": "Проверенный разработчик ботов",
+  "zh-Hans": "已验证机器人开发者"
+ },
+ "Verified server": {
+  "ar": "سيرفر موثّق",
+  "de": "Verifizierter Server",
+  "es": "Servidor verificado",
+  "fr": "Serveur vérifié",
+  "ru": "Проверенный сервер",
+  "zh-Hans": "已验证服务器"
+ },
+ "Verified Server Owner": {
+  "ar": "مالك سيرفر موثّق",
+  "de": "Verifizierter Server-Besitzer",
+  "es": "Propietario de servidor verificado",
+  "fr": "Propriétaire de serveur vérifié",
+  "ru": "Проверенный владелец сервера",
+  "zh-Hans": "已验证服务器所有者"
+ },
+ "Very limited": {
+  "ar": "محدود جداً",
+  "de": "Stark eingeschränkt",
+  "es": "Muy limitado",
+  "fr": "Très limité",
+  "ru": "Очень ограничено",
+  "zh-Hans": "非常有限"
+ },
+ "View": {
+  "ar": "عرض",
+  "de": "Ansehen",
+  "es": "Ver",
+  "fr": "Voir",
+  "ru": "Просмотр",
+  "zh-Hans": "查看"
+ },
+ "View on Discover": {
+  "ar": "عرض في استكشف",
+  "de": "In Discover ansehen",
+  "es": "Ver en Descubrir",
+  "fr": "Voir dans Découvrir",
+  "ru": "Смотреть в «Обзоре»",
+  "zh-Hans": "在“发现”中查看"
+ },
+ "Violet": {
+  "ar": "بنفسجي",
+  "de": "Violett",
+  "es": "Violeta",
+  "fr": "Violet",
+  "ru": "Фиолетовый",
+  "zh-Hans": "紫罗兰"
+ },
+ "Virgo": {
+  "ar": "العذراء",
+  "de": "Jungfrau",
+  "es": "Virgo",
+  "fr": "Vierge",
+  "ru": "Дева",
+  "zh-Hans": "处女座"
+ },
+ "Voice and call sounds": {
+  "ar": "أصوات الصوت والمكالمات",
+  "de": "Sprach- und Anruftöne",
+  "es": "Sonidos de voz y llamadas",
+  "fr": "Sons de voix et d'appel",
+  "ru": "Звуки голоса и звонков",
+  "zh-Hans": "语音和通话音效"
+ },
+ "Voice channel settings": {
+  "ar": "إعدادات القناة الصوتية",
+  "de": "Sprachkanal-Einstellungen",
+  "es": "Ajustes del canal de voz",
+  "fr": "Paramètres du salon vocal",
+  "ru": "Настройки голосового канала",
+  "zh-Hans": "语音频道设置"
+ },
+ "Voice processing": {
+  "ar": "معالجة الصوت",
+  "de": "Sprachverarbeitung",
+  "es": "Procesamiento de voz",
+  "fr": "Traitement de la voix",
+  "ru": "Обработка голоса",
+  "zh-Hans": "语音处理"
+ },
+ "Voice rooms with people in them.": {
+  "ar": "غرف صوتية فيها أشخاص.",
+  "de": "Sprachräume mit Leuten darin.",
+  "es": "Salas de voz con gente dentro.",
+  "fr": "Salons vocaux avec des gens dedans.",
+  "ru": "Голосовые комнаты, в которых есть люди.",
+  "zh-Hans": "有人在其中的语音房间。"
+ },
+ "Waiting for approval": {
+  "ar": "بانتظار الموافقة",
+  "de": "Wartet auf Genehmigung",
+  "es": "Esperando aprobación",
+  "fr": "En attente d'approbation",
+  "ru": "Ожидает одобрения",
+  "zh-Hans": "等待批准"
+ },
+ "Waiting for the team": {
+  "ar": "بانتظار الفريق",
+  "de": "Wartet auf das Team",
+  "es": "Esperando al equipo",
+  "fr": "En attente de l'équipe",
+  "ru": "Ожидает команду",
+  "zh-Hans": "等待团队"
+ },
+ "Warning": {
+  "ar": "تحذير",
+  "de": "Warnung",
+  "es": "Advertencia",
+  "fr": "Avertissement",
+  "ru": "Предупреждение",
+  "zh-Hans": "警告"
+ },
+ "Wave lines": {
+  "ar": "خطوط متموجة",
+  "de": "Wellenlinien",
+  "es": "Líneas onduladas",
+  "fr": "Lignes ondulées",
+  "ru": "Волнистые линии",
+  "zh-Hans": "波浪线"
+ },
+ "Waves": {
+  "ar": "أمواج",
+  "de": "Wellen",
+  "es": "Olas",
+  "fr": "Vagues",
+  "ru": "Волны",
+  "zh-Hans": "波浪"
+ },
+ "We could not load your sessions.": {
+  "ar": "تعذّر تحميل جلساتك.",
+  "de": "Wir konnten deine Sitzungen nicht laden.",
+  "es": "No pudimos cargar tus sesiones.",
+  "fr": "Impossible de charger tes sessions.",
+  "ru": "Не удалось загрузить ваши сеансы.",
+  "zh-Hans": "无法加载你的会话。"
+ },
+ "We couldn't download your copy. Please try again.": {
+  "ar": "تعذّر تنزيل نسختك. حاول مرة أخرى.",
+  "de": "Wir konnten deine Kopie nicht herunterladen. Bitte versuche es erneut.",
+  "es": "No pudimos descargar tu copia. Inténtalo de nuevo.",
+  "fr": "Impossible de télécharger ta copie. Réessaie.",
+  "ru": "Не удалось скачать вашу копию. Попробуйте ещё раз.",
+  "zh-Hans": "无法下载你的副本，请重试。"
+ },
+ "We need more information": {
+  "ar": "نحتاج إلى مزيد من المعلومات",
+  "de": "Wir brauchen mehr Informationen",
+  "es": "Necesitamos más información",
+  "fr": "Nous avons besoin de plus d'informations",
+  "ru": "Нам нужна дополнительная информация",
+  "zh-Hans": "我们需要更多信息"
+ },
+ "We prepare it in the background and e-mail you when it's ready. You can ask once every 24 hours.": {
+  "ar": "نجهّزها في الخلفية ونراسلك بالبريد عند جاهزيتها. يمكنك الطلب مرة كل 24 ساعة.",
+  "de": "Wir bereiten sie im Hintergrund vor und schicken dir eine E-Mail, wenn sie fertig ist. Du kannst einmal alle 24 Stunden anfragen.",
+  "es": "La preparamos en segundo plano y te enviamos un correo cuando esté lista. Puedes pedirla una vez cada 24 horas.",
+  "fr": "Nous la préparons en arrière-plan et t'envoyons un e-mail quand elle est prête. Tu peux la demander une fois toutes les 24 heures.",
+  "ru": "Мы подготовим её в фоне и отправим письмо, когда она будет готова. Запрашивать можно раз в 24 часа.",
+  "zh-Hans": "我们会在后台准备，完成后通过电子邮件通知你。每 24 小时可申请一次。"
+ }
+}

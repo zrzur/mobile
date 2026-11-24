@@ -1,0 +1,5 @@
+{
+  "Call ended": { "ar": "انتهت المكالمة", "de": "Anruf beendet", "es": "Llamada finalizada", "fr": "Appel terminé", "ru": "Звонок завершён", "zh-Hans": "通话已结束" },
+  "Calling…": { "ar": "جارٍ الاتصال…", "de": "Wird angerufen…", "es": "Llamando…", "fr": "Appel en cours…", "ru": "Вызов…", "zh-Hans": "正在呼叫…" },
+  "Return to call": { "ar": "العودة إلى المكالمة", "de": "Zurück zum Anruf", "es": "Volver a la llamada", "fr": "Revenir à l'appel", "ru": "Вернуться к звонку", "zh-Hans": "返回通话" }
+}

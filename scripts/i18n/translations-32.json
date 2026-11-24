@@ -1,0 +1,7 @@
+{
+  "Community frame": { "ar": "إطار من المجتمع", "de": "Community-Rahmen", "es": "Marco de la comunidad", "fr": "Cadre de la communauté", "ru": "Рамка от сообщества", "zh-Hans": "社区边框" },
+  "Crystal cave": { "ar": "كهف الكريستال", "de": "Kristallhöhle", "es": "Cueva de cristal", "fr": "Grotte de cristal", "ru": "Хрустальная пещера", "zh-Hans": "水晶洞" },
+  "Frames": { "ar": "الإطارات", "de": "Rahmen", "es": "Marcos", "fr": "Cadres", "ru": "Рамки", "zh-Hans": "边框" },
+  "Profile frame": { "ar": "إطار الملف الشخصي", "de": "Profilrahmen", "es": "Marco de perfil", "fr": "Cadre de profil", "ru": "Рамка профиля", "zh-Hans": "个人资料边框" },
+  "Published {date}": { "ar": "نُشر في {date}", "de": "Veröffentlicht am {date}", "es": "Publicado el {date}", "fr": "Publié le {date}", "ru": "Опубликовано {date}", "zh-Hans": "发布于 {date}" }
+}

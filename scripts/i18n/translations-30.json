@@ -1,0 +1,4 @@
+{
+  "Give one person their own permissions here, on top of their roles.": { "ar": "امنح شخصًا واحدًا صلاحياته الخاصة هنا، إضافةً إلى صلاحيات أدواره.", "de": "Gib einer Person hier eigene Berechtigungen, zusätzlich zu ihren Rollen.", "es": "Da a una persona sus propios permisos aquí, además de los de sus roles.", "fr": "Donne ici à une personne ses propres permissions, en plus de celles de ses rôles.", "ru": "Здесь можно дать одному человеку собственные права поверх прав его ролей.", "zh-Hans": "在这里为某个人设置专属权限，叠加在其角色权限之上。" },
+  "Remove {name}'s own permissions": { "ar": "إزالة الصلاحيات الخاصة بـ {name}", "de": "Eigene Berechtigungen von {name} entfernen", "es": "Quitar los permisos propios de {name}", "fr": "Retirer les permissions propres de {name}", "ru": "Убрать собственные права {name}", "zh-Hans": "移除 {name} 的专属权限" }
+}

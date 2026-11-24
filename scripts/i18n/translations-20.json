@@ -1,0 +1,1162 @@
+{
+ "“{text}”": {
+  "ar": "“{text}”",
+  "de": "“{text}”",
+  "es": "“{text}”",
+  "fr": "“{text}”",
+  "ru": "“{text}”",
+  "zh-Hans": "“{text}”"
+ },
+ "\"{value}\" is not a day. Write it like 2026-11-09.": {
+  "ar": "\"{value}\" ليس يوماً صالحاً. اكتبه هكذا: 2026-11-09.",
+  "de": "\"{value}\" ist kein Tag. Schreib es so: 2026-11-09.",
+  "es": "\"{value}\" no es un día. Escríbelo así: 2026-11-09.",
+  "fr": "« {value} » n’est pas un jour. Écris-le comme ceci : 2026-11-09.",
+  "ru": "«{value}» — это не дата. Напиши так: 2026-11-09.",
+  "zh-Hans": "“{value}”不是有效的日期。请这样写：2026-11-09。"
+ },
+ "{0, plural, =0 {Full} one {Full · # on the waiting list} other {Full · # on the waiting list}}": {
+  "ar": "{0, plural, =0 {ممتلئة} one {ممتلئة · # في قائمة الانتظار} two {ممتلئة · # في قائمة الانتظار} few {ممتلئة · # في قائمة الانتظار} many {ممتلئة · # في قائمة الانتظار} other {ممتلئة · # في قائمة الانتظار}}",
+  "de": "{0, plural, =0 {Voll} one {Voll · # auf der Warteliste} other {Voll · # auf der Warteliste}}",
+  "es": "{0, plural, =0 {Completo} one {Completo · # en lista de espera} other {Completo · # en lista de espera}}",
+  "fr": "{0, plural, =0 {Complet} one {Complet · # sur liste d’attente} other {Complet · # sur liste d’attente}}",
+  "ru": "{0, plural, =0 {Мест нет} one {Мест нет · # в списке ожидания} few {Мест нет · # в списке ожидания} many {Мест нет · # в списке ожидания} other {Мест нет · # в списке ожидания}}",
+  "zh-Hans": "{0, plural, =0 {已满} other {已满 · 候补 # 人}}"
+ },
+ "{0, plural, =0 {Full} one {Full · # waiting} other {Full · # waiting}}": {
+  "ar": "{0, plural, =0 {ممتلئة} one {ممتلئة · # ينتظر} two {ممتلئة · # ينتظران} few {ممتلئة · # ينتظرون} many {ممتلئة · # ينتظرون} other {ممتلئة · # ينتظرون}}",
+  "de": "{0, plural, =0 {Voll} one {Voll · # wartet} other {Voll · # warten}}",
+  "es": "{0, plural, =0 {Completo} one {Completo · # esperando} other {Completo · # esperando}}",
+  "fr": "{0, plural, =0 {Complet} one {Complet · # en attente} other {Complet · # en attente}}",
+  "ru": "{0, plural, =0 {Мест нет} one {Мест нет · ждёт #} few {Мест нет · ждут #} many {Мест нет · ждут #} other {Мест нет · ждут #}}",
+  "zh-Hans": "{0, plural, =0 {已满} other {已满 · # 人等待}}"
+ },
+ "{0, plural, =0 {Nobody is waiting yet. Seats go to whoever came first.} one {# person is waiting before you. Seats go to whoever came first.} other {# people are waiting before you. Seats go to whoever came first.}}": {
+  "ar": "{0, plural, =0 {لا أحد في الانتظار بعد. المقاعد لمن سبق.} one {شخص واحد ينتظر قبلك. المقاعد لمن سبق.} two {شخصان ينتظران قبلك. المقاعد لمن سبق.} few {# أشخاص ينتظرون قبلك. المقاعد لمن سبق.} many {# شخصاً ينتظرون قبلك. المقاعد لمن سبق.} other {# شخص ينتظرون قبلك. المقاعد لمن سبق.}}",
+  "de": "{0, plural, =0 {Noch wartet niemand. Die Plätze gehen an die, die zuerst da waren.} one {# Person wartet vor dir. Die Plätze gehen an die, die zuerst da waren.} other {# Personen warten vor dir. Die Plätze gehen an die, die zuerst da waren.}}",
+  "es": "{0, plural, =0 {Todavía no espera nadie. Los sitios son para quien llegó primero.} one {# persona espera antes que tú. Los sitios son para quien llegó primero.} other {# personas esperan antes que tú. Los sitios son para quien llegó primero.}}",
+  "fr": "{0, plural, =0 {Personne n’attend pour l’instant. Les places vont aux premiers arrivés.} one {# personne attend avant toi. Les places vont aux premiers arrivés.} other {# personnes attendent avant toi. Les places vont aux premiers arrivés.}}",
+  "ru": "{0, plural, =0 {Пока никто не ждёт. Места достаются тем, кто пришёл первым.} one {Перед тобой ждёт # человек. Места достаются тем, кто пришёл первым.} few {Перед тобой ждут # человека. Места достаются тем, кто пришёл первым.} many {Перед тобой ждут # человек. Места достаются тем, кто пришёл первым.} other {Перед тобой ждут # человека. Места достаются тем, кто пришёл первым.}}",
+  "zh-Hans": "{0, plural, =0 {还没有人在等候。座位先到先得。} other {你前面有 # 人在等候。座位先到先得。}}"
+ },
+ "{0, plural, one {# message is older than 7 days and stays; delete it on its own.} other {# messages are older than 7 days and stay; delete them one by one.}}": {
+  "ar": "{0, plural, one {رسالة واحدة أقدم من 7 أيام وستبقى؛ احذفها وحدها.} two {رسالتان أقدم من 7 أيام وستبقيان؛ احذفهما واحدة تلو الأخرى.} few {# رسائل أقدم من 7 أيام وستبقى؛ احذفها واحدة تلو الأخرى.} many {# رسالة أقدم من 7 أيام وستبقى؛ احذفها واحدة تلو الأخرى.} other {# رسالة أقدم من 7 أيام وستبقى؛ احذفها واحدة تلو الأخرى.}}",
+  "de": "{0, plural, one {# Nachricht ist älter als 7 Tage und bleibt; lösche sie einzeln.} other {# Nachrichten sind älter als 7 Tage und bleiben; lösche sie einzeln.}}",
+  "es": "{0, plural, one {# mensaje tiene más de 7 días y se queda; bórralo por separado.} other {# mensajes tienen más de 7 días y se quedan; bórralos uno a uno.}}",
+  "fr": "{0, plural, one {# message date de plus de 7 jours et reste ; supprime-le séparément.} other {# messages datent de plus de 7 jours et restent ; supprime-les un par un.}}",
+  "ru": "{0, plural, one {# сообщение старше 7 дней и останется; удали его отдельно.} few {# сообщения старше 7 дней и останутся; удаляй их по одному.} many {# сообщений старше 7 дней и останутся; удаляй их по одному.} other {# сообщения старше 7 дней и останутся; удаляй их по одному.}}",
+  "zh-Hans": "{0, plural, other {有 # 条消息超过 7 天，不会被删除；请逐条单独删除。}}"
+ },
+ "{0, plural, one {# message will be deleted for everyone. This cannot be undone.} other {# messages will be deleted for everyone. This cannot be undone.}}": {
+  "ar": "{0, plural, one {سيتم حذف رسالة واحدة للجميع. لا يمكن التراجع عن هذا.} two {سيتم حذف رسالتين للجميع. لا يمكن التراجع عن هذا.} few {سيتم حذف # رسائل للجميع. لا يمكن التراجع عن هذا.} many {سيتم حذف # رسالة للجميع. لا يمكن التراجع عن هذا.} other {سيتم حذف # رسالة للجميع. لا يمكن التراجع عن هذا.}}",
+  "de": "{0, plural, one {# Nachricht wird für alle gelöscht. Das kann nicht rückgängig gemacht werden.} other {# Nachrichten werden für alle gelöscht. Das kann nicht rückgängig gemacht werden.}}",
+  "es": "{0, plural, one {Se eliminará # mensaje para todos. No se puede deshacer.} other {Se eliminarán # mensajes para todos. No se puede deshacer.}}",
+  "fr": "{0, plural, one {# message sera supprimé pour tout le monde. Cette action est irréversible.} other {# messages seront supprimés pour tout le monde. Cette action est irréversible.}}",
+  "ru": "{0, plural, one {# сообщение будет удалено для всех. Это нельзя отменить.} few {# сообщения будут удалены для всех. Это нельзя отменить.} many {# сообщений будут удалены для всех. Это нельзя отменить.} other {# сообщения будут удалены для всех. Это нельзя отменить.}}",
+  "zh-Hans": "{0, plural, other {将为所有人删除 # 条消息。此操作无法撤销。}}"
+ },
+ "{0, plural, one {# seat left} other {# seats left}}": {
+  "ar": "{0, plural, one {بقي مقعد واحد} two {بقي مقعدان} few {بقيت # مقاعد} many {بقي # مقعداً} other {بقي # مقعد}}",
+  "de": "{0, plural, one {Noch # Platz} other {Noch # Plätze}}",
+  "es": "{0, plural, one {Queda # plaza} other {Quedan # plazas}}",
+  "fr": "{0, plural, one {# place restante} other {# places restantes}}",
+  "ru": "{0, plural, one {Остался # место} few {Осталось # места} many {Осталось # мест} other {Осталось # места}}",
+  "zh-Hans": "{0, plural, other {剩余 # 个名额}}"
+ },
+ "{0, plural, one {# vote} other {# votes}}": {
+  "ar": "{0, plural, one {صوت واحد} two {صوتان} few {# أصوات} many {# صوتاً} other {# صوت}}",
+  "de": "{0, plural, one {# Stimme} other {# Stimmen}}",
+  "es": "{0, plural, one {# voto} other {# votos}}",
+  "fr": "{0, plural, one {# vote} other {# votes}}",
+  "ru": "{0, plural, one {# голос} few {# голоса} many {# голосов} other {# голоса}}",
+  "zh-Hans": "{0, plural, other {# 票}}"
+ },
+ "{0} followers": {
+  "ar": "{0} متابع",
+  "de": "{0} Follower",
+  "es": "{0} seguidores",
+  "fr": "{0} abonnés",
+  "ru": "{0} подписчиков",
+  "zh-Hans": "{0} 位关注者"
+ },
+ "{0} games": {
+  "ar": "{0} لعبة",
+  "de": "{0} Spiele",
+  "es": "{0} juegos",
+  "fr": "{0} jeux",
+  "ru": "{0} игр",
+  "zh-Hans": "{0} 款游戏"
+ },
+ "{0} h": {
+  "ar": "{0} س",
+  "de": "{0} Std.",
+  "es": "{0} h",
+  "fr": "{0} h",
+  "ru": "{0} ч",
+  "zh-Hans": "{0} 小时"
+ },
+ "{0} is calling the group": {
+  "ar": "{0} يتصل بالمجموعة",
+  "de": "{0} ruft die Gruppe an",
+  "es": "{0} está llamando al grupo",
+  "fr": "{0} appelle le groupe",
+  "ru": "{0} звонит в группу",
+  "zh-Hans": "{0} 正在呼叫群组"
+ },
+ "{0} of {1} seats are free.": {
+  "ar": "{0} من {1} مقعداً متاح.",
+  "de": "{0} von {1} Plätzen sind frei.",
+  "es": "{0} de {1} plazas están libres.",
+  "fr": "{0} places sur {1} sont libres.",
+  "ru": "Свободно мест: {0} из {1}.",
+  "zh-Hans": "{1} 个名额中还有 {0} 个空位。"
+ },
+ "{0} repositories": {
+  "ar": "{0} مستودع",
+  "de": "{0} Repositories",
+  "es": "{0} repositorios",
+  "fr": "{0} dépôts",
+  "ru": "{0} репозиториев",
+  "zh-Hans": "{0} 个仓库"
+ },
+ "{0} stars": {
+  "ar": "{0} نجمة",
+  "de": "{0} Sterne",
+  "es": "{0} estrellas",
+  "fr": "{0} étoiles",
+  "ru": "{0} звёзд",
+  "zh-Hans": "{0} 颗星"
+ },
+ "{count, plural, one {# member} other {# members}}": {
+  "ar": "{count, plural, one {عضو واحد} two {عضوان} few {# أعضاء} many {# عضواً} other {# عضو}}",
+  "de": "{count, plural, one {# Mitglied} other {# Mitglieder}}",
+  "es": "{count, plural, one {# miembro} other {# miembros}}",
+  "fr": "{count, plural, one {# membre} other {# membres}}",
+  "ru": "{count, plural, one {# участник} few {# участника} many {# участников} other {# участника}}",
+  "zh-Hans": "{count, plural, other {# 位成员}}"
+ },
+ "{count, plural, one {# message} other {# messages}}": {
+  "ar": "{count, plural, one {رسالة واحدة} two {رسالتان} few {# رسائل} many {# رسالة} other {# رسالة}}",
+  "de": "{count, plural, one {# Nachricht} other {# Nachrichten}}",
+  "es": "{count, plural, one {# mensaje} other {# mensajes}}",
+  "fr": "{count, plural, one {# message} other {# messages}}",
+  "ru": "{count, plural, one {# сообщение} few {# сообщения} many {# сообщений} other {# сообщения}}",
+  "zh-Hans": "{count, plural, other {# 条消息}}"
+ },
+ "{count, plural, one {# selected} other {# selected}}": {
+  "ar": "{count, plural, one {محدد واحد} two {محددان} few {# محددة} many {# محدداً} other {# محدد}}",
+  "de": "{count, plural, one {# ausgewählt} other {# ausgewählt}}",
+  "es": "{count, plural, one {# seleccionado} other {# seleccionados}}",
+  "fr": "{count, plural, one {# sélectionné} other {# sélectionnés}}",
+  "ru": "{count, plural, one {Выбран #} few {Выбрано #} many {Выбрано #} other {Выбрано #}}",
+  "zh-Hans": "{count, plural, other {已选 #}}"
+ },
+ "{going, plural, one {# going} other {# going}}": {
+  "ar": "{going, plural, one {شخص واحد سيحضر} two {شخصان سيحضران} few {# أشخاص سيحضرون} many {# شخصاً سيحضرون} other {# شخص سيحضرون}}",
+  "de": "{going, plural, one {# kommt} other {# kommen}}",
+  "es": "{going, plural, one {# va} other {# van}}",
+  "fr": "{going, plural, one {# participant} other {# participants}}",
+  "ru": "{going, plural, one {# идёт} few {# идут} many {# идут} other {# идут}}",
+  "zh-Hans": "{going, plural, other {# 人参加}}"
+ },
+ "{going} going · {maybe} maybe": {
+  "ar": "{going} سيحضرون · {maybe} ربما",
+  "de": "{going} kommen · {maybe} vielleicht",
+  "es": "{going} van · {maybe} quizá",
+  "fr": "{going} participants · {maybe} peut-être",
+  "ru": "{going} идут · {maybe} возможно",
+  "zh-Hans": "{going} 人参加 · {maybe} 人可能参加"
+ },
+ "{going} of {0} seats": {
+  "ar": "{going} من {0} مقعداً",
+  "de": "{going} von {0} Plätzen",
+  "es": "{going} de {0} plazas",
+  "fr": "{going} sur {0} places",
+  "ru": "{going} из {0} мест",
+  "zh-Hans": "{going}/{0} 个名额"
+ },
+ "{name} accepted your friend request": {
+  "ar": "{name} قبل طلب صداقتك",
+  "de": "{name} hat deine Freundschaftsanfrage angenommen",
+  "es": "{name} aceptó tu solicitud de amistad",
+  "fr": "{name} a accepté ta demande d’ami",
+  "ru": "{name} принял(а) твою заявку в друзья",
+  "zh-Hans": "{name} 接受了你的好友请求"
+ },
+ "{name} sent you a friend request": {
+  "ar": "{name} أرسل لك طلب صداقة",
+  "de": "{name} hat dir eine Freundschaftsanfrage geschickt",
+  "es": "{name} te envió una solicitud de amistad",
+  "fr": "{name} t’a envoyé une demande d’ami",
+  "ru": "{name} отправил(а) тебе заявку в друзья",
+  "zh-Hans": "{name} 向你发送了好友请求"
+ },
+ "{other} declined the call.": {
+  "ar": "{other} رفض المكالمة.",
+  "de": "{other} hat den Anruf abgelehnt.",
+  "es": "{other} rechazó la llamada.",
+  "fr": "{other} a refusé l’appel.",
+  "ru": "{other} отклонил(а) звонок.",
+  "zh-Hans": "{other} 拒绝了通话。"
+ },
+ "{other} didn't answer.": {
+  "ar": "{other} لم يرد.",
+  "de": "{other} hat nicht abgenommen.",
+  "es": "{other} no respondió.",
+  "fr": "{other} n’a pas répondu.",
+  "ru": "{other} не ответил(а).",
+  "zh-Hans": "{other} 未接听。"
+ },
+ "{span} before": {
+  "ar": "قبل {span}",
+  "de": "vor {span}",
+  "es": "hace {span}",
+  "fr": "il y a {span}",
+  "ru": "{span} назад",
+  "zh-Hans": "{span}前"
+ },
+ "{stepsDone} of {0} done": {
+  "ar": "تم {stepsDone} من {0}",
+  "de": "{stepsDone} von {0} erledigt",
+  "es": "{stepsDone} de {0} hechos",
+  "fr": "{stepsDone} sur {0} terminés",
+  "ru": "Готово: {stepsDone} из {0}",
+  "zh-Hans": "已完成 {stepsDone}/{0}"
+ },
+ "<0>Be careful!</0> This is not the same as the link that was displayed:": {
+  "ar": "<0>احذر!</0> هذا ليس مطابقاً للرابط الذي ظهر:",
+  "de": "<0>Vorsicht!</0> Das ist nicht derselbe wie der angezeigte Link:",
+  "es": "<0>¡Cuidado!</0> No es el mismo enlace que se mostraba:",
+  "fr": "<0>Attention !</0> Ce n’est pas le même lien que celui affiché :",
+  "ru": "<0>Осторожно!</0> Это не та ссылка, которая была показана:",
+  "zh-Hans": "<0>请注意！</0>这与显示的链接不一致："
+ },
+ "2 weeks": {
+  "ar": "أسبوعان",
+  "de": "2 Wochen",
+  "es": "2 semanas",
+  "fr": "2 semaines",
+  "ru": "2 недели",
+  "zh-Hans": "2 周"
+ },
+ "24 hours": {
+  "ar": "24 ساعة",
+  "de": "24 Stunden",
+  "es": "24 horas",
+  "fr": "24 heures",
+  "ru": "24 часа",
+  "zh-Hans": "24 小时"
+ },
+ "4 hours": {
+  "ar": "4 ساعات",
+  "de": "4 Stunden",
+  "es": "4 horas",
+  "fr": "4 heures",
+  "ru": "4 часа",
+  "zh-Hans": "4 小时"
+ },
+ "8 hours": {
+  "ar": "8 ساعات",
+  "de": "8 Stunden",
+  "es": "8 horas",
+  "fr": "8 heures",
+  "ru": "8 часов",
+  "zh-Hans": "8 小时"
+ },
+ "A copy goes to the place you choose. Nobody it mentions is notified.": {
+  "ar": "تذهب نسخة إلى المكان الذي تختاره. لا يتم إشعار أحد ممن ذُكروا.",
+  "de": "Eine Kopie geht an den Ort, den du wählst. Niemand, der erwähnt wird, wird benachrichtigt.",
+  "es": "Se envía una copia al lugar que elijas. No se avisa a nadie de los mencionados.",
+  "fr": "Une copie part à l’endroit que tu choisis. Aucune personne mentionnée n’est notifiée.",
+  "ru": "Копия уйдёт туда, куда ты выберешь. Упомянутые люди не получат уведомление.",
+  "zh-Hans": "副本会发送到你选择的位置。被提及的人不会收到通知。"
+ },
+ "A text channel": {
+  "ar": "قناة نصية",
+  "de": "Ein Textkanal",
+  "es": "Un canal de texto",
+  "fr": "Un salon textuel",
+  "ru": "Текстовый канал",
+  "zh-Hans": "文字频道"
+ },
+ "A voice channel": {
+  "ar": "قناة صوتية",
+  "de": "Ein Sprachkanal",
+  "es": "Un canal de voz",
+  "fr": "Un salon vocal",
+  "ru": "Голосовой канал",
+  "zh-Hans": "语音频道"
+ },
+ "About this event": {
+  "ar": "عن هذه الفعالية",
+  "de": "Über dieses Event",
+  "es": "Sobre este evento",
+  "fr": "À propos de cet événement",
+  "ru": "Об этом событии",
+  "zh-Hans": "关于此活动"
+ },
+ "Accept with video": {
+  "ar": "قبول مع الفيديو",
+  "de": "Mit Video annehmen",
+  "es": "Aceptar con vídeo",
+  "fr": "Accepter avec la vidéo",
+  "ru": "Принять с видео",
+  "zh-Hans": "开启视频接听"
+ },
+ "Active {0}": {
+  "ar": "نشط {0}",
+  "de": "Aktiv {0}",
+  "es": "Activo {0}",
+  "fr": "Actif {0}",
+  "ru": "Активен {0}",
+  "zh-Hans": "活跃于 {0}"
+ },
+ "Add a note (optional)": {
+  "ar": "أضف ملاحظة (اختياري)",
+  "de": "Notiz hinzufügen (optional)",
+  "es": "Añade una nota (opcional)",
+  "fr": "Ajouter une note (facultatif)",
+  "ru": "Добавить заметку (необязательно)",
+  "zh-Hans": "添加备注（可选）"
+ },
+ "Add answer": {
+  "ar": "إضافة إجابة",
+  "de": "Antwort hinzufügen",
+  "es": "Añadir respuesta",
+  "fr": "Ajouter une réponse",
+  "ru": "Добавить вариант",
+  "zh-Hans": "添加选项"
+ },
+ "Add at least two answers.": {
+  "ar": "أضف إجابتين على الأقل.",
+  "de": "Füge mindestens zwei Antworten hinzu.",
+  "es": "Añade al menos dos respuestas.",
+  "fr": "Ajoute au moins deux réponses.",
+  "ru": "Добавь минимум два варианта.",
+  "zh-Hans": "请至少添加两个选项。"
+ },
+ "Address or link": {
+  "ar": "العنوان أو الرابط",
+  "de": "Adresse oder Link",
+  "es": "Dirección o enlace",
+  "fr": "Adresse ou lien",
+  "ru": "Адрес или ссылка",
+  "zh-Hans": "地址或链接"
+ },
+ "Affiliate": {
+  "ar": "شريك",
+  "de": "Partner",
+  "es": "Afiliado",
+  "fr": "Affilié",
+  "ru": "Партнёр",
+  "zh-Hans": "合作伙伴"
+ },
+ "After": {
+  "ar": "بعد",
+  "de": "Nach",
+  "es": "Después",
+  "fr": "Après",
+  "ru": "После",
+  "zh-Hans": "之后"
+ },
+ "After it, people join a waiting list in order.": {
+  "ar": "بعد ذلك ينضم الناس إلى قائمة انتظار بالترتيب.",
+  "de": "Danach kommen Leute der Reihe nach auf eine Warteliste.",
+  "es": "Después, la gente entra en una lista de espera por orden.",
+  "fr": "Ensuite, les gens rejoignent une liste d’attente dans l’ordre.",
+  "ru": "После этого люди попадают в список ожидания по очереди.",
+  "zh-Hans": "之后，人们将按顺序加入候补名单。"
+ },
+ "All seats are taken": {
+  "ar": "جميع المقاعد محجوزة",
+  "de": "Alle Plätze sind vergeben",
+  "es": "Todas las plazas están ocupadas",
+  "fr": "Toutes les places sont prises",
+  "ru": "Все места заняты",
+  "zh-Hans": "名额已满"
+ },
+ "Allow more than one answer": {
+  "ar": "السماح بأكثر من إجابة",
+  "de": "Mehr als eine Antwort erlauben",
+  "es": "Permitir más de una respuesta",
+  "fr": "Autoriser plusieurs réponses",
+  "ru": "Разрешить несколько ответов",
+  "zh-Hans": "允许多选"
+ },
+ "An answer can be at most {ANSWER_MAX} characters.": {
+  "ar": "يمكن أن تصل الإجابة إلى {ANSWER_MAX} حرفاً كحد أقصى.",
+  "de": "Eine Antwort darf höchstens {ANSWER_MAX} Zeichen lang sein.",
+  "es": "Una respuesta puede tener como máximo {ANSWER_MAX} caracteres.",
+  "fr": "Une réponse peut contenir au maximum {ANSWER_MAX} caractères.",
+  "ru": "Вариант ответа — не более {ANSWER_MAX} символов.",
+  "zh-Hans": "每个选项最多 {ANSWER_MAX} 个字符。"
+ },
+ "An empty event": {
+  "ar": "فعالية فارغة",
+  "de": "Ein leeres Event",
+  "es": "Un evento vacío",
+  "fr": "Un événement vide",
+  "ru": "Пустое событие",
+  "zh-Hans": "空白活动"
+ },
+ "An event can last up to 31 days.": {
+  "ar": "يمكن أن تستمر الفعالية حتى 31 يوماً.",
+  "de": "Ein Event kann bis zu 31 Tage dauern.",
+  "es": "Un evento puede durar hasta 31 días.",
+  "fr": "Un événement peut durer jusqu’à 31 jours.",
+  "ru": "Событие может длиться до 31 дня.",
+  "zh-Hans": "活动最长可持续 31 天。"
+ },
+ "Any place": {
+  "ar": "أي مكان",
+  "de": "Irgendein Ort",
+  "es": "Cualquier lugar",
+  "fr": "N’importe où",
+  "ru": "Любое место",
+  "zh-Hans": "任意地点"
+ },
+ "Ask a question and let people vote. Results update live.": {
+  "ar": "اطرح سؤالاً ودع الناس يصوّتون. تتحدث النتائج مباشرة.",
+  "de": "Stell eine Frage und lass andere abstimmen. Die Ergebnisse aktualisieren sich live.",
+  "es": "Haz una pregunta y deja que la gente vote. Los resultados se actualizan en vivo.",
+  "fr": "Pose une question et laisse les gens voter. Les résultats se mettent à jour en direct.",
+  "ru": "Задай вопрос и дай людям проголосовать. Результаты обновляются в реальном времени.",
+  "zh-Hans": "提出问题，让大家投票。结果实时更新。"
+ },
+ "Ask anything. Write your questions in the channel before the start.": {
+  "ar": "اسأل ما تشاء. اكتب أسئلتك في القناة قبل البداية.",
+  "de": "Frag, was du willst. Schreib deine Fragen vor dem Start in den Kanal.",
+  "es": "Pregunta lo que quieras. Escribe tus preguntas en el canal antes del inicio.",
+  "fr": "Pose tes questions. Écris-les dans le salon avant le début.",
+  "ru": "Спрашивай о чём угодно. Напиши вопросы в канале до начала.",
+  "zh-Hans": "随便问。请在开始前把问题写在频道里。"
+ },
+ "Ask to speak": {
+  "ar": "اطلب التحدث",
+  "de": "Sprechen anfragen",
+  "es": "Pedir hablar",
+  "fr": "Demander la parole",
+  "ru": "Попросить слово",
+  "zh-Hans": "申请发言"
+ },
+ "Asking to speak": {
+  "ar": "تطلب التحدث",
+  "de": "Sprechwunsch gesendet",
+  "es": "Pidiendo hablar",
+  "fr": "Demande la parole",
+  "ru": "Просишь слово",
+  "zh-Hans": "正在申请发言"
+ },
+ "Back to listeners": {
+  "ar": "العودة إلى المستمعين",
+  "de": "Zurück zu den Zuhörern",
+  "es": "Volver a los oyentes",
+  "fr": "Retour aux auditeurs",
+  "ru": "Вернуться к слушателям",
+  "zh-Hans": "回到听众席"
+ },
+ "Before": {
+  "ar": "قبل",
+  "de": "Vor",
+  "es": "Antes",
+  "fr": "Avant",
+  "ru": "До",
+  "zh-Hans": "之前"
+ },
+ "Bluetooth": {
+  "ar": "Bluetooth",
+  "de": "Bluetooth",
+  "es": "Bluetooth",
+  "fr": "Bluetooth",
+  "ru": "Bluetooth",
+  "zh-Hans": "Bluetooth"
+ },
+ "Can't go": {
+  "ar": "لا أستطيع الحضور",
+  "de": "Kann nicht",
+  "es": "No puedo ir",
+  "fr": "Indisponible",
+  "ru": "Не смогу",
+  "zh-Hans": "无法参加"
+ },
+ "Cancel event": {
+  "ar": "إلغاء الفعالية",
+  "de": "Event absagen",
+  "es": "Cancelar evento",
+  "fr": "Annuler l’événement",
+  "ru": "Отменить событие",
+  "zh-Hans": "取消活动"
+ },
+ "Cancel or delete": {
+  "ar": "إلغاء أو حذف",
+  "de": "Absagen oder löschen",
+  "es": "Cancelar o eliminar",
+  "fr": "Annuler ou supprimer",
+  "ru": "Отменить или удалить",
+  "zh-Hans": "取消或删除"
+ },
+ "Cancel the whole series": {
+  "ar": "إلغاء السلسلة كاملة",
+  "de": "Die ganze Serie absagen",
+  "es": "Cancelar toda la serie",
+  "fr": "Annuler toute la série",
+  "ru": "Отменить всю серию",
+  "zh-Hans": "取消整个系列"
+ },
+ "Cancel this event? The people who answered see that it is off.": {
+  "ar": "هل تريد إلغاء هذه الفعالية؟ سيرى من ردّوا أنها ألغيت.",
+  "de": "Dieses Event absagen? Wer geantwortet hat, sieht, dass es ausfällt.",
+  "es": "¿Cancelar este evento? Quienes respondieron verán que se ha cancelado.",
+  "fr": "Annuler cet événement ? Les personnes qui ont répondu verront qu’il est annulé.",
+  "ru": "Отменить это событие? Те, кто ответил, увидят, что оно отменено.",
+  "zh-Hans": "取消此活动？已回复的人会看到活动已取消。"
+ },
+ "Cancel this one and every one after it? Nothing more of this series is scheduled.": {
+  "ar": "هل تريد إلغاء هذه الفعالية وكل ما بعدها؟ لن يبقى شيء مجدول من هذه السلسلة.",
+  "de": "Dieses und alle folgenden absagen? Von dieser Serie ist dann nichts mehr geplant.",
+  "es": "¿Cancelar este y todos los siguientes? No quedará nada programado de esta serie.",
+  "fr": "Annuler celui-ci et tous les suivants ? Plus rien de cette série ne sera prévu.",
+  "ru": "Отменить это и все последующие? В этой серии ничего не останется в расписании.",
+  "zh-Hans": "取消本次及之后的所有活动？此系列将不再有任何安排。"
+ },
+ "Cancel this time": {
+  "ar": "إلغاء هذا الموعد",
+  "de": "Diesen Termin absagen",
+  "es": "Cancelar esta fecha",
+  "fr": "Annuler cette date",
+  "ru": "Отменить это занятие",
+  "zh-Hans": "取消这一次"
+ },
+ "Cancel this time only? The next one stays scheduled.": {
+  "ar": "هل تريد إلغاء هذا الموعد فقط؟ يبقى الموعد التالي مجدولاً.",
+  "de": "Nur diesen Termin absagen? Der nächste bleibt geplant.",
+  "es": "¿Cancelar solo esta fecha? La siguiente sigue programada.",
+  "fr": "Annuler seulement cette date ? La suivante reste prévue.",
+  "ru": "Отменить только это занятие? Следующее останется в расписании.",
+  "zh-Hans": "仅取消这一次？下一次仍会保留。"
+ },
+ "Change picture": {
+  "ar": "تغيير الصورة",
+  "de": "Bild ändern",
+  "es": "Cambiar imagen",
+  "fr": "Changer l’image",
+  "ru": "Сменить картинку",
+  "zh-Hans": "更换图片"
+ },
+ "Change the cover": {
+  "ar": "تغيير الغلاف",
+  "de": "Titelbild ändern",
+  "es": "Cambiar la portada",
+  "fr": "Changer la couverture",
+  "ru": "Сменить обложку",
+  "zh-Hans": "更换封面"
+ },
+ "Change your answer any time.": {
+  "ar": "يمكنك تغيير إجابتك في أي وقت.",
+  "de": "Du kannst deine Antwort jederzeit ändern.",
+  "es": "Puedes cambiar tu respuesta cuando quieras.",
+  "fr": "Tu peux changer ta réponse à tout moment.",
+  "ru": "Ответ можно изменить в любой момент.",
+  "zh-Hans": "你可以随时更改答案。"
+ },
+ "Choose at least one role that sees this event.": {
+  "ar": "اختر دوراً واحداً على الأقل يرى هذه الفعالية.",
+  "de": "Wähle mindestens eine Rolle, die dieses Event sieht.",
+  "es": "Elige al menos un rol que vea este evento.",
+  "fr": "Choisis au moins un rôle qui voit cet événement.",
+  "ru": "Выбери хотя бы одну роль, которая видит это событие.",
+  "zh-Hans": "请至少选择一个可看到此活动的角色。"
+ },
+ "Choose one answer": {
+  "ar": "اختر إجابة واحدة",
+  "de": "Wähle eine Antwort",
+  "es": "Elige una respuesta",
+  "fr": "Choisis une réponse",
+  "ru": "Выбери один ответ",
+  "zh-Hans": "请选择一个答案"
+ },
+ "Choose one or more answers": {
+  "ar": "اختر إجابة أو أكثر",
+  "de": "Wähle eine oder mehrere Antworten",
+  "es": "Elige una o más respuestas",
+  "fr": "Choisis une ou plusieurs réponses",
+  "ru": "Выбери один или несколько ответов",
+  "zh-Hans": "请选择一个或多个答案"
+ },
+ "Choose when it starts.": {
+  "ar": "اختر وقت البدء.",
+  "de": "Wähle, wann es beginnt.",
+  "es": "Elige cuándo empieza.",
+  "fr": "Choisis quand ça commence.",
+  "ru": "Выбери время начала.",
+  "zh-Hans": "选择开始时间。"
+ },
+ "Choose where it takes place.": {
+  "ar": "اختر مكان إقامتها.",
+  "de": "Wähle, wo es stattfindet.",
+  "es": "Elige dónde se celebra.",
+  "fr": "Choisis où ça se passe.",
+  "ru": "Выбери место проведения.",
+  "zh-Hans": "选择举办地点。"
+ },
+ "Close soundboard": {
+  "ar": "إغلاق لوحة الأصوات",
+  "de": "Soundboard schließen",
+  "es": "Cerrar el tablero de sonidos",
+  "fr": "Fermer la table de sons",
+  "ru": "Закрыть саундборд",
+  "zh-Hans": "关闭音效板"
+ },
+ "Close the stage": {
+  "ar": "إغلاق المنصة",
+  "de": "Stage beenden",
+  "es": "Cerrar el escenario",
+  "fr": "Fermer la scène",
+  "ru": "Закрыть сцену",
+  "zh-Hans": "关闭舞台"
+ },
+ "Connection lost. Reconnecting…": {
+  "ar": "انقطع الاتصال. جارٍ إعادة الاتصال…",
+  "de": "Verbindung verloren. Verbinde neu …",
+  "es": "Conexión perdida. Reconectando…",
+  "fr": "Connexion perdue. Reconnexion…",
+  "ru": "Соединение потеряно. Переподключение…",
+  "zh-Hans": "连接已断开。正在重新连接…"
+ },
+ "Copy as a draft": {
+  "ar": "نسخ كمسودة",
+  "de": "Als Entwurf kopieren",
+  "es": "Copiar como borrador",
+  "fr": "Copier comme brouillon",
+  "ru": "Копировать как черновик",
+  "zh-Hans": "复制为草稿"
+ },
+ "Cover": {
+  "ar": "الغلاف",
+  "de": "Titelbild",
+  "es": "Portada",
+  "fr": "Couverture",
+  "ru": "Обложка",
+  "zh-Hans": "封面"
+ },
+ "Create poll": {
+  "ar": "إنشاء تصويت",
+  "de": "Umfrage erstellen",
+  "es": "Crear encuesta",
+  "fr": "Créer un sondage",
+  "ru": "Создать опрос",
+  "zh-Hans": "创建投票"
+ },
+ "Delete selected messages": {
+  "ar": "حذف الرسائل المحددة",
+  "de": "Ausgewählte Nachrichten löschen",
+  "es": "Eliminar mensajes seleccionados",
+  "fr": "Supprimer les messages sélectionnés",
+  "ru": "Удалить выбранные сообщения",
+  "zh-Hans": "删除所选消息"
+ },
+ "Delete the whole series": {
+  "ar": "حذف السلسلة كاملة",
+  "de": "Die ganze Serie löschen",
+  "es": "Eliminar toda la serie",
+  "fr": "Supprimer toute la série",
+  "ru": "Удалить всю серию",
+  "zh-Hans": "删除整个系列"
+ },
+ "Delete this event and its answers for good?": {
+  "ar": "هل تريد حذف هذه الفعالية وإجاباتها نهائياً؟",
+  "de": "Dieses Event und seine Antworten endgültig löschen?",
+  "es": "¿Eliminar este evento y sus respuestas para siempre?",
+  "fr": "Supprimer définitivement cet événement et ses réponses ?",
+  "ru": "Удалить это событие и ответы на него навсегда?",
+  "zh-Hans": "永久删除此活动及其回复？"
+ },
+ "Delete this one and every one after it for good? Nothing more of this series is scheduled.": {
+  "ar": "هل تريد حذف هذه الفعالية وكل ما بعدها نهائياً؟ لن يبقى شيء مجدول من هذه السلسلة.",
+  "de": "Dieses und alle folgenden endgültig löschen? Von dieser Serie ist dann nichts mehr geplant.",
+  "es": "¿Eliminar este y todos los siguientes para siempre? No quedará nada programado de esta serie.",
+  "fr": "Supprimer définitivement celui-ci et tous les suivants ? Plus rien de cette série ne sera prévu.",
+  "ru": "Удалить это и все последующие навсегда? В этой серии ничего не останется в расписании.",
+  "zh-Hans": "永久删除本次及之后的所有活动？此系列将不再有任何安排。"
+ },
+ "Delete this time": {
+  "ar": "حذف هذا الموعد",
+  "de": "Diesen Termin löschen",
+  "es": "Eliminar esta fecha",
+  "fr": "Supprimer cette date",
+  "ru": "Удалить это занятие",
+  "zh-Hans": "删除这一次"
+ },
+ "Delete this time and its answers for good? The next one stays scheduled.": {
+  "ar": "هل تريد حذف هذا الموعد وإجاباته نهائياً؟ يبقى الموعد التالي مجدولاً.",
+  "de": "Diesen Termin und seine Antworten endgültig löschen? Der nächste bleibt geplant.",
+  "es": "¿Eliminar esta fecha y sus respuestas para siempre? La siguiente sigue programada.",
+  "fr": "Supprimer définitivement cette date et ses réponses ? La suivante reste prévue.",
+  "ru": "Удалить это занятие и ответы на него навсегда? Следующее останется в расписании.",
+  "zh-Hans": "永久删除这一次及其回复？下一次仍会保留。"
+ },
+ "Does not repeat": {
+  "ar": "لا يتكرر",
+  "de": "Wiederholt sich nicht",
+  "es": "No se repite",
+  "fr": "Ne se répète pas",
+  "ru": "Не повторяется",
+  "zh-Hans": "不重复"
+ },
+ "Draft: only organisers see it": {
+  "ar": "مسودة: يراها المنظمون فقط",
+  "de": "Entwurf: nur Organisatoren sehen es",
+  "es": "Borrador: solo lo ven los organizadores",
+  "fr": "Brouillon : visible uniquement par les organisateurs",
+  "ru": "Черновик: видят только организаторы",
+  "zh-Hans": "草稿：仅组织者可见"
+ },
+ "Edit {name}'s roles": {
+  "ar": "تعديل أدوار {name}",
+  "de": "Rollen von {name} bearbeiten",
+  "es": "Editar roles de {name}",
+  "fr": "Modifier les rôles de {name}",
+  "ru": "Изменить роли {name}",
+  "zh-Hans": "编辑 {name} 的角色"
+ },
+ "Edit event": {
+  "ar": "تعديل الفعالية",
+  "de": "Event bearbeiten",
+  "es": "Editar evento",
+  "fr": "Modifier l’événement",
+  "ru": "Изменить событие",
+  "zh-Hans": "编辑活动"
+ },
+ "Edit topic": {
+  "ar": "تعديل الموضوع",
+  "de": "Thema bearbeiten",
+  "es": "Editar tema",
+  "fr": "Modifier le sujet",
+  "ru": "Изменить тему",
+  "zh-Hans": "编辑主题"
+ },
+ "Embed": {
+  "ar": "تضمين",
+  "de": "Einbettung",
+  "es": "Incrustación",
+  "fr": "Intégration",
+  "ru": "Встраивание",
+  "zh-Hans": "嵌入内容"
+ },
+ "Embed only": {
+  "ar": "التضمينات فقط",
+  "de": "Nur Einbettungen",
+  "es": "Solo incrustaciones",
+  "fr": "Intégrations seulement",
+  "ru": "Только встраивания",
+  "zh-Hans": "仅嵌入内容"
+ },
+ "Emoji for answer {0}": {
+  "ar": "إيموجي للإجابة {0}",
+  "de": "Emoji für Antwort {0}",
+  "es": "Emoji para la respuesta {0}",
+  "fr": "Émoji pour la réponse {0}",
+  "ru": "Эмодзи для ответа {0}",
+  "zh-Hans": "选项 {0} 的表情符号"
+ },
+ "End poll": {
+  "ar": "إنهاء التصويت",
+  "de": "Umfrage beenden",
+  "es": "Terminar encuesta",
+  "fr": "Terminer le sondage",
+  "ru": "Завершить опрос",
+  "zh-Hans": "结束投票"
+ },
+ "End poll now?": {
+  "ar": "هل تريد إنهاء التصويت الآن؟",
+  "de": "Umfrage jetzt beenden?",
+  "es": "¿Terminar la encuesta ahora?",
+  "fr": "Terminer le sondage maintenant ?",
+  "ru": "Завершить опрос сейчас?",
+  "zh-Hans": "现在结束投票？"
+ },
+ "Ends {0}": {
+  "ar": "ينتهي {0}",
+  "de": "Endet {0}",
+  "es": "Termina {0}",
+  "fr": "Se termine {0}",
+  "ru": "Закончится {0}",
+  "zh-Hans": "结束于 {0}"
+ },
+ "Events are off in this server.": {
+  "ar": "الفعاليات متوقفة في هذا السيرفر.",
+  "de": "Events sind auf diesem Server aus.",
+  "es": "Los eventos están desactivados en este servidor.",
+  "fr": "Les événements sont désactivés sur ce serveur.",
+  "ru": "События на этом сервере отключены.",
+  "zh-Hans": "此服务器已关闭活动功能。"
+ },
+ "Events that are over or were called off show up here.": {
+  "ar": "الفعاليات المنتهية أو الملغاة تظهر هنا.",
+  "de": "Beendete oder abgesagte Events erscheinen hier.",
+  "es": "Aquí aparecen los eventos terminados o cancelados.",
+  "fr": "Les événements terminés ou annulés apparaissent ici.",
+  "ru": "Здесь появятся завершённые и отменённые события.",
+  "zh-Hans": "已结束或已取消的活动会显示在这里。"
+ },
+ "Events you answer Going or Maybe to are kept here.": {
+  "ar": "الفعاليات التي ترد عليها بـ سأحضر أو ربما تُحفظ هنا.",
+  "de": "Events, bei denen du Dabei oder Vielleicht wählst, werden hier gespeichert.",
+  "es": "Aquí se guardan los eventos a los que respondes Voy o Quizá.",
+  "fr": "Les événements auxquels tu réponds Je participe ou Peut-être sont conservés ici.",
+  "ru": "Здесь сохраняются события, на которые ты ответил «Иду» или «Возможно».",
+  "zh-Hans": "你回复“参加”或“可能”的活动会保存在这里。"
+ },
+ "Every 2 weeks": {
+  "ar": "كل أسبوعين",
+  "de": "Alle 2 Wochen",
+  "es": "Cada 2 semanas",
+  "fr": "Toutes les 2 semaines",
+  "ru": "Каждые 2 недели",
+  "zh-Hans": "每两周"
+ },
+ "Every day": {
+  "ar": "كل يوم",
+  "de": "Jeden Tag",
+  "es": "Cada día",
+  "fr": "Tous les jours",
+  "ru": "Каждый день",
+  "zh-Hans": "每天"
+ },
+ "Every month": {
+  "ar": "كل شهر",
+  "de": "Jeden Monat",
+  "es": "Cada mes",
+  "fr": "Tous les mois",
+  "ru": "Каждый месяц",
+  "zh-Hans": "每月"
+ },
+ "Every week": {
+  "ar": "كل أسبوع",
+  "de": "Jede Woche",
+  "es": "Cada semana",
+  "fr": "Toutes les semaines",
+  "ru": "Каждую неделю",
+  "zh-Hans": "每周"
+ },
+ "Everyone declined the call.": {
+  "ar": "رفض الجميع المكالمة.",
+  "de": "Alle haben den Anruf abgelehnt.",
+  "es": "Todos rechazaron la llamada.",
+  "fr": "Tout le monde a refusé l’appel.",
+  "ru": "Все отклонили звонок.",
+  "zh-Hans": "所有人都拒绝了通话。"
+ },
+ "Everyone leaves the stage.": {
+  "ar": "يغادر الجميع المنصة.",
+  "de": "Alle verlassen die Stage.",
+  "es": "Todos salen del escenario.",
+  "fr": "Tout le monde quitte la scène.",
+  "ru": "Все покидают сцену.",
+  "zh-Hans": "所有人都将离开舞台。"
+ },
+ "Everyone who sees its place": {
+  "ar": "كل من يرى مكانها",
+  "de": "Alle, die den Ort sehen",
+  "es": "Todos los que ven su lugar",
+  "fr": "Tous ceux qui voient son emplacement",
+  "ru": "Все, кто видит это место",
+  "zh-Hans": "所有能看到该位置的人"
+ },
+ "Everyone who sees its place sees it": {
+  "ar": "كل من يرى مكانها يراها",
+  "de": "Alle, die den Ort sehen, sehen es",
+  "es": "Todos los que ven su lugar la ven",
+  "fr": "Tous ceux qui voient son emplacement la voient",
+  "ru": "Все, кто видит это место, видят её",
+  "zh-Hans": "所有能看到该位置的人都能看到"
+ },
+ "Everyone who sees the event": {
+  "ar": "كل من يرى الفعالية",
+  "de": "Alle, die das Event sehen",
+  "es": "Todos los que ven el evento",
+  "fr": "Tous ceux qui voient l’événement",
+  "ru": "Все, кто видит событие",
+  "zh-Hans": "所有能看到此活动的人"
+ },
+ "Fewer people": {
+  "ar": "أشخاص أقل",
+  "de": "Weniger Leute",
+  "es": "Menos personas",
+  "fr": "Moins de monde",
+  "ru": "Меньше людей",
+  "zh-Hans": "减少人数"
+ },
+ "File": {
+  "ar": "ملف",
+  "de": "Datei",
+  "es": "Archivo",
+  "fr": "Fichier",
+  "ru": "Файл",
+  "zh-Hans": "文件"
+ },
+ "Files only": {
+  "ar": "الملفات فقط",
+  "de": "Nur Dateien",
+  "es": "Solo archivos",
+  "fr": "Fichiers seulement",
+  "ru": "Только файлы",
+  "zh-Hans": "仅文件"
+ },
+ "Files sent in this channel show here.": {
+  "ar": "تظهر هنا الملفات المرسلة في هذه القناة.",
+  "de": "Dateien, die in diesem Kanal gesendet werden, erscheinen hier.",
+  "es": "Aquí aparecen los archivos enviados en este canal.",
+  "fr": "Les fichiers envoyés dans ce salon apparaissent ici.",
+  "ru": "Здесь появятся файлы, отправленные в этом канале.",
+  "zh-Hans": "在此频道发送的文件会显示在这里。"
+ },
+ "Filter results": {
+  "ar": "تصفية النتائج",
+  "de": "Ergebnisse filtern",
+  "es": "Filtrar resultados",
+  "fr": "Filtrer les résultats",
+  "ru": "Фильтр результатов",
+  "zh-Hans": "筛选结果"
+ },
+ "Final results": {
+  "ar": "النتائج النهائية",
+  "de": "Endergebnis",
+  "es": "Resultados finales",
+  "fr": "Résultats finaux",
+  "ru": "Итоги",
+  "zh-Hans": "最终结果"
+ },
+ "Find a channel": {
+  "ar": "ابحث عن قناة",
+  "de": "Kanal suchen",
+  "es": "Buscar un canal",
+  "fr": "Chercher un salon",
+  "ru": "Найти канал",
+  "zh-Hans": "查找频道"
+ },
+ "Find a member": {
+  "ar": "ابحث عن عضو",
+  "de": "Mitglied suchen",
+  "es": "Buscar un miembro",
+  "fr": "Chercher un membre",
+  "ru": "Найти участника",
+  "zh-Hans": "查找成员"
+ },
+ "Flip camera": {
+  "ar": "قلب الكاميرا",
+  "de": "Kamera wechseln",
+  "es": "Girar cámara",
+  "fr": "Retourner la caméra",
+  "ru": "Сменить камеру",
+  "zh-Hans": "切换摄像头"
+ },
+ "For you": {
+  "ar": "لك",
+  "de": "Für dich",
+  "es": "Para ti",
+  "fr": "Pour toi",
+  "ru": "Для тебя",
+  "zh-Hans": "为你推荐"
+ },
+ "Forward": {
+  "ar": "إعادة توجيه",
+  "de": "Weiterleiten",
+  "es": "Reenviar",
+  "fr": "Transférer",
+  "ru": "Переслать",
+  "zh-Hans": "转发"
+ },
+ "Forward message": {
+  "ar": "إعادة توجيه الرسالة",
+  "de": "Nachricht weiterleiten",
+  "es": "Reenviar mensaje",
+  "fr": "Transférer le message",
+  "ru": "Переслать сообщение",
+  "zh-Hans": "转发消息"
+ },
+ "Forwarded to {0}": {
+  "ar": "تمت إعادة التوجيه إلى {0}",
+  "de": "An {0} weitergeleitet",
+  "es": "Reenviado a {0}",
+  "fr": "Transféré à {0}",
+  "ru": "Переслано: {0}",
+  "zh-Hans": "已转发给 {0}"
+ },
+ "Friends: {0}": {
+  "ar": "الأصدقاء: {0}",
+  "de": "Freunde: {0}",
+  "es": "Amigos: {0}",
+  "fr": "Amis : {0}",
+  "ru": "Друзья: {0}",
+  "zh-Hans": "好友：{0}"
+ },
+ "From": {
+  "ar": "من",
+  "de": "Von",
+  "es": "De",
+  "fr": "De",
+  "ru": "От",
+  "zh-Hans": "来自"
+ },
+ "From a member": {
+  "ar": "من عضو",
+  "de": "Von einem Mitglied",
+  "es": "De un miembro",
+  "fr": "D’un membre",
+  "ru": "От участника",
+  "zh-Hans": "来自成员"
+ },
+ "From Battle.net": {
+  "ar": "من Battle.net",
+  "de": "Von Battle.net",
+  "es": "De Battle.net",
+  "fr": "De Battle.net",
+  "ru": "Из Battle.net",
+  "zh-Hans": "来自 Battle.net"
+ },
+ "From GitHub": {
+  "ar": "من GitHub",
+  "de": "Von GitHub",
+  "es": "De GitHub",
+  "fr": "De GitHub",
+  "ru": "Из GitHub",
+  "zh-Hans": "来自 GitHub"
+ },
+ "From Steam": {
+  "ar": "من Steam",
+  "de": "Von Steam",
+  "es": "De Steam",
+  "fr": "De Steam",
+  "ru": "Из Steam",
+  "zh-Hans": "来自 Steam"
+ },
+ "From Twitch": {
+  "ar": "من Twitch",
+  "de": "Von Twitch",
+  "es": "De Twitch",
+  "fr": "De Twitch",
+  "ru": "Из Twitch",
+  "zh-Hans": "来自 Twitch"
+ },
+ "Game night": {
+  "ar": "ليلة ألعاب",
+  "de": "Spieleabend",
+  "es": "Noche de juegos",
+  "fr": "Soirée jeux",
+  "ru": "Игровой вечер",
+  "zh-Hans": "游戏之夜"
+ },
+ "Get the {roleName} role": {
+  "ar": "احصل على دور {roleName}",
+  "de": "Hol dir die Rolle {roleName}",
+  "es": "Consigue el rol {roleName}",
+  "fr": "Obtiens le rôle {roleName}",
+  "ru": "Получить роль {roleName}",
+  "zh-Hans": "获取 {roleName} 角色"
+ },
+ "Give the floor": {
+  "ar": "امنح الكلمة",
+  "de": "Das Wort geben",
+  "es": "Dar la palabra",
+  "fr": "Donner la parole",
+  "ru": "Дать слово",
+  "zh-Hans": "给予发言权"
+ },
+ "Going": {
+  "ar": "سأحضر",
+  "de": "Dabei",
+  "es": "Voy",
+  "fr": "Je participe",
+  "ru": "Иду",
+  "zh-Hans": "参加"
+ },
+ "Hand over the room": {
+  "ar": "سلّم الغرفة",
+  "de": "Raum übergeben",
+  "es": "Ceder la sala",
+  "fr": "Passer la main",
+  "ru": "Передать комнату",
+  "zh-Hans": "移交房间"
+ },
+ "Happening now": {
+  "ar": "يحدث الآن",
+  "de": "Läuft gerade",
+  "es": "Ocurriendo ahora",
+  "fr": "En cours",
+  "ru": "Идёт сейчас",
+  "zh-Hans": "正在进行"
+ },
+ "Has": {
+  "ar": "يحتوي",
+  "de": "Hat",
+  "es": "Tiene",
+  "fr": "Contient",
+  "ru": "Содержит",
+  "zh-Hans": "包含"
+ },
+ "has: takes link, file, image, video, embed or sound.": {
+  "ar": "has: يقبل رابطاً أو ملفاً أو صورة أو فيديو أو تضميناً أو صوتاً.",
+  "de": "has: akzeptiert Link, Datei, Bild, Video, Einbettung oder Sound.",
+  "es": "has: acepta enlace, archivo, imagen, vídeo, incrustación o sonido.",
+  "fr": "has: accepte lien, fichier, image, vidéo, intégration ou son.",
+  "ru": "has: принимает ссылку, файл, изображение, видео, встраивание или звук.",
+  "zh-Hans": "has: 可填写链接、文件、图片、视频、嵌入内容或声音。"
+ },
+ "In": {
+  "ar": "في",
+  "de": "In",
+  "es": "En",
+  "fr": "Dans",
+  "ru": "В",
+  "zh-Hans": "在"
+ },
+ "in {server} since {joined}": {
+  "ar": "في {server} منذ {joined}",
+  "de": "In {server} seit {joined}",
+  "es": "En {server} desde {joined}",
+  "fr": "Dans {server} depuis {joined}",
+  "ru": "В {server} с {joined}",
+  "zh-Hans": "自 {joined} 起在 {server}"
+ },
+ "In 1 hour": {
+  "ar": "بعد ساعة",
+  "de": "In 1 Stunde",
+  "es": "En 1 hora",
+  "fr": "Dans 1 heure",
+  "ru": "Через 1 час",
+  "zh-Hans": "1 小时后"
+ },
+ "In 20 minutes": {
+  "ar": "بعد 20 دقيقة",
+  "de": "In 20 Minuten",
+  "es": "En 20 minutos",
+  "fr": "Dans 20 minutes",
+  "ru": "Через 20 минут",
+  "zh-Hans": "20 分钟后"
+ },
+ "In a channel": {
+  "ar": "في قناة",
+  "de": "In einem Kanal",
+  "es": "En un canal",
+  "fr": "Dans un salon",
+  "ru": "В канале",
+  "zh-Hans": "在频道中"
+ },
+ "In common": {
+  "ar": "المشترك",
+  "de": "Gemeinsam",
+  "es": "En común",
+  "fr": "En commun",
+  "ru": "Общее",
+  "zh-Hans": "共同"
+ },
+ "In the room": {
+  "ar": "في الغرفة",
+  "de": "Im Raum",
+  "es": "En la sala",
+  "fr": "Dans la salle",
+  "ru": "В комнате",
+  "zh-Hans": "在房间内"
+ }
+}

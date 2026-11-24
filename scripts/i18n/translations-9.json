@@ -1,0 +1,818 @@
+{
+ "\"{deletingName}\" stops filtering messages right away.": {
+  "ar": "سيتوقف \"{deletingName}\" عن تصفية الرسائل فورًا.",
+  "de": "„{deletingName}“ filtert Nachrichten sofort nicht mehr.",
+  "es": "«{deletingName}» deja de filtrar mensajes de inmediato.",
+  "fr": "« {deletingName} » arrête de filtrer les messages immédiatement.",
+  "ru": "«{deletingName}» сразу перестанет фильтровать сообщения.",
+  "zh-Hans": "“{deletingName}”将立即停止过滤消息。"
+ },
+ "{names} can change the server or act on other members. A stranger with an invite link gets it too.": {
+  "ar": "يمكن لـ {names} تغيير السيرفر أو التصرف تجاه الأعضاء الآخرين. وأي غريب لديه رابط دعوة سيحصل عليه أيضًا.",
+  "de": "{names} können den Server ändern oder gegen andere Mitglieder vorgehen. Ein Fremder mit Einladungslink bekommt das auch.",
+  "es": "{names} puede cambiar el servidor o actuar sobre otros miembros. Un desconocido con un enlace de invitación también lo recibe.",
+  "fr": "{names} peut modifier le serveur ou agir sur d'autres membres. Un inconnu avec un lien d'invitation l'obtient aussi.",
+  "ru": "{names} может менять сервер или действовать против других участников. Незнакомец со ссылкой-приглашением тоже получит это.",
+  "zh-Hans": "{names}可以更改服务器或对其他成员采取操作。任何持有邀请链接的陌生人也会获得该权限。"
+ },
+ "Add to the message": {
+  "ar": "أضف إلى الرسالة",
+  "de": "Zur Nachricht hinzufügen",
+  "es": "Añadir al mensaje",
+  "fr": "Ajouter au message",
+  "ru": "Добавить в сообщение",
+  "zh-Hans": "添加到消息"
+ },
+ "added emoji :{name}:": {
+  "ar": "أضاف الإيموجي :{name}:",
+  "de": "hat das Emoji :{name}: hinzugefügt",
+  "es": "añadió el emoji :{name}:",
+  "fr": "a ajouté l'emoji :{name}:",
+  "ru": "добавил(а) эмодзи :{name}:",
+  "zh-Hans": "添加了表情 :{name}:"
+ },
+ "added the bot {bot}": {
+  "ar": "أضاف البوت {bot}",
+  "de": "hat den Bot {bot} hinzugefügt",
+  "es": "añadió el bot {bot}",
+  "fr": "a ajouté le bot {bot}",
+  "ru": "добавил(а) бота {bot}",
+  "zh-Hans": "添加了机器人 {bot}"
+ },
+ "added the sound {name}": {
+  "ar": "أضاف الصوت {name}",
+  "de": "hat den Sound {name} hinzugefügt",
+  "es": "añadió el sonido {name}",
+  "fr": "a ajouté le son {name}",
+  "ru": "добавил(а) звук {name}",
+  "zh-Hans": "添加了音效 {name}"
+ },
+ "Apps and bots": {
+  "ar": "التطبيقات والبوتات",
+  "de": "Apps und Bots",
+  "es": "Apps y bots",
+  "fr": "Applications et bots",
+  "ru": "Приложения и боты",
+  "zh-Hans": "应用和机器人"
+ },
+ "Asked {when}": {
+  "ar": "طُلب {when}",
+  "de": "Angefragt {when}",
+  "es": "Solicitado {when}",
+  "fr": "Demandé {when}",
+  "ru": "Запрошено {when}",
+  "zh-Hans": "申请于 {when}"
+ },
+ "banned {user}": {
+  "ar": "حظر {user}",
+  "de": "hat {user} gesperrt",
+  "es": "bloqueó a {user}",
+  "fr": "a banni {user}",
+  "ru": "заблокировал(а) {user}",
+  "zh-Hans": "封禁了 {user}"
+ },
+ "Can manage or moderate": {
+  "ar": "يمكنه الإدارة أو الإشراف",
+  "de": "Können verwalten oder moderieren",
+  "es": "Pueden gestionar o moderar",
+  "fr": "Peuvent gérer ou modérer",
+  "ru": "Могут управлять или модерировать",
+  "zh-Hans": "可以管理或审核"
+ },
+ "changed {role} permissions in {channel}": {
+  "ar": "غيّر صلاحيات {role} في {channel}",
+  "de": "hat die Berechtigungen von {role} in {channel} geändert",
+  "es": "cambió los permisos de {role} en {channel}",
+  "fr": "a modifié les permissions de {role} dans {channel}",
+  "ru": "изменил(а) права роли {role} в {channel}",
+  "zh-Hans": "更改了 {role} 在 {channel} 的权限"
+ },
+ "changed {user}'s nickname": {
+  "ar": "غيّر لقب {user}",
+  "de": "hat den Spitznamen von {user} geändert",
+  "es": "cambió el apodo de {user}",
+  "fr": "a modifié le pseudonyme de {user}",
+  "ru": "изменил(а) никнейм {user}",
+  "zh-Hans": "更改了 {user} 的昵称"
+ },
+ "changed {user}'s roles": {
+  "ar": "غيّر أدوار {user}",
+  "de": "hat die Rollen von {user} geändert",
+  "es": "cambió los roles de {user}",
+  "fr": "a modifié les rôles de {user}",
+  "ru": "изменил(а) роли {user}",
+  "zh-Hans": "更改了 {user} 的角色"
+ },
+ "changed permissions of {member} in {channel}": {
+  "ar": "غيّر صلاحيات {member} في {channel}",
+  "de": "hat die Berechtigungen von {member} in {channel} geändert",
+  "es": "cambió los permisos de {member} en {channel}",
+  "fr": "a modifié les permissions de {member} dans {channel}",
+  "ru": "изменил(а) права {member} в {channel}",
+  "zh-Hans": "更改了 {member} 在 {channel} 的权限"
+ },
+ "changed who can use a command of {bot}": {
+  "ar": "غيّر من يمكنه استخدام أمر من {bot}",
+  "de": "hat geändert, wer einen Befehl von {bot} nutzen darf",
+  "es": "cambió quién puede usar un comando de {bot}",
+  "fr": "a modifié qui peut utiliser une commande de {bot}",
+  "ru": "изменил(а), кто может использовать команду {bot}",
+  "zh-Hans": "更改了谁可以使用 {bot} 的某个命令"
+ },
+ "changed who can use the commands of {bot}": {
+  "ar": "غيّر من يمكنه استخدام أوامر {bot}",
+  "de": "hat geändert, wer die Befehle von {bot} nutzen darf",
+  "es": "cambió quién puede usar los comandos de {bot}",
+  "fr": "a modifié qui peut utiliser les commandes de {bot}",
+  "ru": "изменил(а), кто может использовать команды {bot}",
+  "zh-Hans": "更改了谁可以使用 {bot} 的命令"
+ },
+ "Choose a channel": {
+  "ar": "اختر قناة",
+  "de": "Kanal wählen",
+  "es": "Elige un canal",
+  "fr": "Choisir un salon",
+  "ru": "Выберите канал",
+  "zh-Hans": "选择频道"
+ },
+ "Choose a channel for the message.": {
+  "ar": "اختر قناة للرسالة.",
+  "de": "Wähle einen Kanal für die Nachricht.",
+  "es": "Elige un canal para el mensaje.",
+  "fr": "Choisis un salon pour le message.",
+  "ru": "Выберите канал для сообщения.",
+  "zh-Hans": "为消息选择一个频道。"
+ },
+ "Choosing these roles needs the Manage Roles permission.": {
+  "ar": "اختيار هذه الأدوار يتطلب صلاحية إدارة الأدوار.",
+  "de": "Für diese Rollen brauchst du die Berechtigung „Rollen verwalten“.",
+  "es": "Elegir estos roles requiere el permiso Gestionar roles.",
+  "fr": "Choisir ces rôles nécessite la permission Gérer les rôles.",
+  "ru": "Для выбора этих ролей нужно право «Управление ролями».",
+  "zh-Hans": "选择这些角色需要“管理角色”权限。"
+ },
+ "closed the stage {channel}": {
+  "ar": "أغلق المسرح {channel}",
+  "de": "hat die Bühne {channel} geschlossen",
+  "es": "cerró el escenario {channel}",
+  "fr": "a fermé la scène {channel}",
+  "ru": "закрыл(а) сцену {channel}",
+  "zh-Hans": "关闭了舞台 {channel}"
+ },
+ "created {created}": {
+  "ar": "أنشأ {created}",
+  "de": "hat {created} erstellt",
+  "es": "creó {created}",
+  "fr": "a créé {created}",
+  "ru": "создал(а) {created}",
+  "zh-Hans": "创建了 {created}"
+ },
+ "created invite {invite} for {channel}": {
+  "ar": "أنشأ الدعوة {invite} للقناة {channel}",
+  "de": "hat die Einladung {invite} für {channel} erstellt",
+  "es": "creó la invitación {invite} para {channel}",
+  "fr": "a créé l'invitation {invite} pour {channel}",
+  "ru": "создал(а) приглашение {invite} для {channel}",
+  "zh-Hans": "为 {channel} 创建了邀请 {invite}"
+ },
+ "created role {role}": {
+  "ar": "أنشأ الدور {role}",
+  "de": "hat die Rolle {role} erstellt",
+  "es": "creó el rol {role}",
+  "fr": "a créé le rôle {role}",
+  "ru": "создал(а) роль {role}",
+  "zh-Hans": "创建了角色 {role}"
+ },
+ "created webhook {name} in {channel}": {
+  "ar": "أنشأ خطاف الويب {name} في {channel}",
+  "de": "hat den Webhook {name} in {channel} erstellt",
+  "es": "creó el webhook {name} en {channel}",
+  "fr": "a créé le webhook {name} dans {channel}",
+  "ru": "создал(а) вебхук {name} в {channel}",
+  "zh-Hans": "在 {channel} 创建了 Webhook {name}"
+ },
+ "deleted {count} messages in {channel}": {
+  "ar": "حذف {count} رسالة في {channel}",
+  "de": "hat {count} Nachrichten in {channel} gelöscht",
+  "es": "eliminó {count} mensajes en {channel}",
+  "fr": "a supprimé {count} messages dans {channel}",
+  "ru": "удалил(а) сообщения ({count}) в {channel}",
+  "zh-Hans": "删除了 {channel} 中的 {count} 条消息"
+ },
+ "deleted {deleted}": {
+  "ar": "حذف {deleted}",
+  "de": "hat {deleted} gelöscht",
+  "es": "eliminó {deleted}",
+  "fr": "a supprimé {deleted}",
+  "ru": "удалил(а) {deleted}",
+  "zh-Hans": "删除了 {deleted}"
+ },
+ "deleted a message by {author} in {channel}": {
+  "ar": "حذف رسالة من {author} في {channel}",
+  "de": "hat eine Nachricht von {author} in {channel} gelöscht",
+  "es": "eliminó un mensaje de {author} en {channel}",
+  "fr": "a supprimé un message de {author} dans {channel}",
+  "ru": "удалил(а) сообщение от {author} в {channel}",
+  "zh-Hans": "删除了 {author} 在 {channel} 的一条消息"
+ },
+ "deleted emoji :{name}:": {
+  "ar": "حذف الإيموجي :{name}:",
+  "de": "hat das Emoji :{name}: gelöscht",
+  "es": "eliminó el emoji :{name}:",
+  "fr": "a supprimé l'emoji :{name}:",
+  "ru": "удалил(а) эмодзи :{name}:",
+  "zh-Hans": "删除了表情 :{name}:"
+ },
+ "deleted invite {invite}": {
+  "ar": "حذف الدعوة {invite}",
+  "de": "hat die Einladung {invite} gelöscht",
+  "es": "eliminó la invitación {invite}",
+  "fr": "a supprimé l'invitation {invite}",
+  "ru": "удалил(а) приглашение {invite}",
+  "zh-Hans": "删除了邀请 {invite}"
+ },
+ "deleted role {name}": {
+  "ar": "حذف الدور {name}",
+  "de": "hat die Rolle {name} gelöscht",
+  "es": "eliminó el rol {name}",
+  "fr": "a supprimé le rôle {name}",
+  "ru": "удалил(а) роль {name}",
+  "zh-Hans": "删除了角色 {name}"
+ },
+ "deleted webhook {name}": {
+  "ar": "حذف خطاف الويب {name}",
+  "de": "hat den Webhook {name} gelöscht",
+  "es": "eliminó el webhook {name}",
+  "fr": "a supprimé le webhook {name}",
+  "ru": "удалил(а) вебхук {name}",
+  "zh-Hans": "删除了 Webhook {name}"
+ },
+ "Discard": {
+  "ar": "تجاهل",
+  "de": "Verwerfen",
+  "es": "Descartar",
+  "fr": "Abandonner",
+  "ru": "Отменить",
+  "zh-Hans": "放弃"
+ },
+ "Duration: {label}": {
+  "ar": "المدة: {label}",
+  "de": "Dauer: {label}",
+  "es": "Duración: {label}",
+  "fr": "Durée : {label}",
+  "ru": "Длительность: {label}",
+  "zh-Hans": "时长:{label}"
+ },
+ "edited {channel}": {
+  "ar": "عدّل {channel}",
+  "de": "hat {channel} bearbeitet",
+  "es": "editó {channel}",
+  "fr": "a modifié {channel}",
+  "ru": "изменил(а) {channel}",
+  "zh-Hans": "编辑了 {channel}"
+ },
+ "edited role {role}": {
+  "ar": "عدّل الدور {role}",
+  "de": "hat die Rolle {role} bearbeitet",
+  "es": "editó el rol {role}",
+  "fr": "a modifié le rôle {role}",
+  "ru": "изменил(а) роль {role}",
+  "zh-Hans": "编辑了角色 {role}"
+ },
+ "edited webhook {name}": {
+  "ar": "عدّل خطاف الويب {name}",
+  "de": "hat den Webhook {name} bearbeitet",
+  "es": "editó el webhook {name}",
+  "fr": "a modifié le webhook {name}",
+  "ru": "изменил(а) вебхук {name}",
+  "zh-Hans": "编辑了 Webhook {name}"
+ },
+ "End now: {label}": {
+  "ar": "إنهاء الآن: {label}",
+  "de": "Jetzt beenden: {label}",
+  "es": "Terminar ahora: {label}",
+  "fr": "Terminer maintenant : {label}",
+  "ru": "Завершить сейчас: {label}",
+  "zh-Hans": "立即结束:{label}"
+ },
+ "ended {user}'s timeout": {
+  "ar": "أنهى الإيقاف المؤقت لـ {user}",
+  "de": "hat die Auszeit von {user} beendet",
+  "es": "terminó el aislamiento temporal de {user}",
+  "fr": "a mis fin à l'exclusion temporaire de {user}",
+  "ru": "снял(а) тайм-аут с {user}",
+  "zh-Hans": "结束了 {user} 的禁言"
+ },
+ "Everyone who joins would be able to manage or moderate": {
+  "ar": "كل من ينضم سيتمكن من الإدارة أو الإشراف",
+  "de": "Alle, die beitreten, könnten verwalten oder moderieren",
+  "es": "Todos los que se unan podrían gestionar o moderar",
+  "fr": "Tous ceux qui rejoignent pourraient gérer ou modérer",
+  "ru": "Все, кто присоединится, смогут управлять или модерировать",
+  "zh-Hans": "所有加入的人都将能够管理或审核"
+ },
+ "Give it to everyone anyway": {
+  "ar": "امنحه للجميع على أي حال",
+  "de": "Trotzdem allen geben",
+  "es": "Dárselo a todos de todos modos",
+  "fr": "Le donner quand même à tous",
+  "ru": "Всё равно выдать всем",
+  "zh-Hans": "仍然授予所有人"
+ },
+ "Given the moment someone becomes a member, whichever way they came in. Bots get none. Up to {max} roles.": {
+  "ar": "تُمنح فور أن يصبح الشخص عضوًا، بأي طريقة دخل بها. البوتات لا تحصل على أي دور. حتى {max} أدوار.",
+  "de": "Werden vergeben, sobald jemand Mitglied wird, egal wie. Bots bekommen keine. Bis zu {max} Rollen.",
+  "es": "Se dan en cuanto alguien se hace miembro, sin importar cómo entró. Los bots no reciben ninguno. Hasta {max} roles.",
+  "fr": "Attribués dès qu'une personne devient membre, quelle que soit la façon dont elle est arrivée. Les bots n'en reçoivent aucun. Jusqu'à {max} rôles.",
+  "ru": "Выдаются, как только человек становится участником, независимо от способа входа. Боты их не получают. До {max} ролей.",
+  "zh-Hans": "有人成为成员的那一刻就会获得,无论通过何种方式加入。机器人不会获得。最多 {max} 个角色。"
+ },
+ "made a new address for webhook {name}": {
+  "ar": "أنشأ عنوانًا جديدًا لخطاف الويب {name}",
+  "de": "hat eine neue Adresse für den Webhook {name} erstellt",
+  "es": "creó una nueva dirección para el webhook {name}",
+  "fr": "a créé une nouvelle adresse pour le webhook {name}",
+  "ru": "создал(а) новый адрес для вебхука {name}",
+  "zh-Hans": "为 Webhook {name} 生成了新地址"
+ },
+ "Now: {levelName}. Raise it during a raid.": {
+  "ar": "الآن: {levelName}. ارفعه أثناء الغارة.",
+  "de": "Jetzt: {levelName}. Erhöhe es bei einem Raid.",
+  "es": "Ahora: {levelName}. Súbelo durante un raid.",
+  "fr": "Actuellement : {levelName}. Augmente-le pendant un raid.",
+  "ru": "Сейчас: {levelName}. Повысьте во время рейда.",
+  "zh-Hans": "当前:{levelName}。遭遇突袭时请调高。"
+ },
+ "Off. Nothing is posted when someone joins.": {
+  "ar": "متوقف. لا يُنشر شيء عند انضمام أحد.",
+  "de": "Aus. Beim Beitritt wird nichts gepostet.",
+  "es": "Desactivado. No se publica nada cuando alguien se une.",
+  "fr": "Désactivé. Rien n'est publié quand quelqu'un rejoint.",
+  "ru": "Выключено. При входе ничего не публикуется.",
+  "zh-Hans": "已关闭。有人加入时不会发送任何内容。"
+ },
+ "On. When many people join at once, the first ten of each minute are welcomed.": {
+  "ar": "مفعّل. عندما ينضم كثيرون دفعة واحدة، يُرحَّب بأول عشرة في كل دقيقة.",
+  "de": "An. Wenn viele gleichzeitig beitreten, werden pro Minute die ersten zehn begrüßt.",
+  "es": "Activado. Cuando muchos se unen a la vez, se da la bienvenida a los primeros diez de cada minuto.",
+  "fr": "Activé. Quand beaucoup de monde rejoint en même temps, les dix premiers de chaque minute sont accueillis.",
+  "ru": "Включено. Если входит много людей сразу, приветствуются первые десять за каждую минуту.",
+  "zh-Hans": "已开启。大量成员同时加入时,每分钟只欢迎前十位。"
+ },
+ "Paused until {time}.": {
+  "ar": "متوقف مؤقتًا حتى {time}.",
+  "de": "Pausiert bis {time}.",
+  "es": "En pausa hasta {time}.",
+  "fr": "En pause jusqu'à {time}.",
+  "ru": "Приостановлено до {time}.",
+  "zh-Hans": "已暂停至 {time}。"
+ },
+ "pinned a message by {author} in {channel}": {
+  "ar": "ثبّت رسالة من {author} في {channel}",
+  "de": "hat eine Nachricht von {author} in {channel} angeheftet",
+  "es": "fijó un mensaje de {author} en {channel}",
+  "fr": "a épinglé un message de {author} dans {channel}",
+  "ru": "закрепил(а) сообщение от {author} в {channel}",
+  "zh-Hans": "置顶了 {author} 在 {channel} 的一条消息"
+ },
+ "Post a welcome message": {
+  "ar": "انشر رسالة ترحيب",
+  "de": "Willkommensnachricht posten",
+  "es": "Publicar un mensaje de bienvenida",
+  "fr": "Publier un message de bienvenue",
+  "ru": "Публиковать приветствие",
+  "zh-Hans": "发送欢迎消息"
+ },
+ "Posted by Zrzur in a channel you pick when someone joins. Nobody is notified.": {
+  "ar": "ينشرها زرزور في قناة تختارها عند انضمام أحد. لا يتم إشعار أحد.",
+  "de": "Wird von Zrzur in einem Kanal deiner Wahl gepostet, wenn jemand beitritt. Niemand wird benachrichtigt.",
+  "es": "Zrzur la publica en un canal que elijas cuando alguien se une. No se notifica a nadie.",
+  "fr": "Publié par Zrzur dans un salon de ton choix quand quelqu'un rejoint. Personne n'est notifié.",
+  "ru": "Zrzur публикует его в выбранном вами канале, когда кто-то входит. Никто не получает уведомление.",
+  "zh-Hans": "有人加入时,由 Zrzur 发送到你选择的频道。不会通知任何人。"
+ },
+ "removed {user} from the server": {
+  "ar": "طرد {user} من السيرفر",
+  "de": "hat {user} vom Server entfernt",
+  "es": "expulsó a {user} del servidor",
+  "fr": "a retiré {user} du serveur",
+  "ru": "исключил(а) {user} с сервера",
+  "zh-Hans": "将 {user} 移出了服务器"
+ },
+ "removed the bot {bot}": {
+  "ar": "أزال البوت {bot}",
+  "de": "hat den Bot {bot} entfernt",
+  "es": "quitó el bot {bot}",
+  "fr": "a retiré le bot {bot}",
+  "ru": "удалил(а) бота {bot}",
+  "zh-Hans": "移除了机器人 {bot}"
+ },
+ "removed the sound {name}": {
+  "ar": "أزال الصوت {name}",
+  "de": "hat den Sound {name} entfernt",
+  "es": "quitó el sonido {name}",
+  "fr": "a retiré le son {name}",
+  "ru": "удалил(а) звук {name}",
+  "zh-Hans": "移除了音效 {name}"
+ },
+ "Roles everyone gets, and a welcome message.": {
+  "ar": "أدوار يحصل عليها الجميع، ورسالة ترحيب.",
+  "de": "Rollen für alle und eine Willkommensnachricht.",
+  "es": "Roles que recibe todo el mundo y un mensaje de bienvenida.",
+  "fr": "Des rôles pour tout le monde et un message de bienvenue.",
+  "ru": "Роли для всех и приветственное сообщение.",
+  "zh-Hans": "所有人都会获得的角色,以及欢迎消息。"
+ },
+ "Roles for everyone who joins": {
+  "ar": "أدوار لكل من ينضم",
+  "de": "Rollen für alle, die beitreten",
+  "es": "Roles para todos los que se unan",
+  "fr": "Rôles pour tous ceux qui rejoignent",
+  "ru": "Роли для всех, кто входит",
+  "zh-Hans": "授予所有加入者的角色"
+ },
+ "The member": {
+  "ar": "العضو",
+  "de": "Das Mitglied",
+  "es": "El miembro",
+  "fr": "Le membre",
+  "ru": "Участник",
+  "zh-Hans": "成员"
+ },
+ "The server's name": {
+  "ar": "اسم السيرفر",
+  "de": "Der Name des Servers",
+  "es": "El nombre del servidor",
+  "fr": "Le nom du serveur",
+  "ru": "Название сервера",
+  "zh-Hans": "服务器名称"
+ },
+ "This server has no roles yet. Make one in Roles first.": {
+  "ar": "لا توجد أدوار في هذا السيرفر بعد. أنشئ دورًا أولًا من الأدوار.",
+  "de": "Dieser Server hat noch keine Rollen. Erstelle zuerst eine unter Rollen.",
+  "es": "Este servidor aún no tiene roles. Crea uno primero en Roles.",
+  "fr": "Ce serveur n'a pas encore de rôles. Crées-en un d'abord dans Rôles.",
+  "ru": "На этом сервере пока нет ролей. Сначала создайте роль в разделе «Роли».",
+  "zh-Hans": "此服务器还没有角色。请先在“角色”中创建一个。"
+ },
+ "timed out {user}": {
+  "ar": "أوقف {user} مؤقتًا",
+  "de": "hat {user} eine Auszeit gegeben",
+  "es": "aisló temporalmente a {user}",
+  "fr": "a exclu temporairement {user}",
+  "ru": "отправил(а) {user} в тайм-аут",
+  "zh-Hans": "禁言了 {user}"
+ },
+ "unbanned {user}": {
+  "ar": "ألغى حظر {user}",
+  "de": "hat die Sperre von {user} aufgehoben",
+  "es": "quitó el bloqueo a {user}",
+  "fr": "a débanni {user}",
+  "ru": "разблокировал(а) {user}",
+  "zh-Hans": "解除了 {user} 的封禁"
+ },
+ "unpinned a message by {author} in {channel}": {
+  "ar": "أزال تثبيت رسالة من {author} في {channel}",
+  "de": "hat die Anheftung einer Nachricht von {author} in {channel} aufgehoben",
+  "es": "dejó de fijar un mensaje de {author} en {channel}",
+  "fr": "a désépinglé un message de {author} dans {channel}",
+  "ru": "открепил(а) сообщение от {author} в {channel}",
+  "zh-Hans": "取消置顶了 {author} 在 {channel} 的一条消息"
+ },
+ "updated {user}": {
+  "ar": "حدّث {user}",
+  "de": "hat {user} aktualisiert",
+  "es": "actualizó a {user}",
+  "fr": "a mis à jour {user}",
+  "ru": "обновил(а) {user}",
+  "zh-Hans": "更新了 {user}"
+ },
+ "was stopped by the AutoMod rule {rule} in {channel}": {
+  "ar": "أوقفته قاعدة الإشراف التلقائي {rule} في {channel}",
+  "de": "wurde von der AutoMod-Regel {rule} in {channel} gestoppt",
+  "es": "fue detenido por la regla de AutoMod {rule} en {channel}",
+  "fr": "a été bloqué par la règle AutoMod {rule} dans {channel}",
+  "ru": "остановлен правилом AutoMod {rule} в {channel}",
+  "zh-Hans": "被 {channel} 中的 AutoMod 规则 {rule} 拦截"
+ },
+ "Welcome {member} to {server}!": {
+  "ar": "مرحبًا بـ {member} في {server}!",
+  "de": "Willkommen auf {server}, {member}!",
+  "es": "¡Te damos la bienvenida a {server}, {member}!",
+  "fr": "Bienvenue sur {server}, {member} !",
+  "ru": "Добро пожаловать на {server}, {member}!",
+  "zh-Hans": "欢迎 {member} 加入 {server}!"
+ },
+ "Welcome message": {
+  "ar": "رسالة الترحيب",
+  "de": "Willkommensnachricht",
+  "es": "Mensaje de bienvenida",
+  "fr": "Message de bienvenue",
+  "ru": "Приветствие",
+  "zh-Hans": "欢迎消息"
+ },
+ "When someone joins": {
+  "ar": "عند انضمام أحد",
+  "de": "Wenn jemand beitritt",
+  "es": "Cuando alguien se une",
+  "fr": "Quand quelqu'un rejoint",
+  "ru": "Когда кто-то входит",
+  "zh-Hans": "有人加入时"
+ },
+ "Where the message appears.": {
+  "ar": "مكان ظهور الرسالة.",
+  "de": "Wo die Nachricht erscheint.",
+  "es": "Dónde aparece el mensaje.",
+  "fr": "Où le message apparaît.",
+  "ru": "Где появляется сообщение.",
+  "zh-Hans": "消息显示的位置。"
+ },
+ "a former member": {
+  "ar": "عضو سابق",
+  "de": "ein ehemaliges Mitglied",
+  "es": "un antiguo miembro",
+  "fr": "un ancien membre",
+  "ru": "бывший участник",
+  "zh-Hans": "前成员"
+ },
+ "A verified email address.": {
+  "ar": "عنوان بريد إلكتروني موثّق.",
+  "de": "Eine bestätigte E-Mail-Adresse.",
+  "es": "Una dirección de correo verificada.",
+  "fr": "Une adresse e-mail vérifiée.",
+  "ru": "Подтверждённый адрес электронной почты.",
+  "zh-Hans": "已验证的电子邮件地址。"
+ },
+ "A verified email, and an account older than 5 minutes.": {
+  "ar": "بريد إلكتروني موثّق، وحساب عمره أكثر من 5 دقائق.",
+  "de": "Eine bestätigte E-Mail und ein Konto, das älter als 5 Minuten ist.",
+  "es": "Un correo verificado y una cuenta de más de 5 minutos.",
+  "fr": "Un e-mail vérifié et un compte de plus de 5 minutes.",
+  "ru": "Подтверждённая почта и аккаунт старше 5 минут.",
+  "zh-Hans": "已验证的电子邮件,且账号注册超过 5 分钟。"
+ },
+ "Add at least one word or phrase.": {
+  "ar": "أضف كلمة أو عبارة واحدة على الأقل.",
+  "de": "Füge mindestens ein Wort oder eine Wendung hinzu.",
+  "es": "Añade al menos una palabra o frase.",
+  "fr": "Ajoute au moins un mot ou une expression.",
+  "ru": "Добавьте хотя бы одно слово или фразу.",
+  "zh-Hans": "请至少添加一个词或短语。"
+ },
+ "Add rule": {
+  "ar": "إضافة قاعدة",
+  "de": "Regel hinzufügen",
+  "es": "Añadir regla",
+  "fr": "Ajouter une règle",
+  "ru": "Добавить правило",
+  "zh-Hans": "添加规则"
+ },
+ "alerts": {
+  "ar": "تنبيهات",
+  "de": "Warnungen",
+  "es": "alertas",
+  "fr": "alertes",
+  "ru": "оповещения",
+  "zh-Hans": "提醒"
+ },
+ "All actions": {
+  "ar": "كل الإجراءات",
+  "de": "Alle Aktionen",
+  "es": "Todas las acciones",
+  "fr": "Toutes les actions",
+  "ru": "Все действия",
+  "zh-Hans": "所有操作"
+ },
+ "All of the above, and 10 minutes in this server.": {
+  "ar": "كل ما سبق، و10 دقائق في هذا السيرفر.",
+  "de": "Alles oben Genannte und 10 Minuten auf diesem Server.",
+  "es": "Todo lo anterior y 10 minutos en este servidor.",
+  "fr": "Tout ce qui précède, et 10 minutes sur ce serveur.",
+  "ru": "Всё перечисленное выше и 10 минут на этом сервере.",
+  "zh-Hans": "以上全部,并且在此服务器中满 10 分钟。"
+ },
+ "Allowed domains (optional)": {
+  "ar": "النطاقات المسموح بها (اختياري)",
+  "de": "Erlaubte Domains (optional)",
+  "es": "Dominios permitidos (opcional)",
+  "fr": "Domaines autorisés (facultatif)",
+  "ru": "Разрешённые домены (необязательно)",
+  "zh-Hans": "允许的域名(可选)"
+ },
+ "Always allowed": {
+  "ar": "مسموح دائمًا",
+  "de": "Immer erlaubt",
+  "es": "Siempre permitido",
+  "fr": "Toujours autorisé",
+  "ru": "Всегда разрешено",
+  "zh-Hans": "始终允许"
+ },
+ "An optional list that blocks common Arabic insults. Switch it on and it becomes a rule you can edit.": {
+  "ar": "قائمة اختيارية تحجب الإهانات العربية الشائعة. فعّلها لتصبح قاعدة يمكنك تعديلها.",
+  "de": "Eine optionale Liste, die gängige arabische Beleidigungen blockiert. Schalte sie ein, dann wird sie zu einer Regel, die du bearbeiten kannst.",
+  "es": "Una lista opcional que bloquea insultos comunes en árabe. Actívala y se convierte en una regla que puedes editar.",
+  "fr": "Une liste facultative qui bloque les insultes arabes courantes. Active-la et elle devient une règle que tu peux modifier.",
+  "ru": "Необязательный список, блокирующий распространённые оскорбления на арабском. Включите его, и он станет правилом, которое можно изменить.",
+  "zh-Hans": "可选列表,用于拦截常见的阿拉伯语辱骂词。开启后会变成一条可编辑的规则。"
+ },
+ "Anyone with a join link will join right away, without approval. Requests that are still waiting stay in Join requests.": {
+  "ar": "كل من لديه رابط انضمام سينضم فورًا دون موافقة. الطلبات التي ما زالت معلّقة تبقى في طلبات الانضمام.",
+  "de": "Alle mit einem Beitrittslink treten sofort ohne Genehmigung bei. Wartende Anfragen bleiben unter Beitrittsanfragen.",
+  "es": "Cualquiera con un enlace de unión se unirá de inmediato, sin aprobación. Las solicitudes pendientes siguen en Solicitudes de unión.",
+  "fr": "Toute personne avec un lien d'adhésion rejoindra tout de suite, sans approbation. Les demandes en attente restent dans Demandes d'adhésion.",
+  "ru": "Любой, у кого есть ссылка для вступления, войдёт сразу, без одобрения. Ожидающие заявки останутся в разделе «Заявки на вступление».",
+  "zh-Hans": "任何持有加入链接的人都会立即加入,无需批准。仍在等待的申请会保留在“加入申请”中。"
+ },
+ "Anyone with an invite joins right away.": {
+  "ar": "كل من لديه دعوة ينضم فورًا.",
+  "de": "Alle mit einer Einladung treten sofort bei.",
+  "es": "Cualquiera con una invitación se une de inmediato.",
+  "fr": "Toute personne avec une invitation rejoint tout de suite.",
+  "ru": "Любой, у кого есть приглашение, входит сразу.",
+  "zh-Hans": "任何持有邀请的人都会立即加入。"
+ },
+ "Approve": {
+  "ar": "موافقة",
+  "de": "Annehmen",
+  "es": "Aprobar",
+  "fr": "Approuver",
+  "ru": "Одобрить",
+  "zh-Hans": "批准"
+ },
+ "Arabic insults": {
+  "ar": "الإهانات العربية",
+  "de": "Arabische Beleidigungen",
+  "es": "Insultos en árabe",
+  "fr": "Insultes en arabe",
+  "ru": "Оскорбления на арабском",
+  "zh-Hans": "阿拉伯语辱骂"
+ },
+ "Arabic matches with or without hamza, tashkeel and tatweel, and ة / ه, ى / ي alike.": {
+  "ar": "تُطابَق العربية مع الهمزة أو بدونها، ومع التشكيل أو بدونه، ومع التطويل أو بدونه، وكذلك ة / ه وى / ي.",
+  "de": "Arabisch wird mit oder ohne Hamza, Tashkeel und Tatweel erkannt, ebenso ة / ه und ى / ي.",
+  "es": "El árabe coincide con o sin hamza, tashkeel y tatweel, y también ة / ه e ى / ي.",
+  "fr": "L'arabe correspond avec ou sans hamza, tashkeel et tatweel, ainsi que ة / ه et ى / ي.",
+  "ru": "Арабский распознаётся с хамзой и без, с огласовками и без, с татвилем и без, а также ة / ه и ى / ي равнозначно.",
+  "zh-Hans": "阿拉伯语匹配时不区分是否带 hamza、tashkeel 和 tatweel,ة / ه 与 ى / ي 也视为相同。"
+ },
+ "Block the message": {
+  "ar": "حظر الرسالة",
+  "de": "Nachricht blockieren",
+  "es": "Bloquear el mensaje",
+  "fr": "Bloquer le message",
+  "ru": "Заблокировать сообщение",
+  "zh-Hans": "拦截消息"
+ },
+ "Block words, mention spam, links from new members or the same message in many channels.": {
+  "ar": "احظر كلمات، أو سبام الإشارات، أو الروابط من الأعضاء الجدد، أو الرسالة نفسها في قنوات كثيرة.",
+  "de": "Blockiere Wörter, Erwähnungs-Spam, Links von neuen Mitgliedern oder dieselbe Nachricht in vielen Kanälen.",
+  "es": "Bloquea palabras, spam de menciones, enlaces de miembros nuevos o el mismo mensaje en muchos canales.",
+  "fr": "Bloque des mots, le spam de mentions, les liens de nouveaux membres ou le même message dans plusieurs salons.",
+  "ru": "Блокируйте слова, спам упоминаниями, ссылки от новых участников или одно и то же сообщение во многих каналах.",
+  "zh-Hans": "拦截词语、提及垃圾信息、新成员发的链接,或在多个频道重复发送的相同消息。"
+ },
+ "Blocked words": {
+  "ar": "الكلمات المحظورة",
+  "de": "Blockierte Wörter",
+  "es": "Palabras bloqueadas",
+  "fr": "Mots bloqués",
+  "ru": "Заблокированные слова",
+  "zh-Hans": "屏蔽词"
+ },
+ "blocks": {
+  "ar": "حظر",
+  "de": "Blockierungen",
+  "es": "bloqueos",
+  "fr": "blocages",
+  "ru": "блокировки",
+  "zh-Hans": "拦截"
+ },
+ "Bots and the owner are not checked.": {
+  "ar": "لا يُفحص البوتات والمالك.",
+  "de": "Bots und der Besitzer werden nicht geprüft.",
+  "es": "Los bots y el propietario no se comprueban.",
+  "fr": "Les bots et le propriétaire ne sont pas vérifiés.",
+  "ru": "Боты и владелец не проверяются.",
+  "zh-Hans": "不会检查机器人和所有者。"
+ },
+ "Change access": {
+  "ar": "تغيير الوصول",
+  "de": "Zugang ändern",
+  "es": "Cambiar acceso",
+  "fr": "Modifier l'accès",
+  "ru": "Изменить доступ",
+  "zh-Hans": "更改访问权限"
+ },
+ "changed": {
+  "ar": "غيّر",
+  "de": "hat geändert",
+  "es": "cambió",
+  "fr": "a modifié",
+  "ru": "изменил(а)",
+  "zh-Hans": "更改了"
+ },
+ "Channel": {
+  "ar": "قناة",
+  "de": "Kanal",
+  "es": "Canal",
+  "fr": "Salon",
+  "ru": "Канал",
+  "zh-Hans": "频道"
+ },
+ "Check the numbers.": {
+  "ar": "تحقق من الأرقام.",
+  "de": "Prüfe die Zahlen.",
+  "es": "Revisa los números.",
+  "fr": "Vérifie les nombres.",
+  "ru": "Проверьте числа.",
+  "zh-Hans": "请检查数字。"
+ },
+ "Choose at least one action.": {
+  "ar": "اختر إجراءً واحدًا على الأقل.",
+  "de": "Wähle mindestens eine Aktion.",
+  "es": "Elige al menos una acción.",
+  "fr": "Choisis au moins une action.",
+  "ru": "Выберите хотя бы одно действие.",
+  "zh-Hans": "请至少选择一项操作。"
+ },
+ "Choose new members, allowed domains, or both.": {
+  "ar": "اختر الأعضاء الجدد، أو النطاقات المسموح بها، أو كليهما.",
+  "de": "Wähle neue Mitglieder, erlaubte Domains oder beides.",
+  "es": "Elige miembros nuevos, dominios permitidos o ambos.",
+  "fr": "Choisis les nouveaux membres, les domaines autorisés, ou les deux.",
+  "ru": "Выберите новых участников, разрешённые домены или и то и другое.",
+  "zh-Hans": "请选择新成员、允许的域名,或两者都选。"
+ },
+ "Colour": {
+  "ar": "اللون",
+  "de": "Farbe",
+  "es": "Color",
+  "fr": "Couleur",
+  "ru": "Цвет",
+  "zh-Hans": "颜色"
+ },
+ "Delete rule": {
+  "ar": "حذف القاعدة",
+  "de": "Regel löschen",
+  "es": "Eliminar regla",
+  "fr": "Supprimer la règle",
+  "ru": "Удалить правило",
+  "zh-Hans": "删除规则"
+ },
+ "Delete this rule?": {
+  "ar": "حذف هذه القاعدة؟",
+  "de": "Diese Regel löschen?",
+  "es": "¿Eliminar esta regla?",
+  "fr": "Supprimer cette règle ?",
+  "ru": "Удалить это правило?",
+  "zh-Hans": "删除此规则?"
+ },
+ "deleted channel": {
+  "ar": "قناة محذوفة",
+  "de": "gelöschter Kanal",
+  "es": "canal eliminado",
+  "fr": "salon supprimé",
+  "ru": "удалённый канал",
+  "zh-Hans": "已删除的频道"
+ },
+ "deleted role": {
+  "ar": "دور محذوف",
+  "de": "gelöschte Rolle",
+  "es": "rol eliminado",
+  "fr": "rôle supprimé",
+  "ru": "удалённая роль",
+  "zh-Hans": "已删除的角色"
+ },
+ "Discover": {
+  "ar": "الاكتشاف",
+  "de": "Entdecken",
+  "es": "Descubrir",
+  "fr": "Découvrir",
+  "ru": "Обзор",
+  "zh-Hans": "发现"
+ },
+ "Edit rule": {
+  "ar": "تعديل القاعدة",
+  "de": "Regel bearbeiten",
+  "es": "Editar regla",
+  "fr": "Modifier la règle",
+  "ru": "Изменить правило",
+  "zh-Hans": "编辑规则"
+ },
+ "edited an emoji": {
+  "ar": "عدّل إيموجي",
+  "de": "hat ein Emoji bearbeitet",
+  "es": "editó un emoji",
+  "fr": "a modifié un emoji",
+  "ru": "изменил(а) эмодзи",
+  "zh-Hans": "编辑了一个表情"
+ },
+ "Emergency": {
+  "ar": "طوارئ",
+  "de": "Notfall",
+  "es": "Emergencia",
+  "fr": "Urgence",
+  "ru": "Чрезвычайный режим",
+  "zh-Hans": "紧急"
+ }
+}

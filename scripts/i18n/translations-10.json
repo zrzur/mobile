@@ -1,0 +1,810 @@
+{
+ "Emergency tools, and filters against spam and unwanted links.": {
+  "ar": "أدوات الطوارئ، ومرشّحات ضد الرسائل المزعجة والروابط غير المرغوبة.",
+  "de": "Notfallwerkzeuge und Filter gegen Spam und unerwünschte Links.",
+  "es": "Herramientas de emergencia y filtros contra spam y enlaces no deseados.",
+  "fr": "Outils d'urgence et filtres contre le spam et les liens indésirables.",
+  "ru": "Экстренные инструменты и фильтры от спама и нежелательных ссылок.",
+  "zh-Hans": "紧急工具,以及针对垃圾信息和不良链接的过滤器。"
+ },
+ "End now": {
+  "ar": "إنهاء الآن",
+  "de": "Jetzt beenden",
+  "es": "Terminar ahora",
+  "fr": "Terminer maintenant",
+  "ru": "Завершить сейчас",
+  "zh-Hans": "立即结束"
+ },
+ "Every member can share an invite link.": {
+  "ar": "يمكن لكل عضو مشاركة رابط دعوة.",
+  "de": "Jedes Mitglied kann einen Einladungslink teilen.",
+  "es": "Cualquier miembro puede compartir un enlace de invitación.",
+  "fr": "Chaque membre peut partager un lien d'invitation.",
+  "ru": "Любой участник может делиться ссылкой-приглашением.",
+  "zh-Hans": "每位成员都可以分享邀请链接。"
+ },
+ "Everything that changed in this server, who did it and when.": {
+  "ar": "كل ما تغيّر في هذا السيرفر، ومن فعله ومتى.",
+  "de": "Alles, was sich in diesem Server geändert hat, wer es getan hat und wann.",
+  "es": "Todo lo que cambió en este servidor, quién lo hizo y cuándo.",
+  "fr": "Tout ce qui a changé dans ce serveur, qui l'a fait et quand.",
+  "ru": "Всё, что изменилось на этом сервере, кто это сделал и когда.",
+  "zh-Hans": "此服务器中的所有变更,以及操作者和时间。"
+ },
+ "Filter by action": {
+  "ar": "تصفية حسب الإجراء",
+  "de": "Nach Aktion filtern",
+  "es": "Filtrar por acción",
+  "fr": "Filtrer par action",
+  "ru": "Фильтр по действию",
+  "zh-Hans": "按操作筛选"
+ },
+ "Filter by person": {
+  "ar": "تصفية حسب الشخص",
+  "de": "Nach Person filtern",
+  "es": "Filtrar por persona",
+  "fr": "Filtrer par personne",
+  "ru": "Фильтр по человеку",
+  "zh-Hans": "按人员筛选"
+ },
+ "Filters": {
+  "ar": "المرشّحات",
+  "de": "Filter",
+  "es": "Filtros",
+  "fr": "Filtres",
+  "ru": "Фильтры",
+  "zh-Hans": "过滤器"
+ },
+ "Give the rule a name.": {
+  "ar": "أعطِ القاعدة اسمًا.",
+  "de": "Gib der Regel einen Namen.",
+  "es": "Ponle un nombre a la regla.",
+  "fr": "Donne un nom à la règle.",
+  "ru": "Дайте правилу название.",
+  "zh-Hans": "给规则起个名字。"
+ },
+ "High": {
+  "ar": "مرتفع",
+  "de": "Hoch",
+  "es": "Alto",
+  "fr": "Élevé",
+  "ru": "Высокий",
+  "zh-Hans": "高"
+ },
+ "How people get in, and who may invite them.": {
+  "ar": "كيف يدخل الناس، ومن يحق له دعوتهم.",
+  "de": "Wie Leute beitreten und wer sie einladen darf.",
+  "es": "Cómo entra la gente y quién puede invitarla.",
+  "fr": "Comment les gens rejoignent et qui peut les inviter.",
+  "ru": "Как люди попадают на сервер и кто может их приглашать.",
+  "zh-Hans": "人们如何加入,以及谁可以邀请他们。"
+ },
+ "How people join": {
+  "ar": "كيف ينضم الناس",
+  "de": "Wie Leute beitreten",
+  "es": "Cómo se une la gente",
+  "fr": "Comment on rejoint",
+  "ru": "Как люди присоединяются",
+  "zh-Hans": "加入方式"
+ },
+ "Icon": {
+  "ar": "الأيقونة",
+  "de": "Symbol",
+  "es": "Icono",
+  "fr": "Icône",
+  "ru": "Значок",
+  "zh-Hans": "图标"
+ },
+ "Invites and webhooks": {
+  "ar": "الدعوات والـ webhooks",
+  "de": "Einladungen und Webhooks",
+  "es": "Invitaciones y webhooks",
+  "fr": "Invitations et webhooks",
+  "ru": "Приглашения и вебхуки",
+  "zh-Hans": "邀请和 Webhook"
+ },
+ "Join requests": {
+  "ar": "طلبات الانضمام",
+  "de": "Beitrittsanfragen",
+  "es": "Solicitudes de ingreso",
+  "fr": "Demandes d'adhésion",
+  "ru": "Заявки на вступление",
+  "zh-Hans": "加入请求"
+ },
+ "Lasting protection": {
+  "ar": "حماية دائمة",
+  "de": "Dauerhafter Schutz",
+  "es": "Protección permanente",
+  "fr": "Protection durable",
+  "ru": "Постоянная защита",
+  "zh-Hans": "长期保护"
+ },
+ "Let more people in?": {
+  "ar": "السماح بدخول المزيد من الناس؟",
+  "de": "Mehr Leute reinlassen?",
+  "es": "¿Dejar entrar a más gente?",
+  "fr": "Laisser entrer plus de monde ?",
+  "ru": "Впустить больше людей?",
+  "zh-Hans": "允许更多人加入?"
+ },
+ "Level": {
+  "ar": "المستوى",
+  "de": "Stufe",
+  "es": "Nivel",
+  "fr": "Niveau",
+  "ru": "Уровень",
+  "zh-Hans": "等级"
+ },
+ "Link spam": {
+  "ar": "رسائل الروابط المزعجة",
+  "de": "Link-Spam",
+  "es": "Spam de enlaces",
+  "fr": "Spam de liens",
+  "ru": "Спам ссылками",
+  "zh-Hans": "链接垃圾信息"
+ },
+ "Links from members who joined less than": {
+  "ar": "روابط من أعضاء انضموا منذ أقل من",
+  "de": "Links von Mitgliedern, die vor weniger als",
+  "es": "Enlaces de miembros que se unieron hace menos de",
+  "fr": "Liens de membres arrivés il y a moins de",
+  "ru": "Ссылки от участников, присоединившихся менее",
+  "zh-Hans": "加入时间不足以下时长的成员发送的链接:"
+ },
+ "Listed on Discover.": {
+  "ar": "مدرج في «استكشاف».",
+  "de": "In Entdecken gelistet.",
+  "es": "Aparece en Descubrir.",
+  "fr": "Listé dans Découvrir.",
+  "ru": "Показан в «Обзоре».",
+  "zh-Hans": "已在“发现”中列出。"
+ },
+ "Load older entries": {
+  "ar": "تحميل إدخالات أقدم",
+  "de": "Ältere Einträge laden",
+  "es": "Cargar entradas anteriores",
+  "fr": "Charger les entrées plus anciennes",
+  "ru": "Загрузить более старые записи",
+  "zh-Hans": "加载更早的记录"
+ },
+ "Loading requests…": {
+  "ar": "جارٍ تحميل الطلبات…",
+  "de": "Anfragen werden geladen…",
+  "es": "Cargando solicitudes…",
+  "fr": "Chargement des demandes…",
+  "ru": "Загрузка заявок…",
+  "zh-Hans": "正在加载请求…"
+ },
+ "Loading rules…": {
+  "ar": "جارٍ تحميل القواعد…",
+  "de": "Regeln werden geladen…",
+  "es": "Cargando reglas…",
+  "fr": "Chargement des règles…",
+  "ru": "Загрузка правил…",
+  "zh-Hans": "正在加载规则…"
+ },
+ "Loading the audit log…": {
+  "ar": "جارٍ تحميل سجل التدقيق…",
+  "de": "Auditlog wird geladen…",
+  "es": "Cargando el registro de auditoría…",
+  "fr": "Chargement du journal d'audit…",
+  "ru": "Загрузка журнала аудита…",
+  "zh-Hans": "正在加载审核日志…"
+ },
+ "Locked": {
+  "ar": "مقفل",
+  "de": "Gesperrt",
+  "es": "Bloqueado",
+  "fr": "Verrouillé",
+  "ru": "Закрыто",
+  "zh-Hans": "已锁定"
+ },
+ "Looks for": {
+  "ar": "يبحث عن",
+  "de": "Sucht nach",
+  "es": "Busca",
+  "fr": "Cherche",
+  "ru": "Ищет",
+  "zh-Hans": "检测内容"
+ },
+ "Low": {
+  "ar": "منخفض",
+  "de": "Niedrig",
+  "es": "Bajo",
+  "fr": "Faible",
+  "ru": "Низкий",
+  "zh-Hans": "低"
+ },
+ "Medium": {
+  "ar": "متوسط",
+  "de": "Mittel",
+  "es": "Medio",
+  "fr": "Moyen",
+  "ru": "Средний",
+  "zh-Hans": "中"
+ },
+ "Members and bans": {
+  "ar": "الأعضاء والحظر",
+  "de": "Mitglieder und Sperren",
+  "es": "Miembros y bloqueos",
+  "fr": "Membres et bannissements",
+  "ru": "Участники и баны",
+  "zh-Hans": "成员和封禁"
+ },
+ "Members can invite": {
+  "ar": "يمكن للأعضاء الدعوة",
+  "de": "Mitglieder können einladen",
+  "es": "Los miembros pueden invitar",
+  "fr": "Les membres peuvent inviter",
+  "ru": "Участники могут приглашать",
+  "zh-Hans": "成员可以邀请"
+ },
+ "Members who aren't friends can't message each other.": {
+  "ar": "لا يمكن للأعضاء الذين ليسوا أصدقاء مراسلة بعضهم.",
+  "de": "Mitglieder, die keine Freunde sind, können sich nicht schreiben.",
+  "es": "Los miembros que no son amigos no pueden escribirse.",
+  "fr": "Les membres qui ne sont pas amis ne peuvent pas s'écrire.",
+  "ru": "Участники, которые не друзья, не могут писать друг другу.",
+  "zh-Hans": "非好友的成员之间无法互发消息。"
+ },
+ "Members with any role, bots and the owner are exempt.": {
+  "ar": "الأعضاء الذين لديهم أي دور والبوتات والمالك مستثنون.",
+  "de": "Mitglieder mit einer Rolle, Bots und der Besitzer sind ausgenommen.",
+  "es": "Los miembros con cualquier rol, los bots y el propietario están exentos.",
+  "fr": "Les membres ayant un rôle, les bots et le propriétaire sont exemptés.",
+  "ru": "Участники с любой ролью, боты и владелец исключены.",
+  "zh-Hans": "拥有任意角色的成员、机器人和所有者不受影响。"
+ },
+ "Mention spam": {
+  "ar": "رسائل الإشارات المزعجة",
+  "de": "Erwähnungs-Spam",
+  "es": "Spam de menciones",
+  "fr": "Spam de mentions",
+  "ru": "Спам упоминаниями",
+  "zh-Hans": "提及垃圾信息"
+ },
+ "Most mentions in one message": {
+  "ar": "أقصى عدد من الإشارات في رسالة واحدة",
+  "de": "Meiste Erwähnungen in einer Nachricht",
+  "es": "Máximo de menciones en un mensaje",
+  "fr": "Maximum de mentions dans un message",
+  "ru": "Макс. упоминаний в одном сообщении",
+  "zh-Hans": "单条消息中的最多提及数"
+ },
+ "Needs a rules channel first.": {
+  "ar": "يتطلب قناة قواعد أولًا.",
+  "de": "Braucht zuerst einen Regelkanal.",
+  "es": "Primero necesita un canal de reglas.",
+  "fr": "Nécessite d'abord un salon de règles.",
+  "ru": "Сначала нужен канал с правилами.",
+  "zh-Hans": "需要先设置规则频道。"
+ },
+ "new image": {
+  "ar": "صورة جديدة",
+  "de": "neues Bild",
+  "es": "imagen nueva",
+  "fr": "nouvelle image",
+  "ru": "новое изображение",
+  "zh-Hans": "新图片"
+ },
+ "New members accept the rules": {
+  "ar": "يقبل الأعضاء الجدد القواعد",
+  "de": "Neue Mitglieder akzeptieren die Regeln",
+  "es": "Los nuevos miembros aceptan las reglas",
+  "fr": "Les nouveaux membres acceptent les règles",
+  "ru": "Новые участники принимают правила",
+  "zh-Hans": "新成员需接受规则"
+ },
+ "New members accept the rules before they write.": {
+  "ar": "يقبل الأعضاء الجدد القواعد قبل أن يكتبوا.",
+  "de": "Neue Mitglieder akzeptieren die Regeln, bevor sie schreiben.",
+  "es": "Los nuevos miembros aceptan las reglas antes de escribir.",
+  "fr": "Les nouveaux membres acceptent les règles avant d'écrire.",
+  "ru": "Новые участники принимают правила, прежде чем писать.",
+  "zh-Hans": "新成员需先接受规则才能发言。"
+ },
+ "New members agree to the rules before they write.": {
+  "ar": "يوافق الأعضاء الجدد على القواعد قبل أن يكتبوا.",
+  "de": "Neue Mitglieder stimmen den Regeln zu, bevor sie schreiben.",
+  "es": "Los nuevos miembros aceptan las reglas antes de escribir.",
+  "fr": "Les nouveaux membres approuvent les règles avant d'écrire.",
+  "ru": "Новые участники соглашаются с правилами, прежде чем писать.",
+  "zh-Hans": "新成员需先同意规则才能发言。"
+ },
+ "New members can talk right away.": {
+  "ar": "يمكن للأعضاء الجدد التحدث فورًا.",
+  "de": "Neue Mitglieder können sofort mitreden.",
+  "es": "Los nuevos miembros pueden hablar de inmediato.",
+  "fr": "Les nouveaux membres peuvent parler tout de suite.",
+  "ru": "Новые участники могут общаться сразу.",
+  "zh-Hans": "新成员可以立即发言。"
+ },
+ "New members can write right away.": {
+  "ar": "يمكن للأعضاء الجدد الكتابة فورًا.",
+  "de": "Neue Mitglieder können sofort schreiben.",
+  "es": "Los nuevos miembros pueden escribir de inmediato.",
+  "fr": "Les nouveaux membres peuvent écrire tout de suite.",
+  "ru": "Новые участники могут писать сразу.",
+  "zh-Hans": "新成员可以立即发消息。"
+ },
+ "New rule": {
+  "ar": "قاعدة جديدة",
+  "de": "Neue Regel",
+  "es": "Regla nueva",
+  "fr": "Nouvelle règle",
+  "ru": "Новое правило",
+  "zh-Hans": "新规则"
+ },
+ "No": {
+  "ar": "لا",
+  "de": "Nein",
+  "es": "No",
+  "fr": "Non",
+  "ru": "Нет",
+  "zh-Hans": "否"
+ },
+ "No requests waiting": {
+  "ar": "لا توجد طلبات قيد الانتظار",
+  "de": "Keine offenen Anfragen",
+  "es": "No hay solicitudes pendientes",
+  "fr": "Aucune demande en attente",
+  "ru": "Нет ожидающих заявок",
+  "zh-Hans": "没有待处理的请求"
+ },
+ "No rules yet": {
+  "ar": "لا توجد قواعد بعد",
+  "de": "Noch keine Regeln",
+  "es": "Aún no hay reglas",
+  "fr": "Aucune règle pour l'instant",
+  "ru": "Правил пока нет",
+  "zh-Hans": "还没有规则"
+ },
+ "Nobody can join with an invite, the custom link or Discover.": {
+  "ar": "لا يمكن لأحد الانضمام عبر دعوة أو الرابط المخصص أو «استكشاف».",
+  "de": "Niemand kann per Einladung, eigenem Link oder Entdecken beitreten.",
+  "es": "Nadie puede unirse con una invitación, el enlace personalizado o Descubrir.",
+  "fr": "Personne ne peut rejoindre avec une invitation, le lien personnalisé ou Découvrir.",
+  "ru": "Никто не может присоединиться по приглашению, своей ссылке или через «Обзор».",
+  "zh-Hans": "任何人都无法通过邀请、自定义链接或“发现”加入。"
+ },
+ "Not checked": {
+  "ar": "غير مفحوص",
+  "de": "Nicht geprüft",
+  "es": "Sin revisar",
+  "fr": "Non vérifié",
+  "ru": "Не проверяется",
+  "zh-Hans": "不检查"
+ },
+ "Not listed.": {
+  "ar": "غير مدرج.",
+  "de": "Nicht gelistet.",
+  "es": "No aparece en la lista.",
+  "fr": "Non listé.",
+  "ru": "Не отображается в списке.",
+  "zh-Hans": "未列出。"
+ },
+ "Nothing here yet": {
+  "ar": "لا شيء هنا بعد",
+  "de": "Hier ist noch nichts",
+  "es": "Aquí no hay nada todavía",
+  "fr": "Rien ici pour l'instant",
+  "ru": "Здесь пока пусто",
+  "zh-Hans": "这里还没有内容"
+ },
+ "One per line, for example zrzur.com": {
+  "ar": "واحد في كل سطر، مثل zrzur.com",
+  "de": "Eins pro Zeile, zum Beispiel zrzur.com",
+  "es": "Uno por línea, por ejemplo zrzur.com",
+  "fr": "Un par ligne, par exemple zrzur.com",
+  "ru": "По одному в строке, например zrzur.com",
+  "zh-Hans": "每行一个,例如 zrzur.com"
+ },
+ "One per line. Put * at the start or end to match part of a word.": {
+  "ar": "واحد في كل سطر. ضع * في البداية أو النهاية لمطابقة جزء من الكلمة.",
+  "de": "Eins pro Zeile. Setze * an den Anfang oder das Ende, um einen Wortteil zu treffen.",
+  "es": "Uno por línea. Pon * al principio o al final para coincidir con parte de una palabra.",
+  "fr": "Un par ligne. Mets * au début ou à la fin pour cibler une partie de mot.",
+  "ru": "По одному в строке. Поставьте * в начале или конце, чтобы находить часть слова.",
+  "zh-Hans": "每行一个。在开头或结尾加 * 可匹配词的一部分。"
+ },
+ "Only invites from people allowed to invite. No requests.": {
+  "ar": "الدعوات فقط من الأشخاص المسموح لهم بالدعوة. بدون طلبات.",
+  "de": "Nur Einladungen von Leuten mit Einladungsrecht. Keine Anfragen.",
+  "es": "Solo invitaciones de quienes pueden invitar. Sin solicitudes.",
+  "fr": "Uniquement les invitations de personnes autorisées à inviter. Pas de demandes.",
+  "ru": "Только приглашения от тех, кому разрешено приглашать. Без заявок.",
+  "zh-Hans": "仅限有邀请权限的人发出的邀请。无需申请。"
+ },
+ "Only public servers can be listed.": {
+  "ar": "يمكن إدراج السيرفرات العامة فقط.",
+  "de": "Nur öffentliche Server können gelistet werden.",
+  "es": "Solo se pueden listar servidores públicos.",
+  "fr": "Seuls les serveurs publics peuvent être listés.",
+  "ru": "В списке могут быть только публичные серверы.",
+  "zh-Hans": "只有公开服务器才能被列出。"
+ },
+ "Only roles with Invite others can share invites.": {
+  "ar": "يمكن فقط للأدوار التي لديها «دعوة الآخرين» مشاركة الدعوات.",
+  "de": "Nur Rollen mit „Andere einladen“ können Einladungen teilen.",
+  "es": "Solo los roles con «Invitar a otros» pueden compartir invitaciones.",
+  "fr": "Seuls les rôles avec « Inviter d'autres personnes » peuvent partager des invitations.",
+  "ru": "Делиться приглашениями могут только роли с правом «Приглашать других».",
+  "zh-Hans": "只有拥有“邀请他人”权限的角色才能分享邀请。"
+ },
+ "Pause": {
+  "ar": "إيقاف مؤقت",
+  "de": "Pausieren",
+  "es": "Pausar",
+  "fr": "Mettre en pause",
+  "ru": "Приостановить",
+  "zh-Hans": "暂停"
+ },
+ "Pause direct messages": {
+  "ar": "إيقاف الرسائل الخاصة مؤقتًا",
+  "de": "Direktnachrichten pausieren",
+  "es": "Pausar mensajes directos",
+  "fr": "Suspendre les messages privés",
+  "ru": "Приостановить личные сообщения",
+  "zh-Hans": "暂停私信"
+ },
+ "Pause invites": {
+  "ar": "إيقاف الدعوات مؤقتًا",
+  "de": "Einladungen pausieren",
+  "es": "Pausar invitaciones",
+  "fr": "Suspendre les invitations",
+  "ru": "Приостановить приглашения",
+  "zh-Hans": "暂停邀请"
+ },
+ "Pause invites or messages during a raid.": {
+  "ar": "أوقف الدعوات أو الرسائل مؤقتًا أثناء هجوم.",
+  "de": "Pausiere Einladungen oder Nachrichten während eines Raids.",
+  "es": "Pausa invitaciones o mensajes durante un raid.",
+  "fr": "Suspends les invitations ou les messages pendant un raid.",
+  "ru": "Приостановите приглашения или сообщения во время рейда.",
+  "zh-Hans": "遭遇突袭时可暂停邀请或消息。"
+ },
+ "Pauses": {
+  "ar": "حالات الإيقاف المؤقت",
+  "de": "Pausen",
+  "es": "Pausas",
+  "fr": "Pauses",
+  "ru": "Паузы",
+  "zh-Hans": "暂停项"
+ },
+ "People ask to join, and someone you allow lets them in.": {
+  "ar": "يطلب الناس الانضمام، ويدخلهم شخص تسمح له.",
+  "de": "Leute bitten um Beitritt, und jemand, den du erlaubst, lässt sie rein.",
+  "es": "La gente pide unirse y alguien que tú permitas los deja entrar.",
+  "fr": "Les gens demandent à rejoindre, et une personne autorisée par toi les accepte.",
+  "ru": "Люди подают заявку, а тот, кому вы разрешили, принимает их.",
+  "zh-Hans": "人们申请加入,由你允许的人批准。"
+ },
+ "People who asked to join this private server. They can't see anything inside until you approve them.": {
+  "ar": "أشخاص طلبوا الانضمام إلى هذا السيرفر الخاص. لا يمكنهم رؤية أي شيء بداخله حتى توافق عليهم.",
+  "de": "Leute, die diesem privaten Server beitreten wollten. Sie sehen nichts darin, bis du sie annimmst.",
+  "es": "Personas que pidieron unirse a este servidor privado. No ven nada dentro hasta que los apruebes.",
+  "fr": "Personnes ayant demandé à rejoindre ce serveur privé. Elles ne voient rien tant que tu ne les acceptes pas.",
+  "ru": "Люди, подавшие заявку на этот закрытый сервер. Они ничего не видят внутри, пока вы их не одобрите.",
+  "zh-Hans": "申请加入此私密服务器的人。在你批准之前,他们看不到里面的任何内容。"
+ },
+ "People with a join link can send requests again, including the custom link.": {
+  "ar": "يمكن لمن لديهم رابط انضمام إرسال الطلبات مجددًا، بما في ذلك الرابط المخصص.",
+  "de": "Leute mit einem Beitrittslink können wieder Anfragen senden, auch über den eigenen Link.",
+  "es": "Quien tenga un enlace de ingreso podrá volver a enviar solicitudes, incluido el enlace personalizado.",
+  "fr": "Les personnes avec un lien d'adhésion peuvent à nouveau envoyer des demandes, y compris via le lien personnalisé.",
+  "ru": "Люди со ссылкой для вступления снова смогут отправлять заявки, включая свою ссылку.",
+  "zh-Hans": "持有加入链接的人可以再次发送请求,包括自定义链接。"
+ },
+ "Position": {
+  "ar": "الترتيب",
+  "de": "Position",
+  "es": "Posición",
+  "fr": "Position",
+  "ru": "Позиция",
+  "zh-Hans": "位置"
+ },
+ "Private": {
+  "ar": "خاص",
+  "de": "Privat",
+  "es": "Privado",
+  "fr": "Privé",
+  "ru": "Закрытый",
+  "zh-Hans": "私密"
+ },
+ "Public": {
+  "ar": "عام",
+  "de": "Öffentlich",
+  "es": "Público",
+  "fr": "Public",
+  "ru": "Публичный",
+  "zh-Hans": "公开"
+ },
+ "Refresh": {
+  "ar": "تحديث",
+  "de": "Aktualisieren",
+  "es": "Actualizar",
+  "fr": "Actualiser",
+  "ru": "Обновить",
+  "zh-Hans": "刷新"
+ },
+ "Reject": {
+  "ar": "رفض",
+  "de": "Ablehnen",
+  "es": "Rechazar",
+  "fr": "Refuser",
+  "ru": "Отклонить",
+  "zh-Hans": "拒绝"
+ },
+ "reordered the roles": {
+  "ar": "أعاد ترتيب الأدوار",
+  "de": "hat die Rollen neu angeordnet",
+  "es": "reordenó los roles",
+  "fr": "a réorganisé les rôles",
+  "ru": "изменил порядок ролей",
+  "zh-Hans": "调整了角色顺序"
+ },
+ "Repeated messages": {
+  "ar": "رسائل مكررة",
+  "de": "Wiederholte Nachrichten",
+  "es": "Mensajes repetidos",
+  "fr": "Messages répétés",
+  "ru": "Повторяющиеся сообщения",
+  "zh-Hans": "重复消息"
+ },
+ "Requests couldn't be loaded": {
+  "ar": "تعذّر تحميل الطلبات",
+  "de": "Anfragen konnten nicht geladen werden",
+  "es": "No se pudieron cargar las solicitudes",
+  "fr": "Impossible de charger les demandes",
+  "ru": "Не удалось загрузить заявки",
+  "zh-Hans": "无法加载请求"
+ },
+ "Review who asked to join.": {
+  "ar": "راجع من طلب الانضمام.",
+  "de": "Sieh dir an, wer beitreten möchte.",
+  "es": "Revisa quién pidió unirse.",
+  "fr": "Vois qui a demandé à rejoindre.",
+  "ru": "Посмотрите, кто подал заявку.",
+  "zh-Hans": "查看谁申请了加入。"
+ },
+ "Role permissions": {
+  "ar": "صلاحيات الدور",
+  "de": "Rollenberechtigungen",
+  "es": "Permisos del rol",
+  "fr": "Permissions du rôle",
+  "ru": "Права роли",
+  "zh-Hans": "角色权限"
+ },
+ "Rules": {
+  "ar": "القواعد",
+  "de": "Regeln",
+  "es": "Reglas",
+  "fr": "Règles",
+  "ru": "Правила",
+  "zh-Hans": "规则"
+ },
+ "Rules couldn't be loaded": {
+  "ar": "تعذّر تحميل القواعد",
+  "de": "Regeln konnten nicht geladen werden",
+  "es": "No se pudieron cargar las reglas",
+  "fr": "Impossible de charger les règles",
+  "ru": "Не удалось загрузить правила",
+  "zh-Hans": "无法加载规则"
+ },
+ "Rules that stop spam, bad words and unwanted links.": {
+  "ar": "قواعد توقف الرسائل المزعجة والكلمات السيئة والروابط غير المرغوبة.",
+  "de": "Regeln gegen Spam, Schimpfwörter und unerwünschte Links.",
+  "es": "Reglas que frenan el spam, las malas palabras y los enlaces no deseados.",
+  "fr": "Des règles contre le spam, les gros mots et les liens indésirables.",
+  "ru": "Правила против спама, нецензурных слов и нежелательных ссылок.",
+  "zh-Hans": "拦截垃圾信息、不良词语和不良链接的规则。"
+ },
+ "Rules to accept": {
+  "ar": "القواعد المطلوب قبولها",
+  "de": "Zu akzeptierende Regeln",
+  "es": "Reglas a aceptar",
+  "fr": "Règles à accepter",
+  "ru": "Правила для принятия",
+  "zh-Hans": "需接受的规则"
+ },
+ "Same text in channels": {
+  "ar": "نفس النص في القنوات",
+  "de": "Gleicher Text in Kanälen",
+  "es": "Mismo texto en canales",
+  "fr": "Même texte dans les salons",
+  "ru": "Один и тот же текст в каналах",
+  "zh-Hans": "多个频道发送相同文本"
+ },
+ "Send an alert to": {
+  "ar": "إرسال تنبيه إلى",
+  "de": "Warnung senden an",
+  "es": "Enviar una alerta a",
+  "fr": "Envoyer une alerte à",
+  "ru": "Отправить оповещение в",
+  "zh-Hans": "发送提醒至"
+ },
+ "Server avatar": {
+  "ar": "صورة السيرفر",
+  "de": "Server-Avatar",
+  "es": "Avatar del servidor",
+  "fr": "Avatar du serveur",
+  "ru": "Аватар сервера",
+  "zh-Hans": "服务器头像"
+ },
+ "Shown separately": {
+  "ar": "يظهر بشكل منفصل",
+  "de": "Separat angezeigt",
+  "es": "Se muestra por separado",
+  "fr": "Affiché séparément",
+  "ru": "Показывается отдельно",
+  "zh-Hans": "单独显示"
+ },
+ "Slow mode": {
+  "ar": "الوضع البطيء",
+  "de": "Langsammodus",
+  "es": "Modo lento",
+  "fr": "Mode lent",
+  "ru": "Медленный режим",
+  "zh-Hans": "慢速模式"
+ },
+ "someone": {
+  "ar": "شخص ما",
+  "de": "jemand",
+  "es": "alguien",
+  "fr": "quelqu'un",
+  "ru": "кто-то",
+  "zh-Hans": "某人"
+ },
+ "System messages": {
+  "ar": "رسائل النظام",
+  "de": "Systemnachrichten",
+  "es": "Mensajes del sistema",
+  "fr": "Messages système",
+  "ru": "Системные сообщения",
+  "zh-Hans": "系统消息"
+ },
+ "The audit log couldn't be loaded": {
+  "ar": "تعذّر تحميل سجل التدقيق",
+  "de": "Das Auditlog konnte nicht geladen werden",
+  "es": "No se pudo cargar el registro de auditoría",
+  "fr": "Impossible de charger le journal d'audit",
+  "ru": "Не удалось загрузить журнал аудита",
+  "zh-Hans": "无法加载审核日志"
+ },
+ "The member sees the rule's name as the reason.": {
+  "ar": "يرى العضو اسم القاعدة كسبب.",
+  "de": "Das Mitglied sieht den Namen der Regel als Grund.",
+  "es": "El miembro ve el nombre de la regla como motivo.",
+  "fr": "Le membre voit le nom de la règle comme motif.",
+  "ru": "Участник видит название правила как причину.",
+  "zh-Hans": "成员会看到规则名称作为原因。"
+ },
+ "Time out for": {
+  "ar": "إيقاف مؤقت لمدة",
+  "de": "Auszeit für",
+  "es": "Aislar durante",
+  "fr": "Mettre en sourdine pendant",
+  "ru": "Тайм-аут на",
+  "zh-Hans": "禁言时长"
+ },
+ "times out": {
+  "ar": "يوقف مؤقتًا",
+  "de": "setzt in Auszeit",
+  "es": "aísla temporalmente a",
+  "fr": "met en sourdine",
+  "ru": "отправляет в тайм-аут",
+  "zh-Hans": "禁言了"
+ },
+ "updated the server settings": {
+  "ar": "حدّث إعدادات السيرفر",
+  "de": "hat die Servereinstellungen aktualisiert",
+  "es": "actualizó los ajustes del servidor",
+  "fr": "a mis à jour les paramètres du serveur",
+  "ru": "обновил настройки сервера",
+  "zh-Hans": "更新了服务器设置"
+ },
+ "Verification": {
+  "ar": "التحقق",
+  "de": "Verifizierung",
+  "es": "Verificación",
+  "fr": "Vérification",
+  "ru": "Проверка",
+  "zh-Hans": "验证"
+ },
+ "What new members need before they can talk.": {
+  "ar": "ما يحتاجه الأعضاء الجدد قبل أن يتمكنوا من التحدث.",
+  "de": "Was neue Mitglieder brauchen, bevor sie mitreden können.",
+  "es": "Lo que necesitan los nuevos miembros antes de poder hablar.",
+  "fr": "Ce dont les nouveaux membres ont besoin avant de pouvoir parler.",
+  "ru": "Что нужно новым участникам, прежде чем они смогут общаться.",
+  "zh-Hans": "新成员发言前需要满足的条件。"
+ },
+ "When it matches": {
+  "ar": "عند المطابقة",
+  "de": "Bei einem Treffer",
+  "es": "Cuando coincide",
+  "fr": "En cas de correspondance",
+  "ru": "При совпадении",
+  "zh-Hans": "匹配时"
+ },
+ "When someone opens a join link to this server, their request shows up here.": {
+  "ar": "عندما يفتح شخص رابط انضمام لهذا السيرفر، يظهر طلبه هنا.",
+  "de": "Wenn jemand einen Beitrittslink zu diesem Server öffnet, erscheint seine Anfrage hier.",
+  "es": "Cuando alguien abre un enlace de ingreso a este servidor, su solicitud aparece aquí.",
+  "fr": "Quand quelqu'un ouvre un lien d'adhésion à ce serveur, sa demande apparaît ici.",
+  "ru": "Когда кто-то открывает ссылку для вступления на этот сервер, его заявка появится здесь.",
+  "zh-Hans": "有人打开此服务器的加入链接后,其请求会显示在这里。"
+ },
+ "Who can join": {
+  "ar": "من يمكنه الانضمام",
+  "de": "Wer beitreten kann",
+  "es": "Quién puede unirse",
+  "fr": "Qui peut rejoindre",
+  "ru": "Кто может присоединиться",
+  "zh-Hans": "谁可以加入"
+ },
+ "Who can join, what they must accept, and what they see first.": {
+  "ar": "من يمكنه الانضمام، وما يجب عليه قبوله، وما يراه أولًا.",
+  "de": "Wer beitreten kann, was akzeptiert werden muss und was zuerst zu sehen ist.",
+  "es": "Quién puede unirse, qué debe aceptar y qué ve primero.",
+  "fr": "Qui peut rejoindre, ce qu'il doit accepter et ce qu'il voit en premier.",
+  "ru": "Кто может присоединиться, что нужно принять и что видно первым.",
+  "zh-Hans": "谁可以加入、需要接受什么,以及首先看到什么。"
+ },
+ "Who changed what, and when.": {
+  "ar": "من غيّر ماذا، ومتى.",
+  "de": "Wer was wann geändert hat.",
+  "es": "Quién cambió qué y cuándo.",
+  "fr": "Qui a changé quoi, et quand.",
+  "ru": "Кто что изменил и когда.",
+  "zh-Hans": "谁在何时更改了什么。"
+ },
+ "Within seconds": {
+  "ar": "خلال ثوانٍ",
+  "de": "Innerhalb von Sekunden",
+  "es": "En cuestión de segundos",
+  "fr": "En quelques secondes",
+  "ru": "В течение нескольких секунд",
+  "zh-Hans": "数秒内"
+ },
+ "Words and phrases": {
+  "ar": "كلمات وعبارات",
+  "de": "Wörter und Phrasen",
+  "es": "Palabras y frases",
+  "fr": "Mots et phrases",
+  "ru": "Слова и фразы",
+  "zh-Hans": "词语和短语"
+ },
+ "Words that are fine, one per line": {
+  "ar": "كلمات مسموحة، واحدة في كل سطر",
+  "de": "Erlaubte Wörter, eins pro Zeile",
+  "es": "Palabras permitidas, una por línea",
+  "fr": "Mots autorisés, un par ligne",
+  "ru": "Допустимые слова, по одному в строке",
+  "zh-Hans": "允许的词语,每行一个"
+ },
+ "Yes": {
+  "ar": "نعم",
+  "de": "Ja",
+  "es": "Sí",
+  "fr": "Oui",
+  "ru": "Да",
+  "zh-Hans": "是"
+ },
+ "Banner": {
+  "ar": "الغلاف",
+  "de": "Banner",
+  "es": "Banner",
+  "fr": "Bannière",
+  "ru": "Баннер",
+  "zh-Hans": "横幅"
+ },
+ "Timeout": {
+  "ar": "إيقاف مؤقت",
+  "de": "Auszeit",
+  "es": "Aislamiento",
+  "fr": "Mise en sourdine",
+  "ru": "Тайм-аут",
+  "zh-Hans": "禁言"
+ }
+}

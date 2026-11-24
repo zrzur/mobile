@@ -1,0 +1,11 @@
+{
+  "Close conversation with {recipient}?": { "ar": "إغلاق المحادثة مع {recipient}؟", "de": "Unterhaltung mit {recipient} schließen?", "es": "¿Cerrar la conversación con {recipient}?", "fr": "Fermer la conversation avec {recipient} ?", "ru": "Закрыть беседу с {recipient}?", "zh-Hans": "关闭与 {recipient} 的对话？" },
+  "Delete {name}?": { "ar": "حذف {name}؟", "de": "{name} löschen?", "es": "¿Eliminar {name}?", "fr": "Supprimer {name} ?", "ru": "Удалить {name}?", "zh-Hans": "删除 {name}？" },
+  "Leave {name}?": { "ar": "مغادرة {name}؟", "de": "{name} verlassen?", "es": "¿Salir de {name}?", "fr": "Quitter {name} ?", "ru": "Покинуть {name}?", "zh-Hans": "离开 {name}？" },
+  "<0/> unpinned <1/>": { "zh-Hans": "<0/> 取消置顶了 <1/>" },
+  "<0/> updated the group description": { "zh-Hans": "<0/> 更新了群组描述" },
+  "<0/> updated the group name to <1>{0}</1>": { "zh-Hans": "<0/> 将群组名称更新为 <1>{0}</1>" },
+  "Add new members to the group": { "zh-Hans": "向群组添加新成员" },
+  "Edit group name and description": { "zh-Hans": "编辑群组名称和描述" },
+  "Whether other users can edit these settings": { "zh-Hans": "其他用户是否可以编辑这些设置" }
+}

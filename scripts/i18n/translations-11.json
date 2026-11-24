@@ -1,0 +1,1146 @@
+{
+ "{0} dB": {
+  "ar": "{0} ديسيبل",
+  "de": "{0} dB",
+  "es": "{0} dB",
+  "fr": "{0} dB",
+  "ru": "{0} дБ",
+  "zh-Hans": "{0} dB"
+ },
+ "{average} a day on average": {
+  "ar": "{average} في اليوم في المتوسط",
+  "de": "Durchschnittlich {average} pro Tag",
+  "es": "{average} al día de media",
+  "fr": "{average} par jour en moyenne",
+  "ru": "В среднем {average} в день",
+  "zh-Hans": "平均每天 {average}"
+ },
+ "{change} in this range": {
+  "ar": "{change} في هذا النطاق",
+  "de": "{change} in diesem Zeitraum",
+  "es": "{change} en este rango",
+  "fr": "{change} sur cette période",
+  "ru": "{change} за этот период",
+  "zh-Hans": "此范围内 {change}"
+ },
+ "{count, plural, one {# rule} other {# rules}}": {
+  "ar": "{count, plural, zero {# قواعد} one {قاعدة واحدة} two {قاعدتان} few {# قواعد} many {# قاعدة} other {# قاعدة}}",
+  "de": "{count, plural, one {# Regel} other {# Regeln}}",
+  "es": "{count, plural, one {# regla} other {# reglas}}",
+  "fr": "{count, plural, one {# règle} other {# règles}}",
+  "ru": "{count, plural, one {# правило} few {# правила} many {# правил} other {# правила}}",
+  "zh-Hans": "{count, plural, other {# 条规则}}"
+ },
+ "{count} Wings · {moreWings} more to level {nextLevel}": {
+  "ar": "{count} أجنحة · {moreWings} أخرى للوصول إلى المستوى {nextLevel}",
+  "de": "{count} Flügel · noch {moreWings} bis Level {nextLevel}",
+  "es": "{count} Alas · {moreWings} más para el nivel {nextLevel}",
+  "fr": "{count} Ailes · encore {moreWings} pour le niveau {nextLevel}",
+  "ru": "{count} Крыльев · ещё {moreWings} до уровня {nextLevel}",
+  "zh-Hans": "{count} 个翅膀 · 再获得 {moreWings} 个升至 {nextLevel} 级"
+ },
+ "{count} Wings · highest level reached": {
+  "ar": "{count} أجنحة · بلغت أعلى مستوى",
+  "de": "{count} Flügel · höchstes Level erreicht",
+  "es": "{count} Alas · nivel más alto alcanzado",
+  "fr": "{count} Ailes · niveau maximal atteint",
+  "ru": "{count} Крыльев · достигнут высший уровень",
+  "zh-Hans": "{count} 个翅膀 · 已达最高等级"
+ },
+ "{day}: {shown}": {
+  "ar": "{day}: {shown}",
+  "de": "{day}: {shown}",
+  "es": "{day}: {shown}",
+  "fr": "{day} : {shown}",
+  "ru": "{day}: {shown}",
+  "zh-Hans": "{day}:{shown}"
+ },
+ "{games} games": {
+  "ar": "{games} ألعاب",
+  "de": "{games} Spiele",
+  "es": "{games} juegos",
+  "fr": "{games} jeux",
+  "ru": "Игр: {games}",
+  "zh-Hans": "{games} 款游戏"
+ },
+ "{granted} – {ended}": {
+  "ar": "{granted} – {ended}",
+  "de": "{granted} – {ended}",
+  "es": "{granted} – {ended}",
+  "fr": "{granted} – {ended}",
+  "ru": "{granted} – {ended}",
+  "zh-Hans": "{granted} – {ended}"
+ },
+ "{h} h": {
+  "ar": "{h} س",
+  "de": "{h} Std.",
+  "es": "{h} h",
+  "fr": "{h} h",
+  "ru": "{h} ч",
+  "zh-Hans": "{h} 小时"
+ },
+ "{handleText}. Change it in My Account.": {
+  "ar": "{handleText}. غيّره من حسابي.",
+  "de": "{handleText}. Ändere es unter Mein Konto.",
+  "es": "{handleText}. Cámbialo en Mi cuenta.",
+  "fr": "{handleText}. Modifie-le dans Mon compte.",
+  "ru": "{handleText}. Измените его в разделе «Моя учётная запись».",
+  "zh-Hans": "{handleText}。可在“我的账户”中更改。"
+ },
+ "{held} of {collectable} badges": {
+  "ar": "{held} من {collectable} شارة",
+  "de": "{held} von {collectable} Abzeichen",
+  "es": "{held} de {collectable} insignias",
+  "fr": "{held} badges sur {collectable}",
+  "ru": "{held} из {collectable} значков",
+  "zh-Hans": "{held}/{collectable} 个徽章"
+ },
+ "{hours} hours played": {
+  "ar": "{hours} ساعة لعب",
+  "de": "{hours} Stunden gespielt",
+  "es": "{hours} horas jugadas",
+  "fr": "{hours} heures de jeu",
+  "ru": "Наиграно часов: {hours}",
+  "zh-Hans": "已玩 {hours} 小时"
+ },
+ "{label} hex": {
+  "ar": "{label} بصيغة hex",
+  "de": "{label} Hex",
+  "es": "{label} hex",
+  "fr": "{label} hex",
+  "ru": "{label} hex",
+  "zh-Hans": "{label} 十六进制"
+ },
+ "{label}: position {n}": {
+  "ar": "{label}: الموضع {n}",
+  "de": "{label}: Position {n}",
+  "es": "{label}: posición {n}",
+  "fr": "{label} : position {n}",
+  "ru": "{label}: позиция {n}",
+  "zh-Hans": "{label}:第 {n} 位"
+ },
+ "{left} of {limit} sounds left. Up to {max} seconds each.": {
+  "ar": "تبقّى {left} من {limit} أصوات. حتى {max} ثانية لكل صوت.",
+  "de": "Noch {left} von {limit} Sounds frei. Jeweils bis zu {max} Sekunden.",
+  "es": "Quedan {left} de {limit} sonidos. Hasta {max} segundos cada uno.",
+  "fr": "Il reste {left} sons sur {limit}. Jusqu'à {max} secondes chacun.",
+  "ru": "Осталось звуков: {left} из {limit}. До {max} секунд каждый.",
+  "zh-Hans": "还剩 {left}/{limit} 个声音,每个最长 {max} 秒。"
+ },
+ "{n, plural, one {# day} other {# days}}": {
+  "ar": "{n, plural, zero {# أيام} one {يوم واحد} two {يومان} few {# أيام} many {# يومًا} other {# يوم}}",
+  "de": "{n, plural, one {# Tag} other {# Tage}}",
+  "es": "{n, plural, one {# día} other {# días}}",
+  "fr": "{n, plural, one {# jour} other {# jours}}",
+  "ru": "{n, plural, one {# день} few {# дня} many {# дней} other {# дня}}",
+  "zh-Hans": "{n, plural, other {# 天}}"
+ },
+ "{n} public repositories": {
+  "ar": "{n} مستودعات عامة",
+  "de": "{n} öffentliche Repositories",
+  "es": "{n} repositorios públicos",
+  "fr": "{n} dépôts publics",
+  "ru": "Публичных репозиториев: {n}",
+  "zh-Hans": "{n} 个公开仓库"
+ },
+ "{n} stars": {
+  "ar": "{n} نجمة",
+  "de": "{n} Sterne",
+  "es": "{n} estrellas",
+  "fr": "{n} étoiles",
+  "ru": "Звёзд: {n}",
+  "zh-Hans": "{n} 个星标"
+ },
+ "{n} users": {
+  "ar": "{n} مستخدمين",
+  "de": "{n} Nutzer",
+  "es": "{n} usuarios",
+  "fr": "{n} utilisateurs",
+  "ru": "Пользователей: {n}",
+  "zh-Hans": "{n} 位用户"
+ },
+ "{name} can't be linked on this server yet.": {
+  "ar": "لا يمكن ربط {name} على هذا السيرفر بعد.",
+  "de": "{name} kann auf diesem Server noch nicht verknüpft werden.",
+  "es": "{name} aún no se puede vincular en este servidor.",
+  "fr": "{name} ne peut pas encore être lié sur ce serveur.",
+  "ru": "{name} пока нельзя привязать на этом сервере.",
+  "zh-Hans": "暂时无法在此服务器上关联 {name}。"
+ },
+ "{name} could not be opened.": {
+  "ar": "تعذّر فتح {name}.",
+  "de": "{name} konnte nicht geöffnet werden.",
+  "es": "No se pudo abrir {name}.",
+  "fr": "Impossible d'ouvrir {name}.",
+  "ru": "Не удалось открыть {name}.",
+  "zh-Hans": "无法打开 {name}。"
+ },
+ "{name} is a US company: what we send it and read from it goes to the United States, where your data may be less protected than in the EU (for example, US authorities may be able to access it).": {
+  "ar": "{name} شركة أمريكية: ما نرسله إليها وما نقرؤه منها يذهب إلى الولايات المتحدة، حيث قد تكون بياناتك أقل حماية مما هي في الاتحاد الأوروبي (فقد تتمكن السلطات الأمريكية مثلًا من الاطلاع عليها).",
+  "de": "{name} ist ein US-Unternehmen: Was wir dorthin senden und von dort lesen, geht in die USA, wo deine Daten weniger geschützt sein können als in der EU (zum Beispiel könnten US-Behörden darauf zugreifen).",
+  "es": "{name} es una empresa de EE. UU.: lo que le enviamos y leemos de ella va a Estados Unidos, donde tus datos pueden estar menos protegidos que en la UE (por ejemplo, las autoridades estadounidenses podrían acceder a ellos).",
+  "fr": "{name} est une entreprise américaine : ce que nous lui envoyons et lisons chez elle part aux États-Unis, où tes données peuvent être moins protégées que dans l'UE (par exemple, les autorités américaines pourraient y accéder).",
+  "ru": "{name} — американская компания: то, что мы ей отправляем и от неё получаем, передаётся в США, где ваши данные могут быть защищены хуже, чем в ЕС (например, власти США могут получить к ним доступ).",
+  "zh-Hans": "{name} 是一家美国公司:我们发送给它和从它读取的数据会传至美国,那里的数据保护可能不如欧盟(例如美国当局可能有权访问)。"
+ },
+ "{name} loses access to your account at once.": {
+  "ar": "يفقد {name} الوصول إلى حسابك فورًا.",
+  "de": "{name} verliert sofort den Zugriff auf dein Konto.",
+  "es": "{name} pierde el acceso a tu cuenta de inmediato.",
+  "fr": "{name} perd immédiatement l'accès à ton compte.",
+  "ru": "{name} сразу теряет доступ к вашей учётной записи.",
+  "zh-Hans": "{name} 将立即失去对你账户的访问权限。"
+ },
+ "{name} was added to the list": {
+  "ar": "تمت إضافة {name} إلى القائمة",
+  "de": "{name} wurde zur Liste hinzugefügt",
+  "es": "{name} se añadió a la lista",
+  "fr": "{name} a été ajouté à la liste",
+  "ru": "{name} добавлен в список",
+  "zh-Hans": "已将 {name} 添加到列表"
+ },
+ "{name} was removed from the list": {
+  "ar": "تمت إزالة {name} من القائمة",
+  "de": "{name} wurde aus der Liste entfernt",
+  "es": "{name} se quitó de la lista",
+  "fr": "{name} a été retiré de la liste",
+  "ru": "{name} удалён из списка",
+  "zh-Hans": "已将 {name} 从列表中移除"
+ },
+ "{sample} · 12-hour": {
+  "ar": "{sample} · 12 ساعة",
+  "de": "{sample} · 12-Stunden",
+  "es": "{sample} · 12 horas",
+  "fr": "{sample} · 12 heures",
+  "ru": "{sample} · 12-часовой",
+  "zh-Hans": "{sample} · 12 小时制"
+ },
+ "{sample} · 24-hour": {
+  "ar": "{sample} · 24 ساعة",
+  "de": "{sample} · 24-Stunden",
+  "es": "{sample} · 24 horas",
+  "fr": "{sample} · 24 heures",
+  "ru": "{sample} · 24-часовой",
+  "zh-Hans": "{sample} · 24 小时制"
+ },
+ "{sample} · Day first": {
+  "ar": "{sample} · اليوم أولًا",
+  "de": "{sample} · Tag zuerst",
+  "es": "{sample} · Día primero",
+  "fr": "{sample} · Jour d'abord",
+  "ru": "{sample} · Сначала день",
+  "zh-Hans": "{sample} · 日在前"
+ },
+ "{sample} · ISO 8601": {
+  "ar": "{sample} · ISO 8601",
+  "de": "{sample} · ISO 8601",
+  "es": "{sample} · ISO 8601",
+  "fr": "{sample} · ISO 8601",
+  "ru": "{sample} · ISO 8601",
+  "zh-Hans": "{sample} · ISO 8601"
+ },
+ "{sample} · Month first": {
+  "ar": "{sample} · الشهر أولًا",
+  "de": "{sample} · Monat zuerst",
+  "es": "{sample} · Mes primero",
+  "fr": "{sample} · Mois d'abord",
+  "ru": "{sample} · Сначала месяц",
+  "zh-Hans": "{sample} · 月在前"
+ },
+ "{secs} s": {
+  "ar": "{secs} ث",
+  "de": "{secs} s",
+  "es": "{secs} s",
+  "fr": "{secs} s",
+  "ru": "{secs} с",
+  "zh-Hans": "{secs} 秒"
+ },
+ "{slots} emoji slots": {
+  "ar": "{slots} خانات إيموجي",
+  "de": "{slots} Emoji-Plätze",
+  "es": "{slots} espacios de emoji",
+  "fr": "{slots} emplacements d'émojis",
+  "ru": "Слотов для эмодзи: {slots}",
+  "zh-Hans": "{slots} 个表情位"
+ },
+ "{stream} streams": {
+  "ar": "{stream} بثوث",
+  "de": "{stream} Streams",
+  "es": "{stream} transmisiones",
+  "fr": "{stream} streams",
+  "ru": "Трансляций: {stream}",
+  "zh-Hans": "{stream} 场直播"
+ },
+ "{title}: {value}, {firstDay} – {lastDay}": {
+  "ar": "{title}: {value}، {firstDay} – {lastDay}",
+  "de": "{title}: {value}, {firstDay} – {lastDay}",
+  "es": "{title}: {value}, {firstDay} – {lastDay}",
+  "fr": "{title} : {value}, {firstDay} – {lastDay}",
+  "ru": "{title}: {value}, {firstDay} – {lastDay}",
+  "zh-Hans": "{title}:{value},{firstDay} – {lastDay}"
+ },
+ "{token} stands for the member. Empty: the room carries the member's name alone.": {
+  "ar": "{token} يرمز إلى العضو. إن تُرك فارغًا: تحمل الغرفة اسم العضو وحده.",
+  "de": "{token} steht für das Mitglied. Leer: Der Raum trägt nur den Namen des Mitglieds.",
+  "es": "{token} representa al miembro. Vacío: la sala lleva solo el nombre del miembro.",
+  "fr": "{token} représente le membre. Vide : le salon ne porte que le nom du membre.",
+  "ru": "{token} обозначает участника. Пусто: комната носит только имя участника.",
+  "zh-Hans": "{token} 代表成员。留空:房间只显示成员的名字。"
+ },
+ "{unlocked} of {total} achievements": {
+  "ar": "{unlocked} من {total} إنجازًا",
+  "de": "{unlocked} von {total} Erfolgen",
+  "es": "{unlocked} de {total} logros",
+  "fr": "{unlocked} succès sur {total}",
+  "ru": "{unlocked} из {total} достижений",
+  "zh-Hans": "{unlocked}/{total} 项成就"
+ },
+ "{uploads} uploads for everyone": {
+  "ar": "{uploads} رفعًا للجميع",
+  "de": "{uploads} Uploads für alle",
+  "es": "{uploads} subidas para todos",
+  "fr": "{uploads} envois pour tout le monde",
+  "ru": "Загрузок для всех: {uploads}",
+  "zh-Hans": "面向所有人的 {uploads} 次上传"
+ },
+ "{value} users": {
+  "ar": "{value} مستخدمين",
+  "de": "{value} Nutzer",
+  "es": "{value} usuarios",
+  "fr": "{value} utilisateurs",
+  "ru": "Пользователей: {value}",
+  "zh-Hans": "{value} 位用户"
+ },
+ "{voice} kbps voice": {
+  "ar": "{voice} كيلوبت/ث للصوت",
+  "de": "{voice} kbit/s Sprache",
+  "es": "{voice} kbps de voz",
+  "fr": "{voice} kbit/s pour la voix",
+  "ru": "Голос: {voice} кбит/с",
+  "zh-Hans": "语音 {voice} kbps"
+ },
+ "2 to 32 characters. Capital and small letters count as the same name. You can change it twice a day.": {
+  "ar": "من 2 إلى 32 حرفًا. الأحرف الكبيرة والصغيرة تُعدّ اسمًا واحدًا. يمكنك تغييره مرتين في اليوم.",
+  "de": "2 bis 32 Zeichen. Groß- und Kleinbuchstaben gelten als derselbe Name. Du kannst ihn zweimal am Tag ändern.",
+  "es": "De 2 a 32 caracteres. Mayúsculas y minúsculas cuentan como el mismo nombre. Puedes cambiarlo dos veces al día.",
+  "fr": "De 2 à 32 caractères. Majuscules et minuscules comptent comme le même nom. Tu peux le changer deux fois par jour.",
+  "ru": "От 2 до 32 символов. Заглавные и строчные буквы считаются одним именем. Менять его можно дважды в день.",
+  "zh-Hans": "2 到 32 个字符。大小写视为同一个名称。每天可更改两次。"
+ },
+ "A channel": {
+  "ar": "قناة",
+  "de": "Ein Kanal",
+  "es": "Un canal",
+  "fr": "Un salon",
+  "ru": "Канал",
+  "zh-Hans": "一个频道"
+ },
+ "A channel follows the category's permissions until you change permissions on the channel itself.": {
+  "ar": "تتبع القناة صلاحيات الفئة إلى أن تغيّر صلاحيات القناة نفسها.",
+  "de": "Ein Kanal folgt den Berechtigungen der Kategorie, bis du die Berechtigungen des Kanals selbst änderst.",
+  "es": "Un canal sigue los permisos de la categoría hasta que cambies los permisos del propio canal.",
+  "fr": "Un salon suit les permissions de la catégorie tant que tu ne modifies pas les permissions du salon lui-même.",
+  "ru": "Канал использует права категории, пока вы не измените права самого канала.",
+  "zh-Hans": "频道会沿用分类的权限,直到你更改该频道自己的权限。"
+ },
+ "A member": {
+  "ar": "عضو",
+  "de": "Ein Mitglied",
+  "es": "Un miembro",
+  "fr": "Un membre",
+  "ru": "Участник",
+  "zh-Hans": "一位成员"
+ },
+ "A member who left": {
+  "ar": "عضو غادر",
+  "de": "Ein Mitglied, das gegangen ist",
+  "es": "Un miembro que se fue",
+  "fr": "Un membre parti",
+  "ru": "Участник, который вышел",
+  "zh-Hans": "已离开的成员"
+ },
+ "A role": {
+  "ar": "دور",
+  "de": "Eine Rolle",
+  "es": "Un rol",
+  "fr": "Un rôle",
+  "ru": "Роль",
+  "zh-Hans": "一个角色"
+ },
+ "A seat came free for you": {
+  "ar": "تحرّر مقعد لك",
+  "de": "Ein Platz ist für dich frei geworden",
+  "es": "Se liberó un lugar para ti",
+  "fr": "Une place s'est libérée pour toi",
+  "ru": "Для вас освободилось место",
+  "zh-Hans": "有位置空出来给你了"
+ },
+ "A small sign at the top shows while it is on.": {
+  "ar": "تظهر إشارة صغيرة في الأعلى طوال تشغيله.",
+  "de": "Solange es an ist, erscheint oben ein kleines Zeichen.",
+  "es": "Mientras esté activado, aparece una pequeña señal arriba.",
+  "fr": "Un petit signe s'affiche en haut tant que c'est activé.",
+  "ru": "Пока функция включена, вверху показывается небольшой значок.",
+  "zh-Hans": "开启期间,顶部会显示一个小标志。"
+ },
+ "Access was not revoked.": {
+  "ar": "لم يُسحب الوصول.",
+  "de": "Der Zugriff wurde nicht widerrufen.",
+  "es": "No se revocó el acceso.",
+  "fr": "L'accès n'a pas été révoqué.",
+  "ru": "Доступ не был отозван.",
+  "zh-Hans": "访问权限未被撤销。"
+ },
+ "Active members": {
+  "ar": "الأعضاء النشطون",
+  "de": "Aktive Mitglieder",
+  "es": "Miembros activos",
+  "fr": "Membres actifs",
+  "ru": "Активные участники",
+  "zh-Hans": "活跃成员"
+ },
+ "Add a sound": {
+  "ar": "أضف صوتًا",
+  "de": "Sound hinzufügen",
+  "es": "Añadir un sonido",
+  "fr": "Ajouter un son",
+  "ru": "Добавить звук",
+  "zh-Hans": "添加声音"
+ },
+ "Add people": {
+  "ar": "أضف أشخاصًا",
+  "de": "Personen hinzufügen",
+  "es": "Añadir personas",
+  "fr": "Ajouter des personnes",
+  "ru": "Добавить людей",
+  "zh-Hans": "添加成员"
+ },
+ "Add sound": {
+  "ar": "أضف صوتًا",
+  "de": "Sound hinzufügen",
+  "es": "Añadir sonido",
+  "fr": "Ajouter un son",
+  "ru": "Добавить звук",
+  "zh-Hans": "添加声音"
+ },
+ "Added": {
+  "ar": "أُضيف",
+  "de": "Hinzugefügt",
+  "es": "Añadido",
+  "fr": "Ajouté",
+  "ru": "Добавлено",
+  "zh-Hans": "已添加"
+ },
+ "Added {date}": {
+  "ar": "أُضيف في {date}",
+  "de": "Hinzugefügt am {date}",
+  "es": "Añadido el {date}",
+  "fr": "Ajouté le {date}",
+  "ru": "Добавлено {date}",
+  "zh-Hans": "添加于 {date}"
+ },
+ "Added before Zrzur kept a record of who adds apps.": {
+  "ar": "أُضيف قبل أن يبدأ زرزور بتسجيل من يضيف التطبيقات.",
+  "de": "Hinzugefügt, bevor Zrzur festgehalten hat, wer Apps hinzufügt.",
+  "es": "Añadido antes de que Zrzur registrara quién añade apps.",
+  "fr": "Ajouté avant que Zrzur ne garde la trace de qui ajoute les apps.",
+  "ru": "Добавлено до того, как Zrzur начал фиксировать, кто добавляет приложения.",
+  "zh-Hans": "添加于 Zrzur 开始记录谁添加应用之前。"
+ },
+ "Added by {installerName} on {date}": {
+  "ar": "أضافه {installerName} في {date}",
+  "de": "Hinzugefügt von {installerName} am {date}",
+  "es": "Añadido por {installerName} el {date}",
+  "fr": "Ajouté par {installerName} le {date}",
+  "ru": "Добавил {installerName}, {date}",
+  "zh-Hans": "由 {installerName} 于 {date} 添加"
+ },
+ "Added on {date}": {
+  "ar": "أُضيف في {date}",
+  "de": "Hinzugefügt am {date}",
+  "es": "Añadido el {date}",
+  "fr": "Ajouté le {date}",
+  "ru": "Добавлено {date}",
+  "zh-Hans": "添加于 {date}"
+ },
+ "Address of {freshName}": {
+  "ar": "عنوان {freshName}",
+  "de": "Adresse von {freshName}",
+  "es": "Dirección de {freshName}",
+  "fr": "Adresse de {freshName}",
+  "ru": "Адрес {freshName}",
+  "zh-Hans": "{freshName} 的地址"
+ },
+ "Administrator: sees every category": {
+  "ar": "مدير: يرى كل فئة",
+  "de": "Administrator: sieht jede Kategorie",
+  "es": "Administrador: ve todas las categorías",
+  "fr": "Administrateur : voit toutes les catégories",
+  "ru": "Администратор: видит все категории",
+  "zh-Hans": "管理员:可查看所有分类"
+ },
+ "Administrator: sees every channel": {
+  "ar": "مدير: يرى كل قناة",
+  "de": "Administrator: sieht jeden Kanal",
+  "es": "Administrador: ve todos los canales",
+  "fr": "Administrateur : voit tous les salons",
+  "ru": "Администратор: видит все каналы",
+  "zh-Hans": "管理员:可查看所有频道"
+ },
+ "All commands": {
+  "ar": "كل الأوامر",
+  "de": "Alle Befehle",
+  "es": "Todos los comandos",
+  "fr": "Toutes les commandes",
+  "ru": "Все команды",
+  "zh-Hans": "所有命令"
+ },
+ "All sounds": {
+  "ar": "كل الأصوات",
+  "de": "Alle Sounds",
+  "es": "Todos los sonidos",
+  "fr": "Tous les sons",
+  "ru": "Все звуки",
+  "zh-Hans": "所有声音"
+ },
+ "all voice channels together": {
+  "ar": "كل القنوات الصوتية معًا",
+  "de": "alle Sprachkanäle zusammen",
+  "es": "todos los canales de voz juntos",
+  "fr": "tous les salons vocaux réunis",
+  "ru": "все голосовые каналы вместе",
+  "zh-Hans": "所有语音频道合计"
+ },
+ "Allow microphone access to see your level.": {
+  "ar": "اسمح بالوصول إلى الميكروفون لترى مستواك.",
+  "de": "Erlaube den Mikrofonzugriff, um deinen Pegel zu sehen.",
+  "es": "Permite el acceso al micrófono para ver tu nivel.",
+  "fr": "Autorise l'accès au micro pour voir ton niveau.",
+  "ru": "Разрешите доступ к микрофону, чтобы видеть свой уровень.",
+  "zh-Hans": "允许访问麦克风即可查看你的音量。"
+ },
+ "Allow or deny": {
+  "ar": "السماح أو الرفض",
+  "de": "Erlauben oder verweigern",
+  "es": "Permitir o denegar",
+  "fr": "Autoriser ou refuser",
+  "ru": "Разрешить или запретить",
+  "zh-Hans": "允许或拒绝"
+ },
+ "Allow or deny {name}": {
+  "ar": "السماح لـ {name} أو رفضه",
+  "de": "{name} erlauben oder verweigern",
+  "es": "Permitir o denegar a {name}",
+  "fr": "Autoriser ou refuser {name}",
+  "ru": "Разрешить или запретить: {name}",
+  "zh-Hans": "允许或拒绝 {name}"
+ },
+ "An MP3, OGG or WAV file of up to {kb} KB, then a name. WAV files are big: longer sounds fit as MP3 or OGG.": {
+  "ar": "ملف MP3 أو OGG أو WAV حتى {kb} كيلوبايت، ثم اسم. ملفات WAV كبيرة: الأصوات الأطول تناسب MP3 أو OGG.",
+  "de": "Eine MP3-, OGG- oder WAV-Datei bis {kb} KB, dann ein Name. WAV-Dateien sind groß: Längere Sounds passen als MP3 oder OGG.",
+  "es": "Un archivo MP3, OGG o WAV de hasta {kb} KB y luego un nombre. Los WAV son grandes: los sonidos más largos caben como MP3 u OGG.",
+  "fr": "Un fichier MP3, OGG ou WAV de {kb} Ko maximum, puis un nom. Les WAV sont lourds : les sons plus longs tiennent en MP3 ou OGG.",
+  "ru": "Файл MP3, OGG или WAV до {kb} КБ, затем название. Файлы WAV большие: более длинные звуки поместятся в MP3 или OGG.",
+  "zh-Hans": "不超过 {kb} KB 的 MP3、OGG 或 WAV 文件,然后输入名称。WAV 文件较大:较长的声音请用 MP3 或 OGG。"
+ },
+ "Animated decorations, nameplates and profile effects stay still.": {
+  "ar": "تبقى الزخارف المتحركة وألواح الأسماء وتأثيرات الملف الشخصي ثابتة.",
+  "de": "Animierte Dekorationen, Namensschilder und Profileffekte bleiben statisch.",
+  "es": "Las decoraciones animadas, las placas de nombre y los efectos de perfil permanecen estáticos.",
+  "fr": "Les décorations animées, les plaques de nom et les effets de profil restent fixes.",
+  "ru": "Анимированные украшения, шильдики и эффекты профиля остаются неподвижными.",
+  "zh-Hans": "动态装饰、铭牌和资料特效将保持静止。"
+ },
+ "Answer {a}": {
+  "ar": "الإجابة {a}",
+  "de": "Antwort {a}",
+  "es": "Respuesta {a}",
+  "fr": "Réponse {a}",
+  "ru": "Ответ {a}",
+  "zh-Hans": "回答 {a}"
+ },
+ "anyone who can open your Zrzur profile. If you are under 18, or we do not know your age, only your friends. You see a preview first and can hide any game; a hidden game and its achievements show nowhere.": {
+  "ar": "أي شخص يستطيع فتح ملفك الشخصي في زرزور. إن كان عمرك أقل من 18، أو لا نعرف عمرك، فأصدقاؤك فقط. ترى معاينة أولًا ويمكنك إخفاء أي لعبة؛ اللعبة المخفية وإنجازاتها لا تظهر في أي مكان.",
+  "de": "jede Person, die dein Zrzur-Profil öffnen kann. Wenn du unter 18 bist oder wir dein Alter nicht kennen, nur deine Freunde. Du siehst zuerst eine Vorschau und kannst jedes Spiel ausblenden; ein ausgeblendetes Spiel und seine Erfolge werden nirgends angezeigt.",
+  "es": "cualquiera que pueda abrir tu perfil de Zrzur. Si tienes menos de 18 años, o no sabemos tu edad, solo tus amigos. Primero ves una vista previa y puedes ocultar cualquier juego; un juego oculto y sus logros no se muestran en ningún sitio.",
+  "fr": "toute personne pouvant ouvrir ton profil Zrzur. Si tu as moins de 18 ans, ou si nous ne connaissons pas ton âge, uniquement tes amis. Tu vois d'abord un aperçu et tu peux masquer n'importe quel jeu ; un jeu masqué et ses succès ne s'affichent nulle part.",
+  "ru": "все, кто может открыть ваш профиль в Zrzur. Если вам нет 18 лет или мы не знаем ваш возраст, то только ваши друзья. Сначала вы видите предпросмотр и можете скрыть любую игру; скрытая игра и её достижения нигде не отображаются.",
+  "zh-Hans": "任何能打开你 Zrzur 个人资料的人。如果你未满 18 岁,或我们不知道你的年龄,则仅限好友。你会先看到预览,并可隐藏任何游戏;被隐藏的游戏及其成就不会在任何地方显示。"
+ },
+ "App": {
+  "ar": "تطبيق",
+  "de": "App",
+  "es": "App",
+  "fr": "App",
+  "ru": "Приложение",
+  "zh-Hans": "应用"
+ },
+ "Appealing doesn't lift anything by itself. A person looks at the decision again; where we can, it is someone other than the person who made it.": {
+  "ar": "الاستئناف لا يرفع شيئًا من تلقاء نفسه. يعيد شخص النظر في القرار؛ وحيثما أمكن يكون شخصًا غير الذي اتخذه.",
+  "de": "Ein Einspruch hebt für sich allein nichts auf. Eine Person prüft die Entscheidung erneut; wo möglich, ist es jemand anderes als die Person, die sie getroffen hat.",
+  "es": "Apelar no levanta nada por sí solo. Una persona vuelve a revisar la decisión; cuando es posible, alguien distinto de quien la tomó.",
+  "fr": "Faire appel ne lève rien à lui seul. Une personne réexamine la décision ; dans la mesure du possible, ce n'est pas celle qui l'a prise.",
+  "ru": "Обжалование само по себе ничего не снимает. Человек заново рассматривает решение; по возможности это не тот, кто его принял.",
+  "zh-Hans": "申诉本身不会解除任何处理。会有人重新审查该决定;在可能的情况下,审查者不是作出决定的人。"
+ },
+ "Available until {datetime}. Then the file is deleted.": {
+  "ar": "متاح حتى {datetime}. بعدها يُحذف الملف.",
+  "de": "Verfügbar bis {datetime}. Danach wird die Datei gelöscht.",
+  "es": "Disponible hasta {datetime}. Después se elimina el archivo.",
+  "fr": "Disponible jusqu'au {datetime}. Ensuite, le fichier est supprimé.",
+  "ru": "Доступно до {datetime}. Затем файл удаляется.",
+  "zh-Hans": "可用至 {datetime},之后文件将被删除。"
+ },
+ "Avatars, server icons and banners load as previews, never as the animated original.": {
+  "ar": "تُحمَّل الصور الرمزية وأيقونات السيرفرات واللافتات كمعاينات، وليس كنسخة متحركة أصلية.",
+  "de": "Avatare, Server-Icons und Banner werden als Vorschau geladen, nie als animiertes Original.",
+  "es": "Los avatares, los iconos de servidor y los banners se cargan como vistas previas, nunca como el original animado.",
+  "fr": "Les avatars, icônes de serveur et bannières se chargent en aperçu, jamais en original animé.",
+  "ru": "Аватары, значки серверов и баннеры загружаются как превью, а не как анимированный оригинал.",
+  "zh-Hans": "头像、服务器图标和横幅以预览图加载,不会加载动态原图。"
+ },
+ "Battle.net lets us keep it for 30 days. Confirm on Battle.net before then to keep it; otherwise we delete it. We keep no Battle.net sign-in.": {
+  "ar": "يتيح لنا Battle.net الاحتفاظ به 30 يومًا. أكّد على Battle.net قبل ذلك للإبقاء عليه؛ وإلا نحذفه. لا نحتفظ بأي تسجيل دخول إلى Battle.net.",
+  "de": "Battle.net erlaubt uns, es 30 Tage zu behalten. Bestätige bei Battle.net vorher, um es zu behalten; sonst löschen wir es. Wir speichern keine Battle.net-Anmeldung.",
+  "es": "Battle.net nos permite conservarlo 30 días. Confirma en Battle.net antes de ese plazo para conservarlo; si no, lo eliminamos. No guardamos ningún inicio de sesión de Battle.net.",
+  "fr": "Battle.net nous permet de le garder 30 jours. Confirme sur Battle.net avant ce délai pour le conserver ; sinon, nous le supprimons. Nous ne gardons aucune connexion Battle.net.",
+  "ru": "Battle.net позволяет нам хранить это 30 дней. Подтвердите на Battle.net до этого срока, чтобы сохранить; иначе мы удалим. Данные для входа в Battle.net мы не храним.",
+  "zh-Hans": "Battle.net 允许我们保留 30 天。请在此之前到 Battle.net 确认以继续保留;否则我们会将其删除。我们不保存任何 Battle.net 登录信息。"
+ },
+ "BattleTag from Battle.net. Disconnecting deletes it at once.": {
+  "ar": "BattleTag من Battle.net. فصل الربط يحذفه فورًا.",
+  "de": "BattleTag von Battle.net. Beim Trennen wird er sofort gelöscht.",
+  "es": "BattleTag de Battle.net. Al desconectar se elimina de inmediato.",
+  "fr": "BattleTag de Battle.net. La déconnexion le supprime immédiatement.",
+  "ru": "BattleTag из Battle.net. При отключении он сразу удаляется.",
+  "zh-Hans": "来自 Battle.net 的 BattleTag。断开连接会立即将其删除。"
+ },
+ "Below the threshold, others hear silence.": {
+  "ar": "تحت العتبة، يسمع الآخرون صمتًا.",
+  "de": "Unterhalb der Schwelle hören andere Stille.",
+  "es": "Por debajo del umbral, los demás oyen silencio.",
+  "fr": "Sous le seuil, les autres entendent le silence.",
+  "ru": "Ниже порога другие слышат тишину.",
+  "zh-Hans": "低于阈值时,其他人听到的是静音。"
+ },
+ "Beta features you can use: {list}": {
+  "ar": "ميزات تجريبية يمكنك استخدامها: {list}",
+  "de": "Beta-Funktionen, die du nutzen kannst: {list}",
+  "es": "Funciones beta que puedes usar: {list}",
+  "fr": "Fonctionnalités bêta que tu peux utiliser : {list}",
+  "ru": "Доступные вам бета-функции: {list}",
+  "zh-Hans": "你可以使用的测试版功能:{list}"
+ },
+ "Busiest channels": {
+  "ar": "أكثر القنوات نشاطًا",
+  "de": "Aktivste Kanäle",
+  "es": "Canales más activos",
+  "fr": "Salons les plus actifs",
+  "ru": "Самые активные каналы",
+  "zh-Hans": "最活跃的频道"
+ },
+ "Can see this category": {
+  "ar": "يستطيع رؤية هذه الفئة",
+  "de": "Kann diese Kategorie sehen",
+  "es": "Puede ver esta categoría",
+  "fr": "Peut voir cette catégorie",
+  "ru": "Видит эту категорию",
+  "zh-Hans": "可查看此分类"
+ },
+ "Can see this channel": {
+  "ar": "يستطيع رؤية هذه القناة",
+  "de": "Kann diesen Kanal sehen",
+  "es": "Puede ver este canal",
+  "fr": "Peut voir ce salon",
+  "ru": "Видит этот канал",
+  "zh-Hans": "可查看此频道"
+ },
+ "Can't see this category": {
+  "ar": "لا يستطيع رؤية هذه الفئة",
+  "de": "Kann diese Kategorie nicht sehen",
+  "es": "No puede ver esta categoría",
+  "fr": "Ne peut pas voir cette catégorie",
+  "ru": "Не видит эту категорию",
+  "zh-Hans": "无法查看此分类"
+ },
+ "Can't see this channel": {
+  "ar": "لا يستطيع رؤية هذه القناة",
+  "de": "Kann diesen Kanal nicht sehen",
+  "es": "No puede ver este canal",
+  "fr": "Ne peut pas voir ce salon",
+  "ru": "Не видит этот канал",
+  "zh-Hans": "无法查看此频道"
+ },
+ "Category info": {
+  "ar": "معلومات الفئة",
+  "de": "Kategorieinfo",
+  "es": "Información de la categoría",
+  "fr": "Infos de la catégorie",
+  "ru": "О категории",
+  "zh-Hans": "分类信息"
+ },
+ "Category name": {
+  "ar": "اسم الفئة",
+  "de": "Kategoriename",
+  "es": "Nombre de la categoría",
+  "fr": "Nom de la catégorie",
+  "ru": "Название категории",
+  "zh-Hans": "分类名称"
+ },
+ "Category settings": {
+  "ar": "إعدادات الفئة",
+  "de": "Kategorieeinstellungen",
+  "es": "Ajustes de la categoría",
+  "fr": "Paramètres de la catégorie",
+  "ru": "Настройки категории",
+  "zh-Hans": "分类设置"
+ },
+ "Change identity on {serverName}": {
+  "ar": "تغيير الهوية على {serverName}",
+  "de": "Identität auf {serverName} ändern",
+  "es": "Cambiar identidad en {serverName}",
+  "fr": "Changer d'identité sur {serverName}",
+  "ru": "Сменить личность на {serverName}",
+  "zh-Hans": "更改在 {serverName} 上的身份"
+ },
+ "Changed or called off": {
+  "ar": "غُيّر أو أُلغي",
+  "de": "Geändert oder abgesagt",
+  "es": "Cambiado o cancelado",
+  "fr": "Modifié ou annulé",
+  "ru": "Изменено или отменено",
+  "zh-Hans": "已更改或取消"
+ },
+ "Channels here that are hidden from you: {hidden}": {
+  "ar": "القنوات المخفية عنك هنا: {hidden}",
+  "de": "Kanäle hier, die für dich verborgen sind: {hidden}",
+  "es": "Canales de aquí ocultos para ti: {hidden}",
+  "fr": "Salons ici qui te sont masqués : {hidden}",
+  "ru": "Скрытые от вас каналы здесь: {hidden}",
+  "zh-Hans": "此处对你隐藏的频道:{hidden}"
+ },
+ "Channels in this category": {
+  "ar": "القنوات في هذه الفئة",
+  "de": "Kanäle in dieser Kategorie",
+  "es": "Canales de esta categoría",
+  "fr": "Salons de cette catégorie",
+  "ru": "Каналы в этой категории",
+  "zh-Hans": "此分类中的频道"
+ },
+ "Channels that follow this category use these permissions.": {
+  "ar": "القنوات التي تتبع هذه الفئة تستخدم هذه الصلاحيات.",
+  "de": "Kanäle, die dieser Kategorie folgen, nutzen diese Berechtigungen.",
+  "es": "Los canales que siguen esta categoría usan estos permisos.",
+  "fr": "Les salons qui suivent cette catégorie utilisent ces permissions.",
+  "ru": "Каналы, использующие эту категорию, применяют эти права.",
+  "zh-Hans": "沿用此分类的频道会使用这些权限。"
+ },
+ "Choose a sound": {
+  "ar": "اختر صوتًا",
+  "de": "Sound auswählen",
+  "es": "Elige un sonido",
+  "fr": "Choisis un son",
+  "ru": "Выберите звук",
+  "zh-Hans": "选择声音"
+ },
+ "Choose your username": {
+  "ar": "اختر اسم المستخدم",
+  "de": "Wähle deinen Benutzernamen",
+  "es": "Elige tu nombre de usuario",
+  "fr": "Choisis ton nom d'utilisateur",
+  "ru": "Выберите имя пользователя",
+  "zh-Hans": "选择你的用户名"
+ },
+ "Commands and who can use them": {
+  "ar": "الأوامر ومن يستطيع استخدامها",
+  "de": "Befehle und wer sie nutzen kann",
+  "es": "Comandos y quién puede usarlos",
+  "fr": "Commandes et qui peut les utiliser",
+  "ru": "Команды и кто может их использовать",
+  "zh-Hans": "命令及可使用者"
+ },
+ "Confirm on Battle.net": {
+  "ar": "أكّد على Battle.net",
+  "de": "Bei Battle.net bestätigen",
+  "es": "Confirmar en Battle.net",
+  "fr": "Confirmer sur Battle.net",
+  "ru": "Подтвердить на Battle.net",
+  "zh-Hans": "在 Battle.net 上确认"
+ },
+ "Confirm within {days} days": {
+  "ar": "أكّد خلال {days} أيام",
+  "de": "Bestätige innerhalb von {days} Tagen",
+  "es": "Confirma en {days} días",
+  "fr": "Confirme dans les {days} jours",
+  "ru": "Подтвердите в течение {days} дн.",
+  "zh-Hans": "请在 {days} 天内确认"
+ },
+ "Connect {name}": {
+  "ar": "ربط {name}",
+  "de": "{name} verbinden",
+  "es": "Conectar {name}",
+  "fr": "Connecter {name}",
+  "ru": "Подключить {name}",
+  "zh-Hans": "连接 {name}"
+ },
+ "Connect Steam": {
+  "ar": "ربط Steam",
+  "de": "Steam verbinden",
+  "es": "Conectar Steam",
+  "fr": "Connecter Steam",
+  "ru": "Подключить Steam",
+  "zh-Hans": "连接 Steam"
+ },
+ "Connected apps": {
+  "ar": "التطبيقات المرتبطة",
+  "de": "Verbundene Apps",
+  "es": "Apps conectadas",
+  "fr": "Apps connectées",
+  "ru": "Подключённые приложения",
+  "zh-Hans": "已连接的应用"
+ },
+ "Connected on {date}": {
+  "ar": "تم الربط في {date}",
+  "de": "Verbunden am {date}",
+  "es": "Conectado el {date}",
+  "fr": "Connecté le {date}",
+  "ru": "Подключено {date}",
+  "zh-Hans": "连接于 {date}"
+ },
+ "Connections": {
+  "ar": "الاتصالات",
+  "de": "Verbindungen",
+  "es": "Conexiones",
+  "fr": "Connexions",
+  "ru": "Подключения",
+  "zh-Hans": "连接"
+ },
+ "Continue to {name}": {
+  "ar": "المتابعة إلى {name}",
+  "de": "Weiter zu {name}",
+  "es": "Continuar a {name}",
+  "fr": "Continuer vers {name}",
+  "ru": "Перейти к {name}",
+  "zh-Hans": "继续前往 {name}"
+ },
+ "Continue to Steam": {
+  "ar": "المتابعة إلى Steam",
+  "de": "Weiter zu Steam",
+  "es": "Continuar a Steam",
+  "fr": "Continuer vers Steam",
+  "ru": "Перейти к Steam",
+  "zh-Hans": "继续前往 Steam"
+ },
+ "Couldn't load this app.": {
+  "ar": "تعذّر تحميل هذا التطبيق.",
+  "de": "Diese App konnte nicht geladen werden.",
+  "es": "No se pudo cargar esta app.",
+  "fr": "Impossible de charger cette app.",
+  "ru": "Не удалось загрузить это приложение.",
+  "zh-Hans": "无法加载此应用。"
+ },
+ "Counted since {date}.": {
+  "ar": "محتسب منذ {date}.",
+  "de": "Gezählt seit {date}.",
+  "es": "Contado desde el {date}.",
+  "fr": "Compté depuis le {date}.",
+  "ru": "Считается с {date}.",
+  "zh-Hans": "自 {date} 起统计。"
+ },
+ "Created {time}": {
+  "ar": "أُنشئ {time}",
+  "de": "Erstellt {time}",
+  "es": "Creado {time}",
+  "fr": "Créé {time}",
+  "ru": "Создано {time}",
+  "zh-Hans": "创建于 {time}"
+ },
+ "Created by {creator} on {made}. Last used {used}.": {
+  "ar": "أنشأه {creator} في {made}. آخر استخدام {used}.",
+  "de": "Erstellt von {creator} am {made}. Zuletzt verwendet {used}.",
+  "es": "Creado por {creator} el {made}. Último uso: {used}.",
+  "fr": "Créé par {creator} le {made}. Dernière utilisation : {used}.",
+  "ru": "Создал {creator}, {made}. Последнее использование: {used}.",
+  "zh-Hans": "由 {creator} 于 {made} 创建。最近使用:{used}。"
+ },
+ "Custom link": {
+  "ar": "رابط مخصص",
+  "de": "Eigener Link",
+  "es": "Enlace personalizado",
+  "fr": "Lien personnalisé",
+  "ru": "Своя ссылка",
+  "zh-Hans": "自定义链接"
+ },
+ "Days in your time ({time_zone}). Updated every hour.": {
+  "ar": "أيام بتوقيتك ({time_zone}). تُحدَّث كل ساعة.",
+  "de": "Tage in deiner Zeit ({time_zone}). Wird stündlich aktualisiert.",
+  "es": "Días en tu hora ({time_zone}). Se actualiza cada hora.",
+  "fr": "Jours dans ton fuseau ({time_zone}). Mis à jour toutes les heures.",
+  "ru": "Дни по вашему времени ({time_zone}). Обновляется каждый час.",
+  "zh-Hans": "按你的时间({time_zone})计算的天数。每小时更新一次。"
+ },
+ "Decrease {label}": {
+  "ar": "تقليل {label}",
+  "de": "{label} verringern",
+  "es": "Reducir {label}",
+  "fr": "Diminuer {label}",
+  "ru": "Уменьшить: {label}",
+  "zh-Hans": "减小{label}"
+ },
+ "Deleted role": {
+  "ar": "دور محذوف",
+  "de": "Gelöschte Rolle",
+  "es": "Rol eliminado",
+  "fr": "Rôle supprimé",
+  "ru": "Удалённая роль",
+  "zh-Hans": "已删除的角色"
+ },
+ "Disconnecting deletes everything we copied.": {
+  "ar": "فصل الربط يحذف كل ما نسخناه.",
+  "de": "Beim Trennen wird alles gelöscht, was wir kopiert haben.",
+  "es": "Al desconectar se elimina todo lo que copiamos.",
+  "fr": "La déconnexion supprime tout ce que nous avons copié.",
+  "ru": "При отключении всё скопированное нами удаляется.",
+  "zh-Hans": "断开连接会删除我们复制的所有内容。"
+ },
+ "Disconnecting deletes everything Zrzur copied from Steam at once.": {
+  "ar": "فصل الربط يحذف فورًا كل ما نسخه زرزور من Steam.",
+  "de": "Beim Trennen wird sofort alles gelöscht, was Zrzur von Steam kopiert hat.",
+  "es": "Al desconectar se elimina de inmediato todo lo que Zrzur copió de Steam.",
+  "fr": "La déconnexion supprime immédiatement tout ce que Zrzur a copié depuis Steam.",
+  "ru": "При отключении всё, что Zrzur скопировал из Steam, сразу удаляется.",
+  "zh-Hans": "断开连接会立即删除 Zrzur 从 Steam 复制的所有内容。"
+ },
+ "Does not follow {categoryTitle}": {
+  "ar": "لا يتبع {categoryTitle}",
+  "de": "Folgt {categoryTitle} nicht",
+  "es": "No sigue a {categoryTitle}",
+  "fr": "Ne suit pas {categoryTitle}",
+  "ru": "Не использует права {categoryTitle}",
+  "zh-Hans": "不沿用 {categoryTitle}"
+ },
+ "Earned {date}": {
+  "ar": "حُصل عليه في {date}",
+  "de": "Erhalten am {date}",
+  "es": "Obtenido el {date}",
+  "fr": "Obtenu le {date}",
+  "ru": "Получено {date}",
+  "zh-Hans": "获得于 {date}"
+ },
+ "Emoji (optional)": {
+  "ar": "إيموجي (اختياري)",
+  "de": "Emoji (optional)",
+  "es": "Emoji (opcional)",
+  "fr": "Émoji (facultatif)",
+  "ru": "Эмодзи (необязательно)",
+  "zh-Hans": "表情(可选)"
+ },
+ "Every channel": {
+  "ar": "كل القنوات",
+  "de": "Jeder Kanal",
+  "es": "Todos los canales",
+  "fr": "Tous les salons",
+  "ru": "Все каналы",
+  "zh-Hans": "所有频道"
+ },
+ "Everyone in the server can see it.": {
+  "ar": "يستطيع كل من في السيرفر رؤيته.",
+  "de": "Alle im Server können es sehen.",
+  "es": "Todos en el servidor pueden verlo.",
+  "fr": "Tout le monde sur le serveur peut le voir.",
+  "ru": "Его видят все на сервере.",
+  "zh-Hans": "服务器中的所有人都能看到。"
+ },
+ "Fewer": {
+  "ar": "أقل",
+  "de": "Weniger",
+  "es": "Menos",
+  "fr": "Moins",
+  "ru": "Меньше",
+  "zh-Hans": "更少"
+ },
+ "fewer than 5": {
+  "ar": "أقل من 5",
+  "de": "weniger als 5",
+  "es": "menos de 5",
+  "fr": "moins de 5",
+  "ru": "менее 5",
+  "zh-Hans": "少于 5"
+ },
+ "File must be smaller than {size}": {
+  "ar": "يجب أن يكون الملف أصغر من {size}",
+  "de": "Die Datei muss kleiner als {size} sein",
+  "es": "El archivo debe ser menor de {size}",
+  "fr": "Le fichier doit faire moins de {size}",
+  "ru": "Файл должен быть меньше {size}",
+  "zh-Hans": "文件必须小于 {size}"
+ },
+ "Filters keyboard and fan noise on your device.": {
+  "ar": "يزيل ضجيج لوحة المفاتيح والمروحة على جهازك.",
+  "de": "Filtert Tastatur- und Lüftergeräusche auf deinem Gerät heraus.",
+  "es": "Filtra el ruido del teclado y del ventilador en tu dispositivo.",
+  "fr": "Filtre les bruits de clavier et de ventilateur sur ton appareil.",
+  "ru": "Подавляет шум клавиатуры и вентилятора на вашем устройстве.",
+  "zh-Hans": "过滤你设备上的键盘和风扇噪音。"
+ },
+ "Follow {categoryTitle}?": {
+  "ar": "هل تتبع {categoryTitle}؟",
+  "de": "{categoryTitle} folgen?",
+  "es": "¿Seguir {categoryTitle}?",
+  "fr": "Suivre {categoryTitle} ?",
+  "ru": "Использовать права {categoryTitle}?",
+  "zh-Hans": "沿用 {categoryTitle}?"
+ },
+ "Follow category": {
+  "ar": "اتبع الفئة",
+  "de": "Kategorie folgen",
+  "es": "Seguir la categoría",
+  "fr": "Suivre la catégorie",
+  "ru": "Следовать категории",
+  "zh-Hans": "沿用分类"
+ },
+ "Follow the category?": {
+  "ar": "هل تتبع الفئة؟",
+  "de": "Der Kategorie folgen?",
+  "es": "¿Seguir la categoría?",
+  "fr": "Suivre la catégorie ?",
+  "ru": "Следовать категории?",
+  "zh-Hans": "沿用分类?"
+ },
+ "Follows {categoryTitle}": {
+  "ar": "يتبع {categoryTitle}",
+  "de": "Folgt {categoryTitle}",
+  "es": "Sigue a {categoryTitle}",
+  "fr": "Suit {categoryTitle}",
+  "ru": "Использует права {categoryTitle}",
+  "zh-Hans": "沿用 {categoryTitle}"
+ },
+ "Follows the category": {
+  "ar": "يتبع الفئة",
+  "de": "Folgt der Kategorie",
+  "es": "Sigue la categoría",
+  "fr": "Suit la catégorie",
+  "ru": "Следует категории",
+  "zh-Hans": "沿用分类"
+ },
+ "For events you are going to, or maybe going to.": {
+  "ar": "للفعاليات التي ستحضرها أو قد تحضرها.",
+  "de": "Für Events, zu denen du gehst oder vielleicht gehst.",
+  "es": "Para eventos a los que vas o quizá vayas.",
+  "fr": "Pour les événements auxquels tu participes ou peut-être.",
+  "ru": "Для событий, на которые вы идёте или, возможно, пойдёте.",
+  "zh-Hans": "适用于你要参加或可能参加的活动。"
+ },
+ "For music: 128 kbps stereo, with the processing below turned off.": {
+  "ar": "للموسيقى: 128 كيلوبت/ث ستريو، مع إيقاف المعالجة أدناه.",
+  "de": "Für Musik: 128 kbit/s Stereo, mit ausgeschalteter Verarbeitung darunter.",
+  "es": "Para música: 128 kbps estéreo, con el procesamiento de abajo desactivado.",
+  "fr": "Pour la musique : 128 kbit/s stéréo, avec le traitement ci-dessous désactivé.",
+  "ru": "Для музыки: 128 кбит/с стерео, с выключенной обработкой ниже.",
+  "zh-Hans": "适合音乐:128 kbps 立体声,并关闭下方的处理选项。"
+ },
+ "For weak or metered internet. The choice is kept on this device only, so your phone and your computer can differ.": {
+  "ar": "للإنترنت الضعيف أو المحدود. يُحفظ الاختيار على هذا الجهاز فقط، فقد يختلف هاتفك عن حاسوبك.",
+  "de": "Für schwaches oder getaktetes Internet. Die Auswahl wird nur auf diesem Gerät gespeichert, daher können Handy und Computer unterschiedlich sein.",
+  "es": "Para internet débil o con límite de datos. La elección se guarda solo en este dispositivo, así que tu teléfono y tu ordenador pueden diferir.",
+  "fr": "Pour une connexion faible ou limitée. Le choix n'est conservé que sur cet appareil, donc ton téléphone et ton ordinateur peuvent différer.",
+  "ru": "Для слабого или лимитного интернета. Выбор сохраняется только на этом устройстве, поэтому на телефоне и компьютере он может отличаться.",
+  "zh-Hans": "适用于网络较差或按流量计费的情况。该选择仅保存在此设备上,因此手机和电脑可以不同。"
+ },
+ "From {supercharges} Wings": {
+  "ar": "من {supercharges} أجنحة",
+  "de": "Von {supercharges} Flügeln",
+  "es": "De {supercharges} Alas",
+  "fr": "À partir de {supercharges} Ailes",
+  "ru": "От {supercharges} Крыльев",
+  "zh-Hans": "来自 {supercharges} 个翅膀"
+ },
+ "From Steam. Steam is a trademark of Valve Corporation; Zrzur is not affiliated with Valve. Game pictures, achievement names and icons belong to their owners.": {
+  "ar": "من Steam. Steam علامة تجارية لشركة Valve Corporation؛ زرزور غير تابع لـ Valve. صور الألعاب وأسماء الإنجازات وأيقوناتها ملك لأصحابها.",
+  "de": "Von Steam. Steam ist eine Marke der Valve Corporation; Zrzur ist nicht mit Valve verbunden. Spielbilder, Erfolgsnamen und Symbole gehören ihren Eigentümern.",
+  "es": "De Steam. Steam es una marca de Valve Corporation; Zrzur no está afiliado a Valve. Las imágenes de los juegos, los nombres de los logros y los iconos pertenecen a sus propietarios.",
+  "fr": "Depuis Steam. Steam est une marque de Valve Corporation ; Zrzur n'est pas affilié à Valve. Les images de jeux, noms de succès et icônes appartiennent à leurs propriétaires.",
+  "ru": "Из Steam. Steam — товарный знак Valve Corporation; Zrzur не связан с Valve. Изображения игр, названия и значки достижений принадлежат их владельцам.",
+  "zh-Hans": "来自 Steam。Steam 是 Valve Corporation 的商标;Zrzur 与 Valve 无关联。游戏图片、成就名称和图标归其各自所有者所有。"
+ },
+ "GIFs and videos do not load or play until you tap them.": {
+  "ar": "لا تُحمَّل ملفات GIF والفيديو ولا تُشغَّل حتى تنقر عليها.",
+  "de": "GIFs und Videos werden erst geladen und abgespielt, wenn du sie antippst.",
+  "es": "Los GIF y los vídeos no se cargan ni se reproducen hasta que los toques.",
+  "fr": "Les GIF et les vidéos ne se chargent ni ne se lancent tant que tu ne les touches pas.",
+  "ru": "GIF и видео не загружаются и не воспроизводятся, пока вы не нажмёте на них.",
+  "zh-Hans": "GIF 和视频在你点按之前不会加载或播放。"
+ },
+ "Gift from {giverName}. Ends on {0}, nothing renews.": {
+  "ar": "هدية من {giverName}. تنتهي في {0}، ولا يتجدد شيء.",
+  "de": "Geschenk von {giverName}. Endet am {0}, nichts wird verlängert.",
+  "es": "Regalo de {giverName}. Termina el {0}, nada se renueva.",
+  "fr": "Cadeau de {giverName}. Se termine le {0}, rien ne se renouvelle.",
+  "ru": "Подарок от {giverName}. Заканчивается {0}, ничего не продлевается.",
+  "zh-Hans": "来自 {giverName} 的礼物。{0} 结束,不会自动续订。"
+ },
+ "Gifted Feather, ends on {0}": {
+  "ar": "ريشة مُهداة، تنتهي في {0}",
+  "de": "Verschenktes Feather, endet am {0}",
+  "es": "Feather regalado, termina el {0}",
+  "fr": "Feather offert, se termine le {0}",
+  "ru": "Подаренный Feather, заканчивается {0}",
+  "zh-Hans": "赠送的 Feather,{0} 结束"
+ },
+ "Grants {granted} permissions and denies {denied} permissions": {
+  "ar": "يمنح {granted} صلاحيات ويرفض {denied} صلاحيات",
+  "de": "Erlaubt {granted} Berechtigungen und verweigert {denied} Berechtigungen",
+  "es": "Concede {granted} permisos y deniega {denied} permisos",
+  "fr": "Accorde {granted} permissions et refuse {denied} permissions",
+  "ru": "Разрешает прав: {granted}, запрещает прав: {denied}",
+  "zh-Hans": "授予 {granted} 项权限,拒绝 {denied} 项权限"
+ },
+ "Hidden from everyone except the roles you let in below. Its name stays visible to people who can see a channel inside it, and to those who manage channels or permissions or read the audit log.": {
+  "ar": "مخفية عن الجميع إلا الأدوار التي تسمح لها أدناه. يبقى اسمها ظاهرًا لمن يرى قناة بداخلها، ولمن يدير القنوات أو الصلاحيات أو يقرأ سجل التدقيق.",
+  "de": "Für alle verborgen außer den Rollen, die du unten zulässt. Der Name bleibt für Personen sichtbar, die einen Kanal darin sehen, und für alle, die Kanäle oder Berechtigungen verwalten oder das Audit-Protokoll lesen.",
+  "es": "Oculta para todos excepto los roles que permitas abajo. Su nombre sigue visible para quienes ven un canal dentro de ella y para quienes gestionan canales o permisos o leen el registro de auditoría.",
+  "fr": "Masquée pour tout le monde sauf les rôles que tu autorises ci-dessous. Son nom reste visible pour ceux qui voient un salon à l'intérieur, et pour ceux qui gèrent les salons ou les permissions ou lisent le journal d'audit.",
+  "ru": "Скрыта от всех, кроме ролей, которым вы разрешите ниже. Её название остаётся видимым тем, кто видит канал внутри неё, а также тем, кто управляет каналами или правами либо читает журнал аудита.",
+  "zh-Hans": "对所有人隐藏,下方允许的角色除外。能看到其中某个频道的人,以及管理频道或权限、查看审核日志的人,仍可看到它的名称。"
+ },
+ "Hide this category from {role}": {
+  "ar": "إخفاء هذه الفئة عن {role}",
+  "de": "Diese Kategorie vor {role} verbergen",
+  "es": "Ocultar esta categoría a {role}",
+  "fr": "Masquer cette catégorie à {role}",
+  "ru": "Скрыть эту категорию от {role}",
+  "zh-Hans": "对 {role} 隐藏此分类"
+ },
+ "Hide this channel from {role}": {
+  "ar": "إخفاء هذه القناة عن {role}",
+  "de": "Diesen Kanal vor {role} verbergen",
+  "es": "Ocultar este canal a {role}",
+  "fr": "Masquer ce salon à {role}",
+  "ru": "Скрыть этот канал от {role}",
+  "zh-Hans": "对 {role} 隐藏此频道"
+ },
+ "Hides your email, your tag, invite links and codes, and message previews from DMs in notifications, so they never show on stream.": {
+  "ar": "يخفي بريدك الإلكتروني ووسمك وروابط الدعوة ورموزها ومعاينات الرسائل الخاصة في الإشعارات، فلا تظهر أبدًا أثناء البث.",
+  "de": "Verbirgt deine E-Mail, deinen Tag, Einladungslinks und -codes sowie Nachrichtenvorschauen aus DMs in Benachrichtigungen, damit sie nie im Stream auftauchen.",
+  "es": "Oculta tu correo, tu etiqueta, los enlaces y códigos de invitación y las vistas previas de mensajes directos en las notificaciones, para que nunca se vean en el stream.",
+  "fr": "Masque ton e-mail, ton tag, les liens et codes d'invitation et les aperçus de messages privés dans les notifications, pour qu'ils n'apparaissent jamais en stream.",
+  "ru": "Скрывает в уведомлениях вашу почту, ваш тег, ссылки и коды приглашений и превью личных сообщений, чтобы они никогда не появлялись в трансляции.",
+  "zh-Hans": "在通知中隐藏你的邮箱、标签、邀请链接和邀请码以及私信预览,避免它们出现在直播中。"
+ },
+ "High quality audio": {
+  "ar": "صوت عالي الجودة",
+  "de": "Hochwertiger Ton",
+  "es": "Audio de alta calidad",
+  "fr": "Audio haute qualité",
+  "ru": "Высокое качество звука",
+  "zh-Hans": "高音质"
+ },
+ "I agree that Zrzur copies this and shows it on my profile, including anything it may reveal about me, and exchanges this data with {name} in the United States.": {
+  "ar": "أوافق على أن ينسخ زرزور هذا ويعرضه في ملفي الشخصي، بما في ذلك أي شيء قد يكشفه عني، وأن يتبادل هذه البيانات مع {name} في الولايات المتحدة.",
+  "de": "Ich stimme zu, dass Zrzur dies kopiert und in meinem Profil anzeigt, einschließlich allem, was es über mich verraten könnte, und diese Daten mit {name} in den USA austauscht.",
+  "es": "Acepto que Zrzur copie esto y lo muestre en mi perfil, incluido cualquier dato que pueda revelar sobre mí, y que intercambie estos datos con {name} en Estados Unidos.",
+  "fr": "J'accepte que Zrzur copie ceci et l'affiche sur mon profil, y compris tout ce qu'il peut révéler sur moi, et échange ces données avec {name} aux États-Unis.",
+  "ru": "Я согласен(на), что Zrzur копирует это и показывает в моём профиле, включая всё, что это может раскрыть обо мне, и обменивается этими данными с {name} в США.",
+  "zh-Hans": "我同意 Zrzur 复制这些内容并显示在我的个人资料中(包括其可能透露的关于我的任何信息),并与位于美国的 {name} 交换这些数据。"
+ }
+}

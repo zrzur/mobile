@@ -1,0 +1,11 @@
+{
+  "{0} member": { "ar": "{0} عضو", "de": "{0} Mitglied", "es": "{0} miembro", "fr": "{0} membre", "ru": "{0} участник", "zh-Hans": "{0} 位成员" },
+  "{0} members": { "ar": "{0} أعضاء", "de": "{0} Mitglieder", "es": "{0} miembros", "fr": "{0} membres", "ru": "Участников: {0}", "zh-Hans": "{0} 位成员" },
+  "{count} unread": { "ar": "{count} غير مقروءة", "de": "{count} ungelesen", "es": "{count} sin leer", "fr": "{count} non lus", "ru": "Непрочитанных: {count}", "zh-Hans": "{count} 条未读" },
+  "<0/> mentioned you in <1/>": { "ar": "أشار إليك <0/> في <1/>", "de": "<0/> hat dich in <1/> erwähnt", "es": "<0/> te mencionó en <1/>", "fr": "<0/> vous a mentionné dans <1/>", "ru": "<0/> упомянул(а) вас в <1/>", "zh-Hans": "<0/> 在 <1/> 中提到了你" },
+  "<0/> sent you a friend request.": { "ar": "أرسل إليك <0/> طلب صداقة.", "de": "<0/> hat dir eine Freundschaftsanfrage geschickt.", "es": "<0/> te envió una solicitud de amistad.", "fr": "<0/> vous a envoyé une demande d'ami.", "ru": "<0/> отправил(а) вам запрос в друзья.", "zh-Hans": "<0/> 向你发送了好友请求。" },
+  "Add friends first to start a group with them.": { "ar": "أضف أصدقاء أولًا لتبدأ مجموعة معهم.", "de": "Füge zuerst Freunde hinzu, um mit ihnen eine Gruppe zu starten.", "es": "Primero añade amigos para crear un grupo con ellos.", "fr": "Ajoutez d'abord des amis pour créer un groupe avec eux.", "ru": "Сначала добавьте друзей, чтобы создать с ними группу.", "zh-Hans": "先添加好友，才能和他们建群。" },
+  "Couldn't load this page. Try again soon.": { "ar": "تعذّر تحميل هذه الصفحة. حاول مجددًا بعد قليل.", "de": "Diese Seite konnte nicht geladen werden. Versuche es bald erneut.", "es": "No se pudo cargar esta página. Inténtalo de nuevo pronto.", "fr": "Impossible de charger cette page. Réessayez bientôt.", "ru": "Не удалось загрузить страницу. Попробуйте позже.", "zh-Hans": "无法加载此页面，请稍后再试。" },
+  "Share": { "ar": "مشاركة", "de": "Teilen", "es": "Compartir", "fr": "Partager", "ru": "Поделиться", "zh-Hans": "分享" },
+  "Version": { "ar": "الإصدار", "de": "Version", "es": "Versión", "fr": "Version", "ru": "Версия", "zh-Hans": "版本" }
+}

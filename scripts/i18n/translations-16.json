@@ -1,0 +1,1146 @@
+{
+  "Let its commands be used in the server": {
+    "ar": "السماح باستخدام أوامره في السيرفر",
+    "de": "Seine Befehle im Server nutzbar machen",
+    "es": "Permitir usar sus comandos en el servidor",
+    "fr": "Autoriser l'utilisation de ses commandes dans le serveur",
+    "ru": "Разрешить использовать его команды на сервере",
+    "zh-Hans": "允许在服务器中使用它的命令"
+  },
+  "Let new members pick their interests and get roles.": {
+    "ar": "دع الأعضاء الجدد يختارون اهتماماتهم ويحصلون على أدوار.",
+    "de": "Neue Mitglieder können ihre Interessen wählen und Rollen erhalten.",
+    "es": "Deja que los nuevos miembros elijan sus intereses y obtengan roles.",
+    "fr": "Laissez les nouveaux membres choisir leurs centres d'intérêt et obtenir des rôles.",
+    "ru": "Новые участники смогут выбрать интересы и получить роли.",
+    "zh-Hans": "让新成员选择兴趣并获得身份组。"
+  },
+  "Let people find and join your server. A moderator reviews every request, and you can take it off at any time.": {
+    "ar": "دع الناس يجدون سيرفرك وينضمون إليه. يراجع مشرف كل طلب، ويمكنك إيقافه في أي وقت.",
+    "de": "Lass Leute deinen Server finden und beitreten. Ein Moderator prüft jede Anfrage, und du kannst es jederzeit wieder ausschalten.",
+    "es": "Deja que la gente encuentre tu servidor y se una. Un moderador revisa cada solicitud y puedes quitarlo en cualquier momento.",
+    "fr": "Laissez les gens trouver et rejoindre votre serveur. Un modérateur examine chaque demande, et vous pouvez le retirer à tout moment.",
+    "ru": "Позвольте людям находить ваш сервер и присоединяться к нему. Модератор проверяет каждую заявку, а отключить это можно в любой момент.",
+    "zh-Hans": "让大家找到并加入你的服务器。每个申请都会由版主审核，你可以随时撤下。"
+  },
+  "Lets members invite their friends.": {
+    "ar": "يتيح للأعضاء دعوة أصدقائهم.",
+    "de": "Mitglieder können ihre Freunde einladen.",
+    "es": "Permite que los miembros inviten a sus amigos.",
+    "fr": "Permet aux membres d'inviter leurs amis.",
+    "ru": "Участники смогут приглашать друзей.",
+    "zh-Hans": "允许成员邀请他们的朋友。"
+  },
+  "Letters, numbers and single hyphens. 3–32 characters.": {
+    "ar": "أحرف وأرقام وشرطات مفردة. من 3 إلى 32 حرفًا.",
+    "de": "Buchstaben, Zahlen und einzelne Bindestriche. 3–32 Zeichen.",
+    "es": "Letras, números y guiones simples. De 3 a 32 caracteres.",
+    "fr": "Lettres, chiffres et traits d'union simples. 3 à 32 caractères.",
+    "ru": "Буквы, цифры и одиночные дефисы. От 3 до 32 символов.",
+    "zh-Hans": "字母、数字和单个连字符。3–32 个字符。"
+  },
+  "Libra": {
+    "ar": "الميزان",
+    "de": "Waage",
+    "es": "Libra",
+    "fr": "Balance",
+    "ru": "Весы",
+    "zh-Hans": "天秤座"
+  },
+  "Lightning": {
+    "ar": "البرق",
+    "de": "Blitz",
+    "es": "Rayo",
+    "fr": "Éclair",
+    "ru": "Молния",
+    "zh-Hans": "闪电"
+  },
+  "Limited": {
+    "ar": "محدود",
+    "de": "Begrenzt",
+    "es": "Limitado",
+    "fr": "Limité",
+    "ru": "Ограничено",
+    "zh-Hans": "受限"
+  },
+  "Link name": {
+    "ar": "اسم الرابط",
+    "de": "Linkname",
+    "es": "Nombre del enlace",
+    "fr": "Nom du lien",
+    "ru": "Название ссылки",
+    "zh-Hans": "链接名称"
+  },
+  "Links": {
+    "ar": "الروابط",
+    "de": "Links",
+    "es": "Enlaces",
+    "fr": "Liens",
+    "ru": "Ссылки",
+    "zh-Hans": "链接"
+  },
+  "Links must start with https://": {
+    "ar": "يجب أن تبدأ الروابط بـ https://",
+    "de": "Links müssen mit https:// beginnen",
+    "es": "Los enlaces deben empezar por https://",
+    "fr": "Les liens doivent commencer par https://",
+    "ru": "Ссылки должны начинаться с https://",
+    "zh-Hans": "链接必须以 https:// 开头"
+  },
+  "Links that let other services post.": {
+    "ar": "روابط تتيح لخدمات أخرى النشر.",
+    "de": "Links, über die andere Dienste posten können.",
+    "es": "Enlaces que permiten publicar a otros servicios.",
+    "fr": "Liens qui permettent à d'autres services de publier.",
+    "ru": "Ссылки, позволяющие другим сервисам публиковать сообщения.",
+    "zh-Hans": "允许其他服务发帖的链接。"
+  },
+  "Live counters at the top of the channel list. They update by themselves and nobody can open them.": {
+    "ar": "عدّادات مباشرة في أعلى قائمة القنوات. تتحدّث تلقائيًا ولا يمكن لأحد فتحها.",
+    "de": "Live-Zähler oben in der Kanalliste. Sie aktualisieren sich von selbst und niemand kann sie öffnen.",
+    "es": "Contadores en vivo en la parte superior de la lista de canales. Se actualizan solos y nadie puede abrirlos.",
+    "fr": "Compteurs en direct en haut de la liste des salons. Ils se mettent à jour tout seuls et personne ne peut les ouvrir.",
+    "ru": "Живые счётчики вверху списка каналов. Они обновляются сами, и открыть их нельзя.",
+    "zh-Hans": "频道列表顶部的实时计数器。它们会自动更新，任何人都无法打开。"
+  },
+  "Live now": {
+    "ar": "مباشر الآن",
+    "de": "Jetzt live",
+    "es": "En vivo ahora",
+    "fr": "En direct",
+    "ru": "Сейчас в эфире",
+    "zh-Hans": "正在直播"
+  },
+  "Loading…": {
+    "ar": "جارٍ التحميل…",
+    "de": "Wird geladen…",
+    "es": "Cargando…",
+    "fr": "Chargement…",
+    "ru": "Загрузка…",
+    "zh-Hans": "加载中…"
+  },
+  "Lobby": {
+    "ar": "اللوبي",
+    "de": "Lobby",
+    "es": "Vestíbulo",
+    "fr": "Hall",
+    "ru": "Лобби",
+    "zh-Hans": "大厅"
+  },
+  "Lobby design": {
+    "ar": "تصميم اللوبي",
+    "de": "Lobby-Design",
+    "es": "Diseño del vestíbulo",
+    "fr": "Design du hall",
+    "ru": "Оформление лобби",
+    "zh-Hans": "大厅设计"
+  },
+  "Lobby settings saved. Your members now see this design.": {
+    "ar": "تم حفظ إعدادات اللوبي. يرى أعضاؤك الآن هذا التصميم.",
+    "de": "Lobby-Einstellungen gespeichert. Deine Mitglieder sehen jetzt dieses Design.",
+    "es": "Ajustes del vestíbulo guardados. Tus miembros ya ven este diseño.",
+    "fr": "Paramètres du hall enregistrés. Vos membres voient maintenant ce design.",
+    "ru": "Настройки лобби сохранены. Теперь участники видят это оформление.",
+    "zh-Hans": "大厅设置已保存。你的成员现在会看到这个设计。"
+  },
+  "Log out of this device?": {
+    "ar": "تسجيل الخروج من هذا الجهاز؟",
+    "de": "Von diesem Gerät abmelden?",
+    "es": "¿Cerrar sesión en este dispositivo?",
+    "fr": "Se déconnecter de cet appareil ?",
+    "ru": "Выйти на этом устройстве?",
+    "zh-Hans": "要退出此设备吗？"
+  },
+  "Log out other sessions": {
+    "ar": "تسجيل الخروج من الجلسات الأخرى",
+    "de": "Andere Sitzungen abmelden",
+    "es": "Cerrar las demás sesiones",
+    "fr": "Déconnecter les autres sessions",
+    "ru": "Завершить другие сеансы",
+    "zh-Hans": "退出其他会话"
+  },
+  "Look": {
+    "ar": "المظهر",
+    "de": "Aussehen",
+    "es": "Aspecto",
+    "fr": "Apparence",
+    "ru": "Вид",
+    "zh-Hans": "外观"
+  },
+  "Made a bot the Zrzur team verified.": {
+    "ar": "صنع بوتًا وثّقه فريق زرزور.",
+    "de": "Hat einen Bot gebaut, den das Zrzur-Team verifiziert hat.",
+    "es": "Creó un bot verificado por el equipo de Zrzur.",
+    "fr": "A créé un bot vérifié par l'équipe Zrzur.",
+    "ru": "Создал бота, которого проверила команда Zrzur.",
+    "zh-Hans": "制作了一个经 Zrzur 团队验证的机器人。"
+  },
+  "Main channels": {
+    "ar": "القنوات الرئيسية",
+    "de": "Hauptkanäle",
+    "es": "Canales principales",
+    "fr": "Salons principaux",
+    "ru": "Основные каналы",
+    "zh-Hans": "主要频道"
+  },
+  "Main colour": {
+    "ar": "اللون الرئيسي",
+    "de": "Hauptfarbe",
+    "es": "Color principal",
+    "fr": "Couleur principale",
+    "ru": "Основной цвет",
+    "zh-Hans": "主色"
+  },
+  "Main column and sidebar": {
+    "ar": "العمود الرئيسي والشريط الجانبي",
+    "de": "Hauptspalte und Seitenleiste",
+    "es": "Columna principal y barra lateral",
+    "fr": "Colonne principale et barre latérale",
+    "ru": "Основная колонка и боковая панель",
+    "zh-Hans": "主栏和侧边栏"
+  },
+  "Main language": {
+    "ar": "اللغة الرئيسية",
+    "de": "Hauptsprache",
+    "es": "Idioma principal",
+    "fr": "Langue principale",
+    "ru": "Основной язык",
+    "zh-Hans": "主要语言"
+  },
+  "Make a new address?": {
+    "ar": "إنشاء عنوان جديد؟",
+    "de": "Neue Adresse erstellen?",
+    "es": "¿Crear una dirección nueva?",
+    "fr": "Créer une nouvelle adresse ?",
+    "ru": "Создать новый адрес?",
+    "zh-Hans": "要创建新地址吗？"
+  },
+  "Make new address": {
+    "ar": "إنشاء عنوان جديد",
+    "de": "Neue Adresse erstellen",
+    "es": "Crear dirección nueva",
+    "fr": "Créer une nouvelle adresse",
+    "ru": "Создать новый адрес",
+    "zh-Hans": "创建新地址"
+  },
+  "Make the lobby yours. Everything here shows in the lobby after saving.": {
+    "ar": "اجعل اللوبي لك. كل ما هنا يظهر في اللوبي بعد الحفظ.",
+    "de": "Mach die Lobby zu deiner. Alles hier erscheint nach dem Speichern in der Lobby.",
+    "es": "Haz tuyo el vestíbulo. Todo lo de aquí aparece en el vestíbulo después de guardar.",
+    "fr": "Personnalisez le hall. Tout ce qui est ici apparaît dans le hall après l'enregistrement.",
+    "ru": "Сделайте лобби своим. Всё здесь появится в лобби после сохранения.",
+    "zh-Hans": "把大厅变成你的风格。这里的一切在保存后都会显示在大厅中。"
+  },
+  "Makes profile designs and decorations for Zrzur's community gallery.": {
+    "ar": "يصنع تصاميم وزخارف للملفات الشخصية لمعرض مجتمع زرزور.",
+    "de": "Erstellt Profildesigns und Dekorationen für die Community-Galerie von Zrzur.",
+    "es": "Crea diseños y decoraciones de perfil para la galería de la comunidad de Zrzur.",
+    "fr": "Crée des designs et des décorations de profil pour la galerie communautaire de Zrzur.",
+    "ru": "Создаёт оформления и украшения профиля для галереи сообщества Zrzur.",
+    "zh-Hans": "为 Zrzur 社区图库制作个人资料设计和装饰。"
+  },
+  "Malicious links": {
+    "ar": "روابط ضارة",
+    "de": "Schädliche Links",
+    "es": "Enlaces maliciosos",
+    "fr": "Liens malveillants",
+    "ru": "Вредоносные ссылки",
+    "zh-Hans": "恶意链接"
+  },
+  "Malware": {
+    "ar": "برمجيات خبيثة",
+    "de": "Schadsoftware",
+    "es": "Malware",
+    "fr": "Logiciels malveillants",
+    "ru": "Вредоносное ПО",
+    "zh-Hans": "恶意软件"
+  },
+  "Manage subscription": {
+    "ar": "إدارة الاشتراك",
+    "de": "Abo verwalten",
+    "es": "Gestionar suscripción",
+    "fr": "Gérer l'abonnement",
+    "ru": "Управление подпиской",
+    "zh-Hans": "管理订阅"
+  },
+  "Markdown and emoji are supported.": {
+    "ar": "يدعم Markdown والإيموجي.",
+    "de": "Markdown und Emoji werden unterstützt.",
+    "es": "Se admiten Markdown y emojis.",
+    "fr": "Markdown et emoji sont pris en charge.",
+    "ru": "Поддерживаются Markdown и эмодзи.",
+    "zh-Hans": "支持 Markdown 和表情符号。"
+  },
+  "Markdown is supported.": {
+    "ar": "يدعم Markdown.",
+    "de": "Markdown wird unterstützt.",
+    "es": "Se admite Markdown.",
+    "fr": "Markdown est pris en charge.",
+    "ru": "Поддерживается Markdown.",
+    "zh-Hans": "支持 Markdown。"
+  },
+  "Mature channels are paused: nobody can open mature content until Zrzur offers an age check.": {
+    "ar": "قنوات المحتوى للبالغين متوقفة: لا يمكن لأحد فتح هذا المحتوى حتى توفّر زرزور فحصًا للعمر.",
+    "de": "Altersbeschränkte Kanäle sind pausiert: Niemand kann solche Inhalte öffnen, bis Zrzur eine Altersprüfung anbietet.",
+    "es": "Los canales para adultos están en pausa: nadie puede abrir contenido para adultos hasta que Zrzur ofrezca una verificación de edad.",
+    "fr": "Les salons pour adultes sont en pause : personne ne peut ouvrir ce contenu tant que Zrzur ne propose pas de vérification d'âge.",
+    "ru": "Каналы 18+ приостановлены: пока Zrzur не предложит проверку возраста, открыть такой контент нельзя.",
+    "zh-Hans": "成人频道已暂停：在 Zrzur 提供年龄验证之前，任何人都无法打开成人内容。"
+  },
+  "Mature content is hidden for your age.": {
+    "ar": "المحتوى للبالغين مخفي بحسب عمرك.",
+    "de": "Inhalte für Erwachsene sind für dein Alter ausgeblendet.",
+    "es": "El contenido para adultos está oculto para tu edad.",
+    "fr": "Le contenu pour adultes est masqué pour votre âge.",
+    "ru": "Контент 18+ скрыт для вашего возраста.",
+    "zh-Hans": "根据你的年龄，成人内容已隐藏。"
+  },
+  "Member": {
+    "ar": "عضو",
+    "de": "Mitglied",
+    "es": "Miembro",
+    "fr": "Membre",
+    "ru": "Участник",
+    "zh-Hans": "成员"
+  },
+  "Member banned": {
+    "ar": "تم حظر عضو",
+    "de": "Mitglied gebannt",
+    "es": "Miembro vetado",
+    "fr": "Membre banni",
+    "ru": "Участник забанен",
+    "zh-Hans": "成员已被封禁"
+  },
+  "Member count": {
+    "ar": "عدد الأعضاء",
+    "de": "Mitgliederzahl",
+    "es": "Número de miembros",
+    "fr": "Nombre de membres",
+    "ru": "Число участников",
+    "zh-Hans": "成员数量"
+  },
+  "Member joined": {
+    "ar": "انضم عضو",
+    "de": "Mitglied beigetreten",
+    "es": "Un miembro se unió",
+    "fr": "Un membre a rejoint",
+    "ru": "Участник присоединился",
+    "zh-Hans": "成员已加入"
+  },
+  "Member kicked": {
+    "ar": "تم طرد عضو",
+    "de": "Mitglied gekickt",
+    "es": "Miembro expulsado",
+    "fr": "Membre expulsé",
+    "ru": "Участник исключён",
+    "zh-Hans": "成员已被踢出"
+  },
+  "Member left": {
+    "ar": "غادر عضو",
+    "de": "Mitglied ausgetreten",
+    "es": "Un miembro se fue",
+    "fr": "Un membre est parti",
+    "ru": "Участник вышел",
+    "zh-Hans": "成员已离开"
+  },
+  "Member overrides": {
+    "ar": "استثناءات الأعضاء",
+    "de": "Mitglieder-Überschreibungen",
+    "es": "Excepciones de miembros",
+    "fr": "Exceptions de membres",
+    "ru": "Исключения для участников",
+    "zh-Hans": "成员覆盖设置"
+  },
+  "Member since": {
+    "ar": "عضو منذ",
+    "de": "Mitglied seit",
+    "es": "Miembro desde",
+    "fr": "Membre depuis",
+    "ru": "Участник с",
+    "zh-Hans": "加入时间"
+  },
+  "Member since {0}": {
+    "ar": "عضو منذ {0}",
+    "de": "Mitglied seit {0}",
+    "es": "Miembro desde {0}",
+    "fr": "Membre depuis {0}",
+    "ru": "Участник с {0}",
+    "zh-Hans": "自 {0} 起为成员"
+  },
+  "Members give the server Wings. More Wings unlock higher levels and their perks for everyone.": {
+    "ar": "يمنح الأعضاء السيرفر الأجنحة. كلما زادت الأجنحة فُتحت مستويات أعلى ومزاياها للجميع.",
+    "de": "Mitglieder schenken dem Server Flügel. Mehr Flügel schalten höhere Stufen und deren Vorteile für alle frei.",
+    "es": "Los miembros dan Alas al servidor. Más Alas desbloquean niveles superiores y sus ventajas para todos.",
+    "fr": "Les membres offrent des Ailes au serveur. Plus d'Ailes débloquent des niveaux supérieurs et leurs avantages pour tous.",
+    "ru": "Участники дарят серверу Крылья. Чем больше Крыльев, тем выше уровни и их бонусы для всех.",
+    "zh-Hans": "成员为服务器赠送翅膀。翅膀越多，就能为所有人解锁更高等级及其权益。"
+  },
+  "Message length": {
+    "ar": "طول الرسالة",
+    "de": "Nachrichtenlänge",
+    "es": "Longitud del mensaje",
+    "fr": "Longueur du message",
+    "ru": "Длина сообщения",
+    "zh-Hans": "消息长度"
+  },
+  "Message received": {
+    "ar": "استلام رسالة",
+    "de": "Nachricht empfangen",
+    "es": "Mensaje recibido",
+    "fr": "Message reçu",
+    "ru": "Сообщение получено",
+    "zh-Hans": "收到消息"
+  },
+  "Message removed": {
+    "ar": "حذف رسالة",
+    "de": "Nachricht entfernt",
+    "es": "Mensaje eliminado",
+    "fr": "Message supprimé",
+    "ru": "Сообщение удалено",
+    "zh-Hans": "消息已删除"
+  },
+  "Message sounds": {
+    "ar": "أصوات الرسائل",
+    "de": "Nachrichtentöne",
+    "es": "Sonidos de mensajes",
+    "fr": "Sons des messages",
+    "ru": "Звуки сообщений",
+    "zh-Hans": "消息提示音"
+  },
+  "Messages": {
+    "ar": "الرسائل",
+    "de": "Nachrichten",
+    "es": "Mensajes",
+    "fr": "Messages",
+    "ru": "Сообщения",
+    "zh-Hans": "消息"
+  },
+  "Midnight": {
+    "ar": "منتصف الليل",
+    "de": "Mitternacht",
+    "es": "Medianoche",
+    "fr": "Minuit",
+    "ru": "Полночь",
+    "zh-Hans": "午夜"
+  },
+  "Midnight Pulse": {
+    "ar": "نبض منتصف الليل",
+    "de": "Mitternachtspuls",
+    "es": "Pulso de medianoche",
+    "fr": "Pouls de minuit",
+    "ru": "Полуночный пульс",
+    "zh-Hans": "午夜脉动"
+  },
+  "Mint": {
+    "ar": "النعناع",
+    "de": "Minze",
+    "es": "Menta",
+    "fr": "Menthe",
+    "ru": "Мята",
+    "zh-Hans": "薄荷"
+  },
+  "Misleading application": {
+    "ar": "تطبيق مضلل",
+    "de": "Irreführende Anwendung",
+    "es": "Aplicación engañosa",
+    "fr": "Application trompeuse",
+    "ru": "Вводящее в заблуждение приложение",
+    "zh-Hans": "误导性应用"
+  },
+  "Mode": {
+    "ar": "الوضع",
+    "de": "Modus",
+    "es": "Modo",
+    "fr": "Mode",
+    "ru": "Режим",
+    "zh-Hans": "模式"
+  },
+  "Modern": {
+    "ar": "عصري",
+    "de": "Modern",
+    "es": "Moderno",
+    "fr": "Moderne",
+    "ru": "Современный",
+    "zh-Hans": "现代"
+  },
+  "Mono": {
+    "ar": "أحادي",
+    "de": "Mono",
+    "es": "Mono",
+    "fr": "Mono",
+    "ru": "Моно",
+    "zh-Hans": "单色"
+  },
+  "Moon halo": {
+    "ar": "هالة القمر",
+    "de": "Mondhof",
+    "es": "Halo lunar",
+    "fr": "Halo lunaire",
+    "ru": "Лунное гало",
+    "zh-Hans": "月晕"
+  },
+  "Moon phases": {
+    "ar": "أطوار القمر",
+    "de": "Mondphasen",
+    "es": "Fases lunares",
+    "fr": "Phases de la lune",
+    "ru": "Фазы луны",
+    "zh-Hans": "月相"
+  },
+  "More": {
+    "ar": "المزيد",
+    "de": "Mehr",
+    "es": "Más",
+    "fr": "Plus",
+    "ru": "Ещё",
+    "zh-Hans": "更多"
+  },
+  "Music": {
+    "ar": "الموسيقى",
+    "de": "Musik",
+    "es": "Música",
+    "fr": "Musique",
+    "ru": "Музыка",
+    "zh-Hans": "音乐"
+  },
+  "Music notes": {
+    "ar": "النوتات الموسيقية",
+    "de": "Musiknoten",
+    "es": "Notas musicales",
+    "fr": "Notes de musique",
+    "ru": "Музыкальные ноты",
+    "zh-Hans": "音符"
+  },
+  "My account": {
+    "ar": "حسابي",
+    "de": "Mein Konto",
+    "es": "Mi cuenta",
+    "fr": "Mon compte",
+    "ru": "Мой аккаунт",
+    "zh-Hans": "我的账号"
+  },
+  "My data": {
+    "ar": "بياناتي",
+    "de": "Meine Daten",
+    "es": "Mis datos",
+    "fr": "Mes données",
+    "ru": "Мои данные",
+    "zh-Hans": "我的数据"
+  },
+  "My problem is solved": {
+    "ar": "تم حل مشكلتي",
+    "de": "Mein Problem ist gelöst",
+    "es": "Mi problema está resuelto",
+    "fr": "Mon problème est résolu",
+    "ru": "Моя проблема решена",
+    "zh-Hans": "我的问题已解决"
+  },
+  "My reports": {
+    "ar": "بلاغاتي",
+    "de": "Meine Meldungen",
+    "es": "Mis reportes",
+    "fr": "Mes signalements",
+    "ru": "Мои жалобы",
+    "zh-Hans": "我的举报"
+  },
+  "Name style": {
+    "ar": "نمط الاسم",
+    "de": "Namensstil",
+    "es": "Estilo del nombre",
+    "fr": "Style du nom",
+    "ru": "Стиль имени",
+    "zh-Hans": "名称样式"
+  },
+  "Nameplate": {
+    "ar": "لوحة الاسم",
+    "de": "Namensschild",
+    "es": "Placa de nombre",
+    "fr": "Plaque de nom",
+    "ru": "Табличка с именем",
+    "zh-Hans": "名牌"
+  },
+  "Near-black for OLED screens. Soft steps so the eye stays comfortable.": {
+    "ar": "أسود تقريبًا لشاشات OLED. درجات ناعمة لتبقى العين مرتاحة.",
+    "de": "Fast Schwarz für OLED-Displays. Sanfte Abstufungen, damit die Augen entspannt bleiben.",
+    "es": "Casi negro para pantallas OLED. Pasos suaves para que la vista esté cómoda.",
+    "fr": "Presque noir pour les écrans OLED. Des transitions douces pour ménager les yeux.",
+    "ru": "Почти чёрный для OLED-экранов. Мягкие переходы, чтобы глазам было комфортно.",
+    "zh-Hans": "近乎纯黑，适合 OLED 屏幕。层次柔和，眼睛更舒适。"
+  },
+  "Needs more info": {
+    "ar": "يحتاج إلى مزيد من المعلومات",
+    "de": "Braucht mehr Infos",
+    "es": "Necesita más información",
+    "fr": "Besoin de plus d'infos",
+    "ru": "Нужно больше информации",
+    "zh-Hans": "需要更多信息"
+  },
+  "Neon": {
+    "ar": "نيون",
+    "de": "Neon",
+    "es": "Neón",
+    "fr": "Néon",
+    "ru": "Неон",
+    "zh-Hans": "霓虹"
+  },
+  "New address": {
+    "ar": "عنوان جديد",
+    "de": "Neue Adresse",
+    "es": "Dirección nueva",
+    "fr": "Nouvelle adresse",
+    "ru": "Новый адрес",
+    "zh-Hans": "新地址"
+  },
+  "New email address": {
+    "ar": "عنوان بريد إلكتروني جديد",
+    "de": "Neue E-Mail-Adresse",
+    "es": "Nueva dirección de correo",
+    "fr": "Nouvelle adresse e-mail",
+    "ru": "Новый адрес электронной почты",
+    "zh-Hans": "新电子邮件地址"
+  },
+  "New members answer these in a window when they first open the server, and get each answer's role right away. They can skip it and change their answers later from the server menu.": {
+    "ar": "يجيب الأعضاء الجدد عن هذه الأسئلة في نافذة عند فتح السيرفر لأول مرة، ويحصلون على دور كل إجابة فورًا. يمكنهم تخطيها وتغيير إجاباتهم لاحقًا من قائمة السيرفر.",
+    "de": "Neue Mitglieder beantworten diese in einem Fenster, wenn sie den Server zum ersten Mal öffnen, und erhalten sofort die Rolle zu jeder Antwort. Sie können es überspringen und ihre Antworten später im Servermenü ändern.",
+    "es": "Los nuevos miembros responden esto en una ventana al abrir el servidor por primera vez y reciben enseguida el rol de cada respuesta. Pueden omitirlo y cambiar sus respuestas más tarde desde el menú del servidor.",
+    "fr": "Les nouveaux membres y répondent dans une fenêtre à la première ouverture du serveur et reçoivent aussitôt le rôle de chaque réponse. Ils peuvent passer et modifier leurs réponses plus tard depuis le menu du serveur.",
+    "ru": "Новые участники отвечают на эти вопросы в окне при первом открытии сервера и сразу получают роль за каждый ответ. Их можно пропустить и позже изменить ответы в меню сервера.",
+    "zh-Hans": "新成员首次打开服务器时会在弹窗中回答这些问题，并立即获得每个答案对应的身份组。他们可以跳过，之后也能在服务器菜单中修改答案。"
+  },
+  "New members land in": {
+    "ar": "يصل الأعضاء الجدد إلى",
+    "de": "Neue Mitglieder landen in",
+    "es": "Los nuevos miembros llegan a",
+    "fr": "Les nouveaux membres arrivent dans",
+    "ru": "Новые участники попадают в",
+    "zh-Hans": "新成员进入"
+  },
+  "New members shown": {
+    "ar": "عدد الأعضاء الجدد المعروضين",
+    "de": "Angezeigte neue Mitglieder",
+    "es": "Nuevos miembros mostrados",
+    "fr": "Nouveaux membres affichés",
+    "ru": "Показано новых участников",
+    "zh-Hans": "显示的新成员数"
+  },
+  "New this week": {
+    "ar": "جديد هذا الأسبوع",
+    "de": "Neu diese Woche",
+    "es": "Nuevo esta semana",
+    "fr": "Nouveau cette semaine",
+    "ru": "Новое на этой неделе",
+    "zh-Hans": "本周新增"
+  },
+  "New webhook": {
+    "ar": "خطاف ويب جديد",
+    "de": "Neuer Webhook",
+    "es": "Nuevo webhook",
+    "fr": "Nouveau webhook",
+    "ru": "Новый вебхук",
+    "zh-Hans": "新建 Webhook"
+  },
+  "News channel": {
+    "ar": "قناة أخبار",
+    "de": "News-Kanal",
+    "es": "Canal de noticias",
+    "fr": "Salon d'actualités",
+    "ru": "Канал новостей",
+    "zh-Hans": "新闻频道"
+  },
+  "no": {
+    "ar": "لا",
+    "de": "nein",
+    "es": "no",
+    "fr": "non",
+    "ru": "нет",
+    "zh-Hans": "否"
+  },
+  "No actions have been taken on your account.": {
+    "ar": "لم يُتخذ أي إجراء على حسابك.",
+    "de": "Für dein Konto wurden keine Maßnahmen ergriffen.",
+    "es": "No se ha tomado ninguna medida sobre tu cuenta.",
+    "fr": "Aucune mesure n'a été prise sur votre compte.",
+    "ru": "В отношении вашего аккаунта никаких мер не принималось.",
+    "zh-Hans": "你的账号未受到任何处理。"
+  },
+  "No badges yet. Each one below says how to earn it.": {
+    "ar": "لا شارات بعد. كل شارة أدناه توضح كيف تحصل عليها.",
+    "de": "Noch keine Abzeichen. Unten steht bei jedem, wie du es bekommst.",
+    "es": "Aún no hay insignias. Cada una de abajo explica cómo conseguirla.",
+    "fr": "Pas encore de badges. Chacun ci-dessous explique comment l'obtenir.",
+    "ru": "Значков пока нет. Под каждым ниже написано, как его получить.",
+    "zh-Hans": "还没有徽章。下面每个徽章都说明了获得方式。"
+  },
+  "No beta features are open to you right now.": {
+    "ar": "لا توجد ميزات تجريبية متاحة لك حاليًا.",
+    "de": "Im Moment stehen dir keine Beta-Funktionen offen.",
+    "es": "Ahora mismo no tienes funciones beta disponibles.",
+    "fr": "Aucune fonctionnalité bêta n'est ouverte pour vous pour le moment.",
+    "ru": "Сейчас вам не доступны бета-функции.",
+    "zh-Hans": "目前没有向你开放的测试功能。"
+  },
+  "No bots in this server.": {
+    "ar": "لا بوتات في هذا السيرفر.",
+    "de": "Keine Bots in diesem Server.",
+    "es": "No hay bots en este servidor.",
+    "fr": "Aucun bot dans ce serveur.",
+    "ru": "На этом сервере нет ботов.",
+    "zh-Hans": "此服务器中没有机器人。"
+  },
+  "No decorations match your search.": {
+    "ar": "لا زخارف تطابق بحثك.",
+    "de": "Keine Dekorationen passen zu deiner Suche.",
+    "es": "Ninguna decoración coincide con tu búsqueda.",
+    "fr": "Aucune décoration ne correspond à votre recherche.",
+    "ru": "Нет украшений, подходящих под ваш поиск.",
+    "zh-Hans": "没有符合搜索的装饰。"
+  },
+  "No effect": {
+    "ar": "بلا تأثير",
+    "de": "Kein Effekt",
+    "es": "Sin efecto",
+    "fr": "Aucun effet",
+    "ru": "Без эффекта",
+    "zh-Hans": "无效果"
+  },
+  "No effects match your search.": {
+    "ar": "لا تأثيرات تطابق بحثك.",
+    "de": "Keine Effekte passen zu deiner Suche.",
+    "es": "Ningún efecto coincide con tu búsqueda.",
+    "fr": "Aucun effet ne correspond à votre recherche.",
+    "ru": "Нет эффектов, подходящих под ваш поиск.",
+    "zh-Hans": "没有符合搜索的效果。"
+  },
+  "No level yet": {
+    "ar": "لا مستوى بعد",
+    "de": "Noch keine Stufe",
+    "es": "Aún sin nivel",
+    "fr": "Pas encore de niveau",
+    "ru": "Уровня пока нет",
+    "zh-Hans": "暂无等级"
+  },
+  "No links yet.": {
+    "ar": "لا روابط بعد.",
+    "de": "Noch keine Links.",
+    "es": "Aún no hay enlaces.",
+    "fr": "Pas encore de liens.",
+    "ru": "Ссылок пока нет.",
+    "zh-Hans": "暂无链接。"
+  },
+  "No longer eligible": {
+    "ar": "لم يعد مؤهلًا",
+    "de": "Nicht mehr berechtigt",
+    "es": "Ya no es elegible",
+    "fr": "N'est plus éligible",
+    "ru": "Больше не подходит",
+    "zh-Hans": "不再符合资格"
+  },
+  "No other device is signed in.": {
+    "ar": "لا يوجد جهاز آخر مسجّل الدخول.",
+    "de": "Kein anderes Gerät ist angemeldet.",
+    "es": "No hay ningún otro dispositivo con sesión iniciada.",
+    "fr": "Aucun autre appareil n'est connecté.",
+    "ru": "Другие устройства не выполнили вход.",
+    "zh-Hans": "没有其他已登录的设备。"
+  },
+  "No violation found": {
+    "ar": "لم تُعثر على مخالفة",
+    "de": "Kein Verstoß gefunden",
+    "es": "No se encontró ninguna infracción",
+    "fr": "Aucune infraction constatée",
+    "ru": "Нарушений не найдено",
+    "zh-Hans": "未发现违规"
+  },
+  "No webhooks yet.": {
+    "ar": "لا خطافات ويب بعد.",
+    "de": "Noch keine Webhooks.",
+    "es": "Aún no hay webhooks.",
+    "fr": "Pas encore de webhooks.",
+    "ru": "Вебхуков пока нет.",
+    "zh-Hans": "暂无 Webhook。"
+  },
+  "No Wings yet": {
+    "ar": "لا أجنحة بعد",
+    "de": "Noch keine Flügel",
+    "es": "Aún no hay Alas",
+    "fr": "Pas encore d'Ailes",
+    "ru": "Крыльев пока нет",
+    "zh-Hans": "暂无翅膀"
+  },
+  "Nobody": {
+    "ar": "لا أحد",
+    "de": "Niemand",
+    "es": "Nadie",
+    "fr": "Personne",
+    "ru": "Никто",
+    "zh-Hans": "无人"
+  },
+  "Noise suppression": {
+    "ar": "كتم الضوضاء",
+    "de": "Rauschunterdrückung",
+    "es": "Supresión de ruido",
+    "fr": "Suppression du bruit",
+    "ru": "Шумоподавление",
+    "zh-Hans": "降噪"
+  },
+  "None chosen": {
+    "ar": "لم يُختر شيء",
+    "de": "Nichts ausgewählt",
+    "es": "Ninguno elegido",
+    "fr": "Aucun choix",
+    "ru": "Ничего не выбрано",
+    "zh-Hans": "未选择"
+  },
+  "Not a bug": {
+    "ar": "ليست خللًا",
+    "de": "Kein Fehler",
+    "es": "No es un error",
+    "fr": "Pas un bug",
+    "ru": "Не ошибка",
+    "zh-Hans": "不是错误"
+  },
+  "Not added": {
+    "ar": "غير مضاف",
+    "de": "Nicht hinzugefügt",
+    "es": "No añadido",
+    "fr": "Non ajouté",
+    "ru": "Не добавлено",
+    "zh-Hans": "未添加"
+  },
+  "Not in the program": {
+    "ar": "غير مشارك في البرنامج",
+    "de": "Nicht im Programm",
+    "es": "No está en el programa",
+    "fr": "Pas dans le programme",
+    "ru": "Не участвует в программе",
+    "zh-Hans": "未加入该计划"
+  },
+  "Not now": {
+    "ar": "ليس الآن",
+    "de": "Nicht jetzt",
+    "es": "Ahora no",
+    "fr": "Pas maintenant",
+    "ru": "Не сейчас",
+    "zh-Hans": "以后再说"
+  },
+  "Not on a server yet": {
+    "ar": "لست في أي سيرفر بعد",
+    "de": "Noch auf keinem Server",
+    "es": "Aún no está en ningún servidor",
+    "fr": "Pas encore sur un serveur",
+    "ru": "Пока не на сервере",
+    "zh-Hans": "尚未加入服务器"
+  },
+  "Not set": {
+    "ar": "غير محدد",
+    "de": "Nicht festgelegt",
+    "es": "Sin definir",
+    "fr": "Non défini",
+    "ru": "Не задано",
+    "zh-Hans": "未设置"
+  },
+  "Not set up": {
+    "ar": "غير مُعدّ",
+    "de": "Nicht eingerichtet",
+    "es": "Sin configurar",
+    "fr": "Non configuré",
+    "ru": "Не настроено",
+    "zh-Hans": "未设置"
+  },
+  "Note (optional)": {
+    "ar": "ملاحظة (اختياري)",
+    "de": "Notiz (optional)",
+    "es": "Nota (opcional)",
+    "fr": "Note (facultatif)",
+    "ru": "Заметка (необязательно)",
+    "zh-Hans": "备注（可选）"
+  },
+  "Nothing here yet.": {
+    "ar": "لا شيء هنا بعد.",
+    "de": "Hier ist noch nichts.",
+    "es": "Aún no hay nada aquí.",
+    "fr": "Rien ici pour le moment.",
+    "ru": "Пока здесь пусто.",
+    "zh-Hans": "这里还没有内容。"
+  },
+  "Nothing moves. This is the default.": {
+    "ar": "لا شيء يتحرك. هذا هو الافتراضي.",
+    "de": "Nichts bewegt sich. Das ist die Standardeinstellung.",
+    "es": "Nada se mueve. Es lo predeterminado.",
+    "fr": "Rien ne bouge. C'est le réglage par défaut.",
+    "ru": "Ничего не движется. Это значение по умолчанию.",
+    "zh-Hans": "没有任何动效。这是默认设置。"
+  },
+  "Ocean": {
+    "ar": "المحيط",
+    "de": "Ozean",
+    "es": "Océano",
+    "fr": "Océan",
+    "ru": "Океан",
+    "zh-Hans": "海洋"
+  },
+  "Off: each site like YouTube or Spotify asks you once. On: every player loads at once and the site learns your IP address.": {
+    "ar": "إيقاف: يسألك كل موقع مثل YouTube أو Spotify مرة واحدة. تشغيل: تُحمَّل كل المشغلات دفعة واحدة ويعرف الموقع عنوان IP الخاص بك.",
+    "de": "Aus: Jede Seite wie YouTube oder Spotify fragt dich einmal. An: Alle Player laden sofort und die Seite erfährt deine IP-Adresse.",
+    "es": "Desactivado: cada sitio, como YouTube o Spotify, te pregunta una vez. Activado: todos los reproductores se cargan a la vez y el sitio conoce tu dirección IP.",
+    "fr": "Désactivé : chaque site comme YouTube ou Spotify vous demande une fois. Activé : tous les lecteurs se chargent d'un coup et le site connaît votre adresse IP.",
+    "ru": "Выкл.: каждый сайт, например YouTube или Spotify, спросит один раз. Вкл.: все плееры загружаются сразу, и сайт узнаёт ваш IP-адрес.",
+    "zh-Hans": "关闭：YouTube、Spotify 等每个网站会各询问你一次。开启：所有播放器会立即加载，网站会获知你的 IP 地址。"
+  },
+  "Official bot": {
+    "ar": "بوت رسمي",
+    "de": "Offizieller Bot",
+    "es": "Bot oficial",
+    "fr": "Bot officiel",
+    "ru": "Официальный бот",
+    "zh-Hans": "官方机器人"
+  },
+  "Official Zrzur server": {
+    "ar": "سيرفر زرزور الرسمي",
+    "de": "Offizieller Zrzur-Server",
+    "es": "Servidor oficial de Zrzur",
+    "fr": "Serveur officiel de Zrzur",
+    "ru": "Официальный сервер Zrzur",
+    "zh-Hans": "Zrzur 官方服务器"
+  },
+  "One line under the server name. Empty: the server description.": {
+    "ar": "سطر واحد تحت اسم السيرفر. إذا تُرك فارغًا: وصف السيرفر.",
+    "de": "Eine Zeile unter dem Servernamen. Leer: die Serverbeschreibung.",
+    "es": "Una línea bajo el nombre del servidor. Vacío: la descripción del servidor.",
+    "fr": "Une ligne sous le nom du serveur. Vide : la description du serveur.",
+    "ru": "Одна строка под названием сервера. Если пусто — описание сервера.",
+    "zh-Hans": "服务器名称下方的一行文字。留空则显示服务器描述。"
+  },
+  "One short, memorable link for your server, like zrzur.cc/your-name.": {
+    "ar": "رابط واحد قصير وسهل التذكر لسيرفرك، مثل zrzur.cc/your-name.",
+    "de": "Ein kurzer, einprägsamer Link für deinen Server, z. B. zrzur.cc/dein-name.",
+    "es": "Un enlace corto y fácil de recordar para tu servidor, como zrzur.cc/tu-nombre.",
+    "fr": "Un lien court et facile à retenir pour votre serveur, comme zrzur.cc/votre-nom.",
+    "ru": "Одна короткая запоминающаяся ссылка для вашего сервера, например zrzur.cc/your-name.",
+    "zh-Hans": "为你的服务器设置一个简短易记的链接，例如 zrzur.cc/your-name。"
+  },
+  "One Year on Zrzur": {
+    "ar": "سنة واحدة على زرزور",
+    "de": "Ein Jahr auf Zrzur",
+    "es": "Un año en Zrzur",
+    "fr": "Un an sur Zrzur",
+    "ru": "Один год на Zrzur",
+    "zh-Hans": "在 Zrzur 满一年"
+  },
+  "One-time backup codes for when you can't use your authenticator.": {
+    "ar": "رموز احتياطية للاستخدام مرة واحدة عندما لا تستطيع استخدام تطبيق المصادقة.",
+    "de": "Einmalige Backup-Codes für den Fall, dass du deine Authentifizierungs-App nicht nutzen kannst.",
+    "es": "Códigos de respaldo de un solo uso para cuando no puedas usar tu autenticador.",
+    "fr": "Codes de secours à usage unique pour quand vous ne pouvez pas utiliser votre application d'authentification.",
+    "ru": "Одноразовые резервные коды на случай, если вы не можете использовать приложение-аутентификатор.",
+    "zh-Hans": "一次性备用代码，在你无法使用验证器时使用。"
+  },
+  "Only for the Zrzur team; it is never requested or bought.": {
+    "ar": "لفريق زرزور فقط؛ لا يُطلب ولا يُشترى أبدًا.",
+    "de": "Nur für das Zrzur-Team; es wird nie angefragt oder gekauft.",
+    "es": "Solo para el equipo de Zrzur; nunca se solicita ni se compra.",
+    "fr": "Réservé à l'équipe Zrzur ; il ne se demande ni ne s'achète jamais.",
+    "ru": "Только для команды Zrzur; его нельзя ни запросить, ни купить.",
+    "zh-Hans": "仅限 Zrzur 团队；无法申请，也无法购买。"
+  },
+  "Only on strong devices. This device is not strong enough, so animations stay off.": {
+    "ar": "على الأجهزة القوية فقط. هذا الجهاز ليس قويًا بما يكفي، لذا تبقى الحركات متوقفة.",
+    "de": "Nur auf leistungsstarken Geräten. Dieses Gerät ist nicht stark genug, daher bleiben Animationen aus.",
+    "es": "Solo en dispositivos potentes. Este dispositivo no lo es lo bastante, así que las animaciones siguen desactivadas.",
+    "fr": "Uniquement sur les appareils puissants. Cet appareil ne l'est pas assez, les animations restent donc désactivées.",
+    "ru": "Только на мощных устройствах. Это устройство недостаточно мощное, поэтому анимации отключены.",
+    "zh-Hans": "仅在高性能设备上。此设备性能不足，因此动画保持关闭。"
+  },
+  "Only on strong devices. This device is strong enough, so animations play.": {
+    "ar": "على الأجهزة القوية فقط. هذا الجهاز قوي بما يكفي، لذا تعمل الحركات.",
+    "de": "Nur auf leistungsstarken Geräten. Dieses Gerät ist stark genug, daher laufen Animationen.",
+    "es": "Solo en dispositivos potentes. Este dispositivo lo es, así que las animaciones se reproducen.",
+    "fr": "Uniquement sur les appareils puissants. Cet appareil l'est assez, les animations sont donc lues.",
+    "ru": "Только на мощных устройствах. Это устройство достаточно мощное, поэтому анимации включены.",
+    "zh-Hans": "仅在高性能设备上。此设备性能足够，因此动画会播放。"
+  },
+  "Only ordinary member roles can be offered: no managed roles and none with moderation or admin permissions.": {
+    "ar": "يمكن عرض أدوار الأعضاء العادية فقط: بلا أدوار مُدارة وبلا أدوار لها صلاحيات الإشراف أو الإدارة.",
+    "de": "Es können nur gewöhnliche Mitgliederrollen angeboten werden: keine verwalteten Rollen und keine mit Moderations- oder Admin-Rechten.",
+    "es": "Solo se pueden ofrecer roles de miembro normales: sin roles gestionados ni roles con permisos de moderación o administración.",
+    "fr": "Seuls les rôles de membre ordinaires peuvent être proposés : ni rôles gérés, ni rôles avec des permissions de modération ou d'administration.",
+    "ru": "Можно предлагать только обычные роли участников: без управляемых ролей и без прав модерации или администратора.",
+    "zh-Hans": "只能提供普通成员身份组：不含托管身份组，也不含拥有管理或管理员权限的身份组。"
+  },
+  "Only people who can manage messages post here. Everyone else reads.": {
+    "ar": "فقط من يستطيع إدارة الرسائل ينشر هنا. الجميع الآخرون يقرؤون.",
+    "de": "Nur Personen, die Nachrichten verwalten dürfen, posten hier. Alle anderen lesen.",
+    "es": "Solo publican aquí quienes pueden gestionar mensajes. El resto solo lee.",
+    "fr": "Seules les personnes pouvant gérer les messages publient ici. Les autres lisent.",
+    "ru": "Здесь пишут только те, кто может управлять сообщениями. Остальные только читают.",
+    "zh-Hans": "只有能管理消息的人可以在此发帖，其他人只能阅读。"
+  },
+  "Only the owner of the server can change how it appears in Discover.": {
+    "ar": "يمكن لمالك السيرفر فقط تغيير طريقة ظهوره في الاستكشاف.",
+    "de": "Nur der Server-Besitzer kann ändern, wie er in Entdecken erscheint.",
+    "es": "Solo el propietario del servidor puede cambiar cómo aparece en Descubrir.",
+    "fr": "Seul le propriétaire du serveur peut modifier son apparence dans Découvrir.",
+    "ru": "Только владелец сервера может менять его отображение в разделе «Обзор».",
+    "zh-Hans": "只有服务器所有者可以更改它在“发现”中的显示方式。"
+  },
+  "Only you and Zrzur's security reviewers can read a security report. Nothing about it is shown on your profile.": {
+    "ar": "أنت ومراجعو الأمان في زرزور فقط من يمكنهم قراءة بلاغ الأمان. لا يظهر أي شيء عنه في ملفك الشخصي.",
+    "de": "Nur du und die Sicherheitsprüfer von Zrzur können eine Sicherheitsmeldung lesen. Nichts davon erscheint in deinem Profil.",
+    "es": "Solo tú y los revisores de seguridad de Zrzur pueden leer un informe de seguridad. Nada de él se muestra en tu perfil.",
+    "fr": "Seuls vous et les examinateurs de sécurité de Zrzur pouvez lire un rapport de sécurité. Rien n'en apparaît sur votre profil.",
+    "ru": "Отчёт о безопасности могут прочитать только вы и проверяющие по безопасности Zrzur. В вашем профиле ничего не отображается.",
+    "zh-Hans": "只有你和 Zrzur 的安全审核人员可以查看安全报告。你的个人资料中不会显示任何相关内容。"
+  },
+  "Open a server's menu and choose Give Wings. Each one is {0} a month.": {
+    "ar": "افتح قائمة السيرفر واختر منح أجنحة. كل جناح بسعر {0} شهريًا.",
+    "de": "Öffne das Menü eines Servers und wähle „Flügel schenken“. Jeder kostet {0} im Monat.",
+    "es": "Abre el menú de un servidor y elige Dar Alas. Cada una cuesta {0} al mes.",
+    "fr": "Ouvrez le menu d'un serveur et choisissez Offrir des Ailes. Chacune coûte {0} par mois.",
+    "ru": "Откройте меню сервера и выберите «Подарить Крылья». Каждое стоит {0} в месяц.",
+    "zh-Hans": "打开服务器菜单并选择“赠送翅膀”。每个翅膀每月 {0}。"
+  },
+  "Open chat button": {
+    "ar": "زر فتح الدردشة",
+    "de": "Chat-öffnen-Schaltfläche",
+    "es": "Botón para abrir el chat",
+    "fr": "Bouton d'ouverture du chat",
+    "ru": "Кнопка открытия чата",
+    "zh-Hans": "打开聊天按钮"
+  },
+  "Opens": {
+    "ar": "يفتح",
+    "de": "Öffnet",
+    "es": "Abre",
+    "fr": "Ouvre",
+    "ru": "Открывает",
+    "zh-Hans": "打开"
+  },
+  "Optional: one line under the question.": {
+    "ar": "اختياري: سطر واحد تحت السؤال.",
+    "de": "Optional: eine Zeile unter der Frage.",
+    "es": "Opcional: una línea bajo la pregunta.",
+    "fr": "Facultatif : une ligne sous la question.",
+    "ru": "Необязательно: одна строка под вопросом.",
+    "zh-Hans": "可选：问题下方的一行文字。"
+  },
+  "Our own review.": {
+    "ar": "مراجعتنا الخاصة.",
+    "de": "Unsere eigene Prüfung.",
+    "es": "Nuestra propia revisión.",
+    "fr": "Notre propre examen.",
+    "ru": "Наша собственная проверка.",
+    "zh-Hans": "我们自己的审核。"
+  },
+  "Out-of-court settlement": {
+    "ar": "تسوية خارج المحكمة",
+    "de": "Außergerichtliche Einigung",
+    "es": "Acuerdo extrajudicial",
+    "fr": "Règlement extrajudiciaire",
+    "ru": "Внесудебное урегулирование",
+    "zh-Hans": "庭外和解"
+  },
+  "Output volume": {
+    "ar": "مستوى صوت الإخراج",
+    "de": "Ausgabelautstärke",
+    "es": "Volumen de salida",
+    "fr": "Volume de sortie",
+    "ru": "Громкость вывода",
+    "zh-Hans": "输出音量"
+  },
+  "Own a server that reaches 1,000 members. It stays if the server gets smaller.": {
+    "ar": "امتلك سيرفرًا يصل إلى 1,000 عضو. تبقى الشارة حتى لو صغر السيرفر.",
+    "de": "Besitze einen Server, der 1.000 Mitglieder erreicht. Es bleibt, auch wenn der Server wieder kleiner wird.",
+    "es": "Sé propietario de un servidor que alcance los 1000 miembros. Se conserva aunque el servidor se reduzca.",
+    "fr": "Possédez un serveur qui atteint 1 000 membres. Il reste même si le serveur diminue.",
+    "ru": "Владейте сервером, достигшим 1000 участников. Значок остаётся, даже если сервер станет меньше.",
+    "zh-Hans": "拥有一个达到 1,000 名成员的服务器。即使服务器之后变小也会保留。"
+  },
+  "Own a server that reaches 100 members. It stays if the server gets smaller.": {
+    "ar": "امتلك سيرفرًا يصل إلى 100 عضو. تبقى الشارة حتى لو صغر السيرفر.",
+    "de": "Besitze einen Server, der 100 Mitglieder erreicht. Es bleibt, auch wenn der Server wieder kleiner wird.",
+    "es": "Sé propietario de un servidor que alcance los 100 miembros. Se conserva aunque el servidor se reduzca.",
+    "fr": "Possédez un serveur qui atteint 100 membres. Il reste même si le serveur diminue.",
+    "ru": "Владейте сервером, достигшим 100 участников. Значок остаётся, даже если сервер станет меньше.",
+    "zh-Hans": "拥有一个达到 100 名成员的服务器。即使服务器之后变小也会保留。"
+  },
+  "Own a verified bot. It is shown while you do.": {
+    "ar": "امتلك بوتًا موثّقًا. تظهر الشارة ما دمت تملكه.",
+    "de": "Besitze einen verifizierten Bot. Es wird angezeigt, solange du ihn besitzt.",
+    "es": "Sé propietario de un bot verificado. Se muestra mientras lo seas.",
+    "fr": "Possédez un bot vérifié. Il s'affiche tant que vous le possédez.",
+    "ru": "Владейте проверенным ботом. Значок отображается, пока он у вас есть.",
+    "zh-Hans": "拥有一个已验证的机器人。拥有期间会显示。"
+  },
+  "Own a verified server. It is shown while you do.": {
+    "ar": "امتلك سيرفرًا موثّقًا. تظهر الشارة ما دمت تملكه.",
+    "de": "Besitze einen verifizierten Server. Es wird angezeigt, solange du ihn besitzt.",
+    "es": "Sé propietario de un servidor verificado. Se muestra mientras lo seas.",
+    "fr": "Possédez un serveur vérifié. Il s'affiche tant que vous le possédez.",
+    "ru": "Владейте проверенным сервером. Значок отображается, пока он у вас есть.",
+    "zh-Hans": "拥有一个已验证的服务器。拥有期间会显示。"
+  },
+  "Owns a server the Zrzur team verified.": {
+    "ar": "يملك سيرفرًا وثّقه فريق زرزور.",
+    "de": "Besitzt einen Server, den das Zrzur-Team verifiziert hat.",
+    "es": "Es propietario de un servidor verificado por el equipo de Zrzur.",
+    "fr": "Possède un serveur vérifié par l'équipe Zrzur.",
+    "ru": "Владеет сервером, который проверила команда Zrzur.",
+    "zh-Hans": "拥有一个经 Zrzur 团队验证的服务器。"
+  },
+  "Owns this server.": {
+    "ar": "يملك هذا السيرفر.",
+    "de": "Besitzt diesen Server.",
+    "es": "Es propietario de este servidor.",
+    "fr": "Possède ce serveur.",
+    "ru": "Владеет этим сервером.",
+    "zh-Hans": "拥有此服务器。"
+  },
+  "Page background": {
+    "ar": "خلفية الصفحة",
+    "de": "Seitenhintergrund",
+    "es": "Fondo de la página",
+    "fr": "Arrière-plan de la page",
+    "ru": "Фон страницы",
+    "zh-Hans": "页面背景"
+  },
+  "Paper": {
+    "ar": "ورق",
+    "de": "Papier",
+    "es": "Papel",
+    "fr": "Papier",
+    "ru": "Бумага",
+    "zh-Hans": "纸张"
+  },
+  "Paper planes": {
+    "ar": "طائرات ورقية",
+    "de": "Papierflieger",
+    "es": "Aviones de papel",
+    "fr": "Avions en papier",
+    "ru": "Бумажные самолётики",
+    "zh-Hans": "纸飞机"
+  },
+  "Passwords don't match.": {
+    "ar": "كلمتا المرور غير متطابقتين.",
+    "de": "Die Passwörter stimmen nicht überein.",
+    "es": "Las contraseñas no coinciden.",
+    "fr": "Les mots de passe ne correspondent pas.",
+    "ru": "Пароли не совпадают.",
+    "zh-Hans": "两次输入的密码不一致。"
+  },
+  "Past badges": {
+    "ar": "الشارات السابقة",
+    "de": "Frühere Abzeichen",
+    "es": "Insignias anteriores",
+    "fr": "Anciens badges",
+    "ru": "Прошлые значки",
+    "zh-Hans": "过往徽章"
+  },
+  "Paused": {
+    "ar": "متوقف مؤقتًا",
+    "de": "Pausiert",
+    "es": "En pausa",
+    "fr": "En pause",
+    "ru": "Приостановлено",
+    "zh-Hans": "已暂停"
+  }
+}

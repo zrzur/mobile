@@ -1,0 +1,185 @@
+{
+  "expo": {
+    "name": "Zrzur",
+    "slug": "zrzur",
+    "version": "0.1.0",
+    "orientation": "default",
+    "icon": "./assets/images/icon.png",
+    "scheme": "zrzur",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#0D0E16",
+    "ios": {
+      "bundleIdentifier": "cc.zrzur.app",
+      "supportsTablet": true,
+      "requireFullScreen": false,
+      "infoPlist": {
+        "CFBundleAllowMixedLocalizations": true,
+        "UISupportedInterfaceOrientations": [
+          "UIInterfaceOrientationPortrait"
+        ],
+        "UISupportedInterfaceOrientations~ipad": [
+          "UIInterfaceOrientationPortrait",
+          "UIInterfaceOrientationPortraitUpsideDown",
+          "UIInterfaceOrientationLandscapeLeft",
+          "UIInterfaceOrientationLandscapeRight"
+        ],
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      },
+      "associatedDomains": [
+        "applinks:app.zrzur.com",
+        "applinks:zrzur.cc"
+      ]
+    },
+    "android": {
+      "package": "cc.zrzur.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#1D1F2D",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "MODIFY_AUDIO_SETTINGS",
+        "BLUETOOTH",
+        "BLUETOOTH_CONNECT",
+        "VIBRATE",
+        "FOREGROUND_SERVICE",
+        "FOREGROUND_SERVICE_MEDIA_PROJECTION",
+        "FOREGROUND_SERVICE_MICROPHONE",
+        "FOREGROUND_SERVICE_CAMERA",
+        "WAKE_LOCK",
+        "ACCESS_NETWORK_STATE"
+      ],
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            {
+              "scheme": "https",
+              "host": "app.zrzur.com",
+              "pathPrefix": "/invite"
+            },
+            {
+              "scheme": "https",
+              "host": "app.zrzur.com",
+              "pathPrefix": "/server"
+            },
+            {
+              "scheme": "https",
+              "host": "app.zrzur.com",
+              "pathPrefix": "/channel"
+            },
+            {
+              "scheme": "https",
+              "host": "app.zrzur.com",
+              "pathPrefix": "/friends"
+            },
+            {
+              "scheme": "https",
+              "host": "app.zrzur.com",
+              "pathPrefix": "/login"
+            },
+            {
+              "scheme": "https",
+              "host": "app.zrzur.com",
+              "pathPrefix": "/bot"
+            },
+            {
+              "scheme": "https",
+              "host": "app.zrzur.com",
+              "pathPrefix": "/b/"
+            },
+            {
+              "scheme": "https",
+              "host": "zrzur.cc"
+            }
+          ],
+          "category": [
+            "BROWSABLE",
+            "DEFAULT"
+          ]
+        }
+      ]
+    },
+    "web": {
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-secure-store",
+      "expo-localization",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0D0E16",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 120
+        }
+      ],
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Zrzur uses the microphone for voice messages and calls.",
+          "enableBackgroundPlayback": false
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Zrzur opens your photo library so you can choose photos and videos to share in chats.",
+          "cameraPermission": "Zrzur uses the camera to take photos for your chats and for video calls.",
+          "microphonePermission": "Zrzur uses the microphone for voice messages and calls."
+        }
+      ],
+      "expo-task-manager",
+      [
+        "expo-notifications",
+        {
+          "defaultChannel": "messages",
+          "mode": "production",
+          "color": "#E0195F"
+        }
+      ],
+      [
+        "@livekit/react-native-expo-plugin",
+        {
+          "android": {
+            "audioType": "communication",
+            "enableScreenShareService": true
+          }
+        }
+      ],
+      [
+        "@config-plugins/react-native-webrtc",
+        {
+          "cameraPermission": "Zrzur uses the camera to take photos for your chats and for video calls.",
+          "microphonePermission": "Zrzur uses the microphone for voice messages and calls."
+        }
+      ],
+      "expo-sharing",
+      "@react-native-community/datetimepicker",
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Zrzur opens your photo library so you can choose photos and videos to share in chats.",
+          "savePhotosPermission": "Zrzur saves the photos and videos you choose to your photo library.",
+          "isAccessMediaLocationEnabled": false,
+          "granularPermissions": []
+        }
+      ]
+    ],
+    "extra": {
+      "supportsRTL": true
+    },
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}

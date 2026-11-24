@@ -1,0 +1,1146 @@
+{
+ "Automated tools": {
+  "ar": "أدوات آلية",
+  "de": "Automatisierte Tools",
+  "es": "Herramientas automatizadas",
+  "fr": "Outils automatisés",
+  "ru": "Автоматические инструменты",
+  "zh-Hans": "自动化工具"
+ },
+ "Automatic": {
+  "ar": "تلقائي",
+  "de": "Automatisch",
+  "es": "Automático",
+  "fr": "Automatique",
+  "ru": "Автоматически",
+  "zh-Hans": "自动"
+ },
+ "Automatic gain control": {
+  "ar": "التحكم التلقائي في الكسب",
+  "de": "Automatische Verstärkungsregelung",
+  "es": "Control automático de ganancia",
+  "fr": "Contrôle automatique du gain",
+  "ru": "Автоматическая регулировка усиления",
+  "zh-Hans": "自动增益控制"
+ },
+ "Autumn": {
+  "ar": "الخريف",
+  "de": "Herbst",
+  "es": "Otoño",
+  "fr": "Automne",
+  "ru": "Осень",
+  "zh-Hans": "秋天"
+ },
+ "Autumn wreath": {
+  "ar": "إكليل الخريف",
+  "de": "Herbstkranz",
+  "es": "Corona de otoño",
+  "fr": "Couronne d'automne",
+  "ru": "Осенний венок",
+  "zh-Hans": "秋日花环"
+ },
+ "Avatar decoration": {
+  "ar": "زينة الصورة",
+  "de": "Avatar-Dekoration",
+  "es": "Decoración de avatar",
+  "fr": "Décoration d'avatar",
+  "ru": "Украшение аватара",
+  "zh-Hans": "头像装饰"
+ },
+ "Badges collected": {
+  "ar": "الشارات المجمّعة",
+  "de": "Gesammelte Abzeichen",
+  "es": "Insignias conseguidas",
+  "fr": "Badges collectés",
+  "ru": "Собранные значки",
+  "zh-Hans": "已收集的徽章"
+ },
+ "Badges you can earn": {
+  "ar": "شارات يمكنك الحصول عليها",
+  "de": "Abzeichen, die du verdienen kannst",
+  "es": "Insignias que puedes ganar",
+  "fr": "Badges que tu peux gagner",
+  "ru": "Значки, которые можно получить",
+  "zh-Hans": "你可以获得的徽章"
+ },
+ "Banner height": {
+  "ar": "ارتفاع البانر",
+  "de": "Bannerhöhe",
+  "es": "Altura del banner",
+  "fr": "Hauteur de la bannière",
+  "ru": "Высота баннера",
+  "zh-Hans": "横幅高度"
+ },
+ "Become a Zrzur creator and publish your first decoration, nameplate or effect. Making bots doesn't count.": {
+  "ar": "كن صانع محتوى في زرزور وانشر أول زينة أو لوحة اسم أو تأثير لك. صناعة البوتات لا تُحتسب.",
+  "de": "Werde Zrzur-Creator und veröffentliche deine erste Dekoration, dein erstes Namensschild oder deinen ersten Effekt. Bots zählen nicht.",
+  "es": "Hazte creador de Zrzur y publica tu primera decoración, placa de nombre o efecto. Crear bots no cuenta.",
+  "fr": "Deviens créateur Zrzur et publie ta première décoration, plaque de nom ou ton premier effet. Créer des bots ne compte pas.",
+  "ru": "Станьте создателем Zrzur и опубликуйте своё первое украшение, табличку с именем или эффект. Создание ботов не засчитывается.",
+  "zh-Hans": "成为 Zrzur 创作者，发布你的第一个装饰、名牌或特效。制作机器人不算。"
+ },
+ "Below the minimum age: your account is limited and may be reviewed.": {
+  "ar": "أنت دون الحد الأدنى للعمر: حسابك مقيّد وقد تتم مراجعته.",
+  "de": "Unter dem Mindestalter: Dein Konto ist eingeschränkt und wird möglicherweise geprüft.",
+  "es": "Por debajo de la edad mínima: tu cuenta está limitada y puede ser revisada.",
+  "fr": "En dessous de l'âge minimum : ton compte est limité et peut être examiné.",
+  "ru": "Ниже минимального возраста: ваш аккаунт ограничен и может быть проверен.",
+  "zh-Hans": "未达到最低年龄：你的账号受到限制，可能会被审核。"
+ },
+ "Beta feature": {
+  "ar": "ميزة تجريبية",
+  "de": "Beta-Funktion",
+  "es": "Función beta",
+  "fr": "Fonction bêta",
+  "ru": "Бета-функция",
+  "zh-Hans": "测试功能"
+ },
+ "Beta feedback": {
+  "ar": "ملاحظات تجريبية",
+  "de": "Beta-Feedback",
+  "es": "Comentarios sobre la beta",
+  "fr": "Retours sur la bêta",
+  "ru": "Отзывы о бете",
+  "zh-Hans": "测试反馈"
+ },
+ "Beta program": {
+  "ar": "البرنامج التجريبي",
+  "de": "Beta-Programm",
+  "es": "Programa beta",
+  "fr": "Programme bêta",
+  "ru": "Бета-программа",
+  "zh-Hans": "测试计划"
+ },
+ "Beta Tester": {
+  "ar": "مختبِر النسخة التجريبية",
+  "de": "Beta-Tester",
+  "es": "Beta Tester",
+  "fr": "Beta Tester",
+  "ru": "Бета-тестер",
+  "zh-Hans": "测试版体验者"
+ },
+ "Beta Veteran": {
+  "ar": "مختبِر مخضرم",
+  "de": "Beta-Veteran",
+  "es": "Veterano de la beta",
+  "fr": "Vétéran de la bêta",
+  "ru": "Ветеран беты",
+  "zh-Hans": "测试版老兵"
+ },
+ "Big Community": {
+  "ar": "مجتمع كبير",
+  "de": "Große Community",
+  "es": "Gran comunidad",
+  "fr": "Grande communauté",
+  "ru": "Большое сообщество",
+  "zh-Hans": "大型社区"
+ },
+ "Bigger uploads, longer messages, sharper streams and a free Wing, for {0} a month.": {
+  "ar": "ملفات رفع أكبر ورسائل أطول وبث أوضح وجناح مجاني، مقابل {0} شهريًا.",
+  "de": "Größere Uploads, längere Nachrichten, schärfere Streams und ein kostenloser Wing – für {0} im Monat.",
+  "es": "Subidas más grandes, mensajes más largos, streams más nítidos y un Wing gratis, por {0} al mes.",
+  "fr": "Envois plus lourds, messages plus longs, streams plus nets et un Wing gratuit, pour {0} par mois.",
+  "ru": "Файлы больше, сообщения длиннее, стримы чётче и бесплатный Wing — за {0} в месяц.",
+  "zh-Hans": "更大的上传、更长的消息、更清晰的直播，还有一个免费 Wing，每月 {0}。"
+ },
+ "Bio": {
+  "ar": "نبذة",
+  "de": "Über mich",
+  "es": "Biografía",
+  "fr": "Bio",
+  "ru": "О себе",
+  "zh-Hans": "简介"
+ },
+ "Bold": {
+  "ar": "عريض",
+  "de": "Fett",
+  "es": "Negrita",
+  "fr": "Gras",
+  "ru": "Жирный",
+  "zh-Hans": "粗体"
+ },
+ "Bot abuse": {
+  "ar": "إساءة استخدام البوت",
+  "de": "Bot-Missbrauch",
+  "es": "Abuso de bots",
+  "fr": "Abus de bot",
+  "ru": "Злоупотребление ботом",
+  "zh-Hans": "机器人滥用"
+ },
+ "Bot disabled": {
+  "ar": "تم تعطيل البوت",
+  "de": "Bot deaktiviert",
+  "es": "Bot desactivado",
+  "fr": "Bot désactivé",
+  "ru": "Бот отключён",
+  "zh-Hans": "机器人已停用"
+ },
+ "Bots": {
+  "ar": "البوتات",
+  "de": "Bots",
+  "es": "Bots",
+  "fr": "Bots",
+  "ru": "Боты",
+  "zh-Hans": "机器人"
+ },
+ "Bots and webhooks.": {
+  "ar": "البوتات والويب هوك.",
+  "de": "Bots und Webhooks.",
+  "es": "Bots y webhooks.",
+  "fr": "Bots et webhooks.",
+  "ru": "Боты и вебхуки.",
+  "zh-Hans": "机器人和 Webhook。"
+ },
+ "Bots you add show up here.": {
+  "ar": "تظهر هنا البوتات التي تضيفها.",
+  "de": "Bots, die du hinzufügst, erscheinen hier.",
+  "es": "Los bots que añadas aparecerán aquí.",
+  "fr": "Les bots que tu ajoutes apparaissent ici.",
+  "ru": "Добавленные вами боты появятся здесь.",
+  "zh-Hans": "你添加的机器人会显示在这里。"
+ },
+ "Breaks our rules: {rule}. This is not a finding that it is illegal.": {
+  "ar": "يخالف قواعدنا: {rule}. هذا ليس حكمًا بأنه غير قانوني.",
+  "de": "Verstößt gegen unsere Regeln: {rule}. Das ist keine Feststellung, dass es illegal ist.",
+  "es": "Incumple nuestras normas: {rule}. Esto no es una constatación de que sea ilegal.",
+  "fr": "Enfreint nos règles : {rule}. Ce n'est pas un constat d'illégalité.",
+  "ru": "Нарушает наши правила: {rule}. Это не признание того, что это незаконно.",
+  "zh-Hans": "违反我们的规则：{rule}。这并不代表认定其违法。"
+ },
+ "Bubbles": {
+  "ar": "فقاعات",
+  "de": "Blasen",
+  "es": "Burbujas",
+  "fr": "Bulles",
+  "ru": "Пузыри",
+  "zh-Hans": "气泡"
+ },
+ "Bug": {
+  "ar": "خلل",
+  "de": "Fehler",
+  "es": "Error",
+  "fr": "Bug",
+  "ru": "Ошибка",
+  "zh-Hans": "故障"
+ },
+ "Bug Hunter": {
+  "ar": "صائد الأخطاء",
+  "de": "Bug Hunter",
+  "es": "Bug Hunter",
+  "fr": "Bug Hunter",
+  "ru": "Охотник за багами",
+  "zh-Hans": "漏洞猎人"
+ },
+ "Bug Hunter comes with your first verified report. Security reports stay private and never appear on your profile.": {
+  "ar": "تحصل على شارة صائد الأخطاء مع أول بلاغ موثّق. تبقى بلاغات الأمان خاصة ولا تظهر في ملفك الشخصي.",
+  "de": "Bug Hunter bekommst du mit deinem ersten bestätigten Bericht. Sicherheitsmeldungen bleiben privat und erscheinen nie in deinem Profil.",
+  "es": "Bug Hunter llega con tu primer informe verificado. Los informes de seguridad son privados y nunca aparecen en tu perfil.",
+  "fr": "Bug Hunter arrive avec ton premier signalement vérifié. Les signalements de sécurité restent privés et n'apparaissent jamais sur ton profil.",
+  "ru": "Bug Hunter выдаётся за первый подтверждённый отчёт. Отчёты о безопасности остаются приватными и не отображаются в профиле.",
+  "zh-Hans": "提交首个经核实的报告即可获得“漏洞猎人”。安全报告保持私密，不会显示在你的资料中。"
+ },
+ "Bug reports": {
+  "ar": "بلاغات الأخطاء",
+  "de": "Fehlerberichte",
+  "es": "Informes de errores",
+  "fr": "Rapports de bugs",
+  "ru": "Отчёты об ошибках",
+  "zh-Hans": "错误报告"
+ },
+ "Bug tracker": {
+  "ar": "متتبّع الأخطاء",
+  "de": "Bug-Tracker",
+  "es": "Seguimiento de errores",
+  "fr": "Suivi des bugs",
+  "ru": "Трекер ошибок",
+  "zh-Hans": "问题追踪"
+ },
+ "Builds Zrzur itself.": {
+  "ar": "يبني زرزور نفسه.",
+  "de": "Baut Zrzur selbst.",
+  "es": "Construye Zrzur.",
+  "fr": "Construit Zrzur lui-même.",
+  "ru": "Создаёт сам Zrzur.",
+  "zh-Hans": "构建 Zrzur 本身。"
+ },
+ "Built a server that reached 1,000 members.": {
+  "ar": "بنى سيرفرًا وصل إلى 1,000 عضو.",
+  "de": "Hat einen Server mit 1.000 Mitgliedern aufgebaut.",
+  "es": "Creó un servidor que llegó a 1000 miembros.",
+  "fr": "A créé un serveur qui a atteint 1 000 membres.",
+  "ru": "Создал сервер, достигший 1000 участников.",
+  "zh-Hans": "创建了达到 1,000 名成员的服务器。"
+ },
+ "Built a server that reached 100 members.": {
+  "ar": "بنى سيرفرًا وصل إلى 100 عضو.",
+  "de": "Hat einen Server mit 100 Mitgliedern aufgebaut.",
+  "es": "Creó un servidor que llegó a 100 miembros.",
+  "fr": "A créé un serveur qui a atteint 100 membres.",
+  "ru": "Создал сервер, достигший 100 участников.",
+  "zh-Hans": "创建了达到 100 名成员的服务器。"
+ },
+ "Butterflies": {
+  "ar": "فراشات",
+  "de": "Schmetterlinge",
+  "es": "Mariposas",
+  "fr": "Papillons",
+  "ru": "Бабочки",
+  "zh-Hans": "蝴蝶"
+ },
+ "Buttons": {
+  "ar": "الأزرار",
+  "de": "Schaltflächen",
+  "es": "Botones",
+  "fr": "Boutons",
+  "ru": "Кнопки",
+  "zh-Hans": "按钮"
+ },
+ "Buttons, switches, links and selected items.": {
+  "ar": "الأزرار والمفاتيح والروابط والعناصر المحددة.",
+  "de": "Schaltflächen, Schalter, Links und ausgewählte Elemente.",
+  "es": "Botones, interruptores, enlaces y elementos seleccionados.",
+  "fr": "Boutons, interrupteurs, liens et éléments sélectionnés.",
+  "ru": "Кнопки, переключатели, ссылки и выбранные элементы.",
+  "zh-Hans": "按钮、开关、链接和已选项目。"
+ },
+ "Cancel any time": {
+  "ar": "ألغِ في أي وقت",
+  "de": "Jederzeit kündbar",
+  "es": "Cancela cuando quieras",
+  "fr": "Résiliation à tout moment",
+  "ru": "Отмена в любое время",
+  "zh-Hans": "可随时取消"
+ },
+ "Cancel Feather": {
+  "ar": "إلغاء ريشة",
+  "de": "Feather kündigen",
+  "es": "Cancelar Feather",
+  "fr": "Résilier Feather",
+  "ru": "Отменить Feather",
+  "zh-Hans": "取消 Feather"
+ },
+ "Cancel request": {
+  "ar": "إلغاء الطلب",
+  "de": "Anfrage abbrechen",
+  "es": "Cancelar solicitud",
+  "fr": "Annuler la demande",
+  "ru": "Отменить запрос",
+  "zh-Hans": "取消请求"
+ },
+ "Cancelled, ends on {0}": {
+  "ar": "أُلغي، ينتهي في {0}",
+  "de": "Gekündigt, endet am {0}",
+  "es": "Cancelada, termina el {0}",
+  "fr": "Résilié, se termine le {0}",
+  "ru": "Отменено, действует до {0}",
+  "zh-Hans": "已取消，于 {0} 结束"
+ },
+ "Cancelled. You keep Feather until {0}.": {
+  "ar": "تم الإلغاء. تحتفظ بريشة حتى {0}.",
+  "de": "Gekündigt. Du behältst Feather bis {0}.",
+  "es": "Cancelada. Conservas Feather hasta el {0}.",
+  "fr": "Résilié. Tu gardes Feather jusqu'au {0}.",
+  "ru": "Отменено. Feather останется у вас до {0}.",
+  "zh-Hans": "已取消。你可使用 Feather 至 {0}。"
+ },
+ "Cancer": {
+  "ar": "برج السرطان",
+  "de": "Krebs",
+  "es": "Cáncer",
+  "fr": "Cancer",
+  "ru": "Рак",
+  "zh-Hans": "巨蟹座"
+ },
+ "Capricorn": {
+  "ar": "برج الجدي",
+  "de": "Steinbock",
+  "es": "Capricornio",
+  "fr": "Capricorne",
+  "ru": "Козерог",
+  "zh-Hans": "摩羯座"
+ },
+ "Card background": {
+  "ar": "خلفية البطاقة",
+  "de": "Kartenhintergrund",
+  "es": "Fondo de la tarjeta",
+  "fr": "Arrière-plan de la carte",
+  "ru": "Фон карточки",
+  "zh-Hans": "卡片背景"
+ },
+ "Cards in two columns or one below the other.": {
+  "ar": "بطاقات في عمودين أو واحدة تحت الأخرى.",
+  "de": "Karten in zwei Spalten oder untereinander.",
+  "es": "Tarjetas en dos columnas o una debajo de otra.",
+  "fr": "Cartes sur deux colonnes ou l'une sous l'autre.",
+  "ru": "Карточки в два столбца или одна под другой.",
+  "zh-Hans": "卡片分两列或上下排列。"
+ },
+ "Category": {
+  "ar": "الفئة",
+  "de": "Kategorie",
+  "es": "Categoría",
+  "fr": "Catégorie",
+  "ru": "Категория",
+  "zh-Hans": "类别"
+ },
+ "Change avatar decoration": {
+  "ar": "تغيير زينة الصورة",
+  "de": "Avatar-Dekoration ändern",
+  "es": "Cambiar decoración de avatar",
+  "fr": "Changer la décoration d'avatar",
+  "ru": "Сменить украшение аватара",
+  "zh-Hans": "更换头像装饰"
+ },
+ "Change banner": {
+  "ar": "تغيير البانر",
+  "de": "Banner ändern",
+  "es": "Cambiar banner",
+  "fr": "Changer la bannière",
+  "ru": "Сменить баннер",
+  "zh-Hans": "更换横幅"
+ },
+ "Change channel icon": {
+  "ar": "تغيير أيقونة القناة",
+  "de": "Kanalsymbol ändern",
+  "es": "Cambiar icono del canal",
+  "fr": "Changer l'icône du salon",
+  "ru": "Сменить значок канала",
+  "zh-Hans": "更换频道图标"
+ },
+ "Change email": {
+  "ar": "تغيير البريد الإلكتروني",
+  "de": "E-Mail ändern",
+  "es": "Cambiar correo electrónico",
+  "fr": "Changer l'e-mail",
+  "ru": "Сменить эл. почту",
+  "zh-Hans": "更改邮箱"
+ },
+ "Change nameplate": {
+  "ar": "تغيير لوحة الاسم",
+  "de": "Namensschild ändern",
+  "es": "Cambiar placa de nombre",
+  "fr": "Changer la plaque de nom",
+  "ru": "Сменить табличку с именем",
+  "zh-Hans": "更换名牌"
+ },
+ "Change password": {
+  "ar": "تغيير كلمة المرور",
+  "de": "Passwort ändern",
+  "es": "Cambiar contraseña",
+  "fr": "Changer le mot de passe",
+  "ru": "Сменить пароль",
+  "zh-Hans": "更改密码"
+ },
+ "Change server avatar": {
+  "ar": "تغيير صورة السيرفر",
+  "de": "Server-Avatar ändern",
+  "es": "Cambiar avatar del servidor",
+  "fr": "Changer l'avatar du serveur",
+  "ru": "Сменить аватар сервера",
+  "zh-Hans": "更换服务器头像"
+ },
+ "Change the password you use to sign in.": {
+  "ar": "غيّر كلمة المرور التي تسجّل بها الدخول.",
+  "de": "Ändere das Passwort, mit dem du dich anmeldest.",
+  "es": "Cambia la contraseña con la que inicias sesión.",
+  "fr": "Modifie le mot de passe avec lequel tu te connectes.",
+  "ru": "Измените пароль, которым вы входите.",
+  "zh-Hans": "更改你登录时使用的密码。"
+ },
+ "Change your card, download invoices and see past payments on our payment partner's secure page.": {
+  "ar": "غيّر بطاقتك وحمّل الفواتير واطلع على الدفعات السابقة في صفحة شريكنا الآمنة للدفع.",
+  "de": "Ändere deine Karte, lade Rechnungen herunter und sieh dir frühere Zahlungen auf der sicheren Seite unseres Zahlungspartners an.",
+  "es": "Cambia tu tarjeta, descarga facturas y consulta pagos anteriores en la página segura de nuestro socio de pagos.",
+  "fr": "Change ta carte, télécharge tes factures et consulte tes paiements passés sur la page sécurisée de notre partenaire de paiement.",
+  "ru": "Меняйте карту, скачивайте счета и смотрите прошлые платежи на защищённой странице нашего платёжного партнёра.",
+  "zh-Hans": "在我们支付合作伙伴的安全页面上更换银行卡、下载发票并查看过往付款。"
+ },
+ "Change your email": {
+  "ar": "غيّر بريدك الإلكتروني",
+  "de": "E-Mail-Adresse ändern",
+  "es": "Cambia tu correo electrónico",
+  "fr": "Change ton e-mail",
+  "ru": "Смените эл. почту",
+  "zh-Hans": "更改你的邮箱"
+ },
+ "Change your password": {
+  "ar": "غيّر كلمة المرور",
+  "de": "Passwort ändern",
+  "es": "Cambia tu contraseña",
+  "fr": "Change ton mot de passe",
+  "ru": "Смените пароль",
+  "zh-Hans": "更改你的密码"
+ },
+ "Change your username": {
+  "ar": "غيّر اسم المستخدم",
+  "de": "Benutzernamen ändern",
+  "es": "Cambia tu nombre de usuario",
+  "fr": "Change ton nom d'utilisateur",
+  "ru": "Смените имя пользователя",
+  "zh-Hans": "更改你的用户名"
+ },
+ "Changes to the details below show up right away. You can remove it at any time.": {
+  "ar": "التغييرات على التفاصيل أدناه تظهر فورًا. يمكنك إزالتها في أي وقت.",
+  "de": "Änderungen an den Angaben unten erscheinen sofort. Du kannst sie jederzeit entfernen.",
+  "es": "Los cambios en los detalles de abajo se ven al instante. Puedes quitarlo cuando quieras.",
+  "fr": "Les modifications des détails ci-dessous apparaissent tout de suite. Tu peux le retirer à tout moment.",
+  "ru": "Изменения в данных ниже видны сразу. Вы можете убрать это в любой момент.",
+  "zh-Hans": "下方信息的更改会立即显示。你可以随时移除。"
+ },
+ "Channel description": {
+  "ar": "وصف القناة",
+  "de": "Kanalbeschreibung",
+  "es": "Descripción del canal",
+  "fr": "Description du salon",
+  "ru": "Описание канала",
+  "zh-Hans": "频道描述"
+ },
+ "Channel info": {
+  "ar": "معلومات القناة",
+  "de": "Kanalinfo",
+  "es": "Información del canal",
+  "fr": "Infos du salon",
+  "ru": "Информация о канале",
+  "zh-Hans": "频道信息"
+ },
+ "Channel slowmode": {
+  "ar": "الوضع البطيء للقناة",
+  "de": "Kanal-Langsammodus",
+  "es": "Modo lento del canal",
+  "fr": "Mode lent du salon",
+  "ru": "Медленный режим канала",
+  "zh-Hans": "频道慢速模式"
+ },
+ "Channels shown": {
+  "ar": "القنوات المعروضة",
+  "de": "Angezeigte Kanäle",
+  "es": "Canales mostrados",
+  "fr": "Salons affichés",
+  "ru": "Показываемые каналы",
+  "zh-Hans": "显示的频道"
+ },
+ "Chat": {
+  "ar": "الدردشة",
+  "de": "Chat",
+  "es": "Chat",
+  "fr": "Chat",
+  "ru": "Чат",
+  "zh-Hans": "聊天"
+ },
+ "Check your connection and try again.": {
+  "ar": "تحقق من اتصالك وحاول مرة أخرى.",
+  "de": "Prüfe deine Verbindung und versuche es erneut.",
+  "es": "Revisa tu conexión e inténtalo de nuevo.",
+  "fr": "Vérifie ta connexion et réessaie.",
+  "ru": "Проверьте соединение и попробуйте снова.",
+  "zh-Hans": "请检查网络连接后重试。"
+ },
+ "Check your inbox": {
+  "ar": "تحقق من بريدك الوارد",
+  "de": "Prüfe dein Postfach",
+  "es": "Revisa tu bandeja de entrada",
+  "fr": "Vérifie ta boîte de réception",
+  "ru": "Проверьте входящие",
+  "zh-Hans": "请查看你的收件箱"
+ },
+ "Checking…": {
+  "ar": "جارٍ التحقق…",
+  "de": "Wird geprüft …",
+  "es": "Comprobando…",
+  "fr": "Vérification…",
+  "ru": "Проверка…",
+  "zh-Hans": "正在检查…"
+ },
+ "Cherry blossoms": {
+  "ar": "زهر الكرز",
+  "de": "Kirschblüten",
+  "es": "Flores de cerezo",
+  "fr": "Fleurs de cerisier",
+  "ru": "Цветы вишни",
+  "zh-Hans": "樱花"
+ },
+ "Cherry branch": {
+  "ar": "غصن كرز",
+  "de": "Kirschzweig",
+  "es": "Rama de cerezo",
+  "fr": "Branche de cerisier",
+  "ru": "Ветка вишни",
+  "zh-Hans": "樱花枝"
+ },
+ "Cherry petals": {
+  "ar": "بتلات الكرز",
+  "de": "Kirschblütenblätter",
+  "es": "Pétalos de cerezo",
+  "fr": "Pétales de cerisier",
+  "ru": "Лепестки вишни",
+  "zh-Hans": "樱花花瓣"
+ },
+ "Choose a role": {
+  "ar": "اختر دورًا",
+  "de": "Rolle wählen",
+  "es": "Elige un rol",
+  "fr": "Choisis un rôle",
+  "ru": "Выберите роль",
+  "zh-Hans": "选择角色"
+ },
+ "Choose colour": {
+  "ar": "اختر اللون",
+  "de": "Farbe wählen",
+  "es": "Elegir color",
+  "fr": "Choisir la couleur",
+  "ru": "Выбрать цвет",
+  "zh-Hans": "选择颜色"
+ },
+ "Choose font": {
+  "ar": "اختر الخط",
+  "de": "Schriftart wählen",
+  "es": "Elegir fuente",
+  "fr": "Choisir la police",
+  "ru": "Выбрать шрифт",
+  "zh-Hans": "选择字体"
+ },
+ "Choose how each part of Zrzur moves. The preview shows every change right away.": {
+  "ar": "اختر كيف تتحرك كل أجزاء زرزور. تعرض المعاينة كل تغيير فورًا.",
+  "de": "Wähle, wie sich jeder Teil von Zrzur bewegt. Die Vorschau zeigt jede Änderung sofort.",
+  "es": "Elige cómo se mueve cada parte de Zrzur. La vista previa muestra cada cambio al instante.",
+  "fr": "Choisis comment chaque partie de Zrzur bouge. L'aperçu montre chaque changement tout de suite.",
+  "ru": "Выберите, как движется каждая часть Zrzur. Предпросмотр сразу показывает все изменения.",
+  "zh-Hans": "选择 Zrzur 各部分的动画方式。预览会立即显示每项更改。"
+ },
+ "Choose images": {
+  "ar": "اختر صورًا",
+  "de": "Bilder wählen",
+  "es": "Elegir imágenes",
+  "fr": "Choisir des images",
+  "ru": "Выбрать изображения",
+  "zh-Hans": "选择图片"
+ },
+ "Choose text and background colours with at least 4.5:1 contrast.": {
+  "ar": "اختر ألوان النص والخلفية بتباين لا يقل عن 4.5:1.",
+  "de": "Wähle Text- und Hintergrundfarben mit mindestens 4,5:1 Kontrast.",
+  "es": "Elige colores de texto y fondo con un contraste de al menos 4,5:1.",
+  "fr": "Choisis des couleurs de texte et d'arrière-plan avec un contraste d'au moins 4,5:1.",
+  "ru": "Выберите цвета текста и фона с контрастом не менее 4,5:1.",
+  "zh-Hans": "选择对比度至少为 4.5:1 的文字和背景颜色。"
+ },
+ "Choose the role this answer gives.": {
+  "ar": "اختر الدور الذي تمنحه هذه الإجابة.",
+  "de": "Wähle die Rolle, die diese Antwort vergibt.",
+  "es": "Elige el rol que otorga esta respuesta.",
+  "fr": "Choisis le rôle que cette réponse attribue.",
+  "ru": "Выберите роль, которую даёт этот ответ.",
+  "zh-Hans": "选择此答案授予的角色。"
+ },
+ "Choose what shows on your profile and in what order. Hidden sections are not sent to anyone.": {
+  "ar": "اختر ما يظهر في ملفك الشخصي وبأي ترتيب. الأقسام المخفية لا تُرسل لأحد.",
+  "de": "Wähle, was in deinem Profil erscheint und in welcher Reihenfolge. Ausgeblendete Bereiche werden an niemanden gesendet.",
+  "es": "Elige qué aparece en tu perfil y en qué orden. Las secciones ocultas no se envían a nadie.",
+  "fr": "Choisis ce qui apparaît sur ton profil et dans quel ordre. Les sections masquées ne sont envoyées à personne.",
+  "ru": "Выберите, что показывать в профиле и в каком порядке. Скрытые разделы никому не передаются.",
+  "zh-Hans": "选择资料中显示的内容及顺序。隐藏的部分不会发送给任何人。"
+ },
+ "Choose what the lobby shows and in which order. Sections with nothing to show stay hidden by themselves.": {
+  "ar": "اختر ما تعرضه اللوبي وبأي ترتيب. الأقسام التي لا محتوى فيها تبقى مخفية تلقائيًا.",
+  "de": "Wähle, was die Lobby zeigt und in welcher Reihenfolge. Bereiche ohne Inhalt bleiben automatisch ausgeblendet.",
+  "es": "Elige qué muestra el vestíbulo y en qué orden. Las secciones sin contenido se ocultan solas.",
+  "fr": "Choisis ce que le hall affiche et dans quel ordre. Les sections vides restent masquées automatiquement.",
+  "ru": "Выберите, что показывает лобби и в каком порядке. Разделы без содержимого скрываются автоматически.",
+  "zh-Hans": "选择大厅显示的内容及顺序。没有内容的部分会自动隐藏。"
+ },
+ "Chosen: {0}": {
+  "ar": "المختار: {0}",
+  "de": "Ausgewählt: {0}",
+  "es": "Elegido: {0}",
+  "fr": "Choisi : {0}",
+  "ru": "Выбрано: {0}",
+  "zh-Hans": "已选：{0}"
+ },
+ "Circuit": {
+  "ar": "دائرة إلكترونية",
+  "de": "Schaltkreis",
+  "es": "Circuito",
+  "fr": "Circuit",
+  "ru": "Схема",
+  "zh-Hans": "电路"
+ },
+ "Claim link": {
+  "ar": "رابط المطالبة",
+  "de": "Anspruchslink",
+  "es": "Enlace de reclamación",
+  "fr": "Lien de réclamation",
+  "ru": "Ссылка для получения",
+  "zh-Hans": "领取链接"
+ },
+ "Classic": {
+  "ar": "كلاسيكي",
+  "de": "Klassisch",
+  "es": "Clásico",
+  "fr": "Classique",
+  "ru": "Классика",
+  "zh-Hans": "经典"
+ },
+ "Clean light surfaces with deep ink text and Raspberry actions.": {
+  "ar": "أسطح فاتحة نظيفة ونص بحبر داكن وأزرار بلون التوت.",
+  "de": "Klare helle Flächen mit tiefer Tintenschrift und Raspberry-Aktionen.",
+  "es": "Superficies claras y limpias, texto en tinta oscura y acciones en frambuesa.",
+  "fr": "Surfaces claires et nettes, texte encre profond et actions framboise.",
+  "ru": "Чистые светлые поверхности, глубокий чернильный текст и малиновые акценты.",
+  "zh-Hans": "干净的浅色表面、深墨色文字和覆盆子色操作按钮。"
+ },
+ "Clear": {
+  "ar": "مسح",
+  "de": "Löschen",
+  "es": "Borrar",
+  "fr": "Effacer",
+  "ru": "Очистить",
+  "zh-Hans": "清除"
+ },
+ "Click again to confirm": {
+  "ar": "اضغط مرة أخرى للتأكيد",
+  "de": "Zum Bestätigen erneut tippen",
+  "es": "Pulsa de nuevo para confirmar",
+  "fr": "Appuie à nouveau pour confirmer",
+  "ru": "Нажмите ещё раз для подтверждения",
+  "zh-Hans": "再次点击以确认"
+ },
+ "Client settings": {
+  "ar": "إعدادات العميل",
+  "de": "Client-Einstellungen",
+  "es": "Ajustes del cliente",
+  "fr": "Paramètres du client",
+  "ru": "Настройки клиента",
+  "zh-Hans": "客户端设置"
+ },
+ "Closed": {
+  "ar": "مغلق",
+  "de": "Geschlossen",
+  "es": "Cerrado",
+  "fr": "Fermé",
+  "ru": "Закрыто",
+  "zh-Hans": "已关闭"
+ },
+ "Clouds": {
+  "ar": "غيوم",
+  "de": "Wolken",
+  "es": "Nubes",
+  "fr": "Nuages",
+  "ru": "Облака",
+  "zh-Hans": "云朵"
+ },
+ "Colour gradient": {
+  "ar": "تدرج لوني",
+  "de": "Farbverlauf",
+  "es": "Degradado de color",
+  "fr": "Dégradé de couleurs",
+  "ru": "Цветовой градиент",
+  "zh-Hans": "颜色渐变"
+ },
+ "Colour intensity": {
+  "ar": "شدة اللون",
+  "de": "Farbintensität",
+  "es": "Intensidad del color",
+  "fr": "Intensité des couleurs",
+  "ru": "Насыщенность цвета",
+  "zh-Hans": "颜色强度"
+ },
+ "Colour presets": {
+  "ar": "ألوان جاهزة",
+  "de": "Farbvorgaben",
+  "es": "Colores predefinidos",
+  "fr": "Couleurs prédéfinies",
+  "ru": "Готовые цвета",
+  "zh-Hans": "颜色预设"
+ },
+ "Colours": {
+  "ar": "الألوان",
+  "de": "Farben",
+  "es": "Colores",
+  "fr": "Couleurs",
+  "ru": "Цвета",
+  "zh-Hans": "颜色"
+ },
+ "Colours your profile card and its banner when you have no picture.": {
+  "ar": "تلوّن بطاقة ملفك الشخصي وبانرها عندما لا تكون لديك صورة.",
+  "de": "Färbt deine Profilkarte und ihr Banner, wenn du kein Bild hast.",
+  "es": "Colorea tu tarjeta de perfil y su banner cuando no tienes imagen.",
+  "fr": "Colore ta carte de profil et sa bannière quand tu n'as pas d'image.",
+  "ru": "Окрашивает карточку профиля и её баннер, когда нет картинки.",
+  "zh-Hans": "没有图片时，为你的资料卡及其横幅着色。"
+ },
+ "Colours, layout, welcome text, buttons and questions of the lobby.": {
+  "ar": "ألوان اللوبي وتخطيطها ونص الترحيب وأزرارها وأسئلتها.",
+  "de": "Farben, Layout, Willkommenstext, Schaltflächen und Fragen der Lobby.",
+  "es": "Colores, diseño, texto de bienvenida, botones y preguntas del vestíbulo.",
+  "fr": "Couleurs, mise en page, texte d'accueil, boutons et questions du hall.",
+  "ru": "Цвета, макет, приветствие, кнопки и вопросы лобби.",
+  "zh-Hans": "大厅的颜色、布局、欢迎文字、按钮和问题。"
+ },
+ "Comet": {
+  "ar": "مذنّب",
+  "de": "Komet",
+  "es": "Cometa",
+  "fr": "Comète",
+  "ru": "Комета",
+  "zh-Hans": "彗星"
+ },
+ "Comfortable": {
+  "ar": "مريح",
+  "de": "Komfortabel",
+  "es": "Cómodo",
+  "fr": "Confortable",
+  "ru": "Комфортный",
+  "zh-Hans": "舒适"
+ },
+ "Comic": {
+  "ar": "كوميك",
+  "de": "Comic",
+  "es": "Cómic",
+  "fr": "Comic",
+  "ru": "Комикс",
+  "zh-Hans": "漫画"
+ },
+ "Community Builder": {
+  "ar": "بانٍ للمجتمع",
+  "de": "Community Builder",
+  "es": "Community Builder",
+  "fr": "Community Builder",
+  "ru": "Строитель сообщества",
+  "zh-Hans": "社区建设者"
+ },
+ "Community decoration": {
+  "ar": "زينة المجتمع",
+  "de": "Community-Dekoration",
+  "es": "Decoración de la comunidad",
+  "fr": "Décoration de la communauté",
+  "ru": "Украшение сообщества",
+  "zh-Hans": "社区装饰"
+ },
+ "Community design": {
+  "ar": "تصميم المجتمع",
+  "de": "Community-Design",
+  "es": "Diseño de la comunidad",
+  "fr": "Design de la communauté",
+  "ru": "Дизайн сообщества",
+  "zh-Hans": "社区设计"
+ },
+ "Community effect": {
+  "ar": "تأثير المجتمع",
+  "de": "Community-Effekt",
+  "es": "Efecto de la comunidad",
+  "fr": "Effet de la communauté",
+  "ru": "Эффект сообщества",
+  "zh-Hans": "社区特效"
+ },
+ "Community Helper": {
+  "ar": "مساعد المجتمع",
+  "de": "Community Helper",
+  "es": "Community Helper",
+  "fr": "Community Helper",
+  "ru": "Помощник сообщества",
+  "zh-Hans": "社区助手"
+ },
+ "Community nameplate": {
+  "ar": "لوحة اسم المجتمع",
+  "de": "Community-Namensschild",
+  "es": "Placa de nombre de la comunidad",
+  "fr": "Plaque de nom de la communauté",
+  "ru": "Табличка с именем сообщества",
+  "zh-Hans": "社区名牌"
+ },
+ "Compact": {
+  "ar": "مضغوط",
+  "de": "Kompakt",
+  "es": "Compacto",
+  "fr": "Compact",
+  "ru": "Компактный",
+  "zh-Hans": "紧凑"
+ },
+ "Complete every button label and channel.": {
+  "ar": "أكمل كل تسمية زر وقناة.",
+  "de": "Vervollständige jede Schaltflächenbeschriftung und jeden Kanal.",
+  "es": "Completa cada etiqueta de botón y canal.",
+  "fr": "Complète chaque libellé de bouton et chaque salon.",
+  "ru": "Заполните каждую подпись кнопки и канал.",
+  "zh-Hans": "请填写每个按钮标签和频道。"
+ },
+ "Complete every question and answer.": {
+  "ar": "أكمل كل سؤال وإجابة.",
+  "de": "Vervollständige jede Frage und Antwort.",
+  "es": "Completa cada pregunta y respuesta.",
+  "fr": "Complète chaque question et réponse.",
+  "ru": "Заполните каждый вопрос и ответ.",
+  "zh-Hans": "请填写每个问题和答案。"
+ },
+ "Complete every role question and choose a role for each answer.": {
+  "ar": "أكمل كل سؤال دور واختر دورًا لكل إجابة.",
+  "de": "Vervollständige jede Rollenfrage und wähle für jede Antwort eine Rolle.",
+  "es": "Completa cada pregunta de rol y elige un rol para cada respuesta.",
+  "fr": "Complète chaque question de rôle et choisis un rôle pour chaque réponse.",
+  "ru": "Заполните каждый вопрос о роли и выберите роль для каждого ответа.",
+  "zh-Hans": "请填写每个角色问题，并为每个答案选择角色。"
+ },
+ "Complete the beta as an active tester who sent feedback or a bug report. It stays, but gives no beta access.": {
+  "ar": "أكمل البرنامج التجريبي كمختبِر نشط أرسل ملاحظات أو بلاغ خلل. تبقى الشارة لكنها لا تمنح وصولًا تجريبيًا.",
+  "de": "Schließe die Beta als aktiver Tester ab, der Feedback oder einen Fehlerbericht gesendet hat. Das Abzeichen bleibt, gibt aber keinen Beta-Zugang.",
+  "es": "Completa la beta como tester activo que envió comentarios o un informe de error. Se queda, pero no da acceso beta.",
+  "fr": "Termine la bêta en tant que testeur actif ayant envoyé un retour ou un rapport de bug. Il reste, mais ne donne pas accès à la bêta.",
+  "ru": "Завершите бету как активный тестер, приславший отзыв или отчёт об ошибке. Значок остаётся, но доступа к бете не даёт.",
+  "zh-Hans": "作为提交过反馈或错误报告的活跃测试者完成测试。徽章会保留，但不再提供测试权限。"
+ },
+ "Completed": {
+  "ar": "مكتمل",
+  "de": "Abgeschlossen",
+  "es": "Completado",
+  "fr": "Terminé",
+  "ru": "Завершено",
+  "zh-Hans": "已完成"
+ },
+ "Completed a Zrzur beta program.": {
+  "ar": "أكمل برنامجًا تجريبيًا في زرزور.",
+  "de": "Hat ein Zrzur-Beta-Programm abgeschlossen.",
+  "es": "Completó un programa beta de Zrzur.",
+  "fr": "A terminé un programme bêta de Zrzur.",
+  "ru": "Завершил бета-программу Zrzur.",
+  "zh-Hans": "完成了一次 Zrzur 测试计划。"
+ },
+ "Confetti": {
+  "ar": "قصاصات ملونة",
+  "de": "Konfetti",
+  "es": "Confeti",
+  "fr": "Confettis",
+  "ru": "Конфетти",
+  "zh-Hans": "彩纸"
+ },
+ "Confetti burst": {
+  "ar": "انفجار قصاصات",
+  "de": "Konfetti-Explosion",
+  "es": "Explosión de confeti",
+  "fr": "Explosion de confettis",
+  "ru": "Взрыв конфетти",
+  "zh-Hans": "彩纸绽放"
+ },
+ "Confirm new password": {
+  "ar": "تأكيد كلمة المرور الجديدة",
+  "de": "Neues Passwort bestätigen",
+  "es": "Confirmar contraseña nueva",
+  "fr": "Confirmer le nouveau mot de passe",
+  "ru": "Подтвердите новый пароль",
+  "zh-Hans": "确认新密码"
+ },
+ "Confirmed": {
+  "ar": "مؤكّد",
+  "de": "Bestätigt",
+  "es": "Confirmado",
+  "fr": "Confirmé",
+  "ru": "Подтверждено",
+  "zh-Hans": "已确认"
+ },
+ "Contact support": {
+  "ar": "تواصل مع الدعم",
+  "de": "Support kontaktieren",
+  "es": "Contactar con soporte",
+  "fr": "Contacter le support",
+  "ru": "Связаться с поддержкой",
+  "zh-Hans": "联系支持"
+ },
+ "Contact support for more information.": {
+  "ar": "تواصل مع الدعم لمزيد من المعلومات.",
+  "de": "Wende dich für mehr Infos an den Support.",
+  "es": "Contacta con soporte para más información.",
+  "fr": "Contacte le support pour plus d'informations.",
+  "ru": "Свяжитесь с поддержкой для получения подробностей.",
+  "zh-Hans": "如需更多信息，请联系支持。"
+ },
+ "Content marked as mature stays closed until you add it.": {
+  "ar": "المحتوى المصنّف للبالغين يبقى مغلقًا حتى تضيفه.",
+  "de": "Als nicht jugendfrei markierte Inhalte bleiben gesperrt, bis du sie hinzufügst.",
+  "es": "El contenido marcado como para adultos permanece cerrado hasta que lo añadas.",
+  "fr": "Le contenu marqué comme réservé aux adultes reste fermé tant que tu ne l'ajoutes pas.",
+  "ru": "Контент для взрослых остаётся закрытым, пока вы его не добавите.",
+  "zh-Hans": "标记为成人内容的部分在你添加之前保持关闭。"
+ },
+ "Cool graphite panels for long sessions. Same raspberry actions and pink highlights.": {
+  "ar": "أسطح رمادية داكنة باردة لجلسات طويلة. الأزرار بلون التوت والإبرازات الوردية نفسها.",
+  "de": "Kühle Graphit-Flächen für lange Sitzungen. Dieselben Raspberry-Aktionen und rosa Akzente.",
+  "es": "Paneles de grafito frío para sesiones largas. Las mismas acciones frambuesa y resaltes rosas.",
+  "fr": "Panneaux graphite frais pour les longues sessions. Mêmes actions framboise et accents roses.",
+  "ru": "Прохладные графитовые панели для долгих сессий. Те же малиновые акценты и розовые выделения.",
+  "zh-Hans": "适合长时间使用的冷灰石墨面板。覆盆子色操作和粉色高亮保持不变。"
+ },
+ "Copy address": {
+  "ar": "نسخ العنوان",
+  "de": "Adresse kopieren",
+  "es": "Copiar dirección",
+  "fr": "Copier l'adresse",
+  "ru": "Копировать адрес",
+  "zh-Hans": "复制地址"
+ },
+ "Copy it now: it is not shown again. Anyone who has it can post here, so keep it private.": {
+  "ar": "انسخه الآن: لن يظهر مرة أخرى. أي شخص يملكه يستطيع النشر هنا، فاحتفظ به سرًا.",
+  "de": "Kopiere es jetzt: Es wird nicht noch einmal angezeigt. Jeder, der es hat, kann hier posten – halte es geheim.",
+  "es": "Cópialo ahora: no se vuelve a mostrar. Cualquiera que lo tenga puede publicar aquí, así que mantenlo en privado.",
+  "fr": "Copie-le maintenant : il ne sera plus affiché. Quiconque l'a peut publier ici, garde-le privé.",
+  "ru": "Скопируйте сейчас: он больше не будет показан. Любой, у кого он есть, может писать здесь, так что храните его в тайне.",
+  "zh-Hans": "请立即复制：之后不会再显示。任何拿到它的人都可以在此发帖，请妥善保密。"
+ },
+ "Copy secret": {
+  "ar": "نسخ السر",
+  "de": "Geheimnis kopieren",
+  "es": "Copiar secreto",
+  "fr": "Copier le secret",
+  "ru": "Копировать секрет",
+  "zh-Hans": "复制密钥"
+ },
+ "Copyright or trademark": {
+  "ar": "حقوق النشر أو العلامة التجارية",
+  "de": "Urheberrecht oder Marke",
+  "es": "Derechos de autor o marca",
+  "fr": "Droit d'auteur ou marque",
+  "ru": "Авторское право или товарный знак",
+  "zh-Hans": "版权或商标"
+ },
+ "Corner radius": {
+  "ar": "انحناء الزوايا",
+  "de": "Eckenradius",
+  "es": "Radio de esquina",
+  "fr": "Rayon des coins",
+  "ru": "Радиус углов",
+  "zh-Hans": "圆角半径"
+ },
+ "Couldn't load the bots.": {
+  "ar": "تعذّر تحميل البوتات.",
+  "de": "Die Bots konnten nicht geladen werden.",
+  "es": "No se pudieron cargar los bots.",
+  "fr": "Impossible de charger les bots.",
+  "ru": "Не удалось загрузить ботов.",
+  "zh-Hans": "无法加载机器人。"
+ },
+ "Counters": {
+  "ar": "عدّادات",
+  "de": "Zähler",
+  "es": "Contadores",
+  "fr": "Compteurs",
+  "ru": "Счётчики",
+  "zh-Hans": "计数器"
+ },
+ "Countries": {
+  "ar": "الدول",
+  "de": "Länder",
+  "es": "Países",
+  "fr": "Pays",
+  "ru": "Страны",
+  "zh-Hans": "国家"
+ },
+ "Create one above.": {
+  "ar": "أنشئ واحدًا أعلاه.",
+  "de": "Erstelle oben einen.",
+  "es": "Crea uno arriba.",
+  "fr": "Crée-en un ci-dessus.",
+  "ru": "Создайте его выше.",
+  "zh-Hans": "请在上方创建一个。"
+ },
+ "Create webhook": {
+  "ar": "إنشاء ويب هوك",
+  "de": "Webhook erstellen",
+  "es": "Crear webhook",
+  "fr": "Créer un webhook",
+  "ru": "Создать вебхук",
+  "zh-Hans": "创建 Webhook"
+ },
+ "Created by {creator} on {made}. Not used yet.": {
+  "ar": "أنشأه {creator} في {made}. لم يُستخدم بعد.",
+  "de": "Erstellt von {creator} am {made}. Noch nicht verwendet.",
+  "es": "Creado por {creator} el {made}. Aún sin usar.",
+  "fr": "Créé par {creator} le {made}. Pas encore utilisé.",
+  "ru": "Создал {creator}, {made}. Ещё не использовался.",
+  "zh-Hans": "由 {creator} 于 {made} 创建。尚未使用。"
+ },
+ "Creator": {
+  "ar": "صانع محتوى",
+  "de": "Creator",
+  "es": "Creador",
+  "fr": "Créateur",
+  "ru": "Создатель",
+  "zh-Hans": "创作者"
+ },
+ "Creator access paused": {
+  "ar": "وصول صانع المحتوى متوقف مؤقتًا",
+  "de": "Creator-Zugang pausiert",
+  "es": "Acceso de creador en pausa",
+  "fr": "Accès créateur suspendu",
+  "ru": "Доступ создателя приостановлен",
+  "zh-Hans": "创作者权限已暂停"
+ },
+ "Creator program": {
+  "ar": "برنامج صنّاع المحتوى",
+  "de": "Creator-Programm",
+  "es": "Programa de creadores",
+  "fr": "Programme créateurs",
+  "ru": "Программа создателей",
+  "zh-Hans": "创作者计划"
+ },
+ "Creators make profile designs and decorations. The Zrzur team invites creators; making bots is separate and never needs this.": {
+  "ar": "يصنع المبدعون تصاميم الملفات الشخصية والزينة. فريق زرزور يدعو المبدعين؛ صناعة البوتات أمر منفصل ولا تحتاج إلى هذا.",
+  "de": "Creator gestalten Profildesigns und Dekorationen. Das Zrzur-Team lädt Creator ein; Bots zu bauen ist etwas anderes und braucht das nie.",
+  "es": "Los creadores hacen diseños de perfil y decoraciones. El equipo de Zrzur invita a los creadores; crear bots es algo aparte y nunca lo requiere.",
+  "fr": "Les créateurs font des designs de profil et des décorations. L'équipe Zrzur invite les créateurs ; créer des bots est distinct et n'en a jamais besoin.",
+  "ru": "Создатели делают оформления профилей и украшения. Создателей приглашает команда Zrzur; создание ботов — отдельное дело и этого не требует.",
+  "zh-Hans": "创作者制作资料设计和装饰。Zrzur 团队邀请创作者；制作机器人是另一回事，无需此资格。"
+ },
+ "Crown of light": {
+  "ar": "تاج من نور",
+  "de": "Krone aus Licht",
+  "es": "Corona de luz",
+  "fr": "Couronne de lumière",
+  "ru": "Корона света",
+  "zh-Hans": "光之冠"
+ },
+ "Crystal shards": {
+  "ar": "شظايا بلورية",
+  "de": "Kristallsplitter",
+  "es": "Fragmentos de cristal",
+  "fr": "Éclats de cristal",
+  "ru": "Осколки кристалла",
+  "zh-Hans": "水晶碎片"
+ },
+ "Current password": {
+  "ar": "كلمة المرور الحالية",
+  "de": "Aktuelles Passwort",
+  "es": "Contraseña actual",
+  "fr": "Mot de passe actuel",
+  "ru": "Текущий пароль",
+  "zh-Hans": "当前密码"
+ },
+ "Custom invite link": {
+  "ar": "رابط دعوة مخصص",
+  "de": "Eigener Einladungslink",
+  "es": "Enlace de invitación personalizado",
+  "fr": "Lien d'invitation personnalisé",
+  "ru": "Свой пригласительный адрес",
+  "zh-Hans": "自定义邀请链接"
+ },
+ "Custom invite link zrzur.cc/your-name": {
+  "ar": "رابط دعوة مخصص zrzur.cc/your-name",
+  "de": "Eigener Einladungslink zrzur.cc/your-name",
+  "es": "Enlace de invitación personalizado zrzur.cc/your-name",
+  "fr": "Lien d'invitation personnalisé zrzur.cc/your-name",
+  "ru": "Свой пригласительный адрес zrzur.cc/your-name",
+  "zh-Hans": "自定义邀请链接 zrzur.cc/your-name"
+ },
+ "Dandelion seeds": {
+  "ar": "بذور الهندباء",
+  "de": "Pusteblumensamen",
+  "es": "Semillas de diente de león",
+  "fr": "Graines de pissenlit",
+  "ru": "Семена одуванчика",
+  "zh-Hans": "蒲公英种子"
+ },
+ "Date and time": {
+  "ar": "التاريخ والوقت",
+  "de": "Datum und Uhrzeit",
+  "es": "Fecha y hora",
+  "fr": "Date et heure",
+  "ru": "Дата и время",
+  "zh-Hans": "日期和时间"
+ }
+}

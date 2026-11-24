@@ -1,0 +1,11 @@
+{
+  "Choose a password": { "es": "Elige una contraseña", "fr": "Choisissez un mot de passe", "ru": "Придумайте пароль", "zh-Hans": "设置密码" },
+  "Hide details": { "es": "Ocultar detalles", "fr": "Masquer les détails", "ru": "Скрыть подробности", "zh-Hans": "隐藏详情" },
+  "Save and continue": { "es": "Guardar y continuar", "fr": "Enregistrer et continuer", "ru": "Сохранить и продолжить", "zh-Hans": "保存并继续" },
+  "Servers, channels and messages come to the phone app next.": { "es": "Los servidores, canales y mensajes llegan pronto a la app del móvil.", "fr": "Les serveurs, salons et messages arrivent bientôt dans l'app mobile.", "ru": "Серверы, каналы и сообщения скоро появятся в мобильном приложении.", "zh-Hans": "服务器、频道和消息即将加入手机应用。" },
+  "Signed in as": { "es": "Sesión iniciada como", "fr": "Connecté en tant que", "ru": "Вы вошли как", "zh-Hans": "当前登录" },
+  "Usernames take letters, digits and _ . - only, with no spaces or vowel marks.": { "es": "Los nombres de usuario solo admiten letras, números y _ . -, sin espacios ni signos vocálicos.", "fr": "Les noms d'utilisateur n'acceptent que des lettres, des chiffres et _ . -, sans espaces ni signes vocaliques.", "ru": "Имя пользователя может содержать только буквы, цифры и _ . -, без пробелов и огласовок.", "zh-Hans": "用户名只能包含字母、数字和 _ . -，不能有空格或元音符号。" },
+  "Your email is confirmed once you choose a password. You'll use it to log in on other devices.": { "es": "Tu correo queda confirmado cuando eliges una contraseña. La usarás para iniciar sesión en otros dispositivos.", "fr": "Votre e-mail est confirmé dès que vous choisissez un mot de passe. Il vous servira à vous connecter sur d'autres appareils.", "ru": "Почта подтверждается, как только вы придумаете пароль. Он понадобится для входа на других устройствах.", "zh-Hans": "设置密码后即可确认你的邮箱。在其他设备上登录时需要使用该密码。" },
+  "Zrzur for {platform}": { "es": "Zrzur para {platform}", "fr": "Zrzur pour {platform}", "ru": "Zrzur для {platform}", "zh-Hans": "Zrzur {platform} 版" },
+  "Zrzur for {platform} ({device})": { "es": "Zrzur para {platform} ({device})", "fr": "Zrzur pour {platform} ({device})", "ru": "Zrzur для {platform} ({device})", "zh-Hans": "Zrzur {platform} 版（{device}）" }
+}

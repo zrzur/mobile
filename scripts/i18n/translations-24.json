@@ -1,0 +1,1138 @@
+{
+  "Smileys & people": {
+    "ar": "الوجوه والأشخاص",
+    "de": "Smileys & Personen",
+    "es": "Emoticonos y personas",
+    "fr": "Smileys et personnes",
+    "ru": "Смайлики и люди",
+    "zh-Hans": "表情与人物"
+  },
+  "Someone may be at risk": {
+    "ar": "قد يكون شخص ما في خطر",
+    "de": "Jemand könnte gefährdet sein",
+    "es": "Alguien podría estar en peligro",
+    "fr": "Quelqu'un est peut-être en danger",
+    "ru": "Кому-то может грозить опасность",
+    "zh-Hans": "有人可能处于危险中"
+  },
+  "Someone's address, documents or private images without consent": {
+    "ar": "عنوان شخص أو مستنداته أو صوره الخاصة دون موافقته",
+    "de": "Adresse, Dokumente oder private Bilder einer Person ohne Einverständnis",
+    "es": "La dirección, los documentos o las imágenes privadas de alguien sin su consentimiento",
+    "fr": "L'adresse, les documents ou les images privées de quelqu'un sans son accord",
+    "ru": "Адрес, документы или личные фото человека без его согласия",
+    "zh-Hans": "未经同意公开他人的地址、证件或私密图片"
+  },
+  "Sort results": {
+    "ar": "ترتيب النتائج",
+    "de": "Ergebnisse sortieren",
+    "es": "Ordenar resultados",
+    "fr": "Trier les résultats",
+    "ru": "Сортировать результаты",
+    "zh-Hans": "排序结果"
+  },
+  "Speaker": {
+    "ar": "مكبّر الصوت",
+    "de": "Lautsprecher",
+    "es": "Altavoz",
+    "fr": "Haut-parleur",
+    "ru": "Динамик",
+    "zh-Hans": "扬声器"
+  },
+  "Start a thread": {
+    "ar": "ابدأ خيطًا",
+    "de": "Thread starten",
+    "es": "Iniciar un hilo",
+    "fr": "Lancer un fil",
+    "ru": "Начать ветку",
+    "zh-Hans": "发起子区"
+  },
+  "Start thread": {
+    "ar": "بدء الخيط",
+    "de": "Thread starten",
+    "es": "Iniciar hilo",
+    "fr": "Lancer le fil",
+    "ru": "Начать ветку",
+    "zh-Hans": "发起子区"
+  },
+  "Starting the microphone…": {
+    "ar": "جارٍ تشغيل الميكروفون…",
+    "de": "Mikrofon wird gestartet …",
+    "es": "Iniciando el micrófono…",
+    "fr": "Démarrage du micro…",
+    "ru": "Включаем микрофон…",
+    "zh-Hans": "正在启动麦克风…"
+  },
+  "Suicide": {
+    "ar": "الانتحار",
+    "de": "Suizid",
+    "es": "Suicidio",
+    "fr": "Suicide",
+    "ru": "Суицид",
+    "zh-Hans": "自杀"
+  },
+  "Symbols": {
+    "ar": "الرموز",
+    "de": "Symbole",
+    "es": "Símbolos",
+    "fr": "Symboles",
+    "ru": "Символы",
+    "zh-Hans": "符号"
+  },
+  "Tags (choose at least one)": {
+    "ar": "الوسوم (اختر وسمًا واحدًا على الأقل)",
+    "de": "Tags (mindestens eins wählen)",
+    "es": "Etiquetas (elige al menos una)",
+    "fr": "Tags (choisissez-en au moins un)",
+    "ru": "Теги (выберите хотя бы один)",
+    "zh-Hans": "标签（至少选择一个）"
+  },
+  "Targeted at me or someone else": {
+    "ar": "موجَّه إليّ أو إلى شخص آخر",
+    "de": "Gegen mich oder jemand anderen gerichtet",
+    "es": "Dirigido a mí o a otra persona",
+    "fr": "Visant moi ou quelqu'un d'autre",
+    "ru": "Направлено против меня или другого человека",
+    "zh-Hans": "针对我或其他人"
+  },
+  "Tell us what's wrong in your own words": {
+    "ar": "أخبرنا بما حدث بكلماتك",
+    "de": "Beschreibe in eigenen Worten, was los ist",
+    "es": "Cuéntanos qué pasa con tus propias palabras",
+    "fr": "Dites-nous ce qui ne va pas avec vos propres mots",
+    "ru": "Расскажите своими словами, что не так",
+    "zh-Hans": "请用你自己的话告诉我们哪里有问题"
+  },
+  "Thanks. Your report was sent to Zrzur Trust & Safety.": {
+    "ar": "شكرًا لك. تم إرسال بلاغك إلى فريق الثقة والسلامة في زرزور.",
+    "de": "Danke. Deine Meldung wurde an das Trust-&-Safety-Team von Zrzur gesendet.",
+    "es": "Gracias. Tu denuncia se envió al equipo de Confianza y Seguridad de Zrzur.",
+    "fr": "Merci. Votre signalement a été envoyé à l'équipe Confiance et sécurité de Zrzur.",
+    "ru": "Спасибо. Ваша жалоба отправлена в службу доверия и безопасности Zrzur.",
+    "zh-Hans": "谢谢。你的举报已提交给 Zrzur 信任与安全团队。"
+  },
+  "That member is not in a voice channel.": {
+    "ar": "هذا العضو ليس في قناة صوتية.",
+    "de": "Dieses Mitglied ist in keinem Sprachkanal.",
+    "es": "Ese miembro no está en un canal de voz.",
+    "fr": "Ce membre n'est pas dans un salon vocal.",
+    "ru": "Этот участник не в голосовом канале.",
+    "zh-Hans": "该成员不在语音频道中。"
+  },
+  "That member's role is too high.": {
+    "ar": "دور هذا العضو أعلى من اللازم.",
+    "de": "Die Rolle dieses Mitglieds ist zu hoch.",
+    "es": "El rol de ese miembro es demasiado alto.",
+    "fr": "Le rôle de ce membre est trop élevé.",
+    "ru": "Роль этого участника слишком высока.",
+    "zh-Hans": "该成员的角色等级过高。"
+  },
+  "That voice channel is no longer available.": {
+    "ar": "هذه القناة الصوتية لم تعد متاحة.",
+    "de": "Dieser Sprachkanal ist nicht mehr verfügbar.",
+    "es": "Ese canal de voz ya no está disponible.",
+    "fr": "Ce salon vocal n'est plus disponible.",
+    "ru": "Этот голосовой канал больше недоступен.",
+    "zh-Hans": "该语音频道已不可用。"
+  },
+  "The GIF service couldn't be reached. Please try again.": {
+    "ar": "تعذّر الوصول إلى خدمة GIF. حاول مرة أخرى.",
+    "de": "Der GIF-Dienst ist nicht erreichbar. Versuch es bitte nochmal.",
+    "es": "No se pudo conectar con el servicio de GIF. Inténtalo de nuevo.",
+    "fr": "Impossible de joindre le service de GIF. Réessayez.",
+    "ru": "Не удалось связаться с сервисом GIF. Попробуйте ещё раз.",
+    "zh-Hans": "无法连接到 GIF 服务，请重试。"
+  },
+  "The month and year of birth on this account are below the minimum age for Zrzur. Content marked as mature is closed, and our team may review the account. If the date is wrong, write to privacy@zrzur.com.": {
+    "ar": "شهر وسنة الميلاد في هذا الحساب أقل من الحد الأدنى للعمر في زرزور. المحتوى المصنَّف للبالغين مغلق، وقد يراجع فريقنا الحساب. إذا كان التاريخ خاطئًا، راسل privacy@zrzur.com.",
+    "de": "Monat und Jahr der Geburt in diesem Konto liegen unter dem Mindestalter für Zrzur. Inhalte für Erwachsene sind gesperrt, und unser Team prüft das Konto eventuell. Wenn das Datum falsch ist, schreib an privacy@zrzur.com.",
+    "es": "El mes y el año de nacimiento de esta cuenta están por debajo de la edad mínima para Zrzur. El contenido para adultos está cerrado y nuestro equipo podría revisar la cuenta. Si la fecha es incorrecta, escribe a privacy@zrzur.com.",
+    "fr": "Le mois et l'année de naissance de ce compte sont en dessous de l'âge minimum pour Zrzur. Les contenus pour adultes sont fermés et notre équipe peut examiner le compte. Si la date est erronée, écrivez à privacy@zrzur.com.",
+    "ru": "Месяц и год рождения в этом аккаунте ниже минимального возраста для Zrzur. Контент для взрослых закрыт, а наша команда может проверить аккаунт. Если дата указана неверно, напишите на privacy@zrzur.com.",
+    "zh-Hans": "此账号的出生年月低于 Zrzur 的最低年龄要求。成人内容已关闭，我们的团队可能会审核该账号。如果日期有误，请写信至 privacy@zrzur.com。"
+  },
+  "The reasons couldn't be loaded.": {
+    "ar": "تعذّر تحميل الأسباب.",
+    "de": "Die Gründe konnten nicht geladen werden.",
+    "es": "No se pudieron cargar los motivos.",
+    "fr": "Impossible de charger les motifs.",
+    "ru": "Не удалось загрузить причины.",
+    "zh-Hans": "无法加载举报原因。"
+  },
+  "The server could not apply this voice change. Check the participant state before retrying.": {
+    "ar": "تعذّر على السيرفر تطبيق هذا التغيير الصوتي. تحقق من حالة المشارك قبل إعادة المحاولة.",
+    "de": "Der Server konnte diese Sprachänderung nicht anwenden. Prüfe den Status des Teilnehmers, bevor du es erneut versuchst.",
+    "es": "El servidor no pudo aplicar este cambio de voz. Revisa el estado del participante antes de reintentar.",
+    "fr": "Le serveur n'a pas pu appliquer ce changement vocal. Vérifiez l'état du participant avant de réessayer.",
+    "ru": "Сервер не смог применить это изменение голоса. Проверьте состояние участника, прежде чем повторить.",
+    "zh-Hans": "服务器无法应用此语音更改。重试前请检查参与者状态。"
+  },
+  "The server has not confirmed the voice change. Check the participant state before retrying.": {
+    "ar": "لم يؤكد السيرفر التغيير الصوتي. تحقق من حالة المشارك قبل إعادة المحاولة.",
+    "de": "Der Server hat die Sprachänderung nicht bestätigt. Prüfe den Status des Teilnehmers, bevor du es erneut versuchst.",
+    "es": "El servidor no ha confirmado el cambio de voz. Revisa el estado del participante antes de reintentar.",
+    "fr": "Le serveur n'a pas confirmé le changement vocal. Vérifiez l'état du participant avant de réessayer.",
+    "ru": "Сервер не подтвердил изменение голоса. Проверьте состояние участника, прежде чем повторить.",
+    "zh-Hans": "服务器尚未确认此语音更改。重试前请检查参与者状态。"
+  },
+  "The user appears to be too young for Zrzur": {
+    "ar": "يبدو أن المستخدم أصغر من السن المسموح به في زرزور",
+    "de": "Die Person scheint zu jung für Zrzur zu sein",
+    "es": "El usuario parece demasiado joven para Zrzur",
+    "fr": "L'utilisateur semble trop jeune pour Zrzur",
+    "ru": "Пользователь, похоже, слишком молод для Zrzur",
+    "zh-Hans": "该用户似乎未达到使用 Zrzur 的年龄"
+  },
+  "This address uses special characters that can imitate another site's name. Check it carefully before you continue.": {
+    "ar": "يستخدم هذا العنوان رموزًا خاصة قد تحاكي اسم موقع آخر. تحقق منه جيدًا قبل المتابعة.",
+    "de": "Diese Adresse enthält Sonderzeichen, die den Namen einer anderen Seite nachahmen können. Prüfe sie genau, bevor du fortfährst.",
+    "es": "Esta dirección usa caracteres especiales que pueden imitar el nombre de otro sitio. Revísala con cuidado antes de continuar.",
+    "fr": "Cette adresse utilise des caractères spéciaux qui peuvent imiter le nom d'un autre site. Vérifiez-la bien avant de continuer.",
+    "ru": "В этом адресе есть специальные символы, которые могут имитировать название другого сайта. Внимательно проверьте его, прежде чем продолжить.",
+    "zh-Hans": "此地址使用了可能冒充其他网站名称的特殊字符。继续之前请仔细核对。"
+  },
+  "This can't be reported. It may have been deleted, or you can't see it any more.": {
+    "ar": "لا يمكن الإبلاغ عن هذا. ربما حُذف، أو لم يعد بإمكانك رؤيته.",
+    "de": "Das kann nicht gemeldet werden. Es wurde vielleicht gelöscht oder du kannst es nicht mehr sehen.",
+    "es": "Esto no se puede denunciar. Puede que se haya eliminado o que ya no puedas verlo.",
+    "fr": "Impossible de le signaler. Il a peut-être été supprimé ou vous ne pouvez plus le voir.",
+    "ru": "На это нельзя пожаловаться. Возможно, оно удалено или вам больше не видно.",
+    "zh-Hans": "无法举报此内容。它可能已被删除，或者你已无法查看。"
+  },
+  "This channel is marked as mature and is only open to adults.": {
+    "ar": "هذه القناة مصنَّفة للبالغين ومفتوحة للبالغين فقط.",
+    "de": "Dieser Kanal ist als Inhalt für Erwachsene markiert und nur für Erwachsene zugänglich.",
+    "es": "Este canal está marcado como para adultos y solo está abierto a mayores de edad.",
+    "fr": "Ce salon est marqué comme pour adultes et n'est ouvert qu'aux adultes.",
+    "ru": "Этот канал помечен как контент для взрослых и доступен только совершеннолетним.",
+    "zh-Hans": "此频道已标记为成人内容，仅限成年人进入。"
+  },
+  "This channel is marked as mature. Add your month and year of birth to open it.": {
+    "ar": "هذه القناة مصنَّفة للبالغين. أضف شهر وسنة ميلادك لفتحها.",
+    "de": "Dieser Kanal ist als Inhalt für Erwachsene markiert. Gib Monat und Jahr deiner Geburt an, um ihn zu öffnen.",
+    "es": "Este canal está marcado como para adultos. Añade tu mes y año de nacimiento para abrirlo.",
+    "fr": "Ce salon est marqué comme pour adultes. Ajoutez votre mois et année de naissance pour l'ouvrir.",
+    "ru": "Этот канал помечен как контент для взрослых. Укажите месяц и год рождения, чтобы открыть его.",
+    "zh-Hans": "此频道已标记为成人内容。添加你的出生年月即可打开。"
+  },
+  "This channel is marked as mature. It may show content that is not suitable for everyone.": {
+    "ar": "هذه القناة مصنَّفة للبالغين. قد تعرض محتوى غير مناسب للجميع.",
+    "de": "Dieser Kanal ist als Inhalt für Erwachsene markiert. Er kann Inhalte zeigen, die nicht für alle geeignet sind.",
+    "es": "Este canal está marcado como para adultos. Puede mostrar contenido que no es apto para todos.",
+    "fr": "Ce salon est marqué comme pour adultes. Il peut afficher du contenu qui ne convient pas à tout le monde.",
+    "ru": "Этот канал помечен как контент для взрослых. В нём может быть материал, подходящий не всем.",
+    "zh-Hans": "此频道已标记为成人内容，可能包含不适合所有人的内容。"
+  },
+  "This is an official Zrzur account. It can't be added.": {
+    "ar": "هذا حساب رسمي لزرزور. لا يمكن إضافته.",
+    "de": "Das ist ein offizielles Zrzur-Konto. Es kann nicht hinzugefügt werden.",
+    "es": "Esta es una cuenta oficial de Zrzur. No se puede añadir.",
+    "fr": "Ceci est un compte officiel de Zrzur. Il ne peut pas être ajouté.",
+    "ru": "Это официальный аккаунт Zrzur. Его нельзя добавить.",
+    "zh-Hans": "这是 Zrzur 官方账号，无法添加。"
+  },
+  "This site doesn't use a secure connection (no HTTPS). Others on your network could see or change what you send.": {
+    "ar": "لا يستخدم هذا الموقع اتصالًا آمنًا (بدون HTTPS). قد يتمكن آخرون على شبكتك من رؤية ما ترسله أو تغييره.",
+    "de": "Diese Seite nutzt keine sichere Verbindung (kein HTTPS). Andere in deinem Netzwerk könnten sehen oder ändern, was du sendest.",
+    "es": "Este sitio no usa una conexión segura (sin HTTPS). Otras personas de tu red podrían ver o cambiar lo que envías.",
+    "fr": "Ce site n'utilise pas de connexion sécurisée (pas de HTTPS). D'autres personnes sur votre réseau pourraient voir ou modifier ce que vous envoyez.",
+    "ru": "Этот сайт не использует защищённое соединение (нет HTTPS). Другие пользователи вашей сети могут увидеть или изменить то, что вы отправляете.",
+    "zh-Hans": "此网站未使用安全连接（无 HTTPS）。同一网络中的其他人可能看到或篡改你发送的内容。"
+  },
+  "This thread is archived. A new message reopens it.": {
+    "ar": "هذا الخيط مؤرشف. رسالة جديدة ستعيد فتحه.",
+    "de": "Dieser Thread ist archiviert. Eine neue Nachricht öffnet ihn wieder.",
+    "es": "Este hilo está archivado. Un mensaje nuevo lo reabre.",
+    "fr": "Ce fil est archivé. Un nouveau message le rouvre.",
+    "ru": "Эта ветка в архиве. Новое сообщение снова откроет её.",
+    "zh-Hans": "此子区已归档。发送新消息会重新打开它。"
+  },
+  "This thread is locked. Only moderators can write.": {
+    "ar": "هذا الخيط مقفل. المشرفون فقط يمكنهم الكتابة.",
+    "de": "Dieser Thread ist gesperrt. Nur Moderatoren können schreiben.",
+    "es": "Este hilo está bloqueado. Solo los moderadores pueden escribir.",
+    "fr": "Ce fil est verrouillé. Seuls les modérateurs peuvent écrire.",
+    "ru": "Эта ветка закрыта. Писать могут только модераторы.",
+    "zh-Hans": "此子区已锁定，仅管理员可以发言。"
+  },
+  "This voice channel is full.": {
+    "ar": "هذه القناة الصوتية ممتلئة.",
+    "de": "Dieser Sprachkanal ist voll.",
+    "es": "Este canal de voz está lleno.",
+    "fr": "Ce salon vocal est plein.",
+    "ru": "Этот голосовой канал заполнен.",
+    "zh-Hans": "该语音频道已满。"
+  },
+  "Thread name": {
+    "ar": "اسم الخيط",
+    "de": "Thread-Name",
+    "es": "Nombre del hilo",
+    "fr": "Nom du fil",
+    "ru": "Название ветки",
+    "zh-Hans": "子区名称"
+  },
+  "Threads are off in this server. This thread can only be read.": {
+    "ar": "الخيوط معطّلة في هذا السيرفر. يمكن قراءة هذا الخيط فقط.",
+    "de": "Threads sind auf diesem Server deaktiviert. Dieser Thread kann nur gelesen werden.",
+    "es": "Los hilos están desactivados en este servidor. Este hilo solo se puede leer.",
+    "fr": "Les fils sont désactivés sur ce serveur. Ce fil est en lecture seule.",
+    "ru": "Ветки на этом сервере отключены. Эту ветку можно только читать.",
+    "zh-Hans": "此服务器已关闭子区功能。该子区只能阅读。"
+  },
+  "Threads are off in this server. You can still read the ones it has.": {
+    "ar": "الخيوط معطّلة في هذا السيرفر. لا يزال بإمكانك قراءة الموجودة.",
+    "de": "Threads sind auf diesem Server deaktiviert. Vorhandene kannst du weiterhin lesen.",
+    "es": "Los hilos están desactivados en este servidor. Aún puedes leer los que tiene.",
+    "fr": "Les fils sont désactivés sur ce serveur. Vous pouvez toujours lire ceux qui existent.",
+    "ru": "Ветки на этом сервере отключены. Существующие можно по-прежнему читать.",
+    "zh-Hans": "此服务器已关闭子区功能。你仍可阅读已有的子区。"
+  },
+  "Threads couldn't be loaded.": {
+    "ar": "تعذّر تحميل الخيوط.",
+    "de": "Threads konnten nicht geladen werden.",
+    "es": "No se pudieron cargar los hilos.",
+    "fr": "Impossible de charger les fils.",
+    "ru": "Не удалось загрузить ветки.",
+    "zh-Hans": "无法加载子区。"
+  },
+  "Threat of violence": {
+    "ar": "التهديد بالعنف",
+    "de": "Gewaltandrohung",
+    "es": "Amenaza de violencia",
+    "fr": "Menace de violence",
+    "ru": "Угроза насилия",
+    "zh-Hans": "暴力威胁"
+  },
+  "Title": {
+    "ar": "العنوان",
+    "de": "Titel",
+    "es": "Título",
+    "fr": "Titre",
+    "ru": "Заголовок",
+    "zh-Hans": "标题"
+  },
+  "Too long": {
+    "ar": "طويل جدًا",
+    "de": "Zu lang",
+    "es": "Demasiado largo",
+    "fr": "Trop long",
+    "ru": "Слишком длинно",
+    "zh-Hans": "太长"
+  },
+  "Too many actions. Wait a moment and try again.": {
+    "ar": "إجراءات كثيرة جدًا. انتظر قليلًا ثم حاول مرة أخرى.",
+    "de": "Zu viele Aktionen. Warte einen Moment und versuch es erneut.",
+    "es": "Demasiadas acciones. Espera un momento e inténtalo de nuevo.",
+    "fr": "Trop d'actions. Patientez un instant et réessayez.",
+    "ru": "Слишком много действий. Подождите немного и повторите.",
+    "zh-Hans": "操作过多。请稍等片刻后重试。"
+  },
+  "Trademark": {
+    "ar": "العلامة التجارية",
+    "de": "Marke",
+    "es": "Marca registrada",
+    "fr": "Marque",
+    "ru": "Товарный знак",
+    "zh-Hans": "商标"
+  },
+  "Travel & places": {
+    "ar": "السفر والأماكن",
+    "de": "Reisen & Orte",
+    "es": "Viajes y lugares",
+    "fr": "Voyages et lieux",
+    "ru": "Путешествия и места",
+    "zh-Hans": "旅行与地点"
+  },
+  "Try a different word or explore the categories.": {
+    "ar": "جرّب كلمة أخرى أو تصفّح الفئات.",
+    "de": "Probier ein anderes Wort oder stöbere in den Kategorien.",
+    "es": "Prueba otra palabra o explora las categorías.",
+    "fr": "Essayez un autre mot ou parcourez les catégories.",
+    "ru": "Попробуйте другое слово или откройте категории.",
+    "zh-Hans": "换个词试试，或浏览分类。"
+  },
+  "Try another search.": {
+    "ar": "جرّب بحثًا آخر.",
+    "de": "Versuch eine andere Suche.",
+    "es": "Prueba otra búsqueda.",
+    "fr": "Essayez une autre recherche.",
+    "ru": "Попробуйте другой запрос.",
+    "zh-Hans": "换个搜索词试试。"
+  },
+  "Unlock thread": {
+    "ar": "فتح قفل الخيط",
+    "de": "Thread entsperren",
+    "es": "Desbloquear hilo",
+    "fr": "Déverrouiller le fil",
+    "ru": "Разблокировать ветку",
+    "zh-Hans": "解锁子区"
+  },
+  "Unmute channel": {
+    "ar": "إلغاء كتم القناة",
+    "de": "Kanal-Stummschaltung aufheben",
+    "es": "Dejar de silenciar el canal",
+    "fr": "Réactiver le son du salon",
+    "ru": "Включить звук канала",
+    "zh-Hans": "取消频道静音"
+  },
+  "Unmute server": {
+    "ar": "إلغاء كتم السيرفر",
+    "de": "Server-Stummschaltung aufheben",
+    "es": "Dejar de silenciar el servidor",
+    "fr": "Réactiver le son du serveur",
+    "ru": "Включить звук сервера",
+    "zh-Hans": "取消服务器静音"
+  },
+  "Unsolicited ads": {
+    "ar": "إعلانات غير مرغوب فيها",
+    "de": "Unerwünschte Werbung",
+    "es": "Anuncios no solicitados",
+    "fr": "Publicités non sollicitées",
+    "ru": "Нежелательная реклама",
+    "zh-Hans": "未经请求的广告"
+  },
+  "Unwanted ads, mass mentions or fake engagement": {
+    "ar": "إعلانات غير مرغوبة أو إشارات جماعية أو تفاعل مزيّف",
+    "de": "Unerwünschte Werbung, Massenerwähnungen oder gefälschte Interaktionen",
+    "es": "Anuncios no deseados, menciones masivas o interacción falsa",
+    "fr": "Publicités indésirables, mentions de masse ou fausse interaction",
+    "ru": "Нежелательная реклама, массовые упоминания или накрутка",
+    "zh-Hans": "不想要的广告、批量提及或虚假互动"
+  },
+  "Unwanted contact": {
+    "ar": "تواصل غير مرغوب فيه",
+    "de": "Unerwünschter Kontakt",
+    "es": "Contacto no deseado",
+    "fr": "Contact non désiré",
+    "ru": "Нежелательный контакт",
+    "zh-Hans": "不想要的联系"
+  },
+  "Unwanted sexual content": {
+    "ar": "محتوى جنسي غير مرغوب فيه",
+    "de": "Unerwünschte sexuelle Inhalte",
+    "es": "Contenido sexual no deseado",
+    "fr": "Contenu sexuel non désiré",
+    "ru": "Нежелательный сексуальный контент",
+    "zh-Hans": "不想要的性内容"
+  },
+  "Unwanted sexual content, or anything involving a minor": {
+    "ar": "محتوى جنسي غير مرغوب فيه، أو أي شيء يتعلق بقاصر",
+    "de": "Unerwünschte sexuelle Inhalte oder alles, was Minderjährige betrifft",
+    "es": "Contenido sexual no deseado o cualquier cosa que involucre a un menor",
+    "fr": "Contenu sexuel non désiré, ou tout ce qui implique un mineur",
+    "ru": "Нежелательный сексуальный контент или всё, что связано с несовершеннолетними",
+    "zh-Hans": "不想要的性内容，或任何涉及未成年人的内容"
+  },
+  "Violent extremism": {
+    "ar": "التطرف العنيف",
+    "de": "Gewalttätiger Extremismus",
+    "es": "Extremismo violento",
+    "fr": "Extrémisme violent",
+    "ru": "Насильственный экстремизм",
+    "zh-Hans": "暴力极端主义"
+  },
+  "Voice channel": {
+    "ar": "قناة صوتية",
+    "de": "Sprachkanal",
+    "es": "Canal de voz",
+    "fr": "Salon vocal",
+    "ru": "Голосовой канал",
+    "zh-Hans": "语音频道"
+  },
+  "Voice connection failed. Check your connection and try again.": {
+    "ar": "فشل الاتصال الصوتي. تحقق من اتصالك وحاول مرة أخرى.",
+    "de": "Sprachverbindung fehlgeschlagen. Prüfe deine Verbindung und versuch es erneut.",
+    "es": "Falló la conexión de voz. Revisa tu conexión e inténtalo de nuevo.",
+    "fr": "Échec de la connexion vocale. Vérifiez votre connexion et réessayez.",
+    "ru": "Не удалось подключиться к голосу. Проверьте соединение и повторите.",
+    "zh-Hans": "语音连接失败。请检查网络后重试。"
+  },
+  "Voice isn't available right now. Try again later.": {
+    "ar": "الصوت غير متاح حاليًا. حاول لاحقًا.",
+    "de": "Sprache ist gerade nicht verfügbar. Versuch es später nochmal.",
+    "es": "La voz no está disponible ahora. Inténtalo más tarde.",
+    "fr": "La voix n'est pas disponible pour le moment. Réessayez plus tard.",
+    "ru": "Голос сейчас недоступен. Попробуйте позже.",
+    "zh-Hans": "语音功能暂时不可用，请稍后再试。"
+  },
+  "Voice message": {
+    "ar": "رسالة صوتية",
+    "de": "Sprachnachricht",
+    "es": "Mensaje de voz",
+    "fr": "Message vocal",
+    "ru": "Голосовое сообщение",
+    "zh-Hans": "语音消息"
+  },
+  "Voice moderation": {
+    "ar": "الإشراف الصوتي",
+    "de": "Sprachmoderation",
+    "es": "Moderación de voz",
+    "fr": "Modération vocale",
+    "ru": "Модерация голоса",
+    "zh-Hans": "语音管理"
+  },
+  "Voice participant actions": {
+    "ar": "إجراءات المشاركين في الصوت",
+    "de": "Aktionen für Sprachteilnehmer",
+    "es": "Acciones de participantes de voz",
+    "fr": "Actions des participants vocaux",
+    "ru": "Действия с участниками голоса",
+    "zh-Hans": "语音参与者操作"
+  },
+  "Voice state updated.": {
+    "ar": "تم تحديث الحالة الصوتية.",
+    "de": "Sprachstatus aktualisiert.",
+    "es": "Estado de voz actualizado.",
+    "fr": "État vocal mis à jour.",
+    "ru": "Состояние голоса обновлено.",
+    "zh-Hans": "语音状态已更新。"
+  },
+  "Waiting for voice state…": {
+    "ar": "بانتظار الحالة الصوتية…",
+    "de": "Warte auf Sprachstatus …",
+    "es": "Esperando el estado de voz…",
+    "fr": "En attente de l'état vocal…",
+    "ru": "Ожидаем состояние голоса…",
+    "zh-Hans": "正在等待语音状态…"
+  },
+  "We automatically include the reported content and, for messages, a few messages around it. You don't need to describe anything graphic.": {
+    "ar": "نُرفق المحتوى المُبلَّغ عنه تلقائيًا، ومعه بعض الرسائل المحيطة به إن كان رسالة. لا حاجة لوصف أي شيء صادم.",
+    "de": "Wir fügen den gemeldeten Inhalt automatisch bei, bei Nachrichten auch einige Nachrichten davor und danach. Du musst nichts Drastisches beschreiben.",
+    "es": "Incluimos automáticamente el contenido denunciado y, si es un mensaje, algunos mensajes cercanos. No necesitas describir nada explícito.",
+    "fr": "Nous joignons automatiquement le contenu signalé et, pour les messages, quelques messages autour. Vous n'avez rien de choquant à décrire.",
+    "ru": "Мы автоматически добавим содержимое жалобы и, для сообщений, несколько сообщений рядом. Описывать что-либо шокирующее не нужно.",
+    "zh-Hans": "我们会自动附上被举报的内容，如果是消息，还会附上前后几条消息。你无需描述任何血腥或露骨的内容。"
+  },
+  "Welcome them in #{0}": {
+    "ar": "رحّب بهم في #{0}",
+    "de": "Begrüße sie in #{0}",
+    "es": "Dales la bienvenida en #{0}",
+    "fr": "Souhaitez-leur la bienvenue dans #{0}",
+    "ru": "Поприветствуйте их в #{0}",
+    "zh-Hans": "在 #{0} 欢迎他们"
+  },
+  "What happened? (required)": {
+    "ar": "ماذا حدث؟ (مطلوب)",
+    "de": "Was ist passiert? (erforderlich)",
+    "es": "¿Qué pasó? (obligatorio)",
+    "fr": "Que s'est-il passé ? (obligatoire)",
+    "ru": "Что произошло? (обязательно)",
+    "zh-Hans": "发生了什么？（必填）"
+  },
+  "What's the problem? Your report goes to Zrzur's Trust & Safety team, not to the server's moderators, and the reported person won't know it was you.": {
+    "ar": "ما المشكلة؟ يصل بلاغك إلى فريق الثقة والسلامة في زرزور وليس إلى مشرفي السيرفر، ولن يعرف الشخص المُبلَّغ عنه أنك أنت.",
+    "de": "Wo liegt das Problem? Deine Meldung geht an das Trust-&-Safety-Team von Zrzur, nicht an die Moderatoren des Servers, und die gemeldete Person erfährt nicht, dass du es warst.",
+    "es": "¿Cuál es el problema? Tu denuncia llega al equipo de Confianza y Seguridad de Zrzur, no a los moderadores del servidor, y la persona denunciada no sabrá que fuiste tú.",
+    "fr": "Quel est le problème ? Votre signalement va à l'équipe Confiance et sécurité de Zrzur, pas aux modérateurs du serveur, et la personne signalée ne saura pas que c'est vous.",
+    "ru": "В чём проблема? Жалоба уходит в службу доверия и безопасности Zrzur, а не модераторам сервера, и пользователь не узнает, что это были вы.",
+    "zh-Hans": "出了什么问题？你的举报会提交给 Zrzur 信任与安全团队，而不是服务器管理员，被举报的人不会知道是你。"
+  },
+  "When your friends come online, they show up here.": {
+    "ar": "عندما يتصل أصدقاؤك بالإنترنت، سيظهرون هنا.",
+    "de": "Wenn deine Freunde online kommen, erscheinen sie hier.",
+    "es": "Cuando tus amigos se conecten, aparecerán aquí.",
+    "fr": "Quand vos amis seront en ligne, ils apparaîtront ici.",
+    "ru": "Когда ваши друзья появятся в сети, они будут здесь.",
+    "zh-Hans": "好友上线后会显示在这里。"
+  },
+  "Where": {
+    "ar": "أين",
+    "de": "Wo",
+    "es": "Dónde",
+    "fr": "Où",
+    "ru": "Где",
+    "zh-Hans": "位置"
+  },
+  "Which describes it best?": {
+    "ar": "ما الذي يصفه بشكل أفضل؟",
+    "de": "Was beschreibt es am besten?",
+    "es": "¿Qué lo describe mejor?",
+    "fr": "Qu'est-ce qui le décrit le mieux ?",
+    "ru": "Что описывает это лучше всего?",
+    "zh-Hans": "哪一项最贴切？"
+  },
+  "Wings level {0}": {
+    "ar": "مستوى الأجنحة {0}",
+    "de": "Flügel-Stufe {0}",
+    "es": "Nivel de Alas {0}",
+    "fr": "Niveau d'Ailes {0}",
+    "ru": "Уровень Крыльев {0}",
+    "zh-Hans": "翅膀等级 {0}"
+  },
+  "You already reported this. Your earlier report is still being handled.": {
+    "ar": "لقد أبلغت عن هذا من قبل. لا يزال بلاغك السابق قيد المعالجة.",
+    "de": "Das hast du schon gemeldet. Deine frühere Meldung wird noch bearbeitet.",
+    "es": "Ya denunciaste esto. Tu denuncia anterior sigue en trámite.",
+    "fr": "Vous avez déjà signalé ceci. Votre signalement précédent est toujours en cours de traitement.",
+    "ru": "Вы уже пожаловались на это. Ваша прошлая жалоба ещё рассматривается.",
+    "zh-Hans": "你已举报过此内容。之前的举报仍在处理中。"
+  },
+  "You can follow it under Settings → Reports & standing.": {
+    "ar": "يمكنك متابعته من الإعدادات ← البلاغات والوضع.",
+    "de": "Du kannst es unter Einstellungen → Meldungen & Status verfolgen.",
+    "es": "Puedes seguirla en Ajustes → Denuncias y estado.",
+    "fr": "Vous pouvez la suivre dans Réglages → Signalements et statut.",
+    "ru": "Следить за ней можно в Настройки → Жалобы и статус.",
+    "zh-Hans": "你可以在 设置 → 举报与账号状态 中查看进度。"
+  },
+  "You can still send emoji in the meantime.": {
+    "ar": "لا يزال بإمكانك إرسال الإيموجي في هذه الأثناء.",
+    "de": "Emoji kannst du in der Zwischenzeit trotzdem senden.",
+    "es": "Mientras tanto, aún puedes enviar emojis.",
+    "fr": "En attendant, vous pouvez toujours envoyer des emojis.",
+    "ru": "Пока вы всё равно можете отправлять эмодзи.",
+    "zh-Hans": "在此期间你仍可以发送表情。"
+  },
+  "You can't do that to the server owner.": {
+    "ar": "لا يمكنك فعل ذلك بمالك السيرفر.",
+    "de": "Das kannst du beim Server-Besitzer nicht tun.",
+    "es": "No puedes hacer eso con el propietario del servidor.",
+    "fr": "Vous ne pouvez pas faire cela au propriétaire du serveur.",
+    "ru": "Нельзя сделать это с владельцем сервера.",
+    "zh-Hans": "你不能对服务器所有者执行此操作。"
+  },
+  "You can't report yourself or your own content.": {
+    "ar": "لا يمكنك الإبلاغ عن نفسك أو عن محتواك.",
+    "de": "Du kannst dich selbst oder deine eigenen Inhalte nicht melden.",
+    "es": "No puedes denunciarte a ti mismo ni tu propio contenido.",
+    "fr": "Vous ne pouvez pas vous signaler ni signaler votre propre contenu.",
+    "ru": "Нельзя пожаловаться на себя или на свой контент.",
+    "zh-Hans": "你不能举报自己或自己的内容。"
+  },
+  "You can't start posts in this forum.": {
+    "ar": "لا يمكنك بدء منشورات في هذا المنتدى.",
+    "de": "In diesem Forum kannst du keine Beiträge starten.",
+    "es": "No puedes crear publicaciones en este foro.",
+    "fr": "Vous ne pouvez pas créer de publications dans ce forum.",
+    "ru": "Вы не можете создавать посты в этом форуме.",
+    "zh-Hans": "你无法在此论坛发布帖子。"
+  },
+  "You can't write in this thread.": {
+    "ar": "لا يمكنك الكتابة في هذا الخيط.",
+    "de": "In diesem Thread kannst du nicht schreiben.",
+    "es": "No puedes escribir en este hilo.",
+    "fr": "Vous ne pouvez pas écrire dans ce fil.",
+    "ru": "Вы не можете писать в этой ветке.",
+    "zh-Hans": "你无法在此子区发言。"
+  },
+  "You don't have permission to join.": {
+    "ar": "ليس لديك إذن بالانضمام.",
+    "de": "Du hast keine Berechtigung beizutreten.",
+    "es": "No tienes permiso para unirte.",
+    "fr": "Vous n'avez pas la permission de rejoindre.",
+    "ru": "У вас нет прав на присоединение.",
+    "zh-Hans": "你没有加入的权限。"
+  },
+  "You don't have permission.": {
+    "ar": "ليس لديك إذن.",
+    "de": "Dazu hast du keine Berechtigung.",
+    "es": "No tienes permiso.",
+    "fr": "Vous n'avez pas la permission.",
+    "ru": "У вас нет прав.",
+    "zh-Hans": "你没有权限。"
+  },
+  "You have this role. Choose again to remove it.": {
+    "ar": "لديك هذا الدور. اختره مرة أخرى لإزالته.",
+    "de": "Du hast diese Rolle. Wähle sie erneut, um sie zu entfernen.",
+    "es": "Tienes este rol. Elígelo de nuevo para quitarlo.",
+    "fr": "Vous avez ce rôle. Choisissez-le à nouveau pour le retirer.",
+    "ru": "У вас есть эта роль. Выберите её ещё раз, чтобы убрать.",
+    "zh-Hans": "你拥有此角色。再次选择可移除。"
+  },
+  "You haven't blocked anyone": {
+    "ar": "لم تحظر أحدًا",
+    "de": "Du hast niemanden blockiert",
+    "es": "No has bloqueado a nadie",
+    "fr": "Vous n'avez bloqué personne",
+    "ru": "Вы никого не заблокировали",
+    "zh-Hans": "你还没有屏蔽任何人"
+  },
+  "You joined voice from another tab or device.": {
+    "ar": "انضممت إلى الصوت من علامة تبويب أو جهاز آخر.",
+    "de": "Du bist von einem anderen Tab oder Gerät aus der Sprache beigetreten.",
+    "es": "Te uniste a la voz desde otra pestaña o dispositivo.",
+    "fr": "Vous avez rejoint le vocal depuis un autre onglet ou appareil.",
+    "ru": "Вы подключились к голосу с другой вкладки или устройства.",
+    "zh-Hans": "你已在其他标签页或设备上加入语音。"
+  },
+  "You were disconnected from voice.": {
+    "ar": "انقطع اتصالك بالصوت.",
+    "de": "Die Sprachverbindung wurde getrennt.",
+    "es": "Te desconectaste de la voz.",
+    "fr": "Vous avez été déconnecté du vocal.",
+    "ru": "Вы отключены от голоса.",
+    "zh-Hans": "你已断开语音连接。"
+  },
+  "You've sent a lot of reports today. Try again tomorrow, or choose an urgent reason if someone is in danger.": {
+    "ar": "أرسلت بلاغات كثيرة اليوم. حاول غدًا، أو اختر سببًا عاجلًا إن كان شخص ما في خطر.",
+    "de": "Du hast heute viele Meldungen gesendet. Versuch es morgen wieder oder wähle einen dringenden Grund, wenn jemand in Gefahr ist.",
+    "es": "Has enviado muchas denuncias hoy. Inténtalo mañana o elige un motivo urgente si alguien está en peligro.",
+    "fr": "Vous avez envoyé beaucoup de signalements aujourd'hui. Réessayez demain, ou choisissez un motif urgent si quelqu'un est en danger.",
+    "ru": "Вы отправили много жалоб за сегодня. Попробуйте завтра или выберите срочную причину, если кто-то в опасности.",
+    "zh-Hans": "你今天提交的举报过多。请明天再试；如果有人处于危险中，请选择紧急原因。"
+  },
+  "Your account is limited": {
+    "ar": "حسابك مقيَّد",
+    "de": "Dein Konto ist eingeschränkt",
+    "es": "Tu cuenta está limitada",
+    "fr": "Votre compte est limité",
+    "ru": "Ваш аккаунт ограничен",
+    "zh-Hans": "你的账号受到限制"
+  },
+  "Your friends list is empty": {
+    "ar": "قائمة أصدقائك فارغة",
+    "de": "Deine Freundesliste ist leer",
+    "es": "Tu lista de amigos está vacía",
+    "fr": "Votre liste d'amis est vide",
+    "ru": "Ваш список друзей пуст",
+    "zh-Hans": "你的好友列表是空的"
+  },
+  "Your interests": {
+    "ar": "اهتماماتك",
+    "de": "Deine Interessen",
+    "es": "Tus intereses",
+    "fr": "Vos centres d'intérêt",
+    "ru": "Ваши интересы",
+    "zh-Hans": "你的兴趣"
+  },
+  "Your work or brand used without permission": {
+    "ar": "عملك أو علامتك التجارية مستخدمة دون إذن",
+    "de": "Deine Arbeit oder Marke wurde ohne Erlaubnis verwendet",
+    "es": "Tu trabajo o marca se usó sin permiso",
+    "fr": "Votre travail ou votre marque utilisés sans autorisation",
+    "ru": "Вашу работу или бренд используют без разрешения",
+    "zh-Hans": "你的作品或品牌被未经许可使用"
+  },
+  "Zrzur now asks everyone for this, to keep younger people safe. We keep only the month and year. Until you add it, content marked as mature stays closed.": {
+    "ar": "يطلب زرزور هذا من الجميع الآن لحماية الأصغر سنًا. نحتفظ بالشهر والسنة فقط. حتى تضيفه، يبقى المحتوى المصنَّف للبالغين مغلقًا.",
+    "de": "Zrzur fragt das jetzt bei allen ab, um Jüngere zu schützen. Wir speichern nur Monat und Jahr. Bis du es angibst, bleiben Inhalte für Erwachsene gesperrt.",
+    "es": "Ahora Zrzur pide esto a todos para proteger a los más jóvenes. Solo guardamos el mes y el año. Hasta que lo añadas, el contenido para adultos seguirá cerrado.",
+    "fr": "Zrzur le demande désormais à tout le monde, pour protéger les plus jeunes. Nous ne gardons que le mois et l'année. Tant que vous ne l'avez pas ajouté, les contenus pour adultes restent fermés.",
+    "ru": "Теперь Zrzur спрашивает это у всех, чтобы защитить молодых людей. Мы храним только месяц и год. Пока вы их не укажете, контент для взрослых остаётся закрытым.",
+    "zh-Hans": "为了保护未成年人，Zrzur 现在会向所有人询问此信息。我们只保存月份和年份。在你填写之前，成人内容将保持关闭。"
+  },
+  "{0} files exceed the maximum size limit of {maxSizeFormatted} and were not uploaded.": {
+    "ar": "{0} ملفات تتجاوز الحد الأقصى للحجم {maxSizeFormatted} ولم يتم رفعها.",
+    "de": "{0} Dateien überschreiten das Größenlimit von {maxSizeFormatted} und wurden nicht hochgeladen.",
+    "es": "{0} archivos superan el tamaño máximo de {maxSizeFormatted} y no se subieron.",
+    "fr": "{0} fichiers dépassent la taille maximale de {maxSizeFormatted} et n'ont pas été envoyés.",
+    "ru": "Размер {0} файлов превышает лимит {maxSizeFormatted}, они не были загружены.",
+    "zh-Hans": "{0} 个文件超过 {maxSizeFormatted} 的大小上限，未上传。"
+  },
+  "Add a new friend": {
+    "ar": "إضافة صديق جديد",
+    "de": "Neuen Freund hinzufügen",
+    "es": "Añadir un amigo nuevo",
+    "fr": "Ajouter un nouvel ami",
+    "ru": "Добавить нового друга",
+    "zh-Hans": "添加新好友"
+  },
+  "Add friends to group": {
+    "ar": "إضافة أصدقاء إلى المجموعة",
+    "de": "Freunde zur Gruppe hinzufügen",
+    "es": "Añadir amigos al grupo",
+    "fr": "Ajouter des amis au groupe",
+    "ru": "Добавить друзей в группу",
+    "zh-Hans": "添加好友到群组"
+  },
+  "Add to folder": {
+    "ar": "إضافة إلى مجلد",
+    "de": "Zu Ordner hinzufügen",
+    "es": "Añadir a carpeta",
+    "fr": "Ajouter au dossier",
+    "ru": "Добавить в папку",
+    "zh-Hans": "添加到文件夹"
+  },
+  "Ban user": {
+    "ar": "حظر المستخدم",
+    "de": "Nutzer bannen",
+    "es": "Banear usuario",
+    "fr": "Bannir l'utilisateur",
+    "ru": "Заблокировать пользователя",
+    "zh-Hans": "封禁用户"
+  },
+  "Connected": {
+    "ar": "متصل",
+    "de": "Verbunden",
+    "es": "Conectado",
+    "fr": "Connecté",
+    "ru": "Подключено",
+    "zh-Hans": "已连接"
+  },
+  "Connecting": {
+    "ar": "جارٍ الاتصال",
+    "de": "Verbinde",
+    "es": "Conectando",
+    "fr": "Connexion",
+    "ru": "Подключение",
+    "zh-Hans": "正在连接"
+  },
+  "Copy category ID": {
+    "ar": "نسخ معرّف الفئة",
+    "de": "Kategorie-ID kopieren",
+    "es": "Copiar ID de la categoría",
+    "fr": "Copier l'ID de la catégorie",
+    "ru": "Копировать ID категории",
+    "zh-Hans": "复制分类 ID"
+  },
+  "Delete {0}?": {
+    "ar": "حذف {0}؟",
+    "de": "{0} löschen?",
+    "es": "¿Eliminar {0}?",
+    "fr": "Supprimer {0} ?",
+    "ru": "Удалить {0}?",
+    "zh-Hans": "删除 {0}？"
+  },
+  "Delete folder": {
+    "ar": "حذف المجلد",
+    "de": "Ordner löschen",
+    "es": "Eliminar carpeta",
+    "fr": "Supprimer le dossier",
+    "ru": "Удалить папку",
+    "zh-Hans": "删除文件夹"
+  },
+  "Disconnected": {
+    "ar": "غير متصل",
+    "de": "Getrennt",
+    "es": "Desconectado",
+    "fr": "Déconnecté",
+    "ru": "Отключено",
+    "zh-Hans": "已断开"
+  },
+  "Don't ask me again for ": {
+    "ar": "لا تسألني مرة أخرى لمدة ",
+    "de": "Nicht erneut fragen für ",
+    "es": "No volver a preguntar durante ",
+    "fr": "Ne plus demander pendant ",
+    "ru": "Больше не спрашивать в течение ",
+    "zh-Hans": "不再询问，持续 "
+  },
+  "Drugs or illegal goods": {
+    "ar": "مخدرات أو سلع غير قانونية",
+    "de": "Drogen oder illegale Waren",
+    "es": "Drogas o bienes ilegales",
+    "fr": "Drogues ou biens illégaux",
+    "ru": "Наркотики или незаконные товары",
+    "zh-Hans": "毒品或非法物品"
+  },
+  "Edit folder": {
+    "ar": "تعديل المجلد",
+    "de": "Ordner bearbeiten",
+    "es": "Editar carpeta",
+    "fr": "Modifier le dossier",
+    "ru": "Изменить папку",
+    "zh-Hans": "编辑文件夹"
+  },
+  "Extortion or blackmail": {
+    "ar": "ابتزاز",
+    "de": "Erpressung",
+    "es": "Extorsión o chantaje",
+    "fr": "Extorsion ou chantage",
+    "ru": "Вымогательство или шантаж",
+    "zh-Hans": "勒索或敲诈"
+  },
+  "Failed to enable notifications. Zrzur does not have notification permission.": {
+    "ar": "تعذّر تفعيل الإشعارات. ليس لدى زرزور إذن الإشعارات.",
+    "de": "Benachrichtigungen konnten nicht aktiviert werden. Zrzur hat keine Berechtigung dafür.",
+    "es": "No se pudieron activar las notificaciones. Zrzur no tiene permiso de notificaciones.",
+    "fr": "Impossible d'activer les notifications. Zrzur n'a pas l'autorisation d'envoyer des notifications.",
+    "ru": "Не удалось включить уведомления. У Zrzur нет разрешения на уведомления.",
+    "zh-Hans": "无法启用通知。Zrzur 没有通知权限。"
+  },
+  "Failed to enable push notifications. Please try again later.": {
+    "ar": "تعذّر تفعيل الإشعارات الفورية. حاول لاحقًا.",
+    "de": "Push-Benachrichtigungen konnten nicht aktiviert werden. Versuch es später nochmal.",
+    "es": "No se pudieron activar las notificaciones push. Inténtalo más tarde.",
+    "fr": "Impossible d'activer les notifications push. Réessayez plus tard.",
+    "ru": "Не удалось включить push-уведомления. Попробуйте позже.",
+    "zh-Hans": "无法启用推送通知，请稍后再试。"
+  },
+  "Folder": {
+    "ar": "مجلد",
+    "de": "Ordner",
+    "es": "Carpeta",
+    "fr": "Dossier",
+    "ru": "Папка",
+    "zh-Hans": "文件夹"
+  },
+  "Folder colour": {
+    "ar": "لون المجلد",
+    "de": "Ordnerfarbe",
+    "es": "Color de la carpeta",
+    "fr": "Couleur du dossier",
+    "ru": "Цвет папки",
+    "zh-Hans": "文件夹颜色"
+  },
+  "For 1 hour": {
+    "ar": "لمدة ساعة",
+    "de": "Für 1 Stunde",
+    "es": "Durante 1 hora",
+    "fr": "Pendant 1 heure",
+    "ru": "На 1 час",
+    "zh-Hans": "1 小时"
+  },
+  "For 15 minutes": {
+    "ar": "لمدة 15 دقيقة",
+    "de": "Für 15 Minuten",
+    "es": "Durante 15 minutos",
+    "fr": "Pendant 15 minutes",
+    "ru": "На 15 минут",
+    "zh-Hans": "15 分钟"
+  },
+  "For 24 hours": {
+    "ar": "لمدة 24 ساعة",
+    "de": "Für 24 Stunden",
+    "es": "Durante 24 horas",
+    "fr": "Pendant 24 heures",
+    "ru": "На 24 часа",
+    "zh-Hans": "24 小时"
+  },
+  "For 3 hours": {
+    "ar": "لمدة 3 ساعات",
+    "de": "Für 3 Stunden",
+    "es": "Durante 3 horas",
+    "fr": "Pendant 3 heures",
+    "ru": "На 3 часа",
+    "zh-Hans": "3 小时"
+  },
+  "For 8 hours": {
+    "ar": "لمدة 8 ساعات",
+    "de": "Für 8 Stunden",
+    "es": "Durante 8 horas",
+    "fr": "Pendant 8 heures",
+    "ru": "На 8 часов",
+    "zh-Hans": "8 小时"
+  },
+  "I understand the consequences": {
+    "ar": "أفهم العواقب",
+    "de": "Ich verstehe die Folgen",
+    "es": "Entiendo las consecuencias",
+    "fr": "Je comprends les conséquences",
+    "ru": "Я понимаю последствия",
+    "zh-Hans": "我了解后果"
+  },
+  "Join": {
+    "ar": "انضمام",
+    "de": "Beitreten",
+    "es": "Unirse",
+    "fr": "Rejoindre",
+    "ru": "Присоединиться",
+    "zh-Hans": "加入"
+  },
+  "Leave {0}?": {
+    "ar": "مغادرة {0}؟",
+    "de": "{0} verlassen?",
+    "es": "¿Salir de {0}?",
+    "fr": "Quitter {0} ?",
+    "ru": "Покинуть {0}?",
+    "zh-Hans": "离开 {0}？"
+  },
+  "Mentions": {
+    "ar": "الإشارات",
+    "de": "Erwähnungen",
+    "es": "Menciones",
+    "fr": "Mentions",
+    "ru": "Упоминания",
+    "zh-Hans": "提及"
+  },
+  "Missing permission": {
+    "ar": "إذن مفقود",
+    "de": "Berechtigung fehlt",
+    "es": "Falta un permiso",
+    "fr": "Permission manquante",
+    "ru": "Нет разрешения",
+    "zh-Hans": "缺少权限"
+  },
+  "New folder": {
+    "ar": "مجلد جديد",
+    "de": "Neuer Ordner",
+    "es": "Carpeta nueva",
+    "fr": "Nouveau dossier",
+    "ru": "Новая папка",
+    "zh-Hans": "新建文件夹"
+  },
+  "New messages since {0}": {
+    "ar": "رسائل جديدة منذ {0}",
+    "de": "Neue Nachrichten seit {0}",
+    "es": "Mensajes nuevos desde {0}",
+    "fr": "Nouveaux messages depuis {0}",
+    "ru": "Новые сообщения с {0}",
+    "zh-Hans": "自 {0} 起的新消息"
+  },
+  "No GIFs found": {
+    "ar": "لم يتم العثور على صور GIF",
+    "de": "Keine GIFs gefunden",
+    "es": "No se encontraron GIF",
+    "fr": "Aucun GIF trouvé",
+    "ru": "GIF не найдены",
+    "zh-Hans": "未找到 GIF"
+  },
+  "Open": {
+    "ar": "فتح",
+    "de": "Öffnen",
+    "es": "Abrir",
+    "fr": "Ouvrir",
+    "ru": "Открыть",
+    "zh-Hans": "打开"
+  },
+  "Open channel settings": {
+    "ar": "فتح إعدادات القناة",
+    "de": "Kanaleinstellungen öffnen",
+    "es": "Abrir ajustes del canal",
+    "fr": "Ouvrir les réglages du salon",
+    "ru": "Открыть настройки канала",
+    "zh-Hans": "打开频道设置"
+  },
+  "Open file": {
+    "ar": "فتح الملف",
+    "de": "Datei öffnen",
+    "es": "Abrir archivo",
+    "fr": "Ouvrir le fichier",
+    "ru": "Открыть файл",
+    "zh-Hans": "打开文件"
+  },
+  "Open server settings": {
+    "ar": "فتح إعدادات السيرفر",
+    "de": "Servereinstellungen öffnen",
+    "es": "Abrir ajustes del servidor",
+    "fr": "Ouvrir les réglages du serveur",
+    "ru": "Открыть настройки сервера",
+    "zh-Hans": "打开服务器设置"
+  },
+  "Privacy policy": {
+    "ar": "سياسة الخصوصية",
+    "de": "Datenschutzerklärung",
+    "es": "Política de privacidad",
+    "fr": "Politique de confidentialité",
+    "ru": "Политика конфиденциальности",
+    "zh-Hans": "隐私政策"
+  },
+  "Remove from folder": {
+    "ar": "إزالة من المجلد",
+    "de": "Aus Ordner entfernen",
+    "es": "Quitar de la carpeta",
+    "fr": "Retirer du dossier",
+    "ru": "Убрать из папки",
+    "zh-Hans": "从文件夹移除"
+  },
+  "Return to voice channel": {
+    "ar": "العودة إلى القناة الصوتية",
+    "de": "Zurück zum Sprachkanal",
+    "es": "Volver al canal de voz",
+    "fr": "Retourner au salon vocal",
+    "ru": "Вернуться в голосовой канал",
+    "zh-Hans": "返回语音频道"
+  },
+  "Search": {
+    "ar": "بحث",
+    "de": "Suchen",
+    "es": "Buscar",
+    "fr": "Rechercher",
+    "ru": "Поиск",
+    "zh-Hans": "搜索"
+  },
+  "Search for users...": {
+    "ar": "ابحث عن مستخدمين...",
+    "de": "Nach Nutzern suchen ...",
+    "es": "Buscar usuarios...",
+    "fr": "Rechercher des utilisateurs...",
+    "ru": "Поиск пользователей...",
+    "zh-Hans": "搜索用户..."
+  },
+  "Sent {0} attachments": {
+    "ar": "أرسل {0} مرفقات",
+    "de": "{0} Anhänge gesendet",
+    "es": "Envió {0} archivos adjuntos",
+    "fr": "A envoyé {0} pièces jointes",
+    "ru": "Отправлено вложений: {0}",
+    "zh-Hans": "发送了 {0} 个附件"
+  },
+  "Set folder colour to {value}": {
+    "ar": "تعيين لون المجلد إلى {value}",
+    "de": "Ordnerfarbe auf {value} setzen",
+    "es": "Poner el color de la carpeta en {value}",
+    "fr": "Définir la couleur du dossier sur {value}",
+    "ru": "Установить цвет папки: {value}",
+    "zh-Hans": "将文件夹颜色设为 {value}"
+  },
+  "Share screen": {
+    "ar": "مشاركة الشاشة",
+    "de": "Bildschirm teilen",
+    "es": "Compartir pantalla",
+    "fr": "Partager l'écran",
+    "ru": "Показать экран",
+    "zh-Hans": "共享屏幕"
+  },
+  "Start camera": {
+    "ar": "تشغيل الكاميرا",
+    "de": "Kamera starten",
+    "es": "Activar cámara",
+    "fr": "Démarrer la caméra",
+    "ru": "Включить камеру",
+    "zh-Hans": "开启摄像头"
+  },
+  "Stop camera": {
+    "ar": "إيقاف الكاميرا",
+    "de": "Kamera stoppen",
+    "es": "Desactivar cámara",
+    "fr": "Arrêter la caméra",
+    "ru": "Выключить камеру",
+    "zh-Hans": "关闭摄像头"
+  },
+  "Stop sharing": {
+    "ar": "إيقاف المشاركة",
+    "de": "Teilen beenden",
+    "es": "Dejar de compartir",
+    "fr": "Arrêter le partage",
+    "ru": "Остановить показ",
+    "zh-Hans": "停止共享"
+  },
+  "The file \"{0}\" ({fileSize}) exceeds the maximum size limit of {maxSizeFormatted}.": {
+    "ar": "الملف \"{0}\" ({fileSize}) يتجاوز الحد الأقصى للحجم {maxSizeFormatted}.",
+    "de": "Die Datei \"{0}\" ({fileSize}) überschreitet das Größenlimit von {maxSizeFormatted}.",
+    "es": "El archivo \"{0}\" ({fileSize}) supera el tamaño máximo de {maxSizeFormatted}.",
+    "fr": "Le fichier \"{0}\" ({fileSize}) dépasse la taille maximale de {maxSizeFormatted}.",
+    "ru": "Файл \"{0}\" ({fileSize}) превышает лимит размера {maxSizeFormatted}.",
+    "zh-Hans": "文件 \"{0}\"（{fileSize}）超过 {maxSizeFormatted} 的大小上限。"
+  },
+  "This user is not part of the server and may already be banned": {
+    "ar": "هذا المستخدم ليس في السيرفر وقد يكون محظورًا بالفعل",
+    "de": "Diese Person ist nicht auf dem Server und wurde möglicherweise schon gebannt",
+    "es": "Este usuario no está en el servidor y puede que ya esté baneado",
+    "fr": "Cet utilisateur ne fait pas partie du serveur et est peut-être déjà banni",
+    "ru": "Этого пользователя нет на сервере, возможно, он уже заблокирован",
+    "zh-Hans": "该用户不在服务器中，可能已被封禁"
+  },
+  "Trending GIFs": {
+    "ar": "صور GIF الرائجة",
+    "de": "Trend-GIFs",
+    "es": "GIF del momento",
+    "fr": "GIF tendance",
+    "ru": "Популярные GIF",
+    "zh-Hans": "热门 GIF"
+  },
+  "Unnamed folder": {
+    "ar": "مجلد بلا اسم",
+    "de": "Unbenannter Ordner",
+    "es": "Carpeta sin nombre",
+    "fr": "Dossier sans nom",
+    "ru": "Папка без названия",
+    "zh-Hans": "未命名文件夹"
+  },
+  "Until I turn it back on": {
+    "ar": "حتى أعيد تفعيله",
+    "de": "Bis ich es wieder einschalte",
+    "es": "Hasta que lo vuelva a activar",
+    "fr": "Jusqu'à ce que je le réactive",
+    "ru": "Пока я снова не включу",
+    "zh-Hans": "直到我重新开启"
+  },
+  "You clicked on \"{0}\"": {
+    "ar": "لقد نقرت على \"{0}\"",
+    "de": "Du hast auf \"{0}\" geklickt",
+    "es": "Hiciste clic en \"{0}\"",
+    "fr": "Vous avez cliqué sur \"{0}\"",
+    "ru": "Вы нажали на \"{0}\"",
+    "zh-Hans": "你点击了 \"{0}\""
+  }
+}
