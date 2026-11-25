@@ -16,8 +16,8 @@
     },
     {
       "path": ".github/workflows/build-android.yml",
-      "sha256": "77f5a066044c1ebf5a99028c346036662640a46925264a6a54241d7f74a5d9a2",
-      "bytes": 4188,
+      "sha256": "1cf79eb9bd5a0d0ef9098a8b1ea1f72d0b462c12b1216d5934926a6ac9394a5d",
+      "bytes": 4440,
       "category": "reviewed-build-and-ci"
     },
     {
