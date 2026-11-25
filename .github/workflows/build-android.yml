@@ -24,7 +24,7 @@ jobs:
   apk:
     name: Release APK
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -39,7 +39,8 @@ jobs:
           java-version: "17"
       - uses: gradle/actions/setup-gradle@8da46b539cd8fe6ab27ca75128919a18d757604c # v6.4.1
         with:
-          cache-read-only: ${{ github.ref_type != 'tag' }}
+          # beta and tag runs save the Gradle cache so later builds are faster
+          cache-read-only: ${{ github.ref != 'refs/heads/beta' && github.ref_type != 'tag' }}
       - run: npm ci
       # android/ is generated from app.json and its config plugins, never kept in Git
       - name: Generate the native project
@@ -49,7 +50,8 @@ jobs:
         working-directory: android
         env:
           NODE_ENV: production
-        run: ./gradlew assembleRelease --no-daemon
+        # arm64 only: every current Android phone; builds about four times faster than all four ABIs
+        run: ./gradlew assembleRelease --no-daemon -PreactNativeArchitectures=arm64-v8a
       - name: Sign with the release key, if the repository has one
         id: sign
         env:
