@@ -16,8 +16,8 @@
     },
     {
       "path": ".github/workflows/build-android.yml",
-      "sha256": "77f5a066044c1ebf5a99028c346036662640a46925264a6a54241d7f74a5d9a2",
-      "bytes": 4188,
+      "sha256": "1cf79eb9bd5a0d0ef9098a8b1ea1f72d0b462c12b1216d5934926a6ac9394a5d",
+      "bytes": 4440,
       "category": "reviewed-build-and-ci"
     },
     {
@@ -100,8 +100,8 @@
     },
     {
       "path": "app.json",
-      "sha256": "1a964187a57b766ebe986e9a648e45585e7aaf1f5e7230af2a965052d80aa7a5",
-      "bytes": 5180,
+      "sha256": "ece860942cfcf63689ffd8e6d9c9985c36515462294f1a500a89fbe32ed08f2d",
+      "bytes": 5181,
       "category": "product-source-or-build-manifest"
     },
     {
@@ -190,14 +190,14 @@
     },
     {
       "path": "package-lock.json",
-      "sha256": "91424f05c04c99517b6baa1d78676c395f7e771d334071ebb1bba53b2614e28a",
-      "bytes": 853571,
+      "sha256": "a61ff3091ec64a3138beb1ac7e03a458abbca5915ab99be860ab3d6e93ffa274",
+      "bytes": 853573,
       "category": "product-source-or-build-manifest"
     },
     {
       "path": "package.json",
-      "sha256": "8aea843000f429a6487ca3fc08a77a9469abcb37376ac2156288e54ede191c9a",
-      "bytes": 3574,
+      "sha256": "99ccc3a9f5c4b0dd0209d619e48f6427fdc87b1aafa22fa1c40135fed6d624e4",
+      "bytes": 3575,
       "category": "product-source-or-build-manifest"
     },
     {
